@@ -2,7 +2,7 @@ import type { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://www.bonittoaesthetic.com';
+  const baseUrl = 'https://bonitto-rose.vercel.app';
 
   const staticPaths = [
     '',

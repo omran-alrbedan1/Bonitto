@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { locales, type Locale } from './i18n';
 
-export const SITE_URL = 'https://www.bonittoaesthetic.com';
+export const SITE_URL = 'https://bonitto-rose.vercel.app';
 
 const DEFAULT_OG_IMAGE = '/og-image.jpg';
 const DEFAULT_OG_WIDTH = 1200;
