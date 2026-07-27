@@ -67,6 +67,7 @@ export function buildMetadata({
       ? { index: false, follow: false }
       : { index: true, follow: true },
     icons: SITE_ICONS,
+    manifest: '/site.webmanifest',
     openGraph: {
       title,
       description,
@@ -104,6 +105,7 @@ export async function getRootLayoutMetadata({ locale }: { locale: Locale }): Pro
     },
     robots: { index: true, follow: true },
     icons: SITE_ICONS,
+    manifest: '/site.webmanifest',
     openGraph: {
       type: 'website',
       siteName: SITE_NAME,

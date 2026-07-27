@@ -6,7 +6,7 @@
   },
   "hero": {
     "tag": "KÜRESEL VARLIK",
-    "title": "Dünya genelinde varlık",
+    "title": "dünya çapında\nvarlık",
     "description": "Dağıtım ağımız kıtalar genelinde uzanarak, premium estetik çözümleri dünya genelindeki kliniklere ve profesyonellere ulaştırıyor."
   },
   "benefits": {
@@ -23,5 +23,8 @@
   "form": {
     "title": "Distribütör Olun",
     "description": "Bonitto ürünlerini dağıtma ilginizi belirtmek için aşağıdaki formu doldurun."
+  },
+  "map": {
+    "alt": "Bonitto distribütörlerinin dünya çapındaki varlığını gösteren dünya haritası."
   }
 }

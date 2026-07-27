@@ -6,7 +6,7 @@
   },
   "hero": {
     "tag": "PRÉSENCE MONDIALE",
-    "title": "Une présence mondiale",
+    "title": "présence\ndans le monde",
     "description": "Notre réseau de distribution s'étend à travers les continents, apportant des solutions esthétiques premium aux cliniques et aux professionnels du monde entier."
   },
   "benefits": {
@@ -23,5 +23,8 @@
   "form": {
     "title": "Devenir distributeur",
     "description": "Remplissez le formulaire ci-dessous pour exprimer votre intérêt à distribuer les produits Bonitto."
+  },
+  "map": {
+    "alt": "Carte du monde montrant la présence des distributeurs Bonitto dans le monde."
   }
 }
