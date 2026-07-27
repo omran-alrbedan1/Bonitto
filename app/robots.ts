@@ -1,23 +1,14 @@
-import type { MetadataRoute } from "next";
-import { SITE_URL } from "@/lib/seo";
-
-const isProduction = process.env.NODE_ENV === "production";
+import type { MetadataRoute } from 'next';
 
 export default function robots(): MetadataRoute.Robots {
-  if (!isProduction) {
-    return {
-      rules: [{ userAgent: "*", disallow: "/" }],
-    };
-  }
-
   return {
     rules: [
       {
-        userAgent: "*",
-        allow: "/",
-        disallow: ["/api/", "/_next/"],
+        userAgent: '*',
+        allow: '/',
+        disallow: ['/reserved-area/dashboard', '/api/'],
       },
     ],
-    sitemap: `${SITE_URL}/sitemap.xml`,
+    sitemap: 'https://bonittoaesthetic.com/sitemap.xml',
   };
 }

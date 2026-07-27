@@ -1,0 +1,164 @@
+export type EventItem = {
+  slug: string;
+  title: string;
+  date: string;
+  image: string;
+  alt: string;
+  intro: string;
+  body: string[];
+  videos?: string[];
+  gallery?: Array<{
+    desktop: string;
+    mobile: string;
+    alt: string;
+  }>;
+};
+
+export const events: EventItem[] = [
+  {
+    slug: 'imcas-paris-2026',
+    title: 'IMCAS Paris 2026',
+    date: '03/02/2026',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/IMCAS_3.webp',
+    alt: 'A promotional graphic for IMCAS Paris featuring the Eiffel Tower, green foliage, and event details for Bonitto at IMCAS Paris 2026.',
+    intro: 'Paris, Palais des Congres de Paris - As IMCAS Paris 2026 approaches, BONITTO is eager to lead you into its renewed world of life-science.',
+    body: [
+      'Top ingredients, innovative techniques and a true commitment to enhancing modern lifestyle have become the path to BONITTO success.',
+      'Discover its wide range of anti-aging formulas, with a focus on rejuvenation, hydration and brightness of the complexion.',
+      'Join BONITTO at IMCAS Paris at Booth A 104 from 29 January to 31 January 2026.',
+      'Visitors will be able to dive deep into BONITTO know-how and experience the product world firsthand.',
+    ],
+    videos: [
+      'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Video-IMCAS-2026.webm',
+      'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Video-inverviste-IMCAS-2026-part-1.webm',
+      'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Video-inverviste-IMCAS-2026-part-2.webm',
+      'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Video-inverviste-IMCAS-2026-part-3.1.webm',
+      'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Video-inverviste-IMCAS-2026-part-3.2.webm',
+      'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Video-inverviste-IMCAS-2026-part-4.1.webm',
+      'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Video-inverviste-IMCAS-2026-part-4.2.webm',
+      'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Video-inverviste-IMCAS-2026-part-5.webm',
+      'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Video-inverviste-IMCAS-2026-part-6.webm',
+    ],
+    gallery: [
+      {
+        desktop: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Bonitto_IMCAS_carosello_1-scaled.jpg',
+        mobile: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Bonitto_IMCAS_carosello_1-819x1024.jpg',
+        alt: 'An aerial view of Paris with the Eiffel Tower and the Seine River, overlaid with IMCAS Paris 2026 text.',
+      },
+      {
+        desktop: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Bonitto_IMCAS_carosello_3-scaled.jpg',
+        mobile: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Bonitto_IMCAS_carosello_3-819x1024.jpg',
+        alt: 'People stand at a bright green Bonitto booth with product displays.',
+      },
+      {
+        desktop: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Bonitto_IMCAS_carosello_5-scaled.jpg',
+        mobile: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Bonitto_IMCAS_carosello_5-819x1024.jpg',
+        alt: 'Close-up of Bonitto skincare products displayed on a teal tray.',
+      },
+      {
+        desktop: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Bonitto_IMCAS_carosello_8-scaled.jpg',
+        mobile: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/Bonitto_IMCAS_carosello_8-819x1024.jpg',
+        alt: 'People gather at a turquoise Bonitto exhibition booth.',
+      },
+      {
+        desktop: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/IMCAS-2_Bonitto_9.jpg',
+        mobile: 'https://www.bonittoaesthetic.com/wp-content/uploads/2026/02/IMCAS-2_Bonitto_9-819x1024.jpg',
+        alt: 'Bonitto skincare product boxes displayed upright.',
+      },
+    ],
+  },
+  {
+    slug: 'bonitto-at-amwc-asia-pacific-2025',
+    title: 'BONITTO® AT AMWC ASIA PACIFIC 2025',
+    date: '04/12/2025',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2025/12/amwc-bangkok-2025.webp',
+    alt: 'Promotional graphic for AMWC Asia Pacific 2025 in Bangkok.',
+    intro: 'BONITTO joins AMWC Asia Pacific 2025 in Bangkok.',
+    body: ['Meet the BONITTO team and discover the formulas, product lines, and aesthetic philosophy behind the brand.'],
+  },
+  {
+    slug: 'bonitto-at-amwc-latin-america-2025',
+    title: 'BONITTO® AT AMWC LATIN AMERICA 2025',
+    date: '08/10/2025',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2025/10/Post-AMWC-colombia-05-scaled.webp',
+    alt: 'Promotional graphic for AMWC Latin America 2025 in Medellin.',
+    intro: 'BONITTO presents its world of life-science at AMWC Latin America 2025.',
+    body: ['Join the event to connect with the brand, explore professional aesthetic solutions, and meet industry specialists.'],
+  },
+  {
+    slug: 'beauty-and-beyond-summit-2025',
+    title: 'Beauty and Beyond Summit 2025',
+    date: '13/08/2025',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2025/08/beauty-and-beyond-1.webp',
+    alt: 'Promotional graphic for Beauty and Beyond Summit 2025 in Dubai.',
+    intro: 'BONITTO takes part in Beauty and Beyond Summit 2025 in Dubai.',
+    body: ['A dedicated opportunity to explore Bonitto product innovation, professional cosmetic lines, and treatment-focused aesthetic solutions.'],
+  },
+  {
+    slug: 'meidam-2025-dubai-world-trade-center',
+    title: 'Meidam Congress 2025',
+    date: '13/08/2025',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2025/08/Meidam-1.webp',
+    alt: 'Promotional graphic for MEIDAM Congress 2025 in Dubai.',
+    intro: 'BONITTO attends MEIDAM Congress 2025 at Dubai World Trade Center.',
+    body: ['Meet the team, discover product highlights, and experience the Bonitto approach to modern aesthetic medicine.'],
+  },
+  {
+    slug: 'amwc-dubai-2025',
+    title: 'AMWC Dubai 2025',
+    date: '01/12/2024',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/Banner-orizzontali-22-min.webp',
+    alt: 'Promotional graphic for AMWC Dubai 2025.',
+    intro: 'BONITTO at AMWC Dubai 2025.',
+    body: ['Discover the Bonitto product universe and connect directly with the people behind the brand.'],
+  },
+  {
+    slug: 'meidam-congress-2024',
+    title: 'Meidam Congress 2024',
+    date: '30/11/2024',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/Banner-orizzontali-21-min.webp',
+    alt: 'Promotional graphic for Meidam Congress 2024.',
+    intro: 'BONITTO at Meidam Congress 2024.',
+    body: ['An event moment dedicated to innovation, professional exchange, and the Bonitto aesthetic philosophy.'],
+  },
+  {
+    slug: 'dubai-derma-2025',
+    title: 'Dubai Derma 2025',
+    date: '29/11/2024',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/Banner-orizzontali-24-min.webp',
+    alt: 'Promotional graphic for Dubai Derma 2025.',
+    intro: 'BONITTO at Dubai Derma 2025.',
+    body: ['Visit the Bonitto booth to experience advanced aesthetic products and professional treatment concepts.'],
+  },
+  {
+    slug: 'amwc-monaco-2025',
+    title: 'AMWC Monaco 2025',
+    date: '28/11/2024',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/Banner-orizzontali-25-min.webp',
+    alt: 'Promotional graphic for AMWC Monaco 2025.',
+    intro: 'BONITTO at AMWC Monaco 2025.',
+    body: ['A chance to explore the brand at one of the leading international meetings for aesthetic and anti-aging medicine.'],
+  },
+  {
+    slug: 'imcas-paris-2025',
+    title: 'IMCAS Paris 2025',
+    date: '27/11/2024',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/Banner-orizzontali-23-min.webp',
+    alt: 'Promotional graphic for IMCAS Paris 2025.',
+    intro: 'BONITTO at IMCAS Paris 2025.',
+    body: ['Experience the Bonitto product world and meet specialists at the Paris congress.'],
+  },
+  {
+    slug: 'zayed-derma-2025',
+    title: 'Zayed Derma 2025',
+    date: '12/11/2024',
+    image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2025/01/Zayed-Derma.webp',
+    alt: 'Promotional graphic for Zayed Derma 2025.',
+    intro: 'BONITTO at Zayed Derma 2025.',
+    body: ['Connect with Bonitto and discover the professional aesthetic solutions presented at the event.'],
+  },
+];
+
+export function getEventBySlug(slug: string) {
+  return events.find((event) => event.slug === slug);
+}

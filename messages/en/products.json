@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "title": "Products",
+    "description": "Explore our range of premium dermal fillers, professional cosmetics, and skincare products.",
+    "keywords": "dermal fillers, hyaluronic acid fillers, skincare products, professional cosmetics"
+  },
+  "categories": {
+    "ha-fillers": { "name": "Hyaluronic Acid Fillers", "description": "Advanced hyaluronic acid-based dermal fillers for volume restoration, wrinkle correction, and facial contouring." },
+    "mdr-fillers": { "name": "MDR-Approved HA & Amino Acid Fillers", "description": "Regulatory-approved fillers meeting the highest European medical device standards." },
+    "cosmetics-vials": { "name": "Professional Cosmetics — Vials", "description": "Professional-grade cosmetic treatments in convenient vial format." },
+    "cosmetics-syringes": { "name": "Professional Cosmetics — Syringes", "description": "Precision-delivered cosmetic treatments for professional use." },
+    "plla": { "name": "Poly-L-Lactic Acid (PLLA) Line", "description": "Biostimulatory treatments for long-lasting collagen stimulation." },
+    "skincare": { "name": "Skincare", "description": "Premium skincare formulations for post-treatment care and daily routines." }
+  },
+  "detail": {
+    "specifications": "Specifications",
+    "indications": "Indications",
+    "effects": "Effects",
+    "target": "Main Target",
+    "relatedProducts": "Related Products",
+    "contactDistributor": "Contact for Distribution",
+    "downloadDatasheet": "Download Datasheet"
+  }
+}

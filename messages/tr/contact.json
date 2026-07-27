@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "Bize Ulaşın",
+    "description": "Ürün soruları, dağıtım fırsatları veya genel sorular için Bonitto Aesthetic ile iletişime geçin.",
+    "keywords": "bonitto aesthetic iletişimi, dermal filler sorgusu, estetik ürün distribütörü"
+  },
+  "hero": {
+    "tag": "BİZE ULAŞIN",
+    "title": "Bize ulaşın",
+    "description": "Bonitto® iş ortağı olarak bize katılın. Size özel ürün ve satış planlarını görüşebilmemiz için iletişim bilgilerinizi ve ilgi alanlarınızı gönderin. Profesyonel bir satış yöneticisi 24 saat içinde size yanıt verecektir."
+  },
+  "form": {
+    "howDidYouFindUs": "Bizi nasıl buldunuz?",
+    "firstName": "Ad*",
+    "lastName": "Soyad*",
+    "company": "Şirket*",
+    "email": "E-posta*",
+    "phone": "Telefon/WhatsApp*",
+    "country": "Ülke*",
+    "message": "Mesaj*",
+    "privacyConsent": "Gizlilik Politikasını okudum ve kabul ediyorum",
+    "submit": "Gönder",
+    "success": "Teşekkür ederiz. Mesajınız gönderildi. Kısa süre içinde size dönüş yapacağız.",
+    "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin veya bize doğrudan e-posta gönderin.",
+    "sourceOptions": {
+      "ads": "Reklamlar",
+      "socialFacebook": "Sosyal medya - Facebook",
+      "socialInstagram": "Sosyal medya - Instagram",
+      "socialYouTube": "Sosyal medya - YouTube",
+      "exhibitions": "Fuarlar",
+      "clinics": "Klinikler",
+      "google": "Arama motorları - Google",
+      "bing": "Arama motorları - Bing",
+      "other": "Diğer / yukarıdakilerin hiçbiri"
+    }
+  },
+  "offices": {
+    "title": "Ofislerimiz"
+  },
+  "image": {
+    "alt": "Kıvırcık saçlı ve sanatsal makyajlı, yeşil far ve geometrik çizgilere sahip bir kişi gri bir arka plan önünde poz veriyor. İfadesi nötr ve omuzları açık."
+  }
+}

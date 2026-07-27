@@ -1,94 +1,106 @@
-import { useTranslations, useLocale } from 'next-intl';
-import { Globe2, Mail, Phone } from 'lucide-react';
-import { FaFacebook, FaInstagram, FaXTwitter, FaLinkedin } from 'react-icons/fa6';
-import Image from 'next/image';
+'use client';
+
+import { useTranslations } from 'next-intl';
 import Link from 'next/link';
-import BecomePartnerCta from './BecomePartnerCta';
-import { IMAGES } from '@/constants/images';
+
+const BonittoFooterLogo = () => (
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 331.27 72.1" fill="#fff">
+    <g>
+      <path d="M31.39 36.34c0-7.9-5.08-11.61-11.06-11.61H6.11V47.4h15.25c6.05 0 10.03-4.33 10.03-11.06M6.11 2.06v21.29h12.16c6.73 0 11.06-3.92 11.06-10.58S25.35 2.06 19.3 2.06H6.11Zm31.67 34.21c0 7.21-6.39 12.5-14.7 12.5H0V.69h21.02c8.45 0 14.7 5.22 14.7 11.81 0 5.43-4.19 9.55-10.44 11.33 7.35 1.44 12.5 6.11 12.5 12.43M90.95 24.73c0-14.08-7.42-23.35-18.68-23.35s-18.61 9.27-18.61 23.35 7.42 23.35 18.61 23.35 18.68-9.27 18.68-23.35m-43.68 0C47.27 10.65 57.99 0 72.27 0s25.07 10.65 25.07 24.73-10.71 24.73-25.07 24.73-25-10.65-25-24.73M148.7.69v39.83L115.94.69h-5.16v48.08h1.65V5.63l35.58 43.14h2.34V.69h-1.65zM166.64.69h6.11v48.08h-6.11zM183.68.69v1.37h16.28v46.71h6.11V2.06h16.14V.69h-38.53zM231.02.69v1.37h16.28v46.71h6.11V2.06h16.15V.69h-38.54zM317.16 24.73c0-14.08-7.42-23.35-18.68-23.35s-18.61 9.27-18.61 23.35 7.42 23.35 18.61 23.35 18.68-9.27 18.68-23.35m-43.68 0c0-14.08 10.71-24.73 25-24.73s25.07 10.65 25.07 24.73-10.72 24.73-25.07 24.73-25-10.65-25-24.73M170.8 64.63l1.67 3.91h-3.33l1.66-3.91Zm-4.15 7.14h1.08l.99-2.27h4.15l.99 2.27h1.12l-4.18-9.54-4.16 9.54ZM180.72 69.59c.79.94 1.73 1.42 2.8 1.42 1.28 0 2-.72 2-1.46 0-.52-.15-.91-.44-1.19-.28-.28-.82-.63-1.62-1.04-.41-.21-.72-.38-.95-.53-.22-.15-.46-.32-.71-.53-.49-.44-.7-.94-.7-1.61 0-1.34 1.07-2.26 2.76-2.26.75 0 1.38.21 1.86.64v1.16c-.57-.57-1.19-.85-1.88-.85-1.07 0-1.72.52-1.72 1.31 0 .38.13.69.4.92.28.24.74.53 1.39.86.88.44 1.35.73 1.86 1.24.53.49.77 1.1.77 1.88 0 .65-.28 1.2-.82 1.69-.54.48-1.24.72-2.13.72-1.16 0-2.13-.37-2.88-1.1v-1.27ZM187.04 62.55v.95h2.51v8.27h1.03V63.5h2.51v-.95h-6.05zM194.67 67.17c0 1.1.36 2.02 1.07 2.75.72.73 1.62 1.09 2.71 1.09s1.98-.36 2.7-1.09c.71-.72 1.07-1.65 1.07-2.75s-.36-2.01-1.07-2.74c-.72-.73-1.61-1.1-2.7-1.1s-1.98.37-2.71 1.1c-.72.73-1.07 1.64-1.07 2.74m-1.02 0c0-1.36.46-2.5 1.39-3.41.94-.91 2.08-1.38 3.41-1.38s2.47.46 3.4 1.38c.94.91 1.4 2.05 1.4 3.41s-.46 2.51-1.4 3.42c-.93.91-2.06 1.36-3.4 1.36s-2.47-.45-3.41-1.36c-.92-.91-1.39-2.06-1.39-3.42M206.12 67.16h2.01c.53 0 .96-.17 1.27-.51.31-.34.46-.83.46-1.46v-7.03h1.03v7.12c0 .94-.35 1.66-1.05 2.16-.7.5-1.61.75-2.73.75h-.99v-1.03ZM226.17 63.64c0 2.51-1.1 4.56-3.3 6.15-2.19 1.59-4.8 2.38-7.83 2.38-3.03 0-5.64-.79-7.83-2.38-2.19-1.59-3.3-3.64-3.3-6.15v-6.27h1.03v6.09c0 2.08.87 3.76 2.61 5.04 1.74 1.28 3.85 1.92 6.32 1.92s4.59-.64 6.33-1.92c1.74-1.28 2.61-2.96 2.61-5.04v-6.09h1.06v6.27Zm-15.26-9.09v-.95h-2.52v8.27h-1.03v-8.27h-2.51v.95h6.06Z" />
+      <path d="M329.08 3.29c0-.81-.6-1.4-1.42-1.4h-1.56v4.38h.84V4.74h.58l.94 1.53h.99l-1.04-1.73c.43-.26.69-.72.69-1.25Zm-.86.02c0 .38-.25.65-.59.65h-.7V2.7h.7c.34 0 .59.26.59.61Z" />
+    </g>
+  </svg>
+);
+
+const FacebookIcon = () => (
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.561 17.852" className="w-[18px] h-[18px] md:w-[25px] md:h-[25px]">
+    <path fill="#fff" d="m8.935 10.042.5-3.231H6.331v-2.1a1.615 1.615 0 0 1 1.821-1.742h1.409V.218A17.187 17.187 0 0 0 7.06 0C4.507 0 2.838 1.547 2.838 4.349v2.462H0v3.231h2.838v7.81h3.493v-7.81Z" />
+  </svg>
+);
+
+const LinkedinIcon = () => (
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19" fill="none" className="w-[18px] h-[18px] md:w-[25px] md:h-[25px]">
+    <path fill="#fff" d="M5.20471 3.95815C5.20451 4.37807 5.04629 4.78072 4.76484 5.0775C4.4834 5.37429 4.10179 5.5409 3.70396 5.54069C3.30614 5.54048 2.92469 5.37346 2.64352 5.07638C2.36236 4.7793 2.20451 4.37649 2.20471 3.95657C2.20491 3.53664 2.36314 3.134 2.64458 2.83721C2.92603 2.54043 3.30764 2.37381 3.70546 2.37402C4.10329 2.37423 4.48474 2.54125 4.7659 2.83833C5.04707 3.13541 5.20491 3.53822 5.20471 3.95815ZM5.24971 6.71315H2.24971V16.6248H5.24971V6.71315ZM9.98971 6.71315H7.00471V16.6248H9.95971V11.4236C9.95971 8.52607 13.5372 8.2569 13.5372 11.4236V16.6248H16.4997V10.3469C16.4997 5.46232 11.2047 5.6444 9.95971 8.04315L9.98971 6.71315Z" />
+  </svg>
+);
+
+const InstagramIcon = () => (
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.083 18.079" className="w-[18px] h-[18px] md:w-[25px] md:h-[25px]">
+    <path fill="#fff" d="M9.043 4.404a4.635 4.635 0 1 0 4.635 4.635 4.628 4.628 0 0 0-4.635-4.635Zm0 7.649a3.014 3.014 0 1 1 3.014-3.014 3.019 3.019 0 0 1-3.014 3.014Zm5.906-7.838a1.081 1.081 0 1 1-1.081-1.081 1.079 1.079 0 0 1 1.081 1.08Zm3.07 1.1a5.35 5.35 0 0 0-1.46-3.788A5.386 5.386 0 0 0 12.771.062c-1.493-.085-5.967-.085-7.459 0A5.378 5.378 0 0 0 1.524 1.52 5.368 5.368 0 0 0 .063 5.308c-.084 1.492-.084 5.966 0 7.454a5.35 5.35 0 0 0 1.46 3.788 5.392 5.392 0 0 0 3.788 1.46c1.493.085 5.967.085 7.459 0a5.35 5.35 0 0 0 3.788-1.46 5.386 5.386 0 0 0 1.461-3.788c.085-1.493.085-5.963 0-7.455Zm-1.928 9.057a3.051 3.051 0 0 1-1.719 1.719c-1.19.472-4.014.363-5.329.363s-4.143.1-5.329-.363a3.051 3.051 0 0 1-1.719-1.719c-.472-1.19-.363-4.014-.363-5.329s-.1-4.143.363-5.329a3.051 3.051 0 0 1 1.719-1.722c1.19-.472 4.014-.363 5.329-.363s4.143-.1 5.329.363a3.051 3.051 0 0 1 1.719 1.719c.472 1.19.363 4.014.363 5.329s.109 4.142-.363 5.329Z" />
+  </svg>
+);
+
+const YoutubeIcon = () => (
+  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-[18px] h-[18px] md:w-[25px] md:h-[25px]">
+    <path fill="#fff" d="M10 15L15.19 12L10 9V15ZM21.56 7.17C21.69 7.64 21.78 8.27 21.84 9.07C21.91 9.87 21.94 10.56 21.94 11.16L22 12C22 14.19 21.84 15.8 21.56 16.83C21.31 17.73 20.73 18.31 19.83 18.56C19.36 18.69 18.5 18.78 17.18 18.84C15.88 18.91 14.69 18.94 13.59 18.94L12 19C7.81 19 5.2 18.84 4.17 18.56C3.27 18.31 2.69 17.73 2.44 16.83C2.31 16.36 2.22 15.73 2.16 14.93C2.09 14.13 2.06 13.44 2.06 12.84L2 12C2 9.81 2.16 8.2 2.44 7.17C2.69 6.27 3.27 5.69 4.17 5.44C4.64 5.31 5.5 5.22 6.82 5.16C8.12 5.09 9.31 5.06 10.41 5.06L12 5C16.19 5 18.8 5.16 19.83 5.44C20.73 5.69 21.31 6.27 21.56 7.17Z" />
+  </svg>
+);
 
 const socialLinks = [
-  { href: 'https://facebook.com/netesim', icon: FaFacebook, label: 'Facebook' },
-  { href: 'https://instagram.com/netesim', icon: FaInstagram, label: 'Instagram' },
-  { href: 'https://twitter.com/netesim', icon: FaXTwitter, label: 'X' },
-  { href: 'https://linkedin.com/company/netesim', icon: FaLinkedin, label: 'LinkedIn' },
+  { href: 'https://facebook.com/bonittoaesthetic', icon: FacebookIcon, label: 'Facebook' },
+  { href: 'https://linkedin.com/company/bonittoaesthetic', icon: LinkedinIcon, label: 'LinkedIn' },
+  { href: 'https://instagram.com/bonittoaesthetic', icon: InstagramIcon, label: 'Instagram' },
+  { href: 'https://youtube.com/@bonittoaesthetic', icon: YoutubeIcon, label: 'YouTube' },
 ];
 
 export default function Footer() {
   const t = useTranslations('layout');
-  const isRTL = useLocale() === 'ar';
+
   return (
-    <footer className="relative mt-32 rounded-t-[34px] bg-[linear-gradient(180deg,var(--footer-start)_0%,var(--hero-darker)_100%)] px-0 pb-6 pt-9 text-white/85">
-      <BecomePartnerCta/>
-      <div className={`mx-auto  flex w-[min(1180px,calc(100%-36px))] flex-col gap-8 pt-28 sm:pt-40 md:flex-row md:flex-wrap md:justify-between md:gap-6 text-center mt-96 md:mt-0 ${isRTL ? 'md:text-right' : 'md:text-left'}`}>
-        <div className="flex w-full flex-col gap-3 md:flex-1 md:basis-[240px] items-center md:items-start">
-          <Link href="/" className="inline-flex items-center gap-2.5 font-bold text-white" aria-label="Net eSIM home">
-            <Image
-              src={IMAGES.logo2}
-              alt='logo'
-              width={162}
-              height={132}
-            />
-          </Link>
-          <p className="max-w-[310px] leading-7 text-white/72">
-            {t('footer.tagline')}
-          </p>
-          <div className="flex flex-wrap gap-3 justify-center md:justify-start">
-            {socialLinks.map(({ href, icon: Icon, label }) => (
-              <a
-                key={label}
-                href={href}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-white/12 text-white transition hover:bg-white/25"
-                aria-label={label}
-              >
-                <Icon size={16} />
-              </a>
-            ))}
+    <section className="relative w-full">
+      <div>
+        <div className="footer-logo-wrapper mb-4 md:mb-12">
+          <BonittoFooterLogo />
+        </div>
+
+        <div className="w-full px-6 md:px-12 pt-8 md:pt-24">
+          <div className="flex flex-col md:flex-row items-center md:items-center gap-8 md:gap-32">
+            <div className="flex-shrink-0">
+              <Link href="/contact-us" className="btn btn-white-outline">
+                {t('footer.contactUs')}
+              </Link>
+            </div>
+            <div className="flex items-center flex-wrap justify-center">
+              <span className="footer-social-label">{t('footer.followUs')}</span>
+              {socialLinks.map(({ href, icon: Icon, label }) => (
+                <a
+                  key={label}
+                  href={href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="social-link"
+                  aria-label={label}
+                >
+                  <Icon />
+                </a>
+              ))}
+            </div>
           </div>
         </div>
-
-        <div className="flex w-full flex-col gap-2.5 md:flex-1 md:basis-[180px] items-center md:items-start">
-          <h4 className="mb-1 font-['Trebuchet_MS','Segoe_UI',sans-serif] text-base font-bold text-white">{t('footer.company')}</h4>
-          <Link href="/about">{t('footer.about')}</Link>
-          <Link href="/packages">{t('footer.plans')}</Link>
-          <Link href="/contact">{t('footer.support')}</Link>
-        </div>
-
-        <div className="flex w-full flex-col gap-2.5 md:flex-1 md:basis-[180px] items-center md:items-start">
-          <h4 className="mb-1 font-['Trebuchet_MS','Segoe_UI',sans-serif] text-base font-bold text-white">{t('footer.legal')}</h4>
-          <Link href="/privacy">{t('footer.privacy')}</Link>
-          <Link href="/terms">{t('footer.terms')}</Link>
-          <Link href="/refund">{t('footer.refund')}</Link>
-        </div>
-
-        <div className="flex w-full flex-col gap-2.5 md:flex-1 md:basis-[180px] items-center md:items-start">
-          <h4 className="mb-1 font-['Trebuchet_MS','Segoe_UI',sans-serif] text-base font-bold text-white">{t('footer.contact')}</h4>
-          <span className="inline-flex items-center gap-2.5">
-            <Phone size={14} /> +971 50 123 4567
-          </span>
-          <span className="inline-flex items-center gap-2.5">
-            <Mail size={14} /> hello@netesim.com
-          </span>
-        </div>
       </div>
 
-      <div className={`mx-auto mt-6 flex w-[min(1180px,calc(100%-36px))] flex-col items-center gap-4 border-t border-white/12 pt-5 text-center text-white/60 sm:flex-row sm:justify-between ${isRTL ? 'sm:text-right' : 'sm:text-left'}`}>
-        <span>{t('footer.copyright')}</span>
-        <div className="inline-flex flex-wrap items-center justify-center gap-2">
-          <span>{t('footer.poweredBy')}</span>
-          <Link href={'https://futxtech.com/en/home'}>
-            <Image
-              src='/images/futurex-logo.svg'
-              alt='future x logo'
-              priority
-              width={113}
-              height={32}
-              className='h-8'
-            />
-          </Link> 
+      <div className="footer-company-info-wrapper">
+        <div className="container-fluid">
+          <div className="flex flex-col md:flex-row items-end gap-3">
+            <div className="md:w-1/2 mb-3 md:mb-0 text-center md:text-left order-2 md:order-1">
+              <p className="mb-0">Copyright &copy; Beauty Revolution Trading LLC.<br />All Rights Reserved</p>
+            </div>
+            <div className="md:w-1/2 text-center md:text-right order-1 md:order-2">
+              <div className="footer-company-info">
+                Vienna: Top 1, Schegargasse 9, 1190 Vienna, Austria<br />
+                Dubai: 701, Damac Smart Heights, Tecom, Dubai UAE
+              </div>
+              <div className="footer-company-info">
+                <em className="uppercase">email</em>{' '}
+                <a href="mailto:info@bonittoaesthetic.com">info@bonittoaesthetic.com</a>
+              </div>
+              <div className="footer-company-info">
+                <em className="uppercase">phone</em> +43 677 61456998
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-    </footer>
+    </section>
   );
 }

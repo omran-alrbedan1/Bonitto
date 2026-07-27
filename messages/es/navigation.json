@@ -1,0 +1,24 @@
+{
+  "home": "Inicio",
+  "aboutUs": "Sobre Nosotros",
+  "products": "Nuestros Productos",
+  "newsEvents": "Eventos",
+  "researchArticles": "Artículos de Investigación",
+  "expertInsights": "Conocimientos de Expertos y Demostraciones",
+  "faceBody": "3D Touch",
+  "contactUs": "Contáctenos",
+  "distributors": "Distribuidores",
+  "reservedArea": "Área Reservada",
+  "shop": "Tienda",
+  "megaMenu": {
+    "title": "Nuestros Productos",
+    "categories": [
+      { "number": "01", "label": "Rellenos de Ácido Hialurónico" },
+      { "number": "02", "label": "Rellenos HA y de Aminoácidos Aprobados por MDR" },
+      { "number": "03", "label": "Cosméticos Profesionales — Viales" },
+      { "number": "04", "label": "Cosméticos Profesionales — Jeringas" },
+      { "number": "05", "label": "Línea de Ácido Poli-L-Láctico (PLLA)" },
+      { "number": "06", "label": "Cuidado de la Piel" }
+    ]
+  }
+}

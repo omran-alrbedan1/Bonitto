@@ -1,16 +1,24 @@
 {
-  "metadata": {
-    "title": "Navigation",
-    "description": "Site navigation"
-  },
   "home": "Home",
-  "about": "About Us",
-  "contact": "Contact Us",
-  "policies": "Privacy Policy",
-  "destinations": "Destinations",
-  "how": "How it works",
-  "plans": "Plans",
-  "packages": "Get Packages",
-  "install": "How to install eSIM",
-  "deviceSupport": "Device Support"
+  "aboutUs": "About Us",
+  "products": "Our Products",
+  "newsEvents": "Events",
+  "researchArticles": "Research Articles",
+  "expertInsights": "Expert Insights & Demonstrations",
+  "faceBody": "3D Touch",
+  "contactUs": "Contact us",
+  "distributors": "Distributors",
+  "reservedArea": "Reserved Area",
+  "shop": "Shop",
+  "megaMenu": {
+    "title": "Our Products",
+    "categories": [
+      { "number": "01", "label": "Hyaluronic Acid Fillers" },
+      { "number": "02", "label": "MDR-Approved HA & Amino Acid Fillers" },
+      { "number": "03", "label": "Professional Cosmetics — Vials" },
+      { "number": "04", "label": "Professional Cosmetics — Syringes" },
+      { "number": "05", "label": "Poly-L-Lactic Acid (PLLA) Line" },
+      { "number": "06", "label": "Skincare" }
+    ]
+  }
 }

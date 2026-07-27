@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "title": "3D Touch — Rostro y Cuerpo",
+    "description": "Explore nuestra guía interactiva de tratamientos para rostro y cuerpo para encontrar los productos adecuados para cada zona.",
+    "keywords": "tratamiento rostro cuerpo, zonas de rellenos dérmicos, áreas de tratamiento estético"
+  },
+  "hero": {
+    "tag": "3D TOUCH",
+    "title": "Explore las áreas de tratamiento",
+    "description": "Seleccione una zona del rostro o cuerpo para descubrir las recomendaciones de productos relevantes."
+  },
+  "fallback": {
+    "title": "Áreas de Tratamiento",
+    "description": "Seleccione una zona para ver las recomendaciones de productos:"
+  }
+}

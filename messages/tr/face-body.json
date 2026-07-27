@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "title": "3D Touch — Yüz ve Vücut",
+    "description": "Her bölge için doğru ürünleri bulmak için interaktif yüz ve vücut tedavi rehberimizi keşfedin.",
+    "keywords": "yüz vücut tedavisi, dermal filler bölgeleri, estetik tedavi alanları"
+  },
+  "hero": {
+    "tag": "3D TOUCH",
+    "title": "Tedavi bölgelerini keşfedin",
+    "description": "İlgili ürün önerilerini keşfetmek için yüz veya vücutta bir alan seçin."
+  },
+  "fallback": {
+    "title": "Tedavi Bölgeleri",
+    "description": "Ürün önerilerini görüntülemek için bir bölge seçin:"
+  }
+}

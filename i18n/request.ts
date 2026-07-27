@@ -1,7 +1,7 @@
-import {getRequestConfig} from 'next-intl/server';
-import {routing} from './routing';
+import { getRequestConfig } from 'next-intl/server';
+import { routing } from './routing';
 
-export default getRequestConfig(async ({requestLocale}: {requestLocale: Promise<string | undefined>}) => {
+export default getRequestConfig(async ({ requestLocale }: { requestLocale: Promise<string | undefined> }) => {
   let locale = await requestLocale;
 
   if (!locale || !routing.locales.includes(locale as any)) {
@@ -14,28 +14,30 @@ export default getRequestConfig(async ({requestLocale}: {requestLocale: Promise<
     home,
     about,
     contact,
-    footer,
     layout,
-    deviceSupport,
-    terms,
-    packages,
-    privacy,
-    refund,
-    howToInstall, // Add this
+    products,
+    news,
+    expertInsights,
+    faceBody,
+    distributors,
+    reservedArea,
+    legal,
+    cookieConsent,
   ] = await Promise.all([
     import(`../messages/${locale}/common.json`),
     import(`../messages/${locale}/navigation.json`),
     import(`../messages/${locale}/home.json`),
     import(`../messages/${locale}/about.json`),
     import(`../messages/${locale}/contact.json`),
-    import(`../messages/${locale}/footer.json`),
     import(`../messages/${locale}/layout.json`),
-    import(`../messages/${locale}/deviceSupport.json`),
-    import(`../messages/${locale}/terms.json`),
-    import(`../messages/${locale}/packages.json`),
-    import(`../messages/${locale}/privacy.json`),
-    import(`../messages/${locale}/refund.json`),
-    import(`../messages/${locale}/howToInstall.json`), // Add this
+    import(`../messages/${locale}/products.json`),
+    import(`../messages/${locale}/news.json`),
+    import(`../messages/${locale}/expert-insights.json`),
+    import(`../messages/${locale}/face-body.json`),
+    import(`../messages/${locale}/distributors.json`),
+    import(`../messages/${locale}/reserved-area.json`),
+    import(`../messages/${locale}/legal.json`),
+    import(`../messages/${locale}/cookie-consent.json`),
   ]);
 
   return {
@@ -46,15 +48,15 @@ export default getRequestConfig(async ({requestLocale}: {requestLocale: Promise<
       home: home.default,
       about: about.default,
       contact: contact.default,
-      footer: footer.default,
       layout: layout.default,
-      deviceSupport: deviceSupport.default,
-      terms: terms.default,
-      packages: packages.default,
-      privacy: privacy.default,
-      refund: refund.default,
-      howToInstall: howToInstall.default, 
+      products: products.default,
+      news: news.default,
+      expertInsights: expertInsights.default,
+      faceBody: faceBody.default,
+      distributors: distributors.default,
+      reservedArea: reservedArea.default,
+      legal: legal.default,
+      cookieConsent: cookieConsent.default,
     },
-    timeZone: 'Asia/Amman'
   };
 });

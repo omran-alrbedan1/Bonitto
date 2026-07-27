@@ -1,0 +1,24 @@
+{
+  "home": "Ana Sayfa",
+  "aboutUs": "Hakkımızda",
+  "products": "Ürünlerimiz",
+  "newsEvents": "Etkinlikler",
+  "researchArticles": "Araştırma Makaleleri",
+  "expertInsights": "Uzman Görüşleri ve Demonstrasyonlar",
+  "faceBody": "3D Touch",
+  "contactUs": "Bize ulaşın",
+  "distributors": "Distribütörler",
+  "reservedArea": "Rezerve Alan",
+  "shop": "Mağaza",
+  "megaMenu": {
+    "title": "Ürünlerimiz",
+    "categories": [
+      { "number": "01", "label": "Hyalüronik Asit Filler" },
+      { "number": "02", "label": "MDR Onaylı HA ve Amino Asit Filler" },
+      { "number": "03", "label": "Profesyonel Kozmetik — Şişeler" },
+      { "number": "04", "label": "Profesyonel Kozmetik — Enjektörler" },
+      { "number": "05", "label": "Poly-L-Lactic Acid (PLLA) Serisi" },
+      { "number": "06", "label": "Cilt Bakımı" }
+    ]
+  }
+}

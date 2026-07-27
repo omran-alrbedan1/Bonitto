@@ -1,13 +1,12 @@
 import type { Metadata } from 'next';
-import { getTranslations } from './getTranslations';
 import { locales, type Locale } from './i18n';
 
-export const SITE_URL =  'https://esim-wine.vercel.app';
+export const SITE_URL = 'https://bonittoaesthetic.com';
 
 const DEFAULT_OG_IMAGE = '/og-image.jpg';
 const DEFAULT_OG_WIDTH = 1200;
 const DEFAULT_OG_HEIGHT = 630;
-const SITE_NAME = 'Net eSIM';
+const SITE_NAME = 'Bonitto Aesthetic';
 
 function localizedPath(locale: string, path: string) {
   return `/${locale}${path}`;
@@ -17,17 +16,12 @@ function absoluteUrl(path: string) {
   return `${SITE_URL}${path.startsWith('/') ? path : `/${path}`}`;
 }
 
-function localeCode(locale: string) {
-  return locale === 'ar' ? 'ar_AE' : 'en_US';
-}
-
-function alternates(locale: string, path: string) {
+function buildHreflangMap(path: string) {
   return {
-    canonical: absoluteUrl(localizedPath(locale, path)),
-    languages: {
-      'x-default': absoluteUrl(localizedPath('en', path)),
-      ...Object.fromEntries(locales.map((l) => [l, absoluteUrl(localizedPath(l, path))])),
-    },
+    'x-default': absoluteUrl(localizedPath('en', path)),
+    ...Object.fromEntries(
+      locales.map((l) => [l, absoluteUrl(localizedPath(l, path))])
+    ),
   };
 }
 
@@ -57,25 +51,19 @@ export function buildMetadata({
     title,
     description,
     keywords,
-    alternates: alternates(locale, path),
+    alternates: {
+      canonical: absoluteUrl(localizedPath(locale, path)),
+      languages: buildHreflangMap(path),
+    },
     robots: noIndex
       ? { index: false, follow: false }
-      : {
-          index: true,
-          follow: true,
-          googleBot: {
-            index: true,
-            follow: true,
-            'max-image-preview': 'large',
-            'max-snippet': -1,
-          },
-        },
+      : { index: true, follow: true },
     openGraph: {
       title,
       description,
       url,
       siteName: SITE_NAME,
-      locale: localeCode(locale),
+      locale: locale === 'ar' ? 'ar_AE' : 'en_US',
       type: 'website',
       images: [{ url: imageUrl, width: DEFAULT_OG_WIDTH, height: DEFAULT_OG_HEIGHT, alt: title }],
     },
@@ -89,8 +77,8 @@ export function buildMetadata({
 }
 
 export async function getRootLayoutMetadata({ locale }: { locale: Locale }): Promise<Metadata> {
-  const t = await getTranslations(locale, 'layout');
-  const meta = t.metadata;
+  const t = await import(`../messages/${locale}/layout.json`);
+  const meta = t.default.metadata;
 
   return {
     metadataBase: new URL(SITE_URL),
@@ -100,34 +88,25 @@ export async function getRootLayoutMetadata({ locale }: { locale: Locale }): Pro
     },
     description: meta.description,
     keywords: meta.keywords,
-    authors: [{ name: 'Net eSIM' }],
-    creator: 'Net eSIM',
-    publisher: 'Net eSIM',
+    authors: [{ name: 'Bonitto Aesthetic' }],
     alternates: {
       canonical: `${SITE_URL}/${locale}`,
-      languages: {
-        'x-default': `${SITE_URL}/en`,
-        en: `${SITE_URL}/en`,
-        ar: `${SITE_URL}/ar`,
-      },
+      languages: buildHreflangMap(''),
     },
     robots: { index: true, follow: true },
     icons: { icon: '/favicon.ico' },
     openGraph: {
       type: 'website',
-      siteName: meta.title,
+      siteName: SITE_NAME,
       title: meta.title,
       description: meta.description,
       url: `${SITE_URL}/${locale}`,
-      locale: localeCode(locale),
-      alternateLocale: locales.filter((l) => l !== locale).map(localeCode),
+      locale: locale === 'ar' ? 'ar_AE' : 'en_US',
       images: [{
         url: `${SITE_URL}${DEFAULT_OG_IMAGE}`,
-        secureUrl: `${SITE_URL}${DEFAULT_OG_IMAGE}`,
         width: DEFAULT_OG_WIDTH,
         height: DEFAULT_OG_HEIGHT,
-        alt: `${SITE_NAME} travel eSIM connectivity`,
-        type: 'image/jpeg',
+        alt: SITE_NAME,
       }],
     },
     twitter: {
@@ -162,19 +141,24 @@ export async function getPageMetadata({
   let resolvedImage = image;
 
   if (page) {
-    const t = await getTranslations(locale, page);
-    const { metadata } = t;
-    resolvedTitle = resolvedTitle ||
-   metadata.title;
-    resolvedDescription = resolvedDescription || metadata.description;
-    resolvedKeywords = resolvedKeywords || metadata.keywords;
-    resolvedImage = resolvedImage || metadata.ogImage || DEFAULT_OG_IMAGE;
+    try {
+      const t = await import(`../messages/${locale}/${page}.json`);
+      const metadata = t.default?.metadata;
+      if (metadata) {
+        resolvedTitle = resolvedTitle || metadata.title;
+        resolvedDescription = resolvedDescription || metadata.description;
+        resolvedKeywords = resolvedKeywords || metadata.keywords;
+        resolvedImage = resolvedImage || metadata.ogImage || DEFAULT_OG_IMAGE;
+      }
+    } catch {
+      // Fallback if page translation doesn't exist
+    }
   }
 
   resolvedImage = resolvedImage || DEFAULT_OG_IMAGE;
 
   return buildMetadata({
-    title: resolvedTitle || '',
+    title: resolvedTitle || SITE_NAME,
     description: resolvedDescription || '',
     path,
     locale,

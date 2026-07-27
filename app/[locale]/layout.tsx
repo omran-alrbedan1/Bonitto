@@ -2,12 +2,15 @@ import type { Metadata } from "next";
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import Navbar from '@/components/Navbar';
-import Footer from "@/components/Footer";
-import "./globals.css";
 import { getRootLayoutMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
-import { JsonLd } from "@/components/seo/JsonLd";
-import { Cta } from "@/components/Cta";
+import { routing } from "@/i18n/routing";
+import { notFound } from "next/navigation";
+import "./globals.css";
+
+export async function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }));
+}
 
 export async function generateMetadata({
   params
@@ -26,20 +29,17 @@ export default async function LocaleLayout({
   params: Promise<{ locale: Locale }>;
 }) {
   const { locale } = await params;
+  if (!routing.locales.includes(locale as any)) notFound();
+
   const messages = await getMessages();
-  const direction = locale === 'ar' ? 'rtl' : 'ltr';
+  const dir = locale === 'ar' ? 'rtl' : 'ltr';
 
   return (
-    <html lang={locale} dir={direction} suppressHydrationWarning>
-      <head>
-        <JsonLd />
-      </head>
+    <html lang={locale} dir={dir} suppressHydrationWarning>
       <body>
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Navbar />
-          <main>{children}</main>
-          <Cta />
-          <Footer />
+          {children}
         </NextIntlClientProvider>
       </body>
     </html>

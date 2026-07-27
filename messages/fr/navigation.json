@@ -1,0 +1,24 @@
+{
+  "home": "Accueil",
+  "aboutUs": "À propos",
+  "products": "Nos produits",
+  "newsEvents": "Événements",
+  "researchArticles": "Articles de recherche",
+  "expertInsights": "Avis d'experts et démonstrations",
+  "faceBody": "3D Touch",
+  "contactUs": "Contactez-nous",
+  "distributors": "Distributeurs",
+  "reservedArea": "Espace réservé",
+  "shop": "Boutique",
+  "megaMenu": {
+    "title": "Nos produits",
+    "categories": [
+      { "number": "01", "label": "Fillers à l'acide hyaluronique" },
+      { "number": "02", "label": "Fillers HA et acides aminés approuvés MDR" },
+      { "number": "03", "label": "Cosmétiques professionnels — Flacons" },
+      { "number": "04", "label": "Cosmétiques professionnels — Seringues" },
+      { "number": "05", "label": "Gamme Acide poly-L-lactique (PLLA)" },
+      { "number": "06", "label": "Soins de la peau" }
+    ]
+  }
+}

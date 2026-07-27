@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "title": "Über uns",
+    "description": "Bonitto® ist eine in Italien hergestellte Ästhetikmarke für den B2B- und B2C-Markt der medizinischen Ästhetik mit HA-Dermalfillern, professioneller Kosmetik und Hautpflege.",
+    "keywords": "über Bonitto, italienische Ästhetikprodukte, HA Dermal Filler, professionelle Kosmetik, Hautpflege"
+  },
+  "hero": {
+    "title": "Über uns",
+    "intro": "Willkommen bei <strong>BONITTO®</strong>, <strong>Made in Italy</strong>, für den <strong>B2B- und B2C-Markt der medizinischen Ästhetik</strong> mit hochwertigen Lösungen in den Bereichen <strong>HA-Dermalfiller (injizierbare Medizinprodukte)</strong>, <strong>professionelle Kosmetik in Vials</strong> sowie <strong>professionelle Hautpflege- und Kosmetikprodukte</strong>. Unser Portfolio wurde für <strong>ästhetische Kliniken, Ärzte, Distributoren und Beauty-Professionals</strong> entwickelt, ebenso wie für Endkundinnen und Endkunden, die zuverlässige, leistungsstarke Hautpflege suchen. Mit Fokus auf Konsistenz und Qualität unterstützt BONITTO® moderne ästhetische Protokolle und Premium-Hautpflegeroutinen."
+  },
+  "quality": {
+    "title": "Qualität & Konformität",
+    "intro": "Bei BONITTO® ist Qualität in jede Phase eingebettet - von der Formulierung und Auswahl der Rohstoffe bis hin zu Produktion, Verpackung und finaler Freigabe.",
+    "cosmeticLines": "<strong>Kosmetiklinien (professionelle Kosmetik in Vials + Hautpflege):</strong> Unsere <strong>professionelle Kosmetik in Vials</strong> und <strong>Hautpflege-/Kosmetikprodukte</strong> sind über das <strong>EU CPNP (Cosmetic Products Notification Portal)</strong> notifiziert und unterstützen die regulatorische Ausrichtung kosmetischer Produkte in der Europäischen Union.",
+    "medicalDeviceLines": "<strong>Medizinproduktlinien (nur Filler):</strong> Unsere <strong>HA-Dermalfiller</strong>, klassifiziert als <strong>injizierbare Medizinprodukte</strong>, werden unter einem zertifizierten <strong>ISO 13485</strong>-Qualitätsmanagementsystem hergestellt und sind <strong>CE-gekennzeichnet gemäß der EU-Medizinprodukteverordnung (MDR)</strong> - ein Ausdruck eines strukturierten, konformen Ansatzes für Sicherheit, Rückverfolgbarkeit und Leistung.",
+    "qualityDriven": "<strong>BONITTO® Produkte werden mit einem qualitätsorientierten Ansatz entwickelt und unter kontrollierten, qualitätsgesteuerten Prozessen hergestellt, um konstante Spezifikationen und zuverlässige Leistung sicherzustellen.</strong> In unserem gesamten Portfolio - <strong>HA-Dermalfiller (injizierbare Medizinprodukte)</strong>, <strong>professionelle Kosmetik in Vials</strong> und <strong>Hautpflege-/Kosmetikprodukte</strong> - konzentrieren wir uns auf <strong>dokumentierte Qualitätskontrollen</strong> und Produktkonsistenz, der Fachleute vertrauen können. Bei unserer <strong>HA-Filler-Reihe</strong> liegt besonderes Augenmerk auf <strong>Handhabungseigenschaften, Produktkonsistenz, Rückverfolgbarkeit und konformitätsorientierten Kontrollen</strong>. Bei unseren <strong>Kosmetiklinien</strong> betonen wir <strong>Formulierungsstabilität, Hautverträglichkeit und ein hochwertiges sensorisches Erlebnis</strong>. Kontinuierliche Verbesserung wird durch <strong>Marktfeedback und Produktbewertung</strong> geleitet und unterstützt die laufende Verfeinerung von Texturen, Anwendung und Gesamtzuverlässigkeit.",
+    "support": "Zur Unterstützung von Kliniken, Fachleuten und Distributoren priorisiert BONITTO® außerdem <strong>zuverlässige Verfügbarkeit, reaktionsschnellen Support und optimierte Distribution</strong>, damit Partner vom Produktauswahlprozess bis zur Lieferung eine konsistente Erfahrung bieten können."
+  },
+  "images": {
+    "microscopeAlt": "Nahaufnahme eines Mikroskops mit drei Objektiven. Eine Pipette bringt Flüssigkeit auf einen Objektträger auf dem Mikroskoptisch auf. Das Bild ist blaugrün getönt.",
+    "modelAlt": "Nahaufnahme einer Person mit blauem Lidschatten auf dem oberen Lid und einer passenden blauen Linie unter dem unteren Lid. Das Gesicht wirkt natürlich mit hellrosa Lippenstift. Das Haar ist glatt und hellblond."
+  }
+}

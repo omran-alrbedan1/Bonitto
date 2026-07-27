@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "Produkte",
+    "description": "Entdecken Sie unser Sortiment an Premium-Dermal Fillern, professionellen Kosmetikprodukten und Hautpflegeprodukten.",
+    "keywords": "Dermal Filler, Hyaluronsäure-Filler, Hautpflegeprodukte, professionelle Kosmetik"
+  },
+  "categories": {
+    "ha-fillers": {
+      "name": "Hyaluronsäure-Filler",
+      "description": "Fortschrittliche Hyaluronsäure-basierte Dermal Filler zur Volumenwiederherstellung, Faltenkorrektur und Gesichtskonturierung."
+    },
+    "mdr-fillers": {
+      "name": "MDR-zertifizierte HA- & Aminosäure-Filler",
+      "description": "Regulatorisch zugelassene Filler, die den höchsten europäischen Medizinproduktestandards entsprechen."
+    },
+    "cosmetics-vials": {
+      "name": "Professionelle Kosmetik — Fläschchen",
+      "description": "Professionelle Kosmetikbehandlungen in praktischem Fläschchenformat."
+    },
+    "cosmetics-syringes": {
+      "name": "Professionelle Kosmetik — Spritzen",
+      "description": "Präzise kosmetische Behandlungen für den professionellen Einsatz."
+    },
+    "plla": {
+      "name": "Poly-L-Lactinsäure (PLLA)-Linie",
+      "description": "Biostimulierende Behandlungen zur langanhaltenden Kollagenstimulation."
+    },
+    "skincare": {
+      "name": "Hautpflege",
+      "description": "Premium-Hautpflege-Formulierungen für die Nachbehandlung und tägliche Pflege."
+    }
+  },
+  "detail": {
+    "specifications": "Spezifikationen",
+    "indications": "Indikationen",
+    "effects": "Wirkungen",
+    "target": "Hauptziel",
+    "relatedProducts": "Ähnliche Produkte",
+    "contactDistributor": "Kontakt für Vertrieb",
+    "downloadDatasheet": "Datenblatt herunterladen"
+  }
+}

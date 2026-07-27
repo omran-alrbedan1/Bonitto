@@ -1,0 +1,9 @@
+{
+  "message": "We use cookies to enhance your experience. Choose your preferences below.",
+  "acceptAll": "Accept All", "denyAll": "Deny All", "preferences": "View Preferences",
+  "functional": "Functional", "functionalDesc": "Required for the website to function properly.",
+  "preferences_cat": "Preferences", "preferencesDesc": "Remember your settings and choices.",
+  "statistics": "Statistics", "statisticsDesc": "Help us understand how visitors use our website.",
+  "marketing": "Marketing", "marketingDesc": "Used for personalized advertising.",
+  "save": "Save Preferences"
+}

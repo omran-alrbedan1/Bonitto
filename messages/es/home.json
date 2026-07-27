@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "title": "Proveedor Europeo de Rellenos de Ácido Hialurónico",
+    "description": "Bonitto® se posiciona como líder europeo en la formulación de rellenos dérmicos, cosméticos profesionales y productos de cuidado de la piel.",
+    "keywords": "rellenos dérmicos, ácido hialurónico, estética médica, cuidado de la piel, bonitto aesthetic"
+  },
+  "hero": {
+    "tag": "ESTÉTICA MÉDICA",
+    "title": "Proveedor europeo de rellenos de ácido hialurónico",
+    "subtitle": "Mejorado por la ciencia, inspirado por el estilo de vida.",
+    "cta": "Quiénes somos",
+    "descriptionBridge": "Existe <strong>un puente entre Europa y el resto del mundo</strong> - un punto de encuentro entre las tendencias culturales y la innovación científica - encarnado en una marca de rellenos inyectables de ácido hialurónico de alta calidad, dispositivos médicos y soluciones cosméticas estériles para profesionales.",
+    "descriptionBrand": "Bonitto es el nombre de esta marca: un <strong>proveedor europeo de rellenos de ácido hialurónico, cosméticos profesionales y productos avanzados para el cuidado de la piel</strong>. Combinando la excelencia de la fabricación italiana con la precisión y el rigor de la distribución vienesa, Bonitto expresa una visión de vitalidad, bienestar y estilo atemporal.",
+    "descriptionVision": "Con una gama cuidadosamente seleccionada de productos premium diseñados para realzar la belleza natural, rejuvenecer la piel y ofrecer resultados seguros y eficaces, <strong>Bonitto impulsa una nueva cultura estética</strong> dedicada a celebrar todas las formas de belleza."
+  },
+  "technology": {
+    "tag": "HA RELLENOS FABRICADOS EN ITALIA",
+    "title": "Rellenos HA fabricados en Italia y formulaciones",
+    "highlight": "<strong>Más que belleza</strong>, una experiencia de bienestar y confianza en uno mismo.",
+    "description": "Combinando investigación y tecnología de vanguardia con el encanto atemporal de la elegancia clásica, Bonitto se destaca por sus rellenos dérmicos de alto rendimiento, cosméticos profesionales y formulaciones avanzadas de cuidado de la piel."
+  },
+  "leadership": {
+    "tag": "LÍDER EUROPEO",
+    "title": "Líder europeo en formulación médica",
+    "highlight": "<strong>Belleza natural inspirada</strong> en obras maestras de la escultura clásica.",
+    "description": "Con formulaciones avanzadas y una amplia selección de rellenos, soluciones de mesoterapia y productos de cuidado de la piel, Bonitto está dedicada al cuidado personal y la exploración continua de la relación entre el bienestar interior y la belleza exterior."
+  },
+  "news": {
+    "tag": "NOTICIAS Y EVENTOS",
+    "title": "noticias y eventos",
+    "description": "Siga una versión renovada y rejuvenecida de usted mismo con Bonitto®. Explore un mundo hecho de estilo de vida y ciencia.",
+    "viewAll": "Ver todos",
+    "categories": {
+      "events": "Eventos",
+      "researchArticles": "Artículos de investigación",
+      "fillers": "Rellenos",
+      "mesotherapy": "Mesoterapia"
+    },
+    "imcasTitle": "IMCAS París 2026",
+    "dermalFillerTitle": "Relleno dérmico",
+    "acneSolutionsTitle": "Las soluciones relevantes para el acné"
+  },
+  "contactCta": {
+    "title": "¿Le interesa asociarse con Bonitto?",
+    "description": "Conéctese con nuestro equipo para explorar oportunidades de distribución e información sobre productos.",
+    "cta": "Contáctenos"
+  }
+}

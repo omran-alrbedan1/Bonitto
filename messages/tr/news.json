@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "title": "Haberler ve Etkinlikler",
+    "description": "Bonitto Aesthetic'ten en son etkinlikler, araştırma makaleleri ve haberlerden haberdar olun.",
+    "keywords": "bonitto etkinlikleri, medikal estetik haberleri, araştırma makaleleri"
+  },
+  "hero": {
+    "tag": "HABERLER VE ETKİNLİKLER",
+    "title": "Haberdar olun",
+    "description": "En son etkinliklerimizi, araştırma makalelerimizi ve sektör görüşlerimizi keşfedin."
+  },
+  "tabs": {
+    "all": "Tümü",
+    "events": "Etkinlikler",
+    "researchArticles": "Araştırma Makaleleri"
+  },
+  "viewAll": "Tümünü Görüntüle",
+  "readMore": "Devamını Oku",
+  "share": "Paylaş",
+  "relatedArticles": "İlgili Makaleler",
+  "categories": {
+    "events": {
+      "description": "Markamızı tanımlayan inovasyon, mükemmellik ve estetik felsefeyle doğrudan bağlantı kurma fırsatı. Özel sunumlara katılın ve Bonitto® dünyasını yakından deneyimlemek için sektör uzmanlarıyla tanışın."
+    }
+  },
+  "eventDetails": {
+    "backToEvents": "Etkinliklere geri dön",
+    "videoFallback": "Tarayıcınız video etiketini desteklemiyor."
+  }
+}

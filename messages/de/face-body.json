@@ -1,0 +1,5 @@
+{
+  "metadata": { "title": "3D Touch — Gesicht & Körper", "description": "Entdecken Sie unseren interaktiven Behandlungsführer für Gesicht und Körper, um die richtigen Produkte für jeden Bereich zu finden.", "keywords": "Gesichts- und Körperbehandlung, Dermal-Filler-Zonen, ästhetische Behandlungsbereiche" },
+  "hero": { "tag": "3D TOUCH", "title": "Entdecken Sie die Behandlungsbereiche", "description": "Wählen Sie einen Bereich im Gesicht oder am Körper, um passende Produktempfehlungen zu entdecken." },
+  "fallback": { "title": "Behandlungsbereiche", "description": "Wählen Sie einen Bereich aus, um Produktempfehlungen anzuzeigen:" }
+}

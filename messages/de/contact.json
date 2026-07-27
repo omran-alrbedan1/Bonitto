@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Nehmen Sie Kontakt mit Bonitto Aesthetic auf für Produktanfragen, Vertriebsmöglichkeiten oder allgemeine Fragen.",
+    "keywords": "kontakt bonitto aesthetic, Dermal Filler Anfrage, ästhetischer Produktdistributor"
+  },
+  "hero": {
+    "tag": "KONTAKTIEREN SIE UNS",
+    "title": "Kontaktieren Sie uns",
+    "description": "Werden Sie Partner von Bonitto®. Senden Sie uns Ihre Kontaktdaten und Interessen, damit wir individuelle Produkt- und Vertriebspläne für Sie besprechen können. Ein professioneller Vertriebsmanager antwortet innerhalb von 24 Stunden."
+  },
+  "form": {
+    "howDidYouFindUs": "Wie haben Sie von uns erfahren?",
+    "firstName": "Vorname*",
+    "lastName": "Nachname*",
+    "company": "Unternehmen*",
+    "email": "E-Mail*",
+    "phone": "Telefon/WhatsApp*",
+    "country": "Land*",
+    "message": "Nachricht*",
+    "privacyConsent": "Ich habe die Datenschutzrichtlinie gelesen und stimme ihr zu",
+    "submit": "Senden",
+    "success": "Vielen Dank. Ihre Nachricht wurde gesendet. Wir melden uns in Kürze bei Ihnen.",
+    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder schreiben Sie uns direkt.",
+    "sourceOptions": {
+      "ads": "Anzeigen",
+      "socialFacebook": "Soziale Medien - Facebook",
+      "socialInstagram": "Soziale Medien - Instagram",
+      "socialYouTube": "Soziale Medien - YouTube",
+      "exhibitions": "Messen",
+      "clinics": "Kliniken",
+      "google": "Suchmaschinen - Google",
+      "bing": "Suchmaschinen - Bing",
+      "other": "Andere / nichts davon"
+    }
+  },
+  "offices": {
+    "title": "Unsere Büros"
+  },
+  "image": {
+    "alt": "Eine Person mit lockigem Haar und künstlerischem Make-up, grünem Lidschatten und geometrischen Linien posiert vor einem grauen Hintergrund. Sie hat einen neutralen Ausdruck und freie Schultern."
+  }
+}

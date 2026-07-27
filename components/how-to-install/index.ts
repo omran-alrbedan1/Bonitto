@@ -1,7 +1,0 @@
-export{default as HowToInstallContent} from './HowToInstallContent'
-export{default as HowToInstallHero} from './HowToInstallHero'
-export{default as WhyPartnerSection} from './WhyPartnerSection'
-export{default as HowItWorksSection} from './HowItWorksSection'
-export{default as PartnerBenefitsSection} from './PartnerBenefitsSection'
-export{default as PartnerApplicationSection} from './PartnerApplicationSection'
-export{default as ESimSetupGuideSection} from './ESimSetupGuideSection'

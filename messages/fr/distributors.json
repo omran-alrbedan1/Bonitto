@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "title": "Distributeurs",
+    "description": "Devenez distributeur Bonitto Aesthetic et apportez des produits esthétiques premium à votre marché.",
+    "keywords": "distributeur bonitto, distribution de produits esthétiques, devenir partenaire"
+  },
+  "hero": {
+    "tag": "PRÉSENCE MONDIALE",
+    "title": "Une présence mondiale",
+    "description": "Notre réseau de distribution s'étend à travers les continents, apportant des solutions esthétiques premium aux cliniques et aux professionnels du monde entier."
+  },
+  "benefits": {
+    "title": "Pourquoi s'associer à Bonitto",
+    "items": [
+      "Portefeuille de produits premium",
+      "Formation et support complets",
+      "Structure de prix compétitive",
+      "Supports marketing et ressources de marque",
+      "Aide à la documentation réglementaire",
+      "Gestion de compte dédiée"
+    ]
+  },
+  "form": {
+    "title": "Devenir distributeur",
+    "description": "Remplissez le formulaire ci-dessous pour exprimer votre intérêt à distribuer les produits Bonitto."
+  }
+}

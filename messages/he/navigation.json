@@ -1,0 +1,24 @@
+{
+  "home": "דף הבית",
+  "aboutUs": "אודותינו",
+  "products": "המוצרים שלנו",
+  "newsEvents": "אירועים",
+  "researchArticles": "מאמרי מחקר",
+  "expertInsights": "תובנות מומחים והדגמות",
+  "faceBody": "מגע 3D",
+  "contactUs": "צור קשר",
+  "distributors": "מפיצים",
+  "reservedArea": "אזור שמור",
+  "shop": "חנות",
+  "megaMenu": {
+    "title": "המוצרים שלנו",
+    "categories": [
+      { "number": "01", "label": "מילוי חומצה היאלורונית" },
+      { "number": "02", "label": "מילוי HA ואmino acid מאושר MDR" },
+      { "number": "03", "label": "קוסמטיקה מקצועית — בקבוקונים" },
+      { "number": "04", "label": "קוסמטיקה מקצועית — מזרקים" },
+      { "number": "05", "label": "קו פולילקטיק אسيد (PLLA)" },
+      { "number": "06", "label": "טיפוח עור" }
+    ]
+  }
+}

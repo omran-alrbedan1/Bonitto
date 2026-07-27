@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "Ürünler",
+    "description": "Premium dermal filler, profesyonel kozmetik ve cilt bakım ürünlerimiz yelpazesini keşfedin.",
+    "keywords": "dermal filler, hyalüronik asit filler, cilt bakım ürünleri, profesyonel kozmetik"
+  },
+  "categories": {
+    "ha-fillers": {
+      "name": "Hyalüronik Asit Filler",
+      "description": "Hacim restorasyonu, kırışıklık düzeltmesi ve yüz şekillendirme için gelişmiş hyalüronik asit bazlı dermal filler."
+    },
+    "mdr-fillers": {
+      "name": "MDR Onaylı HA ve Amino Asit Filler",
+      "description": "En yüksek Avrupa tıbbi cihaz standartlarını karşılayan düzenleyici onaylı filler."
+    },
+    "cosmetics-vials": {
+      "name": "Profesyonel Kozmetik — Şişeler",
+      "description": "Pratik şişe formatında profesyonel düzeyde kozmetik tedaviler."
+    },
+    "cosmetics-syringes": {
+      "name": "Profesyonel Kozmetik — Enjektörler",
+      "description": "Profesyonel kullanım için hassas teslimatlı kozmetik tedaviler."
+    },
+    "plla": {
+      "name": "Poly-L-Lactic Acid (PLLA) Serisi",
+      "description": "Uzun süreli kolajen stimülasyonu için biyostimülatif tedaviler."
+    },
+    "skincare": {
+      "name": "Cilt Bakımı",
+      "description": "Tedavi sonrası bakım ve günlük rutinler için premium cilt bakım formülasyonları."
+    }
+  },
+  "detail": {
+    "specifications": "Özellikler",
+    "indications": "Endikasyonlar",
+    "effects": "Etkiler",
+    "target": "Ana Hedef",
+    "relatedProducts": "İlgili Ürünler",
+    "contactDistributor": "Dağıtım İçin İletişim",
+    "downloadDatasheet": "Bilgi Formunu İndir"
+  }
+}

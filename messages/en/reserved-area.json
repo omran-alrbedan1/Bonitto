@@ -1,0 +1,5 @@
+{
+  "metadata": { "title": "Reserved Area", "description": "Access exclusive resources for verified professionals and distributors." },
+  "login": { "title": "Professional Login", "description": "Access price lists, order documents, and exclusive resources.", "email": "Email", "password": "Password", "submit": "Log In", "forgotPassword": "Forgot password?" },
+  "dashboard": { "title": "Welcome back", "priceLists": "Price Lists", "orderDocuments": "Order Documents", "certificates": "Certificates", "logout": "Log Out" }
+}

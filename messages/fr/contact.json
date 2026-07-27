@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "Contactez-nous",
+    "description": "Contactez Bonitto Aesthetic pour des demandes de produits, des opportunités de distribution ou des questions générales.",
+    "keywords": "contact bonitto aesthetic, demande de filler dermique, distributeur de produits esthétiques"
+  },
+  "hero": {
+    "tag": "CONTACTEZ-NOUS",
+    "title": "Contactez-nous",
+    "description": "Rejoignez Bonitto® en tant que partenaire. Envoyez-nous vos coordonnées et vos centres d’intérêt afin que nous puissions discuter de plans produits et commerciaux personnalisés pour vous. Un responsable commercial professionnel vous répondra sous 24 heures."
+  },
+  "form": {
+    "howDidYouFindUs": "Comment nous avez-vous connus ?",
+    "firstName": "Prénom*",
+    "lastName": "Nom*",
+    "company": "Entreprise*",
+    "email": "E-mail*",
+    "phone": "Téléphone/WhatsApp*",
+    "country": "Pays*",
+    "message": "Message*",
+    "privacyConsent": "J'ai lu et j'accepte la politique de confidentialité",
+    "submit": "Envoyer",
+    "success": "Merci. Votre message a été envoyé. Nous vous répondrons sous peu.",
+    "error": "Une erreur est survenue. Veuillez réessayer ou nous écrire directement.",
+    "sourceOptions": {
+      "ads": "Publicités",
+      "socialFacebook": "Réseaux sociaux - Facebook",
+      "socialInstagram": "Réseaux sociaux - Instagram",
+      "socialYouTube": "Réseaux sociaux - YouTube",
+      "exhibitions": "Salons",
+      "clinics": "Cliniques",
+      "google": "Moteurs de recherche - Google",
+      "bing": "Moteurs de recherche - Bing",
+      "other": "Autre / aucun des choix ci-dessus"
+    }
+  },
+  "offices": {
+    "title": "Nos bureaux"
+  },
+  "image": {
+    "alt": "Une personne aux cheveux bouclés et au maquillage artistique, avec un fard à paupières vert et des lignes géométriques, pose devant un fond gris. Son expression est neutre et ses épaules sont découvertes."
+  }
+}

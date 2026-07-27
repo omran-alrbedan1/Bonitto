@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "title": "Hakkımızda",
+    "description": "Bonitto®; HA dermal fillerlar, profesyonel kozmetikler ve cilt bakımı ile B2B ve B2C medikal estetik pazarına hizmet veren İtalyan üretimi bir estetik markasıdır.",
+    "keywords": "Bonitto hakkında, İtalyan estetik ürünleri, HA dermal fillerlar, profesyonel kozmetikler, cilt bakımı"
+  },
+  "hero": {
+    "title": "Hakkımızda",
+    "intro": "<strong>BONITTO®</strong>'ya hoş geldiniz. <strong>İtalyan üretimi</strong> olan BONITTO®, <strong>B2B ve B2C medikal estetik pazarına</strong> <strong>HA dermal fillerlar (enjekte edilebilir tıbbi cihazlar)</strong>, <strong>flakonlarda profesyonel kozmetikler</strong> ve <strong>profesyonel cilt bakımı ve kozmetik ürünleri</strong> alanlarında yüksek kaliteli çözümler sunar. Portföyümüz <strong>estetik klinikleri, doktorlar, distribütörler ve güzellik profesyonelleri</strong> için ve güvenilir, yüksek performanslı cilt bakımı arayan son kullanıcılar için geliştirilmiştir. Tutarlılık ve kalite odağıyla BONITTO®, modern estetik protokollerini ve premium cilt bakımı rutinlerini destekler."
+  },
+  "quality": {
+    "title": "Kalite ve uyum",
+    "intro": "BONITTO®'da kalite, formülasyon ve ham madde seçiminden üretim, ambalajlama ve nihai serbest bırakmaya kadar her aşamaya yerleştirilmiştir.",
+    "cosmeticLines": "<strong>Kozmetik seriler (flakonlarda profesyonel kozmetikler + cilt bakımı):</strong> <strong>Flakonlarda profesyonel kozmetiklerimiz</strong> ve <strong>cilt bakımı/kozmetik ürünlerimiz</strong>, Avrupa Birliği'ndeki kozmetik ürünler için mevzuat uyumunu destekleyen <strong>AB CPNP (Cosmetic Products Notification Portal)</strong> üzerinden bildirilmiştir.",
+    "medicalDeviceLines": "<strong>Tıbbi cihaz serileri (yalnızca fillerlar):</strong> <strong>Enjekte edilebilir tıbbi cihazlar</strong> olarak sınıflandırılan <strong>HA dermal fillerlarımız</strong>, sertifikalı bir <strong>ISO 13485</strong> kalite yönetim sistemi altında üretilir ve <strong>AB Tıbbi Cihaz Yönetmeliği (MDR) kapsamında CE işaretlidir</strong>; bu da güvenlik, izlenebilirlik ve performansa yönelik yapılandırılmış ve uyumlu bir yaklaşımı yansıtır.",
+    "qualityDriven": "<strong>BONITTO® ürünleri, tutarlı spesifikasyonlar ve güvenilir performans sağlamak için kalite odaklı bir yaklaşımla geliştirilir ve kontrollü, kalite yönetimli süreçler altında üretilir.</strong> Portföyümüz genelinde - <strong>HA dermal fillerlar (enjekte edilebilir tıbbi cihazlar)</strong>, <strong>flakonlarda profesyonel kozmetikler</strong> ve <strong>cilt bakımı/kozmetik ürünleri</strong> - <strong>belgelenmiş kalite kontrollerine</strong> ve profesyonellerin güvenebileceği ürün tutarlılığına odaklanıyoruz. <strong>HA filler serimizde</strong>, <strong>kullanım özellikleri, ürün tutarlılığı, izlenebilirlik ve uyum odaklı kontroller</strong> özellikle önceliklidir. <strong>Kozmetik serilerimizde</strong> ise <strong>formülasyon stabilitesi, cilt uyumluluğu ve premium duyusal deneyimi</strong> vurguluyoruz. Sürekli iyileştirme, <strong>pazar geri bildirimleri ve ürün değerlendirmesi</strong> ile yönlendirilir; dokular, kullanılabilirlik ve genel güvenilirlik alanlarında devam eden geliştirmeyi destekler.",
+    "support": "Klinikleri, profesyonelleri ve distribütörleri desteklemek için BONITTO® ayrıca <strong>güvenilir bulunabilirlik, hızlı destek ve düzenli dağıtıma</strong> öncelik verir; böylece ortakların ürün seçiminden teslimata kadar tutarlı bir deneyim sunmasına yardımcı olur."
+  },
+  "images": {
+    "microscopeAlt": "Üç objektif lensli bir mikroskobun yakın planı. Bir pipet, mikroskop tablasındaki cam lam üzerine sıvı damlatıyor. Görsel mavi-yeşil bir tona sahiptir.",
+    "modelAlt": "Üst göz kapağını vurgulayan mavi far ve alt göz kapağının altında uyumlu mavi çizgi bulunan bir kişinin yakın planı. Yüz doğal görünümlü, dudaklar açık pembe rujlu. Saçlar düz ve açık sarıdır."
+  }
+}

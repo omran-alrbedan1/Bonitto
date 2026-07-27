@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "title": "Área Reservada",
+    "description": "Acceda a recursos exclusivos para profesionales y distribuidores verificados."
+  },
+  "login": {
+    "title": "Inicio de Sesión Profesional",
+    "description": "Acceda a listas de precios, documentos de pedidos y recursos exclusivos.",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Iniciar Sesión",
+    "forgotPassword": "¿Olvidó su contraseña?"
+  },
+  "dashboard": {
+    "title": "Bienvenido de nuevo",
+    "priceLists": "Listas de Precios",
+    "orderDocuments": "Documentos de Pedido",
+    "certificates": "Certificados",
+    "logout": "Cerrar Sesión"
+  }
+}

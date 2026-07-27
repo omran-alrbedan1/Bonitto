@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "title": "À propos de nous",
+    "description": "Bonitto® est une marque esthétique fabriquée en Italie, au service des marchés B2B et B2C de la médecine esthétique avec des fillers HA, des cosmétiques professionnels et des soins de la peau.",
+    "keywords": "à propos de Bonitto, produits esthétiques italiens, fillers HA, cosmétiques professionnels, soins de la peau"
+  },
+  "hero": {
+    "title": "À propos de nous",
+    "intro": "Bienvenue chez <strong>BONITTO®</strong>, <strong>fabriqué en Italie</strong>, au service du <strong>marché B2B et B2C de la médecine esthétique</strong> avec des solutions de haute qualité couvrant les <strong>fillers dermiques HA (dispositifs médicaux injectables)</strong>, les <strong>cosmétiques professionnels en flacons</strong> et les <strong>produits professionnels de soin et cosmétiques pour la peau</strong>. Notre portefeuille est développé pour les <strong>cliniques esthétiques, médecins, distributeurs et professionnels de la beauté</strong>, ainsi que pour les clients finaux à la recherche de soins fiables et performants. Avec une attention constante portée à la cohérence et à la qualité, BONITTO® accompagne les protocoles esthétiques modernes et les routines de soin premium."
+  },
+  "quality": {
+    "title": "Qualité et conformité",
+    "intro": "Chez BONITTO®, la qualité est intégrée à chaque étape, de la formulation et de la sélection des matières premières à la production, au conditionnement et à la libération finale.",
+    "cosmeticLines": "<strong>Lignes cosmétiques (cosmétiques professionnels en flacons + soins de la peau) :</strong> Nos <strong>cosmétiques professionnels en flacons</strong> et nos <strong>produits de soin/cosmétiques</strong> sont notifiés via le <strong>CPNP de l'UE (Cosmetic Products Notification Portal)</strong>, soutenant l'alignement réglementaire des produits cosmétiques dans l'Union européenne.",
+    "medicalDeviceLines": "<strong>Lignes de dispositifs médicaux (fillers uniquement) :</strong> Nos <strong>fillers dermiques HA</strong>, classés comme <strong>dispositifs médicaux injectables</strong>, sont fabriqués selon un système de gestion de la qualité certifié <strong>ISO 13485</strong> et portent le <strong>marquage CE selon le Règlement européen sur les dispositifs médicaux (MDR)</strong>, reflétant une approche structurée et conforme de la sécurité, de la traçabilité et de la performance.",
+    "qualityDriven": "<strong>Les produits BONITTO® sont développés selon une approche axée sur la qualité et fabriqués dans le cadre de processus contrôlés et gérés par la qualité afin de garantir des spécifications constantes et des performances fiables.</strong> Dans l'ensemble de notre portefeuille - <strong>fillers dermiques HA (dispositifs médicaux injectables)</strong>, <strong>cosmétiques professionnels en flacons</strong> et <strong>produits de soin/cosmétiques</strong> - nous nous concentrons sur des <strong>contrôles qualité documentés</strong> et une constance produit digne de la confiance des professionnels. Pour notre <strong>gamme de fillers HA</strong>, une attention particulière est portée aux <strong>caractéristiques de manipulation, à la constance du produit, à la traçabilité et aux contrôles axés sur la conformité</strong>. Pour nos <strong>lignes cosmétiques</strong>, nous mettons l'accent sur la <strong>stabilité des formulations, la compatibilité cutanée et une expérience sensorielle premium</strong>. L'amélioration continue est guidée par les <strong>retours du marché et l'évaluation des produits</strong>, soutenant le perfectionnement des textures, de l'utilisation et de la fiabilité globale.",
+    "support": "Pour accompagner les cliniques, les professionnels et les distributeurs, BONITTO® accorde également la priorité à une <strong>disponibilité fiable, un support réactif et une distribution optimisée</strong>, aidant les partenaires à offrir une expérience cohérente, de la sélection du produit à la livraison."
+  },
+  "images": {
+    "microscopeAlt": "Gros plan d'un microscope avec trois objectifs. Une pipette introduit un liquide sur une lame de verre placée sur la platine du microscope. L'image présente une teinte bleu-vert.",
+    "modelAlt": "Gros plan d'une personne avec un fard à paupières bleu accentuant la paupière supérieure et une ligne bleue assortie sous la paupière inférieure. Le visage a un aspect naturel avec un rouge à lèvres rose clair. Les cheveux sont lisses et blond clair."
+  }
+}

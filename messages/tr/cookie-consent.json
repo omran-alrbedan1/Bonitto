@@ -1,0 +1,15 @@
+{
+  "message": "Deneyiminizi geliştirmek için çerezler kullanıyoruz. Tercihlerinizi aşağıdan seçin.",
+  "acceptAll": "Tümünü Kabul Et",
+  "denyAll": "Tümünü Reddet",
+  "preferences": "Tercihleri Görüntüle",
+  "functional": "İşlevsel",
+  "functionalDesc": "Web sitesinin düzgün çalışması için gereklidir.",
+  "preferences_cat": "Tercihler",
+  "preferencesDesc": "Ayarlarınızı ve seçimlerinizi hatırlar.",
+  "statistics": "İstatistikler",
+  "statisticsDesc": "Ziyaretçilerin web sitemizi nasıl kullandığını anlamamıza yardımcı olur.",
+  "marketing": "Pazarlama",
+  "marketingDesc": "Kişiselleştirilmiş reklamlar için kullanılır.",
+  "save": "Tercihleri Kaydet"
+}

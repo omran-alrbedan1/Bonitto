@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "title": "Sobre nosotros",
+    "description": "Bonitto® es una marca estética fabricada en Italia que atiende el mercado B2B y B2C de la medicina estética con rellenos dérmicos HA, cosméticos profesionales y cuidado de la piel.",
+    "keywords": "sobre Bonitto, productos estéticos italianos, rellenos dérmicos HA, cosméticos profesionales, cuidado de la piel"
+  },
+  "hero": {
+    "title": "Sobre nosotros",
+    "intro": "Bienvenido a <strong>BONITTO®</strong>, <strong>fabricado en Italia</strong>, al servicio del <strong>mercado B2B y B2C de la medicina estética</strong> con soluciones de alta calidad en <strong>rellenos dérmicos HA (dispositivos médicos inyectables)</strong>, <strong>cosméticos profesionales en viales</strong> y <strong>productos profesionales de skincare y cosmética</strong>. Nuestro portafolio está desarrollado para <strong>clínicas estéticas, médicos, distribuidores y profesionales de la belleza</strong>, así como para clientes finales que buscan un cuidado de la piel fiable y de alto rendimiento. Con un enfoque en la consistencia y la calidad, BONITTO® apoya protocolos estéticos modernos y rutinas premium de cuidado de la piel."
+  },
+  "quality": {
+    "title": "Calidad y cumplimiento",
+    "intro": "En BONITTO®, la calidad está integrada en cada etapa: desde la formulación y la selección de materias primas hasta la producción, el envasado y la liberación final.",
+    "cosmeticLines": "<strong>Líneas cosméticas (cosméticos profesionales en viales + skincare):</strong> Nuestros <strong>cosméticos profesionales en viales</strong> y <strong>productos de skincare/cosméticos</strong> están notificados a través del <strong>CPNP de la UE (Cosmetic Products Notification Portal)</strong>, respaldando la alineación regulatoria de los productos cosméticos en la Unión Europea.",
+    "medicalDeviceLines": "<strong>Líneas de dispositivos médicos (solo rellenos):</strong> Nuestros <strong>rellenos dérmicos HA</strong>, clasificados como <strong>dispositivos médicos inyectables</strong>, se fabrican bajo un sistema de gestión de calidad certificado <strong>ISO 13485</strong> y cuentan con <strong>marcado CE conforme al Reglamento de Dispositivos Médicos de la UE (MDR)</strong>, reflejando un enfoque estructurado y conforme para la seguridad, la trazabilidad y el rendimiento.",
+    "qualityDriven": "<strong>Los productos BONITTO® se desarrollan con un enfoque impulsado por la calidad y se fabrican bajo procesos controlados y gestionados por calidad para garantizar especificaciones consistentes y un rendimiento fiable.</strong> En todo nuestro portafolio - <strong>rellenos dérmicos HA (dispositivos médicos inyectables)</strong>, <strong>cosméticos profesionales en viales</strong> y <strong>productos de skincare/cosméticos</strong> - nos enfocamos en <strong>controles de calidad documentados</strong> y en una consistencia del producto en la que los profesionales puedan confiar. Para nuestra <strong>gama de rellenos HA</strong>, prestamos especial atención a las <strong>características de manejo, la consistencia del producto, la trazabilidad y los controles enfocados en el cumplimiento</strong>. Para nuestras <strong>líneas cosméticas</strong>, enfatizamos la <strong>estabilidad de la formulación, la compatibilidad con la piel y una experiencia sensorial premium</strong>. La mejora continua se guía por el <strong>feedback del mercado y la evaluación del producto</strong>, apoyando el refinamiento constante de texturas, usabilidad y fiabilidad general.",
+    "support": "Para apoyar a clínicas, profesionales y distribuidores, BONITTO® también prioriza una <strong>disponibilidad fiable, soporte ágil y distribución optimizada</strong>, ayudando a los socios a ofrecer una experiencia consistente desde la selección del producto hasta la entrega."
+  },
+  "images": {
+    "microscopeAlt": "Primer plano de un microscopio con tres lentes objetivo. Una pipeta introduce un líquido sobre un portaobjetos colocado en la platina del microscopio. La imagen tiene un tono azul verdoso.",
+    "modelAlt": "Primer plano de una persona con sombra de ojos azul que acentúa el párpado superior y una línea azul a juego bajo el párpado inferior. El rostro tiene un aspecto natural con labial rosa claro. El cabello es liso y rubio claro."
+  }
+}

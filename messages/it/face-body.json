@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "title": "3D Touch — Viso e Corpo",
+    "description": "Esplora la nostra guida interattiva ai trattamenti viso e corpo per trovare i prodotti più adatti per ogni area.",
+    "keywords": "trattamenti viso corpo, zone filler dermici, aree di trattamento estetico"
+  },
+  "hero": {
+    "tag": "3D TOUCH",
+    "title": "Esplora le aree di trattamento",
+    "description": "Seleziona un'area del viso o del corpo per scoprire le raccomandazioni di prodotto pertinenti."
+  },
+  "fallback": {
+    "title": "Aree di Trattamento",
+    "description": "Seleziona una zona per visualizzare le raccomandazioni dei prodotti:"
+  }
+}

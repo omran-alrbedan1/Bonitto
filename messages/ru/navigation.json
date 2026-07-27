@@ -1,0 +1,24 @@
+{
+  "home": "Главная",
+  "aboutUs": "О нас",
+  "products": "Наши продукты",
+  "newsEvents": "Мероприятия",
+  "researchArticles": "Научные статьи",
+  "expertInsights": "Экспертные материалы и демонстрации",
+  "faceBody": "3D Touch",
+  "contactUs": "Свяжитесь с нами",
+  "distributors": "Дистрибьюторы",
+  "reservedArea": "Закрытая область",
+  "shop": "Магазин",
+  "megaMenu": {
+    "title": "Наши продукты",
+    "categories": [
+      { "number": "01", "label": "Филлеры на основе гиалуроновой кислоты" },
+      { "number": "02", "label": "MDR-одобренные HA и аминокислотные филлеры" },
+      { "number": "03", "label": "Профессиональная косметика — Флаконы" },
+      { "number": "04", "label": "Профессиональная косметика — Шприцы" },
+      { "number": "05", "label": "Линейка Poly-L-Lactic Acid (PLLA)" },
+      { "number": "06", "label": "Уход за кожей" }
+    ]
+  }
+}

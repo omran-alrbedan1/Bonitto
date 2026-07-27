@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "title": "Noticias y Eventos",
+    "description": "Manténgase actualizado con los últimos eventos, artículos de investigación y noticias de Bonitto Aesthetic.",
+    "keywords": "eventos bonitto, noticias de estética médica, artículos de investigación"
+  },
+  "hero": {
+    "tag": "NOTICIAS Y EVENTOS",
+    "title": "Manténgase informado",
+    "description": "Descubra nuestros últimos eventos, artículos de investigación e información de la industria."
+  },
+  "tabs": {
+    "all": "Todos",
+    "events": "Eventos",
+    "researchArticles": "Artículos de Investigación"
+  },
+  "viewAll": "Ver todos",
+  "readMore": "Leer más",
+  "share": "Compartir",
+  "relatedArticles": "Artículos Relacionados",
+  "categories": {
+    "events": {
+      "description": "Una oportunidad para conectar directamente con la innovación, la excelencia y la filosofía estética que definen nuestra marca. Únase a presentaciones exclusivas y conozca a expertos del sector para vivir de cerca el mundo Bonitto®."
+    }
+  },
+  "eventDetails": {
+    "backToEvents": "Volver a eventos",
+    "videoFallback": "Su navegador no admite la etiqueta de video."
+  }
+}

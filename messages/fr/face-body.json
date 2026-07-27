@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "title": "3D Touch — Visage et Corps",
+    "description": "Explorez notre guide interactif de traitements visage et corps pour trouver les produits adaptés à chaque zone.",
+    "keywords": "traitement visage corps, zones de filler dermique, zones de traitement esthétique"
+  },
+  "hero": {
+    "tag": "3D TOUCH",
+    "title": "Explorez les zones de traitement",
+    "description": "Sélectionnez une zone du visage ou du corps pour découvrir les recommandations de produits correspondantes."
+  },
+  "fallback": {
+    "title": "Zones de traitement",
+    "description": "Sélectionnez une zone pour afficher les recommandations de produits :"
+  }
+}

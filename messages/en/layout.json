@@ -1,27 +1,17 @@
 {
   "metadata": {
-    "title": "Net eSIM",
-    "template": "%s | Net eSIM",
-    "description": "Fast, affordable eSIM data plans for 190+ countries. Instant activation, no roaming fees.",
-    "keywords": "esim, travel esim, global esim, mobile data, net esim, international roaming"
+    "title": "Bonitto Aesthetic",
+    "template": "%s | Bonitto Aesthetic",
+    "description": "Premium medical aesthetics products — dermal fillers, professional cosmetics, and skincare for clinics and distributors worldwide.",
+    "keywords": "medical aesthetics, dermal fillers, hyaluronic acid, skincare, professional cosmetics, bonitto"
   },
   "footer": {
-    "copyright": "© 2026 Net eSIM. All rights reserved.",
-    "tagline": "Simple global connectivity for every journey.",
-    "explore": "Explore",
-    "help": "Help",
-    "app": "Get the app",
-    "destinations": "Destinations",
-    "plans": "Plans",
-    "support": "Support",
-    "about": "About us",
-    "company": "Company",
-    "legal": "Legal Links",
-    "contact": "Contact",
-    "becomePartner": "Become a Partner",
-    "privacy": "Privacy Policy",
+    "copyright": "© 2026 Bonitto Aesthetic. All Rights Reserved.",
+    "contactUs": "Contact us",
+    "followUs": "Or follow us",
+    "privacyPolicy": "Privacy Policy",
+    "cookiePolicy": "Cookie Policy",
     "terms": "Terms & Conditions",
-    "refund": "Refund Policy",
     "poweredBy": "Powered by"
   }
 }

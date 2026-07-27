@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "Contattaci",
+    "description": "Mettiti in contatto con Bonitto Aesthetic per richieste sui prodotti, opportunità di distribuzione o domande generali.",
+    "keywords": "contattare bonitto aesthetic, richiesta filler dermici, distributore prodotti estetici"
+  },
+  "hero": {
+    "tag": "CONTATTACI",
+    "title": "Contatti",
+    "description": "Unisciti a Bonitto® come nostro partner. Inviaci i tuoi dati di contatto e i tuoi interessi per parlare con noi di piani prodotto e vendita personalizzati. Un sales manager professionale ti risponderà entro 24 ore."
+  },
+  "form": {
+    "howDidYouFindUs": "Come ci hai conosciuti?",
+    "firstName": "Nome*",
+    "lastName": "Cognome*",
+    "company": "Azienda*",
+    "email": "Email*",
+    "phone": "Telefono/WhatsApp*",
+    "country": "Paese*",
+    "message": "Messaggio*",
+    "privacyConsent": "Ho letto e accetto l'informativa sulla privacy",
+    "submit": "Invia",
+    "success": "Grazie. Il tuo messaggio è stato inviato. Ti risponderemo a breve.",
+    "error": "Qualcosa è andato storto. Riprova o scrivici direttamente.",
+    "sourceOptions": {
+      "ads": "Annunci",
+      "socialFacebook": "Social media - Facebook",
+      "socialInstagram": "Social media - Instagram",
+      "socialYouTube": "Social media - YouTube",
+      "exhibitions": "Fiere",
+      "clinics": "Cliniche",
+      "google": "Motori di ricerca - Google",
+      "bing": "Motori di ricerca - Bing",
+      "other": "Altro / nessuna delle precedenti"
+    }
+  },
+  "offices": {
+    "title": "Le nostre sedi"
+  },
+  "image": {
+    "alt": "Una persona con capelli ricci e trucco artistico, con ombretto verde e linee geometriche, posa davanti a uno sfondo grigio. Ha un’espressione neutra e le spalle scoperte."
+  }
+}

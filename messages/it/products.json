@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "Prodotti",
+    "description": "Esplora la nostra gamma di filler dermici premium, cosmetici professionali e prodotti per la cura della pelle.",
+    "keywords": "filler dermici, filler acido ialuronico, prodotti cura della pelle, cosmetici professionali"
+  },
+  "categories": {
+    "ha-fillers": {
+      "name": "Filler all'Acido Ialuronico",
+      "description": "Filler dermici avanzati a base di acido ialuronico per il ripristino del volume, la correzione delle rughe e il contouring del viso."
+    },
+    "mdr-fillers": {
+      "name": "Filler HA e Aminoacidici Approvati MDR",
+      "description": "Filler approvati normativamente che soddisfano gli standard europei più rigorosi per i dispositivi medici."
+    },
+    "cosmetics-vials": {
+      "name": "Cosmetici Professionali — Fiale",
+      "description": "Trattamenti cosmetici di livello professionale in comoda format fiala."
+    },
+    "cosmetics-syringes": {
+      "name": "Cosmetici Professionali — Siringhe",
+      "description": "Trattamenti cosmetici a precisione controllata per uso professionale."
+    },
+    "plla": {
+      "name": "Linea Acido Poli-L-Lattico (PLLA)",
+      "description": "Trattamenti biostimolanti per una stimolazione del collagene duratura."
+    },
+    "skincare": {
+      "name": "Cura della Pelle",
+      "description": "Formulazioni premium per la cura della pelle per il post-trattamento e le routine quotidiane."
+    }
+  },
+  "detail": {
+    "specifications": "Specifiche",
+    "indications": "Indicazioni",
+    "effects": "Effetti",
+    "target": "Bersaglio Principale",
+    "relatedProducts": "Prodotti Correlati",
+    "contactDistributor": "Contatto per Distribuzione",
+    "downloadDatasheet": "Scarica Scheda Tecnica"
+  }
+}

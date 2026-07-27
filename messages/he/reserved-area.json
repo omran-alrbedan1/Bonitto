@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "title": "אזור שמור",
+    "description": "גישה למשאבים בלעדיים למקצוענים ומפיצים מאומתים."
+  },
+  "login": {
+    "title": "כניסת מקצוען",
+    "description": "גישה למחירונים, מסמכי הזמנה ומשאבים בלעדיים.",
+    "email": "אימייל",
+    "password": "סיסמה",
+    "submit": "התחבר",
+    "forgotPassword": "שכחת סיסמה?"
+  },
+  "dashboard": {
+    "title": "ברוך שובך",
+    "priceLists": "מחירונים",
+    "orderDocuments": "מסמכי הזמנה",
+    "certificates": "תעודות",
+    "logout": "התנתק"
+  }
+}

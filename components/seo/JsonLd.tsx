@@ -4,22 +4,22 @@ const organization = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   '@id': `${SITE_URL}/#organization`,
-  name: 'Net eSIM',
+  name: 'Bonitto Aesthetic',
   url: SITE_URL,
   logo: `${SITE_URL}/images/logo.png`,
-  description: 'Digital travel eSIM packages for global mobile connectivity.',
+  description: 'Premium medical aesthetics products — dermal fillers, professional cosmetics, and skincare for clinics and distributors worldwide.',
   contactPoint: {
     '@type': 'ContactPoint',
-    telephone: '+971501234567',
+    telephone: '+391234567890',
     contactType: 'customer service',
-    availableLanguage: ['Arabic', 'English'],
+    availableLanguage: ['English', 'French', 'German', 'Italian', 'Russian', 'Turkish', 'Arabic', 'Spanish'],
     areaServed: 'Worldwide',
   },
   sameAs: [
-    'https://facebook.com/netesim',
-    'https://instagram.com/netesim',
-    'https://twitter.com/netesim',
-    'https://linkedin.com/company/netesim',
+    'https://facebook.com/bonittoaesthetic',
+    'https://linkedin.com/company/bonittoaesthetic',
+    'https://instagram.com/bonittoaesthetic',
+    'https://youtube.com/@bonittoaesthetic',
   ],
 };
 
@@ -28,42 +28,10 @@ const website = {
   '@type': 'WebSite',
   '@id': `${SITE_URL}/#website`,
   url: SITE_URL,
-  name: 'Net eSIM',
-  description: 'Travel eSIM packages, coverage information, and compatibility guidance.',
+  name: 'Bonitto Aesthetic',
+  description: 'Premium medical aesthetics products for professionals.',
   publisher: { '@id': `${SITE_URL}/#organization` },
-  inLanguage: ['en', 'ar'],
-  potentialAction: {
-    '@type': 'SearchAction',
-    target: {
-      '@type': 'EntryPoint',
-      urlTemplate: `${SITE_URL}/en/packages?q={search_term_string}`,
-    },
-    'query-input': 'required name=search_term_string',
-  },
-};
-
-const webpage = {
-  '@context': 'https://schema.org',
-  '@type': 'WebPage',
-  '@id': `${SITE_URL}/#webpage`,
-  url: SITE_URL,
-  name: 'Net eSIM',
-  description: 'Travel eSIM packages, coverage information, and compatibility guidance.',
-  publisher: { '@id': `${SITE_URL}/#organization` },
-  inLanguage: ['en', 'ar'],
-  about: {
-    '@type': 'Thing',
-    name: 'eSIM Travel Connectivity',
-  },
-};
-
-const breadcrumb = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  '@id': `${SITE_URL}/#breadcrumb`,
-  itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/en` },
-  ],
+  inLanguage: ['en', 'fr', 'de', 'it', 'ru', 'tr', 'ar', 'es'],
 };
 
 export function JsonLd() {
@@ -71,8 +39,6 @@ export function JsonLd() {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(organization) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(website) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webpage) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
     </>
   );
 }

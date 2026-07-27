@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "Produits",
+    "description": "Découvrez notre gamme de fillers dermiques premium, de cosmétiques professionnels et de produits de soins pour la peau.",
+    "keywords": "fillers dermiques, fillers à l'acide hyaluronique, produits de soins, cosmétiques professionnels"
+  },
+  "categories": {
+    "ha-fillers": {
+      "name": "Fillers à l'acide hyaluronique",
+      "description": "Fillers dermiques avancés à base d'acide hyaluronique pour la restauration du volume, la correction des rides et la sculpturation du visage."
+    },
+    "mdr-fillers": {
+      "name": "Fillers HA et acides aminés approuvés MDR",
+      "description": "Fillers conformes à la réglementation, répondant aux normes européennes les plus strictes pour les dispositifs médicaux."
+    },
+    "cosmetics-vials": {
+      "name": "Cosmétiques professionnels — Flacons",
+      "description": "Traitements cosmétiques de qualité professionnelle dans un format pratique en flacon."
+    },
+    "cosmetics-syringes": {
+      "name": "Cosmétiques professionnels — Seringues",
+      "description": "Traitements cosmétiques à dosage précis pour un usage professionnel."
+    },
+    "plla": {
+      "name": "Gamme Acide poly-L-lactique (PLLA)",
+      "description": "Traitements biostimulants pour une stimulation prolongée du collagène."
+    },
+    "skincare": {
+      "name": "Soins de la peau",
+      "description": "Formulations de soins premium pour les soins post-traitement et les routines quotidiennes."
+    }
+  },
+  "detail": {
+    "specifications": "Caractéristiques",
+    "indications": "Indications",
+    "effects": "Effets",
+    "target": "Cible principale",
+    "relatedProducts": "Produits similaires",
+    "contactDistributor": "Contacter pour la distribution",
+    "downloadDatasheet": "Télécharger la fiche technique"
+  }
+}

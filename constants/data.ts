@@ -1,30 +1,15 @@
-export const iosDevices = [
-  'iPad 8th Gen (WiFi+Cellular)',
-  'iPad 10th Gen',
-  'iPad Pro 11-inch (M4)',
-  'iPad Pro 11-inch 4th Gen (WiFi+Cellular)',
-  'iPad Pro 11-inch 4th Gen',
-  'iPad Pro 11-inch 3rd Gen (WiFi+Cellular)',
-  'iPad Pro 11-inch 3rd Gen',
-  'iPad mini 5th Gen',
-  'iPad mini (6th Gen)',
-  'iPad Air 5th Gen (WiFi+Cellular)',
-  'iPad Air 3rd Gen',
-  'iPad Air 13-inch (M2)',
-  'iPad 10th Gen',
-  'iPad 8th Gen (WiFi+Cellular)',
-  'iPad mini 5th Gen',
-  'iPad mini 5th Gen',
-  'iPad mini 5th Gen',
-  'iPad mini 5th Gen',
-  'iPad mini 5th Gen',
-];
+export const PRODUCT_CATEGORIES = [
+  { slug: '01', name: 'Hyaluronic Acid Fillers' },
+  { slug: '02', name: 'MDR-Approved HA & Amino Acid Fillers' },
+  { slug: '03', name: 'Professional Cosmetics — Vials' },
+  { slug: '04', name: 'Professional Cosmetics — Syringes' },
+  { slug: '05', name: 'Poly-L-Lactic Acid (PLLA) Line' },
+  { slug: '06', name: 'Skincare' },
+] as const;
 
-export const androidDevices = [
-  'Samsung Galaxy S24 Ultra',
-  'Samsung Galaxy S23',
-  'Google Pixel 9 Pro',
-  'Google Pixel 8',
-  'Xiaomi 14 Pro',
-  'Oppo Find X5',
-];
+export const SOCIAL_LINKS = [
+  { href: 'https://facebook.com/bonittoaesthetic', label: 'Facebook' },
+  { href: 'https://linkedin.com/company/bonittoaesthetic', label: 'LinkedIn' },
+  { href: 'https://instagram.com/bonittoaesthetic', label: 'Instagram' },
+  { href: 'https://youtube.com/@bonittoaesthetic', label: 'YouTube' },
+] as const;

@@ -1,81 +1,23 @@
 {
   "metadata": {
     "title": "About Us",
-    "description": "Learn about Net eSIM and our mission to make global connectivity simple and affordable for every traveler.",
-    "keywords": "about net esim, global esim, esim travel, digital sim, futurex",
-    "ogImage": "/og-image.jpg"
+    "description": "Bonitto® is an Italian-made aesthetic brand serving the B2B and B2C medical aesthetics market with HA dermal fillers, professional cosmetics, and skincare.",
+    "keywords": "about Bonitto, Italian aesthetic products, HA dermal fillers, professional cosmetics, skincare"
   },
   "hero": {
-    "tag": "ABOUT US",
-    "title": "Global connectivity, <span>simplified</span>.",
-    "subtitle": "We believe staying connected shouldn't be complicated. Net eSIM gives you instant, affordable data wherever you go.",
-    "cta_primary": "Explore Plans",
-    "cta_secondary": "Our Mission",
-    "scroll_indicator": "Scroll Down",
-    "feature_title": "Connection that <span>travels with you</span>",
-    "feature_body": "Net Sim is a digital connectivity platform providing mobile data services using modern eSIM technology. Users will be able to activate mobile data plans worldwide without using physical SIM cards.",
-    "cta_how": "How eSIM Works",
-    "cta_learn": "Learn More",
-    "graphic_floating": "Connect <span>without limits,</span> wherever you are"
+    "title": "About us",
+    "intro": "Welcome to <strong>BONITTO®</strong>, <strong>Italian-made</strong>, serving the <strong>B2B and B2C medical aesthetics market</strong> with high-quality solutions across <strong>HA dermal fillers (injectable medical devices)</strong>, <strong>professional cosmetics in vials</strong>, and <strong>professional skincare and cosmetic products</strong>. Our portfolio is developed for <strong>aesthetic clinics, doctors, distributors, and beauty professionals</strong>, as well as end customers seeking reliable, high-performance skincare. With a focus on consistency and quality, BONITTO® supports modern aesthetic protocols and premium skincare routines."
   },
-  "mission": {
-    "title": "Our Mission",
-    "body": "At Net eSIM, we're on a mission to eliminate roaming fees and make global connectivity accessible to everyone. We partner with leading telecom operators worldwide to bring you reliable data at fair prices — delivered digitally, instantly.",
-    "heading": "Make global connectivity effortless",
-    "body_simple": "To give every traveler access to reliable internet through a service that is genuinely simple, transparent in pricing, and built around how people actually travel today."
+  "quality": {
+    "title": "Quality & Compliance",
+    "intro": "At BONITTO®, quality is embedded into every stage-from formulation and raw material selection to production, packaging, and final release.",
+    "cosmeticLines": "<strong>Cosmetic lines (Professional cosmetics in vials + Skincare):</strong> Our <strong>professional cosmetics in vials</strong> and <strong>skincare/cosmetic products</strong> are notified through the <strong>EU CPNP (Cosmetic Products Notification Portal)</strong>, supporting regulatory alignment for cosmetic products in the European Union.",
+    "medicalDeviceLines": "<strong>Medical device lines (Fillers only):</strong> Our <strong>HA dermal fillers</strong>, classified as <strong>injectable medical devices</strong>, are manufactured under a certified <strong>ISO 13485</strong> quality management system and are <strong>CE marked under the EU Medical Device Regulation (MDR)</strong>-reflecting a structured, compliant approach to safety, traceability, and performance.",
+    "qualityDriven": "<strong>BONITTO® products are developed with a quality-driven approach and manufactured under controlled, quality-managed processes to ensure consistent specifications and dependable performance.</strong> Across our portfolio-<strong>HA dermal fillers (injectable medical devices)</strong>, <strong>professional cosmetics in vials</strong>, and <strong>skincare/cosmetic products</strong>-we focus on <strong>documented quality controls</strong> and product consistency that professionals can trust. For our <strong>HA filler range</strong>, particular attention is placed on <strong>handling characteristics, product consistency, traceability, and compliance-focused controls</strong>. For our <strong>cosmetic lines</strong>, we emphasize <strong>formulation stability, skin compatibility, and a premium sensory experience</strong>. Continuous improvement is guided by <strong>market feedback and product evaluation</strong>, supporting ongoing refinement across textures, usability, and overall reliability.",
+    "support": "To support clinics, professionals, and distributors, BONITTO® also prioritizes <strong>reliable availability, responsive support, and streamlined distribution</strong>, helping partners deliver a consistent experience from product selection to delivery."
   },
-  "vision": {
-    "title": "Our Vision",
-    "body": "A world where every traveler can stay connected without thinking about it. No SIM swapping, no bill shock, no coverage anxiety. Just seamless, affordable data wherever you go.",
-    "heading": "A world where the physical SIM is history",
-    "body_simple": "A future where every traveler arrives at their destination already connected — where a data plan is as effortless to arrange as a boarding pass, and just as reliable."
-  },
-  "values": {
-    "title": "What We Stand For",
-    "items": [
-      {
-        "title": "Transparency",
-        "description": "Clear pricing with no hidden fees. What you see is what you pay."
-      },
-      {
-        "title": "Reliability",
-        "description": "Dual network coverage across 190+ countries ensures you're always connected."
-      },
-      {
-        "title": "Simplicity",
-        "description": "From purchase to activation in under 2 minutes. No paperwork, no hassle."
-      },
-      {
-        "title": "Support",
-        "description": "24/7 multilingual support whenever you need help on your journey."
-      }
-    ]
-  },
-  "stats": {
-    "years": "Years serving travelers",
-    "countries": "Countries covered",
-    "customers": "Happy customers",
-    "networks": "Network partners"
-  },
-  "story": {
-    "title": "Our Story",
-    "heading": "How We Started",
-    "body": "Net eSIM was born from a simple frustration: why is staying connected while traveling so expensive and complicated? Founded by a team of telecom and travel enthusiasts, we set out to build the easiest way to get mobile data abroad. Today, we serve travelers from over 190 countries.",
-    "tag": "Our Story",
-    "featured_heading": "Born from a frustration every traveler knows",
-    "featured_body": "Net Sim is a digital connectivity platform developed and operated by NET NOVA GROUP LTD in London, United Kingdom. Our mission is to simplify global connectivity by allowing users to install and activate mobile data plans digitally using eSIM technology.",
-    "airport_text": "It starts at the airport. You land, tired from a long flight, and face the same ritual: find the SIM kiosk, fill in forms, wait — then hope the coverage actually includes your route.",
-    "conviction_text": "Net Sim was built on one conviction: your connection should be ready before your bag is packed. No queues, no physical SIM, no surprise charges.",
-    "unacceptable_text": "We found it unacceptable that millions of travelers go through this every single day. The infrastructure to do better already existed. What was missing was the will to build it properly.",
-    "stat_languages": "Language",
-    "stat_partners": "Partner"
-  },
-  "video": {
-    "title": "Watch Our Story",
-    "heading": "Meet Net eSIM",
-    "body": "See how Net eSIM is changing the way travelers stay connected around the world.",
-    "additionalBody": "From a small startup to a trusted travel companion, our journey has always been about making connectivity simple, affordable, and accessible for everyone.",
-    "didYouKnow": "Did You Know?",
-    "fact": "Net eSIM has connected over 2 million travelers across 190+ countries, saving them an average of $40 per trip in roaming fees."
+  "images": {
+    "microscopeAlt": "Close-up of a microscope with three objective lenses. A pipette is shown introducing a liquid onto a glass slide placed on the microscope stage. The image is tinted with a blue-green hue.",
+    "modelAlt": "Close-up of a person with blue eyeshadow accentuating the upper eyelid and a matching blue line extending below the lower eyelid. The face has a natural look with light pink lipstick. The hair is straight and light blonde."
   }
 }

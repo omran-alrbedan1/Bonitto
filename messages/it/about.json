@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "title": "Chi siamo",
+    "description": "Bonitto® è un marchio estetico made in Italy che serve il mercato B2B e B2C della medicina estetica con filler dermici HA, cosmetici professionali e skincare.",
+    "keywords": "Bonitto chi siamo, prodotti estetici italiani, filler dermici HA, cosmetici professionali, skincare"
+  },
+  "hero": {
+    "title": "Chi siamo",
+    "intro": "Benvenuti in <strong>BONITTO®</strong>, <strong>made in Italy</strong>, al servizio del <strong>mercato B2B e B2C della medicina estetica</strong> con soluzioni di alta qualità nei segmenti <strong>filler dermici HA (dispositivi medici iniettabili)</strong>, <strong>cosmetici professionali in flaconi</strong> e <strong>prodotti professionali skincare e cosmetici</strong>. Il nostro portfolio è sviluppato per <strong>cliniche estetiche, medici, distributori e professionisti della bellezza</strong>, oltre che per clienti finali alla ricerca di skincare affidabile e ad alte prestazioni. Con attenzione alla costanza e alla qualità, BONITTO® supporta protocolli estetici moderni e routine skincare premium."
+  },
+  "quality": {
+    "title": "Qualità e conformità",
+    "intro": "In BONITTO®, la qualità è integrata in ogni fase: dalla formulazione e selezione delle materie prime alla produzione, al confezionamento e al rilascio finale.",
+    "cosmeticLines": "<strong>Linee cosmetiche (cosmetici professionali in flaconi + skincare):</strong> I nostri <strong>cosmetici professionali in flaconi</strong> e <strong>prodotti skincare/cosmetici</strong> sono notificati attraverso il <strong>CPNP UE (Cosmetic Products Notification Portal)</strong>, a supporto dell’allineamento normativo dei prodotti cosmetici nell’Unione Europea.",
+    "medicalDeviceLines": "<strong>Linee di dispositivi medici (solo filler):</strong> I nostri <strong>filler dermici HA</strong>, classificati come <strong>dispositivi medici iniettabili</strong>, sono prodotti secondo un sistema di gestione qualità certificato <strong>ISO 13485</strong> e sono <strong>marcati CE ai sensi del Regolamento UE sui dispositivi medici (MDR)</strong>, riflettendo un approccio strutturato e conforme a sicurezza, tracciabilità e performance.",
+    "qualityDriven": "<strong>I prodotti BONITTO® sono sviluppati con un approccio orientato alla qualità e realizzati attraverso processi controllati e gestiti secondo standard di qualità, per garantire specifiche costanti e prestazioni affidabili.</strong> In tutto il nostro portfolio - <strong>filler dermici HA (dispositivi medici iniettabili)</strong>, <strong>cosmetici professionali in flaconi</strong> e <strong>prodotti skincare/cosmetici</strong> - ci concentriamo su <strong>controlli qualità documentati</strong> e sulla costanza del prodotto su cui i professionisti possono contare. Per la nostra <strong>gamma di filler HA</strong>, particolare attenzione è dedicata a <strong>caratteristiche di utilizzo, costanza del prodotto, tracciabilità e controlli orientati alla conformità</strong>. Per le nostre <strong>linee cosmetiche</strong>, enfatizziamo <strong>stabilità formulativa, compatibilità cutanea ed esperienza sensoriale premium</strong>. Il miglioramento continuo è guidato da <strong>feedback del mercato e valutazione dei prodotti</strong>, sostenendo il perfezionamento continuo di texture, usabilità e affidabilità complessiva.",
+    "support": "Per supportare cliniche, professionisti e distributori, BONITTO® dà inoltre priorità a <strong>disponibilità affidabile, supporto reattivo e distribuzione ottimizzata</strong>, aiutando i partner a offrire un’esperienza coerente dalla selezione del prodotto alla consegna."
+  },
+  "images": {
+    "microscopeAlt": "Primo piano di un microscopio con tre obiettivi. Una pipetta introduce un liquido su un vetrino posizionato sul tavolino del microscopio. L’immagine ha una tonalità blu-verde.",
+    "modelAlt": "Primo piano di una persona con ombretto blu che accentua la palpebra superiore e una linea blu abbinata sotto la palpebra inferiore. Il viso ha un aspetto naturale con rossetto rosa chiaro. I capelli sono lisci e biondo chiaro."
+  }
+}

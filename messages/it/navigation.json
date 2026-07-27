@@ -1,0 +1,24 @@
+{
+  "home": "Home",
+  "aboutUs": "Chi Siamo",
+  "products": "I Nostri Prodotti",
+  "newsEvents": "Eventi",
+  "researchArticles": "Articoli di Ricerca",
+  "expertInsights": "Approfondimenti ed Evidenze degli Esperti",
+  "faceBody": "3D Touch",
+  "contactUs": "Contattaci",
+  "distributors": "Distributori",
+  "reservedArea": "Area Riservata",
+  "shop": "Shop",
+  "megaMenu": {
+    "title": "I Nostri Prodotti",
+    "categories": [
+      { "number": "01", "label": "Filler all'Acido Ialuronico" },
+      { "number": "02", "label": "Filler HA e Aminoacidici Approvati MDR" },
+      { "number": "03", "label": "Cosmetici Professionali — Fiale" },
+      { "number": "04", "label": "Cosmetici Professionali — Siringhe" },
+      { "number": "05", "label": "Linea Acido Poli-L-Lattico (PLLA)" },
+      { "number": "06", "label": "Cura della Pelle" }
+    ]
+  }
+}

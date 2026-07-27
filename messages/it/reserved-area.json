@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "title": "Area Riservata",
+    "description": "Accedi a risorse esclusive per professionisti e distributori verificati."
+  },
+  "login": {
+    "title": "Accesso Professionisti",
+    "description": "Accedi a listini prezzi, documenti d'ordine e risorse esclusive.",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Accedi",
+    "forgotPassword": "Password dimenticata?"
+  },
+  "dashboard": {
+    "title": "Bentornato",
+    "priceLists": "Listini Prezzi",
+    "orderDocuments": "Documenti d'Ordine",
+    "certificates": "Certificati",
+    "logout": "Esci"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "title": "Espace réservé",
+    "description": "Accédez à des ressources exclusives pour les professionnels et distributeurs vérifiés."
+  },
+  "login": {
+    "title": "Espace professionnel",
+    "description": "Accédez aux listes de prix, documents de commande et ressources exclusives.",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "forgotPassword": "Mot de passe oublié ?"
+  },
+  "dashboard": {
+    "title": "Bienvenue",
+    "priceLists": "Listes de prix",
+    "orderDocuments": "Documents de commande",
+    "certificates": "Certificats",
+    "logout": "Se déconnecter"
+  }
+}

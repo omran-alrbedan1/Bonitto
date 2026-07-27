@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "title": "Productos",
+    "description": "Explore nuestra gama de rellenos dérmicos premium, cosméticos profesionales y productos de cuidado de la piel.",
+    "keywords": "rellenos dérmicos, rellenos de ácido hialurónico, productos de cuidado de la piel, cosméticos profesionales"
+  },
+  "categories": {
+    "ha-fillers": {
+      "name": "Rellenos de Ácido Hialurónico",
+      "description": "Rellenos dérmicos avanzados a base de ácido hialurónico para restauración de volumen, corrección de arrugas y contorno facial."
+    },
+    "mdr-fillers": {
+      "name": "Rellenos HA y de Aminoácidos Aprobados por MDR",
+      "description": "Rellenos aprobados por organismos reguladores que cumplen con los más altos estándares europeos de dispositivos médicos."
+    },
+    "cosmetics-vials": {
+      "name": "Cosméticos Profesionales — Viales",
+      "description": "Tratamientos cosméticos de grado profesional en formato conveniente de viales."
+    },
+    "cosmetics-syringes": {
+      "name": "Cosméticos Profesionales — Jeringas",
+      "description": "Tratamientos cosméticos de administración precisa para uso profesional."
+    },
+    "plla": {
+      "name": "Línea de Ácido Poli-L-Láctico (PLLA)",
+      "description": "Tratamientos biostimuladores para estimulación de colágeno duradera."
+    },
+    "skincare": {
+      "name": "Cuidado de la Piel",
+      "description": "Formulaciones premium de cuidado de la piel para tratamientos post-procedimiento y rutinas diarias."
+    }
+  },
+  "detail": {
+    "specifications": "Especificaciones",
+    "indications": "Indicaciones",
+    "effects": "Efectos",
+    "target": "Objetivo Principal",
+    "relatedProducts": "Productos Relacionados",
+    "contactDistributor": "Contactar para Distribución",
+    "downloadDatasheet": "Descargar Ficha Técnica"
+  }
+}

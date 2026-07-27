@@ -1,0 +1,15 @@
+{
+  "message": "Utilizamos cookies para mejorar su experiencia. Elija sus preferencias a continuación.",
+  "acceptAll": "Aceptar Todas",
+  "denyAll": "Rechazar Todas",
+  "preferences": "Ver Preferencias",
+  "functional": "Funcionales",
+  "functionalDesc": "Necesarias para que el sitio web funcione correctamente.",
+  "preferences_cat": "Preferencias",
+  "preferencesDesc": "Recordar su configuración y elecciones.",
+  "statistics": "Estadísticas",
+  "statisticsDesc": "Ayudarnos a entender cómo los visitantes utilizan nuestro sitio web.",
+  "marketing": "Marketing",
+  "marketingDesc": "Utilizadas para publicidad personalizada.",
+  "save": "Guardar Preferencias"
+}

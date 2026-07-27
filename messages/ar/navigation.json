@@ -1,16 +1,24 @@
 {
-  "metadata": {
-    "title": "التنقل",
-    "description": "قائمة التنقل في الموقع"
-  },
   "home": "الرئيسية",
-  "about": "من نحن",
-  "contact": "اتصل بنا",
-  "policies": "سياسة الخصوصية",
-  "destinations": "الوجهات",
-  "how": "كيف تعمل",
-  "plans": "الباقات",
-  "packages": "الباقات",
-  "install": "طريقة تثبيت eSIM",
-  "deviceSupport": "دعم الأجهزة"
+  "aboutUs": "من نحن",
+  "products": "منتجاتنا",
+  "newsEvents": "الفعاليات",
+  "researchArticles": "مقالات البحث",
+  "expertInsights": "رؤى الخبراء وعرض الأداء",
+  "faceBody": "اللمس ثلاثي الأبعاد",
+  "contactUs": "اتصل بنا",
+  "distributors": "الموزعين",
+  "reservedArea": "المنطقة المحظورة",
+  "shop": "المتجر",
+  "megaMenu": {
+    "title": "منتجاتنا",
+    "categories": [
+      { "number": "01", "label": "حشوات حمض الهيالورونيك" },
+      { "number": "02", "label": "حشوات HA والحمامات المعتمدة من MDR" },
+      { "number": "03", "label": "مستحضرات التجميل المهنية — زجاجات" },
+      { "number": "04", "label": "مستحضرات التجميل المهنية — محقنات" },
+      { "number": "05", "label": "خط حمض البولي-ال-لاكتيك (PLLA)" },
+      { "number": "06", "label": "العناية بالبشرة" }
+    ]
+  }
 }

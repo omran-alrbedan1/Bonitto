@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "Contáctenos",
+    "description": "Comuníquese con Bonitto Aesthetic para consultas sobre productos, oportunidades de distribución o preguntas generales.",
+    "keywords": "contactar bonitto aesthetic, consulta de rellenos dérmicos, distribuidor de productos estéticos"
+  },
+  "hero": {
+    "tag": "CONTÁCTENOS",
+    "title": "Contáctenos",
+    "description": "Únase a Bonitto® como socio. Envíenos su información de contacto e intereses para hablar con nosotros sobre planes personalizados de productos y ventas. Un gerente de ventas profesional le responderá en un plazo de 24 horas."
+  },
+  "form": {
+    "howDidYouFindUs": "¿Cómo nos conoció?",
+    "firstName": "Nombre*",
+    "lastName": "Apellido*",
+    "company": "Empresa*",
+    "email": "Correo electrónico*",
+    "phone": "Teléfono/WhatsApp*",
+    "country": "País*",
+    "message": "Mensaje*",
+    "privacyConsent": "He leído y acepto la Política de Privacidad",
+    "submit": "Enviar",
+    "success": "Gracias. Su mensaje ha sido enviado. Le responderemos en breve.",
+    "error": "Algo salió mal. Inténtelo de nuevo o escríbanos directamente.",
+    "sourceOptions": {
+      "ads": "Anuncios",
+      "socialFacebook": "Redes sociales - Facebook",
+      "socialInstagram": "Redes sociales - Instagram",
+      "socialYouTube": "Redes sociales - YouTube",
+      "exhibitions": "Ferias",
+      "clinics": "Clínicas",
+      "google": "Motores de búsqueda - Google",
+      "bing": "Motores de búsqueda - Bing",
+      "other": "Otro / ninguno de los anteriores"
+    }
+  },
+  "offices": {
+    "title": "Nuestras Oficinas"
+  },
+  "image": {
+    "alt": "Una persona con cabello rizado y maquillaje artístico, con sombra de ojos verde y líneas geométricas, posa frente a un fondo gris. Tiene una expresión neutra y los hombros descubiertos."
+  }
+}

@@ -1,232 +1,48 @@
 {
   "metadata": {
-    "title": "Stay connected anywhere",
-    "description": "Affordable eSIM data plans for more than 190 countries. Instant activation, no roaming fees.",
-    "keywords": "esim, travel esim, global esim, mobile data, international roaming, net esim",
-    "ogImage": "/og-image.jpg"
+    "title": "European supplier of Hyaluronic Acid Fillers",
+    "description": "Bonitto® emerges as a European leader in the formulation of dermal fillers, professional cosmetics and skin care products.",
+    "keywords": "dermal fillers, hyaluronic acid, medical aesthetics, skincare, bonitto aesthetic"
   },
   "hero": {
-    "tag": "GLOBAL eSIM · 190+ COUNTRIES",
-    "title": "Stay connected, <span>wherever</span> life takes you.",
-    "subtitle": "Fast, affordable mobile data for your next trip. No roaming fees, no physical SIM, no surprises.",
-    "search": "Where are you traveling?",
-    "popular": "Popular destinations",
-    "view": "View all destinations",
-    "from": "From",
-    "trustpilot": "4.8/5 Trustpilot",
-    "travelers": "2M+ travelers"
+    "tag": "MEDICAL AESTHETICS",
+    "title": "European supplier of hyaluronic acid fillers",
+    "subtitle": "Improved by science, inspired by lifestyle.",
+    "cta": "Who we are",
+    "descriptionBridge": "There is <strong>a bridge between Europe and the rest of the world</strong> – a meeting point between cultural trends and scientific innovation – embodied in a brand of high-quality hyaluronic acid injectable fillers, medical devices, and sterile cosmetic solutions for professionals.",
+    "descriptionBrand": "Bonitto is the name of this brand: an <strong>European supplier of hyaluronic acid fillers, professional cosmetics, and advanced skincare products</strong>. Combining Italian manufacturing excellence with the precision and rigor of Viennese distribution, Bonitto expresses a vision of vitality, wellness, and timeless style.",
+    "descriptionVision": "With a carefully curated range of premium products designed to enhance natural beauty, rejuvenate the skin, and deliver safe, effective results, <strong>Bonitto encourages a new aesthetic culture</strong> devoted to celebrating all forms of beauty."
   },
-  "how": {
-    "title": "WHY NET SIM",
-    "subtitle": "Stay online wherever life takes you with easy-to-activate eSIM plans, extensive global coverage, flexible packages, and a smooth digital experience designed for modern travelers.",
-    "centerTitle": "NET ESIM",
-    "centerSubtitle": "FEATURES OF",
-    "stepsTitle": "How Net eSIM works",
-    "stepsSubtitle": "Online in minutes. It really is this simple.",
-    "steps": [
-      {
-        "title": "Choose your destination",
-        "description": "Find a flexible data plan made for your trip."
-      },
-      {
-        "title": "Install your eSIM",
-        "description": "Scan your QR code and follow the quick setup."
-      },
-      {
-        "title": "Connect when you arrive",
-        "description": "Switch on your eSIM and start exploring."
-      }
-    ],
-    "features": [
-      {
-        "title": "Wallet and points",
-        "description": "Use your balance or points to facilitate the purchase of packages."
-      },
-      {
-        "title": "An easy-to-use app",
-        "description": "Experience to browse, buy, activate, and manage your eSIM details all in one place."
-      },
-      {
-        "title": "Clear Connected",
-        "description": "Ideal for business travelers and frequent travelers, connected while on the go."
-      },
-      {
-        "title": "Activation via QR",
-        "description": "Add your eSIM to your phone via QR code or manual activation."
-      },
-      {
-        "title": "Offers and coupons",
-        "description": "Take advantage of in-app offers and coupons when available."
-      },
-      {
-        "title": "Destination-based packages",
-        "description": "Choose global packages based on your trip, with unlimited packages."
-      }
-    ]
+  "technology": {
+    "tag": "HA ITALIAN MADE FILLERS",
+    "title": "HA italian made fillers and formulations",
+    "highlight": "<strong>More than beauty</strong>, an experience of wellness and self-confidence.",
+    "description": "Blending <strong>cutting-edge research and technology</strong> with the <strong>timeless allure of classic elegance</strong>, Bonitto stands out for its high-performance dermal fillers, professional cosmetics, and advanced skincare formulations."
   },
-  "benefits": {
-    "title": "Travel farther. Stay closer.",
-    "description": "One eSIM gives you reliable data without hunting for local SIM cards or worrying about roaming bills.",
-    "items": [
-      "Instant digital delivery",
-      "Keep your WhatsApp number",
-      "24/7 human support",
-      "Secure, reliable networks"
-    ]
+  "leadership": {
+    "tag": "EUROPEAN LEADER",
+    "title": "European leader in medicine formulation",
+    "highlight": "<strong>Natural beauty inspired</strong> by classical sculptural masterpieces.",
+    "description": "With advanced formulations and a wide selection of fillers, mesotherapy solutions, and skincare products, <strong>Bonitto is devoted to personal care</strong> and the ongoing exploration of the relationship between inner well-being and outer beauty."
   },
-  "plans": {
-    "title": "Simple plans. Clear prices.",
-    "subtitle": "Choose the data you need — top up anytime.",
-    "items": [
-      {
-        "data": "3 GB",
-        "period": "7 days",
-        "price": "$5.00",
-        "features": ["Instant activation", "5G / LTE coverage", "Easy top-up"],
-        "popular": false
-      },
-      {
-        "data": "10 GB",
-        "period": "30 days",
-        "price": "$12.00",
-        "features": ["Instant activation", "5G / LTE coverage", "Easy top-up"],
-        "popular": true
-      },
-      {
-        "data": "20 GB",
-        "period": "30 days",
-        "price": "$19.00",
-        "features": ["Instant activation", "5G / LTE coverage", "Easy top-up"],
-        "popular": false
-      }
-    ]
+  "news": {
+    "tag": "NEWS & EVENTS",
+    "title": "news & events",
+    "description": "Follow a refreshed, rejuvenated version of yourself with Bonitto®. Explore a world made of lifestyle and science.",
+    "viewAll": "View all",
+    "categories": {
+      "events": "Events",
+      "researchArticles": "Research Articles",
+      "fillers": "Fillers",
+      "mesotherapy": "Mesotherapy"
+    },
+    "imcasTitle": "IMCAS Paris 2026",
+    "dermalFillerTitle": "Dermal Filler",
+    "acneSolutionsTitle": "The relevant acne solutions"
   },
-  "download": {
-    "title": "Your connection, in your pocket.",
-    "description": "Manage plans, track data and top up on the go with the Net eSIM app."
-  },
-  "reviews": {
-    "title": "Loved by travelers everywhere",
-    "items": [
-      {
-        "name": "Maya R.",
-        "initials": "MR",
-        "text": "Connected before the plane doors opened. The whole setup took less than two minutes.",
-        "rating": 5
-      },
-      {
-        "name": "Daniel K.",
-        "initials": "DK",
-        "text": "Clear pricing and great coverage everywhere we went. No roaming bill waiting at home.",
-        "rating": 5
-      },
-      {
-        "name": "Lina A.",
-        "initials": "LA",
-        "text": "Support answered immediately and helped me install it. Travel data finally feels easy.",
-        "rating": 5
-      }
-    ]
-  },
-  "becomePartner": {
-    "title": "Do you have a travel audience or run a travel agency?",
-    "description": "Join Net eSIM partners and offer eSIM packages to your audience in an easy and traceable way.",
-    "primary": "Become a partner",
-    "secondary": "Contact Us"
-  },
-  "cta": {
-    "title": "Ready to travel without roaming?",
-    "description": "Choose your destination and get connected in minutes.",
-    "cardTitle": "Get your internet ready before you arrive.",
-    "cardDesc": "Download the Net Sim app, choose your destination, and make sure your device supports eSIM before purchasing the right data plan for your trip.",
-    "checkDevice": "Check if your device supports eSIM",
-    "learnMore": "Learn More",
-    "googlePlay": "Google Play",
-    "appStore": "App Store",
-    "getItOn": "GET IT ON",
-    "downloadOn": "Download on the"
-  },
-  "trustedBrands": {
-    "title": "Trusted by travel brands and creators worldwide",
-    "brands": ["Wanderly", "TripNest", "Globetrotter Co.", "Nomad Collective", "Voyage Studio", "Skyline Tours"]
-  },
-  "destinations": {
-    "title": "WHERE ARE YOU TRAVELING TO?",
-    "description": "Find your destination and view the available eSIM packages by country or region, then complete the purchase and activation from the Net Sim app.",
-    "tabLocal": "Local",
-    "tabRegional": "Regional",
-    "tabGlobal": "Global",
-    "gridTitle": "LOCAL ESIMS",
-    "gridDesc": "Get local coverage where you need it — packages start from the shown price.",
-    "searchPlaceholder": "Search for country..."
-  },
-  "timeline": {
-    "badge": "HOW IT WORKS",
-    "title": "Four clean steps from purchase to connection",
-    "description": "We kept the flow simple on purpose. Pick your destination, install the app, activate the eSIM, and land with data already ready to go.",
-    "step1Title": "Choose your destination",
-    "step1Desc": "Search for the country or region you will travel to and view available packages based on data, duration, and price.",
-    "step1Chip": "Instant digital setup",
-    "step2Title": "Download the Net Sim app",
-    "step2Desc": "Complete the purchase and manage the package from the app, and keep all eSIM details in one place.",
-    "step2Chip": "Ready in minutes",
-    "step3Title": "Activate eSIM via QR",
-    "step3Desc": "After payment, use the QR code or manual activation details to add eSIM to your phone.",
-    "step3Chip": "Fast activation flow",
-    "step4Title": "Call upon activation",
-    "step4Desc": "Activate the data line when needed and start using the internet during your trip.",
-    "step4Chip": "Travel connected",
-    "step": "Step"
-  },
-  "faq": {
-    "title": "Frequently Asked Questions",
-    "description": "Find answers to common questions about our services and solutions.",
-    "cta": "Have more questions? Contact our support team",
-    "items": [
-      {
-        "q": "What is an eSIM?",
-        "a": "An eSIM is a digital chip embedded in your phone that allows you to add a voice or data plan without using a physical SIM card."
-      },
-      {
-        "q": "Does Net Sim offer calls or SMS?",
-        "a": "Most travel plans are data-focused, meaning your messaging and internet calling apps continue to work normally using the data connection."
-      },
-      {
-        "q": "Can I purchase a plan from the website?",
-        "a": "Yes. You can select your destination, choose a package, and complete checkout directly on the site."
-      },
-      {
-        "q": "Is the price inclusive of fees?",
-        "a": "The amount displayed at checkout is the final total, inclusive of all standard network platform fees."
-      },
-      {
-        "q": "Do I need internet to activate eSIM?",
-        "a": "Yes, an active Wi-Fi or cellular internet connection is required to scan the QR code and download the eSIM profile to your device."
-      },
-      {
-        "q": "What currency are the prices displayed in?",
-        "a": "All prices are displayed in the standard base currency shown at checkout based on your region."
-      },
-      {
-        "q": "Does eSIM work only on 5G?",
-        "a": "No, it automatically falls back onto high-speed 4G or LTE networks depending on local carrier coverage at your destination."
-      },
-      {
-        "q": "When does the plan start?",
-        "a": "Most data plans activate and begin their validity cycle as soon as the eSIM connects to a supported local network abroad."
-      },
-      {
-        "q": "What happens if my device doesn't support eSIM?",
-        "a": "Please verify your phone's compatibility list before buying. Refund eligibility depends on whether the profile has been generated."
-      },
-      {
-        "q": "Can I use WhatsApp on eSIM?",
-        "a": "Yes. Your WhatsApp account remains fully attached to your original phone number while cellular data runs smoothly through the eSIM."
-      },
-      {
-        "q": "Can I share my internet hotspot?",
-        "a": "Most compatible devices support hotspot tethering and data sharing with this plan, depending on local carrier restrictions."
-      }
-    ]
+  "contactCta": {
+    "title": "Interested in partnering with Bonitto?",
+    "description": "Connect with our team to explore distribution opportunities and product information.",
+    "cta": "Contact us"
   }
 }

@@ -1,0 +1,5 @@
+{
+  "metadata": { "title": "Geschützter Bereich", "description": "Zugang zu exklusiven Ressourcen für verifizierte Fachprofis und Vertriebspartner." },
+  "login": { "title": "Professioneller Login", "description": "Zugang zu Preislisten, Bestelldokumenten und exklusiven Ressourcen.", "email": "E-Mail", "password": "Passwort", "submit": "Anmelden", "forgotPassword": "Passwort vergessen?" },
+  "dashboard": { "title": "Willkommen zurück", "priceLists": "Preislisten", "orderDocuments": "Bestelldokumente", "certificates": "Zertifikate", "logout": "Abmelden" }
+}

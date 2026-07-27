@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "title": "Rezerve Alan",
+    "description": "Doğrulanmış profesyoneller ve distribütörler için özel kaynaklara erişin."
+  },
+  "login": {
+    "title": "Profesyonel Girişi",
+    "description": "Fiyat listelerine, sipariş belgelerine ve özel kaynaklara erişin.",
+    "email": "E-posta",
+    "password": "Şifre",
+    "submit": "Giriş Yap",
+    "forgotPassword": "Şifremi unuttum?"
+  },
+  "dashboard": {
+    "title": "Tekrar hoş geldiniz",
+    "priceLists": "Fiyat Listeleri",
+    "orderDocuments": "Sipariş Belgeleri",
+    "certificates": "Sertifikalar",
+    "logout": "Çıkış Yap"
+  }
+}

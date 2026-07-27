@@ -1,0 +1,24 @@
+{
+  "home": "Startseite",
+  "aboutUs": "Über uns",
+  "products": "Unsere Produkte",
+  "newsEvents": "Veranstaltungen",
+  "researchArticles": "Forschungsartikel",
+  "expertInsights": "Experteneinblicke & Demonstrationen",
+  "faceBody": "3D Touch",
+  "contactUs": "Kontakt",
+  "distributors": "Vertriebspartner",
+  "reservedArea": "Geschützter Bereich",
+  "shop": "Shop",
+  "megaMenu": {
+    "title": "Unsere Produkte",
+    "categories": [
+      { "number": "01", "label": "Hyaluronsäure-Filler" },
+      { "number": "02", "label": "MDR-zertifizierte HA- & Aminosäure-Filler" },
+      { "number": "03", "label": "Professionelle Kosmetik — Fläschchen" },
+      { "number": "04", "label": "Professionelle Kosmetik — Spritzen" },
+      { "number": "05", "label": "Poly-L-Lactinsäure (PLLA)-Linie" },
+      { "number": "06", "label": "Hautpflege" }
+    ]
+  }
+}
