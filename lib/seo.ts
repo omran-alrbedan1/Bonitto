@@ -1,12 +1,20 @@
 import type { Metadata } from 'next';
 import { locales, type Locale } from './i18n';
 
-export const SITE_URL = 'https://bonittoaesthetic.com';
+export const SITE_URL = 'https://www.bonittoaesthetic.com';
 
 const DEFAULT_OG_IMAGE = '/og-image.jpg';
 const DEFAULT_OG_WIDTH = 1200;
 const DEFAULT_OG_HEIGHT = 630;
 const SITE_NAME = 'Bonitto Aesthetic';
+const SITE_ICONS = {
+  icon: [
+    { url: '/favicon-32x32.png', sizes: '32x32', type: 'image/png' },
+    { url: '/favicon-192x192.png', sizes: '192x192', type: 'image/png' },
+  ],
+  apple: [{ url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' }],
+  other: [{ rel: 'msapplication-TileImage', url: '/mstile-270x270.png' }],
+};
 
 function localizedPath(locale: string, path: string) {
   return `/${locale}${path}`;
@@ -58,6 +66,7 @@ export function buildMetadata({
     robots: noIndex
       ? { index: false, follow: false }
       : { index: true, follow: true },
+    icons: SITE_ICONS,
     openGraph: {
       title,
       description,
@@ -94,7 +103,7 @@ export async function getRootLayoutMetadata({ locale }: { locale: Locale }): Pro
       languages: buildHreflangMap(''),
     },
     robots: { index: true, follow: true },
-    icons: { icon: '/favicon.ico' },
+    icons: SITE_ICONS,
     openGraph: {
       type: 'website',
       siteName: SITE_NAME,

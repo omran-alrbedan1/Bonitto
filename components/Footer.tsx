@@ -47,58 +47,53 @@ export default function Footer() {
   const t = useTranslations('layout');
 
   return (
-    <section className="relative w-full">
-      <div>
-        <div className="footer-logo-wrapper mb-4 md:mb-12">
+    <section className="block-footer">
+      <div className="footer-main w-full mx-auto">
+        <div className="footer-logo-wrapper mx-auto">
           <BonittoFooterLogo />
         </div>
 
-        <div className="w-full px-6 md:px-12 pt-8 md:pt-24">
-          <div className="flex flex-col md:flex-row items-center md:items-center gap-8 md:gap-32">
-            <div className="flex-shrink-0">
-              <Link href="/contact-us" className="btn btn-white-outline">
-                {t('footer.contactUs')}
-              </Link>
-            </div>
-            <div className="flex items-center flex-wrap justify-center">
-              <span className="footer-social-label">{t('footer.followUs')}</span>
-              {socialLinks.map(({ href, icon: Icon, label }) => (
-                <a
-                  key={label}
-                  href={href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="social-link"
-                  aria-label={label}
-                >
-                  <Icon />
-                </a>
-              ))}
-            </div>
+        <div className="footer-actions">
+          <Link href="/contact-us" className="btn btn-white-outline">
+            {t('footer.contactUs')}
+          </Link>
+          <div className="footer-socials">
+            <span className="footer-social-label">{t('footer.followUs')}</span>
+            {socialLinks.map(({ href, icon: Icon, label }) => (
+              <a
+                key={label}
+                href={href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="social-link"
+                aria-label={label}
+              >
+                <Icon />
+              </a>
+            ))}
           </div>
         </div>
       </div>
 
       <div className="footer-company-info-wrapper">
-        <div className="container-fluid">
-          <div className="flex flex-col md:flex-row items-end gap-3">
-            <div className="md:w-1/2 mb-3 md:mb-0 text-center md:text-left order-2 md:order-1">
-              <p className="mb-0">Copyright &copy; Beauty Revolution Trading LLC.<br />All Rights Reserved</p>
-            </div>
-            <div className="md:w-1/2 text-center md:text-right order-1 md:order-2">
-              <div className="footer-company-info">
-                Vienna: Top 1, Schegargasse 9, 1190 Vienna, Austria<br />
-                Dubai: 701, Damac Smart Heights, Tecom, Dubai UAE
-              </div>
-              <div className="footer-company-info">
-                <em className="uppercase">email</em>{' '}
-                <a href="mailto:info@bonittoaesthetic.com">info@bonittoaesthetic.com</a>
-              </div>
-              <div className="footer-company-info">
-                <em className="uppercase">phone</em> +43 677 61456998
-              </div>
-            </div>
+        <div className="footer-legal">
+          <p>Copyright &copy; Beauty Revolution Trading LLC.<br />All Rights Reserved</p>
+        </div>
+        <div className="footer-address">
+          <div className="footer-company-info">
+            Vienna: Top 1, Schegargasse 9, 1190 Vienna, Austria<br />
+            Dubai: 701, Damac Smart Heights, Tecom, Dubai UAE
           </div>
+          <div className="footer-company-info">
+            <em className="uppercase">email</em>{' '}
+            <a href="mailto:info@bonittoaesthetic.com">info@bonittoaesthetic.com</a>
+          </div>
+          <div className="footer-company-info">
+            <em className="uppercase">phone</em> +43 677 61456998
+          </div>
+        </div>
+        <div className="footer-powered">
+          {t('footer.poweredBy')} Emporio ADV
         </div>
       </div>
     </section>

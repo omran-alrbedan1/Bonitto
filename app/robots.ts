@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/reserved-area/dashboard', '/api/'],
       },
     ],
-    sitemap: 'https://bonittoaesthetic.com/sitemap.xml',
+    sitemap: 'https://www.bonittoaesthetic.com/sitemap.xml',
   };
 }
