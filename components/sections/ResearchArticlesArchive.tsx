@@ -37,7 +37,9 @@ export function ResearchArticlesArchive({ categoryLabel }: { categoryLabel: stri
       <div className="news-list research-list mt-5">
         {visibleArticles.map((article) => (
           <div className="news-item publication-block-wrapper" data-cat={article.category} key={article.slug}>
-            <Link className="post-link" href={`/research-articles/${article.slug}`}>
+            <Link className="post-link" 
+            //@ts-ignore
+            href={`/research-articles/${article.slug}`}>
               <span className="post-img-wrapper">
                 <span className="subcat-link">
                   <span className="subcat-link-text">{t(`research.categories.${article.category}`)}</span>

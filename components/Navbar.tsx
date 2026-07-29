@@ -104,6 +104,7 @@ export default function Navbar() {
                         {cat.number.padStart(2, '0')}.
                       </span>
                       <Link
+                      //@ts-ignore
                         href={`/product-category/${cat.number}`}
                         className="text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light hover:italic transition-all duration-500"
                         style={{ width: 'calc(100% - 32px)' }}

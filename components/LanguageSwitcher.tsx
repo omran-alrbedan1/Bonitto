@@ -75,6 +75,7 @@ export default function LanguageSwitcher() {
                 <button
                   key={code}
                   onClick={() => {
+                    //@ts-ignore
                     router.replace(pathname, { locale: code });
                     setOpen(false);
                   }}
