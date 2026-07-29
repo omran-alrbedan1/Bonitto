@@ -36,7 +36,7 @@ const mainNav = [
   ['/research-articles', 'researchArticles'],
   ['/expert-insights-demonstrations', 'expertInsights'],
   ['/face-body', 'faceBody'],
-  ['/contact-us', 'contactUs'],
+  ['/contact-us', 'contactUs'], 
   ['/distributors', 'distributors'],
 ] as const;
 
@@ -139,16 +139,6 @@ export default function Navbar() {
                     >
                       {t('reservedArea')}
                     </Link>
-                  </li>
-                  <li>
-                    <a
-                      href="https://store.bonittoaesthetic.com"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light transition-all duration-300 hover:italic"
-                    >
-                      {t('shop')}
-                    </a>
                   </li>
                 </ul>
               </div>

@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link } from '@/i18n/routing';
+import productData from '@/data/bonitto-products.json';
 
 type ProductType = 'professional-cosmetic-in-vials' | 'fillers';
 type Area = 'face' | 'body';
@@ -23,38 +24,50 @@ type Zone = {
 const vial = 'professional-cosmetic-in-vials' as const;
 const filler = 'fillers' as const;
 
+function storedProduct(slug: string): Product {
+  const source = productData.products.find((item) => item.slug === slug);
+  if (!source) throw new Error(`Missing stored Bonitto product: ${slug}`);
+
+  return {
+    title: source.title,
+    type: source.category.toLowerCase().includes('filler') ? filler : vial,
+    slug,
+    image: source.productImage?.mobile || source.productImage?.desktop || source.cardImage,
+  };
+}
+
 const products = {
-  lipsOn: { title: 'LIPS ON', type: vial, slug: 'lips-on', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/LIPS-ON.webp' },
-  lipsPlump: { title: '02 LIPS PLUMP', type: filler, slug: 'n-02-bonitto-lips-plum', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/08/FILLERS-02-3.webp' },
-  proAgeFine: { title: '01 PRO AGE FINE', type: filler, slug: 'n-01-bonitto-pro-age-fine', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/08/FILLERS-01-3.webp' },
-  ageSolution: { title: '03 AGE SOLUTION', type: filler, slug: 'n-03-bonitto-age-solution', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/FILLERS-03.webp' },
-  faceSculpt: { title: '04 FACE SCULPT', type: filler, slug: 'n-04-bonitto-face-sculpt', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/FILLERS-04.webp' },
-  volume: { title: '05 VOLUME', type: filler, slug: 'n-05-bonitto-volume', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/FILLERS-SB-05.webp' },
-  mstRedox: { title: 'MST REDOX', type: vial, slug: 'mst-redox', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/MST-REDOX.webp' },
-  goldStem: { title: 'GOLD STEM', type: vial, slug: 'gold-stem', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/GOLD-STEM.webp' },
-  corControl: { title: 'COR CONTROL', type: vial, slug: 'cor-control', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/COR-CONTROL.webp' },
-  shinePower: { title: 'SHINE POWER', type: vial, slug: 'shine-power', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/SHINE-POWER.webp' },
-  whitening: { title: 'WHITENING+', type: vial, slug: 'whitening', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/WHITENING-PLUS.webp' },
-  peel: { title: 'PEEL 4.0', type: vial, slug: 'peel-4-0', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/PEEL-4.0.webp' },
-  mevita: { title: 'MEVITA 15 + HA', type: vial, slug: 'mevita-15-ha', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/MEVITA-15HA.webp' },
-  haBooster: { title: 'HA+ BOOSTER & AA15', type: vial, slug: 'ha-booster-aa15', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/HA-BOOSTER.webp' },
-  dnaBooster: { title: 'DNA BOOSTER', type: vial, slug: 'dna-booster', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/DNA-BOOSTER.webp' },
-  hyavital: { title: 'HYAVITAL H+L', type: vial, slug: 'hyavital-hl', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/HYAVITAL-HL.webp' },
-  collagen: { title: 'COLLAGEN ULTRA', type: vial, slug: 'collagen-ultra', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/COLLAGEN-ULTRA.webp' },
-  age: { title: 'AGE+', type: vial, slug: 'age', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/AGE.webp' },
-  proAge: { title: 'PRO AGE', type: vial, slug: 'pro-age', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/PRO-AGE.webp' },
-  exogenix: { title: 'EXOGENIX', type: vial, slug: 'exogenix', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/EXOGENIX.webp' },
-  btx: { title: 'BTX 2.0', type: vial, slug: 'btx-2-0', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/BTX-20.webp' },
-  btxPlus: { title: 'BTX+', type: vial, slug: 'btx', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/BTX-PLUS.webp' },
-  ox: { title: 'OX+', type: vial, slug: 'ox', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/OX-PLUS.webp' },
-  powerOxy: { title: 'POWER OXY', type: vial, slug: 'power-oxy', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/POWER-OXY.webp' },
-  oxUltra: { title: 'OX ULTRA', type: vial, slug: 'ox-ultra', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/OX-ULTRA.webp' },
-  hairUltra: { title: 'HAIR ULTRA', type: vial, slug: 'hair-ultra', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/HAIR-ULTRA.webp' },
-  hairScalp: { title: 'HAIRSCALP', type: vial, slug: 'hairscalp', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/HAIRSCALP.webp' },
-  ey: { title: 'EY+', type: vial, slug: 'ey', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/EY-PLUS.webp' },
-  lipo: { title: 'LIPO+', type: vial, slug: 'lipo', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/LIPO-PLUS.webp' },
-  proCells: { title: 'PRO CELLS', type: vial, slug: 'pro-cells', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/PRO-CELLS.webp' },
-  radiance: { title: 'RADIANCE PRO', type: vial, slug: 'radiance-pro', image: 'https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/RADIANCE-PRO.webp' },
+  lipsOn: storedProduct('lips-on'),
+  lipsPlump: storedProduct('n-02-bonitto-lips-plum'),
+  proAgeFine: storedProduct('n-01-bonitto-pro-age-fine'),
+  ageSolution: storedProduct('n-03-bonitto-age-solution'),
+  faceSculpt: storedProduct('n-04-bonitto-face-sculpt'),
+  volume: storedProduct('n-05-bonitto-volume'),
+  mstRedox: storedProduct('mst-redox'),
+  goldStem: storedProduct('gold-stem'),
+  corControl: storedProduct('cor-control'),
+  shinePower: storedProduct('shine-power'),
+  whitening: storedProduct('whitening'),
+  peel: storedProduct('peel-4-0'),
+  mevita: storedProduct('mevita-15-ha'),
+  haBooster: storedProduct('ha-booster-aa15'),
+  dnaBooster: storedProduct('dna-booster'),
+  hyavital: storedProduct('hyavital-hl'),
+  collagen: storedProduct('collagen-ultra'),
+  age: storedProduct('age'),
+  proAge: storedProduct('pro-age'),
+  exogenix: storedProduct('exogenix'),
+  btx: storedProduct('btx-2-0'),
+  btxPlus: storedProduct('btx'),
+  ox: storedProduct('ox'),
+  powerOxy: storedProduct('power-oxy'),
+  oxUltra: storedProduct('ox-ultra'),
+  hairUltra: storedProduct('hair-ultra'),
+  hairScalp: storedProduct('hairscalp'),
+  ey: storedProduct('ey'),
+  lipo: storedProduct('lipo'),
+  proCells: storedProduct('pro-cells'),
+  radiance: storedProduct('radiance-pro'),
 } satisfies Record<string, Product>;
 
 const fullVials = [
