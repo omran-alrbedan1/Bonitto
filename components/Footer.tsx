@@ -59,18 +59,20 @@ export default function Footer() {
           </Link>
           <div className="footer-socials">
             <span className="footer-social-label">{t('footer.followUs')}</span>
-            {socialLinks.map(({ href, icon: Icon, label }) => (
-              <a
-                key={label}
-                href={href}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="social-link"
-                aria-label={label}
-              >
-                <Icon />
-              </a>
-            ))}
+            <span className="footer-social-icons">
+              {socialLinks.map(({ href, icon: Icon, label }) => (
+                <a
+                  key={label}
+                  href={href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="social-link"
+                  aria-label={label}
+                >
+                  <Icon />
+                </a>
+              ))}
+            </span>
           </div>
         </div>
       </div>

@@ -18,9 +18,9 @@ export function HomeLeadership() {
   const categories = tn.raw('megaMenu.categories') as Array<{ number: string; label: string }>;
 
   return (
-    <section className="w-full min-h-[100dvh] md:h-full grid grid-cols-1 md:grid-cols-[3fr_2fr]">
-      <div className="w-full flex items-center px-6 md:px-12 py-16 md:py-0">
-        <div className="max-w-[600px]">
+    <section className="home-section w-full grid grid-cols-1 md:grid-cols-[3fr_2fr]">
+      <div className="home-section-copy w-full flex items-center md:px-16 lg:px-20 py-12 md:py-0">
+        <div className="max-w-[600px] w-full">
           <h2 className="mb-4">
             {t('leadership.title')}
           </h2>
@@ -55,11 +55,11 @@ export function HomeLeadership() {
         </div>
       </div>
 
-      <div className="flex items-center justify-center overflow-hidden px-6 md:px-12">
+      <div className="home-section-media flex items-center justify-center overflow-hidden md:px-16 lg:px-20">
         <img
           src="https://www.bonittoaesthetic.com/wp-content/uploads/2024/11/GruppoPackBonitto_HR-RGB-con-trademark.webp"
           alt="Wide range of products: dermal fillers, mesotherapies and professional skin care"
-          className="w-[70%] h-auto object-contain"
+          className="home-product-image w-[70%] h-auto object-contain"
           loading="lazy"
         />
       </div>

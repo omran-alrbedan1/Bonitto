@@ -7,9 +7,9 @@ export function HomeHero() {
   const t = useTranslations('home');
 
   return (
-    <section className="w-full min-h-[100dvh] md:h-full grid grid-cols-1 md:grid-cols-[3fr_1fr]">
-      <div className="w-full flex items-center px-6 md:px-12 py-16 md:py-0">
-        <div className="max-w-[600px]">
+    <section className="home-section home-hero w-full grid grid-cols-1 md:grid-cols-[3fr_1fr]">
+      <div className="home-section-copy w-full flex items-center md:px-16 lg:px-20 py-12 md:py-0">
+        <div className="max-w-[600px] w-full">
           <h1 className="mb-6">
             {t('hero.title')}
           </h1>
@@ -36,8 +36,8 @@ export function HomeHero() {
         </div>
       </div>
 
-      <div className="flex items-center justify-center overflow-hidden">
-        <video className="w-full h-full object-cover" autoPlay muted loop playsInline controls>
+      <div className="home-section-media flex items-center justify-center overflow-hidden md:px-0">
+        <video className="home-hero-video w-full h-full object-cover" autoPlay muted loop playsInline controls>
           <source src="https://www.bonittoaesthetic.com/wp-content/uploads/2025/04/250326-BONITTO-90sec-V6-verticale.webm" type="video/webm" />
           Your browser does not support the video tag.
         </video>

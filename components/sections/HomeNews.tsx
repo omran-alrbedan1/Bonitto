@@ -34,9 +34,9 @@ export function HomeNews() {
   const t = useTranslations('home');
 
   return (
-    <section className="w-full min-h-[100dvh] md:h-full grid grid-cols-1 md:grid-cols-[1fr_3fr]">
-      <div className="w-full flex items-center px-6 md:px-12 py-16 md:py-0">
-        <div className="max-w-[600px]">
+    <section className="home-section home-news-section w-full grid grid-cols-1 md:grid-cols-[1fr_3fr]">
+      <div className="home-section-copy w-full flex items-center md:px-16 lg:px-20 py-12 md:py-0">
+        <div className="max-w-[600px] w-full">
           <h2 className="mb-4">
             {t('news.title')}
           </h2>
@@ -49,7 +49,7 @@ export function HomeNews() {
         </div>
       </div>
 
-      <div className="flex items-center px-6 md:px-12 py-16 md:py-0 overflow-hidden">
+      <div className="home-news-list flex items-center md:px-16 lg:px-20 py-12 md:py-0 overflow-hidden">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 w-full">
           {articles.map((article) => (
             <Link
