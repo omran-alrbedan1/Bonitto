@@ -17,8 +17,8 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
   const categoryLabel = t('tabs.events');
 
   return (
-    <div id="blocks-wrapper" className="vertical-scroll">
-      <section className="news">
+    <div id="blocks-wrapper" className="events-page vertical-scroll">
+      <section className="events-section news">
         <div className="container-fluid">
           <h1 className="mb-5 text-center">{categoryLabel}</h1>
           <div className="category-description text-center">

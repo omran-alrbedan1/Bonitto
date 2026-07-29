@@ -19,8 +19,8 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
 
   return (
     <div id="blocks-wrapper" className="horizontal-scroll">
-      <section className="section-about-pair w-full min-h-[100dvh] md:h-full grid grid-cols-1 md:grid-cols-[3fr_2fr]">
-        <div className="block-wyswyg flex items-center px-6 md:px-12 py-16 md:py-0">
+      <section className="about-section section-about-pair w-full min-h-[100dvh] md:h-full grid grid-cols-1 gap-y-10 md:grid-cols-[3fr_2fr] md:gap-x-14 lg:gap-x-24">
+        <div className="about-copy block-wyswyg flex items-center md:px-12 py-16 md:py-0">
           <div className="wyswyg max-w-[660px]">
             <h1>{t('hero.title')}</h1>
             <div className="h-8" />
@@ -28,7 +28,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
           </div>
         </div>
 
-        <div className="block-image flex items-center justify-center overflow-hidden px-6 pb-16 md:px-0 md:pb-0">
+        <div className="about-media block-image flex items-center justify-center overflow-hidden md:px-0 md:pb-0">
           <picture className="h-full w-full">
             <source
               width="1776"
@@ -50,8 +50,8 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
         </div>
       </section>
 
-      <section className="section-about-pair w-full min-h-[100dvh] md:h-full grid grid-cols-1 md:grid-cols-[3fr_2fr]">
-        <div className="block-wyswyg flex items-center px-6 md:px-12 py-16 md:py-0">
+      <section className="about-section section-about-pair w-full min-h-[100dvh] md:h-full grid grid-cols-1 gap-y-10 md:grid-cols-[3fr_2fr] md:gap-x-14 lg:gap-x-24">
+        <div className="about-copy block-wyswyg flex items-center md:px-12 py-16 md:py-0">
           <div className="wyswyg max-w-[760px]">
             <h2 className="p1">{t('quality.title')}</h2>
             <div className="h-8" />
@@ -63,7 +63,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
           </div>
         </div>
 
-        <div className="block-image flex items-center justify-center overflow-hidden px-6 pb-16 md:px-0 md:pb-0">
+        <div className="about-media block-image flex items-center justify-center overflow-hidden md:px-0 md:pb-0">
           <picture className="h-full w-full">
             <source
               width="1710"

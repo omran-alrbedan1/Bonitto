@@ -95,7 +95,16 @@ export default function Footer() {
           </div>
         </div>
         <div className="footer-powered">
-          {t('footer.poweredBy')} Emporio ADV
+          <a
+            href="https://futxtech.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="footer-powered-link"
+            aria-label="Future X website"
+          >
+            <span>{t('footer.poweredBy')}</span>
+            <img src="/futurex-logo.svg" alt="Future X" />
+          </a>
         </div>
       </div>
     </section>

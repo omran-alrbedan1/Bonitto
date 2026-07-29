@@ -26,5 +26,23 @@
   "eventDetails": {
     "backToEvents": "Etkinliklere geri dön",
     "videoFallback": "Tarayıcınız video etiketini desteklemiyor."
+  },
+  "research": {
+    "description": "Bonitto life science d?nyas?ndan bilimsel bak?? a??lar?, form?lasyon i?g?r?leri ve ?r?n odakl? makaleler.",
+    "filters": {
+      "all": "T?m?n? g?r?nt?le",
+      "fillers": "Dolgular",
+      "skincare": "Cilt bak?m?",
+      "mesotherapy": "Mezoterapi"
+    },
+    "categories": {
+      "fillers": "Dolgular",
+      "skincare": "Cilt bak?m?",
+      "mesotherapy": "Mezoterapi"
+    },
+    "detail": {
+      "back": "Ara?t?rma makalelerine d?n",
+      "fallback": "Bu konuyla ba?lant?l? Bonitto ara?t?rma bak?? a??lar?n?, ?r?n odakl? i?g?r?leri ve estetik bilimi ke?fedin."
+    }
   }
 }

@@ -51,10 +51,10 @@ export default function LanguageSwitcher() {
       </button>
 
       <div
-        className="absolute left-1/2 -translate-x-1/2 top-[calc(100%+12px)] z-50 min-w-[200px]"
+        className="language-switcher-panel absolute top-[calc(100%+12px)] z-50 min-w-[200px]"
         style={{
           opacity: open ? 1 : 0,
-          transform: `translateX(-50%) translateY(${open ? 0 : -8}px)`,
+          transform: `translateY(${open ? 0 : -8}px)`,
           pointerEvents: open ? 'auto' : 'none',
           transition: 'opacity 0.25s ease, transform 0.25s ease',
         }}
@@ -78,7 +78,7 @@ export default function LanguageSwitcher() {
                     router.replace(pathname, { locale: code });
                     setOpen(false);
                   }}
-                  className="flex items-center gap-3 w-full text-left border-none cursor-pointer transition-all duration-200"
+                  className="language-option flex items-center gap-3 w-full text-left border-none cursor-pointer transition-all duration-200"
                   style={{
                     padding: '10px 20px',
                     backgroundColor: isActive ? 'rgba(255,255,255,0.15)' : 'transparent',
@@ -106,7 +106,7 @@ export default function LanguageSwitcher() {
           </div>
         </div>
         <div
-          className="absolute left-1/2 -translate-x-1/2 -top-[6px] w-3 h-3 rotate-45"
+          className="language-switcher-arrow absolute -top-[6px] w-3 h-3 rotate-45"
           style={{ backgroundColor: 'rgba(74,178,168,0.95)', border: '1px solid rgba(255,255,255,0.2)', borderRight: 'none', borderBottom: 'none' }}
         />
       </div>

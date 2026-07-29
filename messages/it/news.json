@@ -26,5 +26,23 @@
   "eventDetails": {
     "backToEvents": "Torna agli eventi",
     "videoFallback": "Il tuo browser non supporta il tag video."
+  },
+  "research": {
+    "description": "Prospettive scientifiche, approfondimenti sulle formulazioni e articoli dedicati ai prodotti dal mondo life science di Bonitto.",
+    "filters": {
+      "all": "Vedi tutto",
+      "fillers": "Filler",
+      "skincare": "Skincare",
+      "mesotherapy": "Mesoterapia"
+    },
+    "categories": {
+      "fillers": "Filler",
+      "skincare": "Skincare",
+      "mesotherapy": "Mesoterapia"
+    },
+    "detail": {
+      "back": "Torna agli articoli di ricerca",
+      "fallback": "Esplora le prospettive di ricerca Bonitto, gli approfondimenti sui prodotti e la scienza estetica legata a questo argomento."
+    }
   }
 }

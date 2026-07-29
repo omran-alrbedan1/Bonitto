@@ -26,5 +26,23 @@
   "eventDetails": {
     "backToEvents": "Back to events",
     "videoFallback": "Your browser does not support the video tag."
+  },
+  "research": {
+    "description": "Scientific perspectives, formulation insights, and product-focused articles from the Bonitto world of life science.",
+    "filters": {
+      "all": "View all",
+      "fillers": "Fillers",
+      "skincare": "Skincare",
+      "mesotherapy": "Mesotherapy"
+    },
+    "categories": {
+      "fillers": "Fillers",
+      "skincare": "Skincare",
+      "mesotherapy": "Mesotherapy"
+    },
+    "detail": {
+      "back": "Back to Research Articles",
+      "fallback": "Explore Bonitto research perspectives, product-focused insights, and aesthetic science connected to this topic."
+    }
   }
 }

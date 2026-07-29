@@ -26,5 +26,23 @@
   "eventDetails": {
     "backToEvents": "Retour aux événements",
     "videoFallback": "Votre navigateur ne prend pas en charge la balise vidéo."
+  },
+  "research": {
+    "description": "Perspectives scientifiques, analyses de formulation et articles ax?s sur les produits issus de l?univers life science de Bonitto.",
+    "filters": {
+      "all": "Tout voir",
+      "fillers": "Fillers",
+      "skincare": "Soins de la peau",
+      "mesotherapy": "M?soth?rapie"
+    },
+    "categories": {
+      "fillers": "Fillers",
+      "skincare": "Soins de la peau",
+      "mesotherapy": "M?soth?rapie"
+    },
+    "detail": {
+      "back": "Retour aux articles de recherche",
+      "fallback": "Explorez les perspectives de recherche Bonitto, les informations produits et la science esth?tique li?es ? ce sujet."
+    }
   }
 }

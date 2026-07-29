@@ -16,7 +16,7 @@ export default async function ContactPage({ params }: { params: Promise<{ locale
 
   return (
     <div id="blocks-wrapper" className="horizontal-scroll">
-      <section className="block-wyswyg w-full min-h-[100dvh] md:h-full flex items-center px-6 md:px-12 py-16 md:py-0">
+      <section className="contact-section contact-copy block-wyswyg w-full min-h-[100dvh] md:h-full flex items-center md:px-12 py-16 md:py-0">
         <div className="wyswyg max-w-[620px]">
           <h1>{t('hero.title')}</h1>
           <div className="h-8" />
@@ -24,13 +24,13 @@ export default async function ContactPage({ params }: { params: Promise<{ locale
         </div>
       </section>
 
-      <section className="block-form section-md w-full min-h-[100dvh] md:h-full flex items-center px-6 md:px-12 py-16 md:py-0">
+      <section className="contact-section contact-form-section block-form section-md w-full min-h-[100dvh] md:h-full flex items-center md:px-12 py-16 md:py-0">
         <div className="form-html w-full max-w-[680px]">
           <ContactForm />
         </div>
       </section>
 
-      <section className="block-image section-md w-full min-h-[100dvh] md:h-full flex items-center justify-center overflow-hidden">
+      <section className="contact-section contact-media block-image section-md w-full min-h-[100dvh] md:h-full flex items-center justify-center overflow-hidden">
         <picture>
           <source
             width="1710"

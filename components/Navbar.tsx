@@ -51,14 +51,14 @@ export default function Navbar() {
     <>
       <header className="site-header fixed inset-x-0 top-0 md:top-2 z-10 !px-3 py-7 sm:py-8 md:px-10 md:py-10 lg:py-5"
         style={{ backgroundColor: 'rgba(74,178,168,0.1)' }}>
-        <div className="flex items-center justify-between !mt-8">
+        <div className="flex items-center justify-between !mt-4">
           <Link href="/" className="inline-flex shrink-0 items-center" aria-label="Bonitto Aesthetic home">
             <BonittoLogo />
           </Link>
 
-          <div className="flex items-center">
+          <div className="flex items-center gap-8 !mx-16">
 
-            <div className="hidden md:inline-block mr-2 md:mr-12">
+            <div className="hidden md:inline-block mr-2 md:mr-12">  
               <LanguageSwitcher />
             </div>
 

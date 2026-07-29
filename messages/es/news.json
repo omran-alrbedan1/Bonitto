@@ -26,5 +26,23 @@
   "eventDetails": {
     "backToEvents": "Volver a eventos",
     "videoFallback": "Su navegador no admite la etiqueta de video."
+  },
+  "research": {
+    "description": "Perspectivas cient?ficas, informaci?n sobre formulaciones y art?culos centrados en productos del mundo Bonitto de las ciencias de la vida.",
+    "filters": {
+      "all": "Ver todo",
+      "fillers": "Rellenos",
+      "skincare": "Cuidado de la piel",
+      "mesotherapy": "Mesoterapia"
+    },
+    "categories": {
+      "fillers": "Rellenos",
+      "skincare": "Cuidado de la piel",
+      "mesotherapy": "Mesoterapia"
+    },
+    "detail": {
+      "back": "Volver a art?culos de investigaci?n",
+      "fallback": "Explora perspectivas de investigaci?n de Bonitto, informaci?n sobre productos y ciencia est?tica relacionada con este tema."
+    }
   }
 }

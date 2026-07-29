@@ -26,5 +26,23 @@
   "eventDetails": {
     "backToEvents": "Zurück zu den Veranstaltungen",
     "videoFallback": "Ihr Browser unterstützt das Video-Tag nicht."
+  },
+  "research": {
+    "description": "Wissenschaftliche Perspektiven, Formulierungswissen und produktbezogene Artikel aus der Bonitto-Welt der Life Science.",
+    "filters": {
+      "all": "Alle anzeigen",
+      "fillers": "Filler",
+      "skincare": "Hautpflege",
+      "mesotherapy": "Mesotherapie"
+    },
+    "categories": {
+      "fillers": "Filler",
+      "skincare": "Hautpflege",
+      "mesotherapy": "Mesotherapie"
+    },
+    "detail": {
+      "back": "Zur?ck zu Forschungsartikeln",
+      "fallback": "Entdecken Sie Bonitto-Forschungsperspektiven, produktbezogene Einblicke und ?sthetische Wissenschaft zu diesem Thema."
+    }
   }
 }
