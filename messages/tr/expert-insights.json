@@ -1,12 +1,29 @@
 {
   "metadata": {
-    "title": "Uzman Görüşleri ve Demonstrasyonlar",
-    "description": "Uzman demonstrasyonlarını izleyin ve gelişmiş estetik tedavi teknikleri hakkında bilgi edinin.",
-    "keywords": "estetik demonstrasyonları, filler enjeksiyon teknikleri, uzman görüşleri"
+    "title": "Uzman görüşleri ve demonstrasyonlar",
+    "description": "Bonitto demonstrasyonlarını ve klinik tedavi içgörülerini izleyin.",
+    "keywords": "Bonitto uzman görüşleri, Babyface Filler demonstrasyonu, estetik tedavi videosu"
   },
   "hero": {
-    "tag": "UZMAN GÖRÜŞLERİ",
-    "title": "Uzmanlardan öğrenin",
-    "description": "Önde gelen estetik uygulayıcılardan demonstrasyonları izleyin ve bilgi edinin."
+    "tag": "Uzman görüşleri ve demonstrasyonlar",
+    "title": "Uzman görüşleri ve demonstrasyonlar",
+    "description": "Bonitto profesyonel dünyasından klinik bakış, ürün tekniği ve görsel demonstrasyonlara odaklanan bir alan."
+  },
+  "demo": {
+    "eyebrow": "Klinik demonstrasyon",
+    "title": "Babyface Filler önce ve sonra",
+    "description": "Babyface Filler sonuçlarına profesyonel bir bakış; dikkatli tedavi planlamasının taze, dengeli ve doğal görünen bir yüz iyileştirmesini nasıl desteklediğini gösterir.",
+    "videoLabel": "Babyface Filler önce ve sonra",
+    "bullets": [
+      "Tedavi odaklı görsel demonstrasyon",
+      "Önce ve sonra sonuç sunumu",
+      "Estetik profesyoneller için klinik bakış"
+    ],
+    "videoFallback": "Your browser does not support the video tag."
+  },
+  "closing": {
+    "title": "Daha fazla ürün bilgisine mi ihtiyacınız var?",
+    "description": "Profesyonel destek, distribütörlük detayları ve ürün rehberliği için Bonitto ekibiyle iletişime geçin.",
+    "cta": "Bize ulaşın"
   }
 }

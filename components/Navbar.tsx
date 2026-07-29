@@ -33,7 +33,7 @@ const CloseIcon = () => (
 const mainNav = [
   ['/about-us', 'aboutUs'],
   ['/events', 'newsEvents'],
-  ['/category/research-articles', 'researchArticles'],
+  ['/research-articles', 'researchArticles'],
   ['/expert-insights-demonstrations', 'expertInsights'],
   ['/face-body', 'faceBody'],
   ['/contact-us', 'contactUs'],
@@ -63,7 +63,7 @@ export default function Navbar() {
             </div>
 
             <button
-              className="border-none bg-transparent text-white font-light uppercase text-sm md:text-xl cursor-pointer"
+              className="border-none bg-transparent px-4 md:px-6 py-2 text-white font-light uppercase text-sm md:text-xl cursor-pointer"
               onClick={() => setMenuOpen(!menuOpen)}
               aria-expanded={menuOpen}
               aria-controls="primary-navigation"
@@ -76,7 +76,7 @@ export default function Navbar() {
 
       <nav
         id="primary-navigation"
-        className={`primary-menu ${menuOpen ? 'active' : ''}`}
+        className={`primary-menu   ${menuOpen ? 'active' : ''}`}
         style={{ transform: menuOpen ? 'translateX(-100vw)' : 'none' }}
       >
         <div className="h-full overflow-y-scroll flex flex-col md:flex-row justify-end p-4 md:p-12"

@@ -1,12 +1,29 @@
 {
   "metadata": {
-    "title": "Approfondimenti ed Evidenze degli Esperti",
-    "description": "Guarda le dimostrazioni degli esperti e ottieni approfondimenti sulle tecniche avanzate di trattamento estetico.",
-    "keywords": "dimostrazioni estetiche, tecniche di iniezione filler, approfondimenti esperti"
+    "title": "Approfondimenti e dimostrazioni degli esperti",
+    "description": "Guarda le dimostrazioni Bonitto e gli approfondimenti clinici sui trattamenti.",
+    "keywords": "approfondimenti esperti Bonitto, dimostrazione Babyface Filler, video trattamento estetico"
   },
   "hero": {
-    "tag": "APPROFONDIMENTI ESPERTI",
-    "title": "Impara dagli esperti",
-    "description": "Guarda le dimostrazioni e ottieni approfondimenti dai principali professionisti dell'estetica."
+    "tag": "Approfondimenti e dimostrazioni degli esperti",
+    "title": "Approfondimenti e dimostrazioni degli esperti",
+    "description": "Uno spazio dedicato alla prospettiva clinica, alla tecnica di prodotto e alle dimostrazioni visive del mondo professionale Bonitto."
+  },
+  "demo": {
+    "eyebrow": "Dimostrazione clinica",
+    "title": "Babyface Filler prima e dopo",
+    "description": "Uno sguardo professionale ai risultati di Babyface Filler, pensato per mostrare come una pianificazione attenta del trattamento favorisca un risultato fresco, equilibrato e naturale.",
+    "videoLabel": "Babyface Filler prima e dopo",
+    "bullets": [
+      "Dimostrazione visiva focalizzata sul trattamento",
+      "Presentazione dei risultati prima e dopo",
+      "Prospettiva clinica per professionisti estetici"
+    ],
+    "videoFallback": "Your browser does not support the video tag."
+  },
+  "closing": {
+    "title": "Hai bisogno di maggiori informazioni sul prodotto?",
+    "description": "Contatta il team Bonitto per supporto professionale, dettagli sulla distribuzione e indicazioni sui prodotti.",
+    "cta": "Contattaci"
   }
 }

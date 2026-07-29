@@ -1,5 +1,16 @@
 {
-  "metadata": { "title": "3D Touch — Face & Body", "description": "Explore our interactive face and body treatment guide to find the right products for each area.", "keywords": "face body treatment, dermal filler zones, aesthetic treatment areas" },
-  "hero": { "tag": "3D TOUCH", "title": "Explore treatment areas", "description": "Select an area on the face or body to discover relevant product recommendations." },
-  "fallback": { "title": "Treatment Areas", "description": "Select a zone to view product recommendations:" }
+  "metadata": {
+    "title": "Face & Body",
+    "description": "Select the area of your body you wish to treat and discover the products suited to your skin, based on your actual needs.",
+    "keywords": "face body treatment, dermal filler zones, aesthetic treatment areas"
+  },
+  "hero": {
+    "tag": "Face & Body",
+    "title": "Customize your beauty routine",
+    "description": "Take care of yourself: select the area of your body you wish to treat and discover the products suited to your skin, based on your actual needs."
+  },
+  "fallback": {
+    "title": "Treatment Areas",
+    "description": "Select a zone to view product recommendations:"
+  }
 }

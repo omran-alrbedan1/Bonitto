@@ -1,4 +1,29 @@
 {
-  "metadata": { "title": "Experteneinblicke & Demonstrationen", "description": "Schauen Sie sich Expertendemonstrationen an und gewinnen Sie Einblicke in fortgeschrittene ästhetische Behandlungstechniken.", "keywords": "ästhetische Demonstrationen, Filler-Injektionstechniken, Experteneinblicke" },
-  "hero": { "tag": "EXPERTENEINBLICKE", "title": "Lernen Sie von den Experten", "description": "Schauen Sie sich Demonstrationen an und gewinnen Sie Einblicke von führenden Ärzten auf dem Gebiet der Ästhetik." }
+  "metadata": {
+    "title": "Experteneinblicke und Demonstrationen",
+    "description": "Sehen Sie Bonitto-Demonstrationen und klinische Einblicke in Behandlungen.",
+    "keywords": "Bonitto Experteneinblicke, Babyface Filler Demonstration, ästhetisches Behandlungsvideo"
+  },
+  "hero": {
+    "tag": "Experteneinblicke und Demonstrationen",
+    "title": "Experteneinblicke und Demonstrationen",
+    "description": "Ein fokussierter Bereich für klinische Perspektiven, Produkttechnik und visuelle Demonstrationen aus der professionellen Welt von Bonitto."
+  },
+  "demo": {
+    "eyebrow": "Klinische Demonstration",
+    "title": "Babyface Filler vorher und nachher",
+    "description": "Ein professioneller Blick auf die Ergebnisse von Babyface Filler und darauf, wie sorgfältige Behandlungsplanung ein frisches, ausgewogenes und natürlich wirkendes Erscheinungsbild unterstützt.",
+    "videoLabel": "Babyface Filler vorher und nachher",
+    "bullets": [
+      "Behandlungsorientierte visuelle Demonstration",
+      "Vorher-nachher-Präsentation der Ergebnisse",
+      "Klinische Perspektive für ästhetische Fachkräfte"
+    ],
+    "videoFallback": "Your browser does not support the video tag."
+  },
+  "closing": {
+    "title": "Benötigen Sie weitere Produktinformationen?",
+    "description": "Kontaktieren Sie das Bonitto-Team für professionelle Unterstützung, Vertriebsdetails und Produkthinweise.",
+    "cta": "Kontaktieren Sie uns"
+  }
 }

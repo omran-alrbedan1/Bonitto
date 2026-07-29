@@ -1,12 +1,29 @@
 {
   "metadata": {
-    "title": "Conocimientos de Expertos y Demostraciones",
-    "description": "Vea demostraciones de expertos y obtenga información sobre técnicas avanzadas de tratamiento estético.",
-    "keywords": "demostraciones estéticas, técnicas de inyección de rellenos, conocimientos de expertos"
+    "title": "Perspectivas de expertos y demostraciones",
+    "description": "Vea demostraciones de Bonitto y perspectivas clínicas sobre tratamientos.",
+    "keywords": "perspectivas de expertos Bonitto, demostración Babyface Filler, video de tratamiento estético"
   },
   "hero": {
-    "tag": "CONOCIMIENTOS DE EXPERTOS",
-    "title": "Aprenda de los expertos",
-    "description": "Vea demostraciones y obtenga información de los principales profesionales de la estética."
+    "tag": "Perspectivas de expertos y demostraciones",
+    "title": "Perspectivas de expertos y demostraciones",
+    "description": "Un espacio dedicado a la perspectiva clínica, la técnica de producto y las demostraciones visuales del mundo profesional de Bonitto."
+  },
+  "demo": {
+    "eyebrow": "Demostración clínica",
+    "title": "Babyface Filler antes y después",
+    "description": "Una mirada profesional a los resultados de Babyface Filler, pensada para mostrar cómo una planificación cuidadosa del tratamiento favorece un resultado fresco, equilibrado y natural.",
+    "videoLabel": "Babyface Filler antes y después",
+    "bullets": [
+      "Demostración visual centrada en el tratamiento",
+      "Presentación de resultados antes y después",
+      "Perspectiva clínica para profesionales de la estética"
+    ],
+    "videoFallback": "Your browser does not support the video tag."
+  },
+  "closing": {
+    "title": "¿Necesita más información del producto?",
+    "description": "Contacte con el equipo de Bonitto para recibir apoyo profesional, detalles de distribución y orientación sobre productos.",
+    "cta": "Contáctenos"
   }
 }

@@ -1,4 +1,29 @@
 {
-  "metadata": { "title": "Expert Insights & Demonstrations", "description": "Watch expert demonstrations and gain insights into advanced aesthetic treatment techniques.", "keywords": "aesthetic demonstrations, filler injection techniques, expert insights" },
-  "hero": { "tag": "EXPERT INSIGHTS", "title": "Learn from the experts", "description": "Watch demonstrations and gain insights from leading aesthetic practitioners." }
+  "metadata": {
+    "title": "Expert Insights & Demonstrations",
+    "description": "Watch Bonitto expert demonstrations and clinical treatment insights.",
+    "keywords": "Bonitto expert insights, Babyface Filler demonstration, aesthetic treatment video"
+  },
+  "hero": {
+    "tag": "Expert insights & demonstrations",
+    "title": "Expert Insights & Demonstrations",
+    "description": "A focused space for clinical perspective, product technique, and visual demonstrations from the Bonitto professional world."
+  },
+  "demo": {
+    "eyebrow": "Clinical demonstration",
+    "title": "Babyface Filler Before and After",
+    "description": "A professional look at Babyface Filler results, designed to show how careful treatment planning supports fresh, balanced, and natural-looking facial refinement.",
+    "videoLabel": "Babyface Filler Before and After",
+    "bullets": [
+      "Treatment-focused visual demonstration",
+      "Before-and-after result presentation",
+      "Clinical perspective for aesthetic professionals"
+    ],
+    "videoFallback": "Your browser does not support the video tag."
+  },
+  "closing": {
+    "title": "Need more product information?",
+    "description": "Contact the Bonitto team for professional support, distribution details, and product guidance.",
+    "cta": "Contact us"
+  }
 }
