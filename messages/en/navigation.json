@@ -13,11 +13,11 @@
   "megaMenu": {
     "title": "Our Products",
     "categories": [
-      { "number": "01", "label": "Hyaluronic Acid Fillers" },
-      { "number": "02", "label": "MDR-Approved HA & Amino Acid Fillers" },
-      { "number": "03", "label": "Professional Cosmetics — Vials" },
-      { "number": "04", "label": "Professional Cosmetics — Syringes" },
-      { "number": "05", "label": "Poly-L-Lactic Acid (PLLA) Line" },
+      { "number": "01", "label": "Hyaluronic Acid Fillers (HA Technology)" },
+      { "number": "02", "label": "MDR-Approved Hyaluronic Acid and Amino Acid Fillers" },
+      { "number": "03", "label": "Professional cosmetics in vials" },
+      { "number": "04", "label": "Professional cosmetics in syringes" },
+      { "number": "05", "label": "Poly-L-lactic acid (PLLA) LINE" },
       { "number": "06", "label": "Skincare" }
     ]
   }

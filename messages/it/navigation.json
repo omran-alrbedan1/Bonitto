@@ -13,12 +13,12 @@
   "megaMenu": {
     "title": "I Nostri Prodotti",
     "categories": [
-      { "number": "01", "label": "Filler all'Acido Ialuronico" },
-      { "number": "02", "label": "Filler HA e Aminoacidici Approvati MDR" },
-      { "number": "03", "label": "Cosmetici Professionali — Fiale" },
-      { "number": "04", "label": "Cosmetici Professionali — Siringhe" },
-      { "number": "05", "label": "Linea Acido Poli-L-Lattico (PLLA)" },
-      { "number": "06", "label": "Cura della Pelle" }
+      { "number": "01", "label": "Filler all'acido ialuronico (Tecnologia HA)" },
+      { "number": "02", "label": "Filler a base di acido ialuronico e aminoacidi approvati dalla MDR" },
+      { "number": "03", "label": "Cosmetici professionali in fiale" },
+      { "number": "04", "label": "Cosmetici professionali in siringhe" },
+      { "number": "05", "label": "Linea acido poli-L-lattico (PLLA)" },
+      { "number": "06", "label": "Skincare" }
     ]
   }
 }

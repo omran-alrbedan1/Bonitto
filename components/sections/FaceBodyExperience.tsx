@@ -179,7 +179,7 @@ function ProductPanel({ area, zones, activeZoneId }: { area: Area; zones: Zone[]
     if (!activeZone) return;
     setFilter(availableFilters.has(vial) ? vial : filler);
     const timer = window.setTimeout(() => {
-      panelRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+      panelRef.current?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'start' });
     }, 60);
     return () => window.clearTimeout(timer);
   }, [activeZone, availableFilters]);

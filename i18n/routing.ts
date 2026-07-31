@@ -17,7 +17,6 @@ export const routing = defineRouting({
     '/research-articles/[id]': '/research-articles/[id]',
     '/expert-insights-demonstrations': '/expert-insights-demonstrations',
     '/face-body': '/face-body',
-    '/reserved-area': '/reserved-area',
     '/privacy-policy': '/privacy-policy',
     '/cookie-policy': '/cookie-policy',
     '/terms': '/terms',

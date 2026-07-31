@@ -3,57 +3,73 @@ import { getPageMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
 import { getTranslations } from "next-intl/server";
 import Link from "next/link";
+import Footer from "@/components/Footer";
+import categoryDescriptions from "@/data/category-descriptions.json";
+import { getProductsByCategorySlug } from "@/lib/bonitto-products";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale; slug: string }> }): Promise<Metadata> {
-  const { locale } = await params;
-  return getPageMetadata({ locale, page: 'products', path: '/product-category/[slug]' });
+  const { locale, slug } = await params;
+  const info = categoryDescriptions[slug as keyof typeof categoryDescriptions];
+  return getPageMetadata({
+    locale,
+    page: 'products',
+    path: `/product-category/${slug}`,
+    title: info?.title,
+    description: info?.body?.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim(),
+  });
 }
-
-const mockProducts = [
-  { slug: 'product-1', name: 'HA Filler Premium 1ml', type: 'Sterile vials' },
-  { slug: 'product-2', name: 'HA Filler Ultra 1ml', type: 'Syringe' },
-  { slug: 'product-3', name: 'Amino Acid Complex', type: 'Sterile vials' },
-  { slug: 'product-4', name: 'Skin Booster Pro', type: 'Vials 5x5ml' },
-];
 
 export default async function ProductCategoryPage({ params }: { params: Promise<{ locale: Locale; slug: string }> }) {
   const { locale, slug } = await params;
-  const t = await getTranslations({ locale, namespace: 'products' });
   const tn = await getTranslations({ locale, namespace: 'navigation' });
   const categories = tn.raw('megaMenu.categories') as Array<{ number: string; label: string }>;
-  const category = categories?.find(c => c.number === slug);
+  const category = categories?.find((c) => c.number === slug);
+  const info = categoryDescriptions[slug as keyof typeof categoryDescriptions];
+  const title = info?.title || category?.label || `Category ${slug}`;
+  const products = getProductsByCategorySlug(slug);
+  const rowsClass = products.length <= 5 ? 'rows-1' : 'rows-2';
 
   return (
-    <main>
-      <section className="pt-32 pb-16 sm:pt-40 bg-brand-bg-warm">
-        <div className="mx-auto w-[min(1200px,calc(100%-48px))]">
-          <span className="inline-block rounded-full bg-brand-teal/8 px-4 py-1.5 text-xs font-bold uppercase tracking-wider text-brand-teal mb-4">
-            {t('metadata.title')}
-          </span>
-          <h1 className="text-3xl font-bold tracking-tight text-brand-ink sm:text-4xl">
-            {category?.label || `Category ${slug}`}
-          </h1>
-        </div>
-      </section>
-
-      <section className="py-16">
-        <div className="mx-auto w-[min(1200px,calc(100%-48px))]">
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {mockProducts.map((product) => (
-              <Link key={product.slug} href={`/product/${product.slug}`}
-                className="group rounded-2xl border border-brand-line bg-white overflow-hidden transition hover:shadow-md">
-                <div className="aspect-square bg-brand-teal/5 flex items-center justify-center">
-                  <span className="text-sm text-brand-muted">Product Image</span>
-                </div>
-                <div className="p-6">
-                  <span className="inline-block rounded-full bg-brand-teal/8 px-3 py-0.5 text-xs font-bold text-brand-teal mb-2">{product.type}</span>
-                  <h3 className="text-lg font-bold text-brand-ink group-hover:text-brand-teal transition">{product.name}</h3>
-                </div>
-              </Link>
-            ))}
+    <main className="min-h-screen">
+      <div id="blocks-wrapper" className="horizontal-scroll product-category-scroll">
+        <section className="block-wyswyg">
+          <div className="container-fluid">
+            <div className="wyswyg">
+              <h1>{title}</h1>
+              {info?.body && <div dangerouslySetInnerHTML={{ __html: info.body }} />}
+            </div>
           </div>
-        </div>
-      </section>
+        </section>
+
+        <section className="plp">
+          <div className="container-fluid">
+            {products.length > 0 ? (
+              <div className={`product-list ${rowsClass}`}>
+                {products.map((product) => (
+                  <div className="product-item" key={product.id}>
+                    <Link href={`/product/${product.slug}`}>
+                      <img
+                        loading="lazy"
+                        className="product-img"
+                        alt={product.title}
+                        src={product.cardImage || product.productImage?.mobile || product.productImage?.desktop}
+                      />
+                      <span className="d-block product-title">{product.title}</span>
+                      <span className="d-block">{product.category}</span>
+                    </Link>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <div className="flex min-h-[40vh] items-center justify-center">
+                <p>No products found in this category.</p>
+              </div>
+            )}
+          </div>
+        </section>
+
+        <Footer />
+      </div>
     </main>
   );
 }

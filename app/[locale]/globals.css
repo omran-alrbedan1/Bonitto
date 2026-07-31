@@ -285,6 +285,9 @@ h3 {
   .horizontal-scroll > section.section-about-pair {
     min-width: 100vw;
   }
+  .horizontal-scroll > section.home-section {
+    min-width: 100vw;
+  }
 }
 
 @media (min-width: 992px) and (min-height: 1200px) {
@@ -1568,6 +1571,18 @@ html[dir="rtl"] .product-detail-results ul {
 }
 
 @media (max-width: 480px) {
+  .product-detail-copy,
+  .product-detail-results > div {
+    width: calc(100vw - 64px);
+    max-width: calc(100vw - 64px);
+  }
+
+  .product-detail-description,
+  .product-detail-tech p {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+  }
+
   .product-detail-tagline {
     font-size: 20px;
     line-height: 26px;
@@ -2183,4 +2198,129 @@ section.block-footer {
     font-size: 14px;
     line-height: 18px;
   }
+}
+
+/* Product listing (plp) section — category pages */
+.product-category-scroll > section:not(.plp):not(.news):not(.gallery) {
+  max-width: 60vw;
+}
+
+section.plp .product-list {
+  display: grid;
+  grid-auto-rows: auto;
+  justify-content: center;
+  gap: 1rem;
+  width: 100%;
+}
+
+@media (min-width: 992px) {
+  section.plp .product-list {
+    max-height: calc(100vh - 179px);
+  }
+}
+
+section.plp .product-list.rows-1 {
+  grid-template-columns: repeat(auto-fill, 100%);
+}
+@media (min-width: 992px) {
+  section.plp .product-list.rows-1 {
+    grid-auto-flow: row dense;
+    grid-template-rows: repeat(1, auto);
+  }
+}
+section.plp .product-list.rows-1 .product-img {
+  height: 70vh;
+  max-height: calc(100vh - 364px);
+}
+@media (min-width: 992px) and (max-height: 840px) {
+  section.plp .product-list.rows-1 {
+    grid-template-columns: repeat(auto-fill, 400px);
+  }
+}
+@media (min-width: 992px) and (min-height: 841px) {
+  section.plp .product-list.rows-1 {
+    grid-template-columns: repeat(auto-fill, 600px);
+  }
+}
+section.plp .product-list.rows-1 a {
+  padding: 2rem 0;
+}
+
+section.plp .product-list.rows-2 {
+  grid-template-columns: repeat(auto-fill, calc(50% - 24px));
+}
+@media (min-width: 535px) {
+  section.plp .product-list.rows-2 {
+    justify-content: space-between;
+  }
+}
+@media (min-width: 576px) {
+  section.plp .product-list.rows-2 {
+    grid-template-columns: repeat(auto-fill, calc(33% - 24px));
+  }
+}
+@media (min-width: 992px) {
+  section.plp .product-list.rows-2 {
+    grid-auto-flow: row dense;
+    grid-template-columns: repeat(auto-fill, 250px);
+    grid-template-rows: repeat(2, minmax(auto, calc((100vh - 300px) / 2)));
+  }
+  section.plp .product-list.rows-2 .product-img {
+    max-height: calc((100vh - 300px) / 2 - 69px);
+  }
+  section.plp .product-list.rows-2 a {
+    padding: 0.5rem 0;
+  }
+}
+
+section.plp .product-list .product-item {
+  text-align: center;
+}
+section.plp .product-list .product-img {
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+  object-fit: contain;
+  padding-bottom: 0.5rem;
+}
+section.plp .product-list .product-title {
+  font-size: 22px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+section.plp .product-list a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+}
+section.plp .product-list a:hover {
+  box-shadow: 9px 10px 16px 0px rgba(0, 0, 0, 0.25);
+}
+section.plp .product-list a:hover:before {
+  content: "Discover more";
+  position: absolute;
+  top: calc(50% - 24px);
+  left: 50%;
+  margin: 0;
+  padding: 0 2rem;
+  border: 1px solid;
+  height: 48px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 300;
+  border-radius: 0px;
+  text-transform: uppercase;
+  min-width: 180px;
+  background-color: #fff;
+  border-color: #fff;
+  color: #4AB2A8;
+  transform: translateX(-50%);
+}
+html[dir="rtl"] section.plp .product-list a:hover:before {
+  content: "اكتشف المزيد";
 }

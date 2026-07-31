@@ -13,11 +13,11 @@
   "megaMenu": {
     "title": "Nos produits",
     "categories": [
-      { "number": "01", "label": "Fillers à l'acide hyaluronique" },
-      { "number": "02", "label": "Fillers HA et acides aminés approuvés MDR" },
-      { "number": "03", "label": "Cosmétiques professionnels — Flacons" },
-      { "number": "04", "label": "Cosmétiques professionnels — Seringues" },
-      { "number": "05", "label": "Gamme Acide poly-L-lactique (PLLA)" },
+      { "number": "01", "label": "Fillers à l'acide hyaluronique (Technologie HA)" },
+      { "number": "02", "label": "Fillers à l'acide hyaluronique et aux acides aminés approuvés par le MDR" },
+      { "number": "03", "label": "Cosmétiques professionnels en flacons" },
+      { "number": "04", "label": "Cosmétiques professionnels en seringues" },
+      { "number": "05", "label": "Ligne d'acide poly-L-lactique (PLLA)" },
       { "number": "06", "label": "Soins de la peau" }
     ]
   }

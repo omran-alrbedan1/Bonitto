@@ -3,8 +3,10 @@ import { notFound } from 'next/navigation';
 import { getTranslations } from 'next-intl/server';
 import Footer from '@/components/Footer';
 import { Link } from '@/i18n/routing';
-import { bonittoProducts, getBonittoProduct } from '@/lib/bonitto-products';
+import { bonittoProducts, getBonittoProduct, getCategorySlug } from '@/lib/bonitto-products';
+import { PRODUCT_CATEGORIES } from '@/constants/data';
 import { type Locale } from '@/lib/i18n';
+import NextLink from 'next/link';
 
 type ProductPageParams = Promise<{ locale: Locale; id: string }>;
 
@@ -35,9 +37,31 @@ export default async function ProductDetailPage({ params }: { params: ProductPag
   if (!product) notFound();
 
   const t = await getTranslations({ locale, namespace: 'products' });
+  
+  const categorySlug = getCategorySlug(product);
+  const category = PRODUCT_CATEGORIES.find((cat) => cat.slug === categorySlug);
 
   return (
     <main className="product-detail-page">
+      {/* Breadcrumb */}
+      <nav className="breadcrumb-nav">
+        <div className="container mx-auto px-4 py-4">
+          <NextLink href={`/${locale}`} className="text-gray-600 hover:text-teal-600">
+            Home
+          </NextLink>
+          <span className="mx-2 text-gray-400">/</span>
+          {category && (
+            <>
+              <NextLink href={`/${locale}/product-category/${categorySlug}`} className="text-gray-600 hover:text-teal-600">
+                {category.name}
+              </NextLink>
+              <span className="mx-2 text-gray-400">/</span>
+            </>
+          )}
+          <span className="text-gray-900">{product.title}</span>
+        </div>
+      </nav>
+
       <div id="blocks-wrapper" className="horizontal-scroll product-detail-scroll">
         <section className="section-md product-detail-intro">
           <div className="product-detail-copy">

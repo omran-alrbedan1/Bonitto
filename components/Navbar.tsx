@@ -132,15 +132,6 @@ export default function Navbar() {
                       </Link>
                     </li>
                   ))}
-                  <li className="mb-2 md:mb-4">
-                    <Link
-                      href="/reserved-area"
-                      className="text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light transition-all duration-300 hover:italic"
-                      onClick={() => setMenuOpen(false)}
-                    >
-                      {t('reservedArea')}
-                    </Link>
-                  </li>
                 </ul>
               </div>
             </div>

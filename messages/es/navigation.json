@@ -13,12 +13,12 @@
   "megaMenu": {
     "title": "Nuestros Productos",
     "categories": [
-      { "number": "01", "label": "Rellenos de Ácido Hialurónico" },
-      { "number": "02", "label": "Rellenos HA y de Aminoácidos Aprobados por MDR" },
-      { "number": "03", "label": "Cosméticos Profesionales — Viales" },
-      { "number": "04", "label": "Cosméticos Profesionales — Jeringas" },
-      { "number": "05", "label": "Línea de Ácido Poli-L-Láctico (PLLA)" },
-      { "number": "06", "label": "Cuidado de la Piel" }
+      { "number": "01", "label": "Rellenos de ácido hialurónico (Tecnología HA)" },
+      { "number": "02", "label": "Rellenos de ácido hialurónico y aminoácidos aprobados por la MDR" },
+      { "number": "03", "label": "Cosméticos profesionales en viales" },
+      { "number": "04", "label": "Cosméticos profesionales en jeringas" },
+      { "number": "05", "label": "Línea de ácido poli-L-láctico (PLLA)" },
+      { "number": "06", "label": "Skincare" }
     ]
   }
 }

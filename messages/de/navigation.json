@@ -13,11 +13,11 @@
   "megaMenu": {
     "title": "Unsere Produkte",
     "categories": [
-      { "number": "01", "label": "Hyaluronsäure-Filler" },
-      { "number": "02", "label": "MDR-zertifizierte HA- & Aminosäure-Filler" },
-      { "number": "03", "label": "Professionelle Kosmetik — Fläschchen" },
-      { "number": "04", "label": "Professionelle Kosmetik — Spritzen" },
-      { "number": "05", "label": "Poly-L-Lactinsäure (PLLA)-Linie" },
+      { "number": "01", "label": "Hyaluronsäure-Filler (HA-Technologie)" },
+      { "number": "02", "label": "MDR-zugelassene Hyaluronsäure- und Aminosäure-Filler" },
+      { "number": "03", "label": "Professionelle Kosmetik in Fläschchen" },
+      { "number": "04", "label": "Professionelle Kosmetik in Spritzen" },
+      { "number": "05", "label": "Poly-L-Lactinsäure (PLLA) Linie" },
       { "number": "06", "label": "Hautpflege" }
     ]
   }
