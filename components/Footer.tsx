@@ -79,19 +79,19 @@ export default function Footer() {
 
       <div className="footer-company-info-wrapper">
         <div className="footer-legal">
-          <p>Copyright &copy; Beauty Revolution Trading LLC.<br />All Rights Reserved</p>
+          <p>{t('footer.copyright')}</p>
         </div>
         <div className="footer-address">
           <div className="footer-company-info">
-            Vienna: Top 1, Schegargasse 9, 1190 Vienna, Austria<br />
-            Dubai: 701, Damac Smart Heights, Tecom, Dubai UAE
+            {t('footer.companyInfo.vienna')}<br />
+            {t('footer.companyInfo.dubai')}
           </div>
           <div className="footer-company-info">
-            <em className="uppercase">email</em>{' '}
-            <a href="mailto:info@bonittoaesthetic.com">info@bonittoaesthetic.com</a>
+            <em className="uppercase">{t('footer.companyInfo.emailLabel')}</em>{' '}
+            <a href={`mailto:${t('footer.companyInfo.email')}`}>{t('footer.companyInfo.email')}</a>
           </div>
           <div className="footer-company-info">
-            <em className="uppercase">phone</em> +43 677 61456998
+            <em className="uppercase">{t('footer.companyInfo.phoneLabel')}</em> {t('footer.companyInfo.phone')}
           </div>
         </div>
         <div className="footer-powered">
@@ -100,7 +100,7 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
             className="footer-powered-link"
-            aria-label="Future X website"
+            aria-label={t('footer.futureXLabel')}
           >
             <span>{t('footer.poweredBy')}</span>
             <img src="/futurex-logo.svg" alt="Future X" />

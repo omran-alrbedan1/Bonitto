@@ -18,9 +18,14 @@
   "readMore": "Devamını Oku",
   "share": "Paylaş",
   "relatedArticles": "İlgili Makaleler",
+  "image": "Resim",
   "categories": {
     "events": {
+      "label": "Etkinlikler",
       "description": "Markamızı tanımlayan inovasyon, mükemmellik ve estetik felsefeyle doğrudan bağlantı kurma fırsatı. Özel sunumlara katılın ve Bonitto® dünyasını yakından deneyimlemek için sektör uzmanlarıyla tanışın."
+    },
+    "researchArticles": {
+      "label": "Araştırma Makaleleri"
     }
   },
   "eventDetails": {

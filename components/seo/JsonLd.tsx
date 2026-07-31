@@ -12,7 +12,7 @@ const organization = {
     '@type': 'ContactPoint',
     telephone: '+391234567890',
     contactType: 'customer service',
-    availableLanguage: ['English', 'French', 'German', 'Italian', 'Russian', 'Turkish', 'Arabic', 'Spanish'],
+    availableLanguage: ['English', 'French', 'German', 'Italian', 'Russian', 'Turkish', 'Arabic', 'Spanish', 'Hebrew'],
     areaServed: 'Worldwide',
   },
   sameAs: [
@@ -31,7 +31,7 @@ const website = {
   name: 'Bonitto Aesthetic',
   description: 'Premium medical aesthetics products for professionals.',
   publisher: { '@id': `${SITE_URL}/#organization` },
-  inLanguage: ['en', 'fr', 'de', 'it', 'ru', 'tr', 'ar', 'es'],
+  inLanguage: ['en', 'fr', 'de', 'it', 'ru', 'tr', 'ar', 'es', 'he'],
 };
 
 export function JsonLd() {

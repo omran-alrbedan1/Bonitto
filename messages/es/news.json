@@ -18,9 +18,14 @@
   "readMore": "Leer más",
   "share": "Compartir",
   "relatedArticles": "Artículos Relacionados",
+  "image": "Imagen",
   "categories": {
     "events": {
+      "label": "Eventos",
       "description": "Una oportunidad para conectar directamente con la innovación, la excelencia y la filosofía estética que definen nuestra marca. Únase a presentaciones exclusivas y conozca a expertos del sector para vivir de cerca el mundo Bonitto®."
+    },
+    "researchArticles": {
+      "label": "Artículos de Investigación"
     }
   },
   "eventDetails": {

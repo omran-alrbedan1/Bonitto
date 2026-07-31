@@ -18,9 +18,14 @@
   "readMore": "Weiterlesen",
   "share": "Teilen",
   "relatedArticles": "Ähnliche Artikel",
+  "image": "Bild",
   "categories": {
     "events": {
+      "label": "Veranstaltungen",
       "description": "Eine Gelegenheit, direkt mit der Innovation, Exzellenz und ästhetischen Philosophie in Kontakt zu treten, die unsere Marke ausmachen. Nehmen Sie an exklusiven Präsentationen teil und treffen Sie Branchenexperten, um die Welt von Bonitto® aus nächster Nähe zu erleben."
+    },
+    "researchArticles": {
+      "label": "Forschungsartikel"
     }
   },
   "eventDetails": {

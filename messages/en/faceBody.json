@@ -1,0 +1,36 @@
+{
+  "face": "Face",
+  "body": "Body",
+  "products": "Products",
+  "filters": {
+    "fillers": "Fillers",
+    "mesotherapy": "Mesotherapy",
+    "sterileVials": "Sterile vials"
+  },
+  "zones": {
+    "forehead": "Forehead",
+    "nose": "Nose",
+    "underEye": "Under eye",
+    "eyebrow": "Eyebrow",
+    "sideEye": "Side eye",
+    "cheek": "Cheek",
+    "jawline": "Jawline",
+    "doubleChin": "Double chin",
+    "sideMouth": "Side mouth",
+    "smileLines": "Smile lines",
+    "neck": "Neck",
+    "hair": "Hair",
+    "mouth": "Mouth",
+    "arm": "Arm",
+    "back": "Back",
+    "buttocks": "Buttocks",
+    "leg": "Leg",
+    "belly": "Belly",
+    "hand": "Hand"
+  },
+  "aria": {
+    "selectFaceZone": "Select a face treatment zone",
+    "selectBodyZone": "Select a body treatment zone",
+    "productFilters": "Product filters"
+  }
+}

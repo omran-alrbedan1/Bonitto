@@ -1,0 +1,36 @@
+{
+  "face": "Viso",
+  "body": "Corpo",
+  "products": "Prodotti",
+  "filters": {
+    "fillers": "Filler",
+    "mesotherapy": "Mesoterapia",
+    "sterileVials": "Fiale sterili"
+  },
+  "zones": {
+    "forehead": "Fronte",
+    "nose": "Naso",
+    "underEye": "Sotto l'occhio",
+    "eyebrow": "Sopracciglio",
+    "sideEye": "Lato dell'occhio",
+    "cheek": "Guancia",
+    "jawline": "Mandibola",
+    "doubleChin": "Doppio mento",
+    "sideMouth": "Lato della bocca",
+    "smileLines": "Ride del sorriso",
+    "neck": "Collo",
+    "hair": "Capelli",
+    "mouth": "Bocca",
+    "arm": "Braccio",
+    "back": "Schiena",
+    "buttocks": "Glutei",
+    "leg": "Gamba",
+    "belly": "Pancia",
+    "hand": "Mano"
+  },
+  "aria": {
+    "selectFaceZone": "Seleziona una zona di trattamento del viso",
+    "selectBodyZone": "Seleziona una zona di trattamento del corpo",
+    "productFilters": "Filtri prodotti"
+  }
+}

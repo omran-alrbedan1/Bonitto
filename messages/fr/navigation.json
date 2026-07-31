@@ -10,6 +10,9 @@
   "distributors": "Distributeurs",
   "reservedArea": "Espace réservé",
   "shop": "Boutique",
+  "menu": "Menu",
+  "close": "Fermer",
+  "closeNavigation": "Fermer le menu de navigation",
   "megaMenu": {
     "title": "Nos produits",
     "categories": [

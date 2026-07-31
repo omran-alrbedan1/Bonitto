@@ -1,0 +1,36 @@
+{
+  "face": "פנים",
+  "body": "גוף",
+  "products": "מוצרים",
+  "filters": {
+    "fillers": "מילויים דרמלים",
+    "mesotherapy": "מזותרפיה",
+    "sterileVials": "בקבוקים סטריליים"
+  },
+  "zones": {
+    "forehead": "מצח",
+    "nose": "אף",
+    "underEye": "תחת העין",
+    "eyebrow": "גבה",
+    "sideEye": "צד העין",
+    "cheek": "לחי",
+    "jawline": "קו הלסת",
+    "doubleChin": "סנטר כפול",
+    "sideMouth": "צד הפה",
+    "smileLines": "קווי חיוך",
+    "neck": "צוואר",
+    "hair": "שיער",
+    "mouth": "פה",
+    "arm": "זרוע",
+    "back": "גב",
+    "buttocks": "ישבן",
+    "leg": "רגל",
+    "belly": "בטן",
+    "hand": "יד"
+  },
+  "aria": {
+    "selectFaceZone": "בחר אזור טיפול בפנים",
+    "selectBodyZone": "בחר אזור טיפול בגוף",
+    "productFilters": "מסנני מוצרים"
+  }
+}

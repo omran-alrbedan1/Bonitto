@@ -10,6 +10,9 @@
   "distributors": "מפיצים",
   "reservedArea": "אזור שמור",
   "shop": "חנות",
+  "menu": "תפריט",
+  "close": "סגור",
+  "closeNavigation": "סגור תפריט ניווט",
   "megaMenu": {
     "title": "המוצרים שלנו",
     "categories": [

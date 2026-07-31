@@ -9,10 +9,18 @@
     "copyright": "© 2026 Bonitto Aesthetic. Alle Rechte vorbehalten.",
     "contactUs": "Kontaktieren Sie uns",
     "followUs": "Oder folgen Sie uns",
-    "followUs": "Oder folgen Sie uns",
     "privacyPolicy": "Datenschutzrichtlinie",
     "cookiePolicy": "Cookie-Richtlinie",
     "terms": "AGB",
-    "poweredBy": "Bereitgestellt von"
+    "poweredBy": "Bereitgestellt von",
+    "companyInfo": {
+      "vienna": "Wien: Top 1, Schegargasse 9, 1190 Wien, Österreich",
+      "dubai": "Dubai: 701, Damac Smart Heights, Tecom, Dubai VAE",
+      "emailLabel": "E-Mail",
+      "phoneLabel": "Telefon",
+      "email": "info@bonittoaesthetic.com",
+      "phone": "+43 677 61456998"
+    },
+    "futureXLabel": "Future X Website"
   }
 }

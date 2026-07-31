@@ -10,12 +10,12 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: L
 }
 
 const mockArticles = [
-  { id: '1', title: 'Advances in HA Filler Technology', date: '2026-01-15', category: 'Research Articles' },
-  { id: '2', title: 'Bonitto at Aesthetic Medicine Expo 2026', date: '2026-02-20', category: 'Events' },
-  { id: '3', title: 'Skincare Innovation: New PLLA Formulation', date: '2026-03-10', category: 'Research Articles' },
-  { id: '4', title: 'International Distributor Conference 2026', date: '2026-04-05', category: 'Events' },
-  { id: '5', title: 'Clinical Results: Poly-L-Lactic Acid Studies', date: '2026-05-12', category: 'Research Articles' },
-  { id: '6', title: 'MEDEF Congress Paris', date: '2026-06-18', category: 'Events' },
+  { id: '1', title: 'Advances in HA Filler Technology', date: '2026-01-15', categoryKey: 'researchArticles' },
+  { id: '2', title: 'Bonitto at Aesthetic Medicine Expo 2026', date: '2026-02-20', categoryKey: 'events' },
+  { id: '3', title: 'Skincare Innovation: New PLLA Formulation', date: '2026-03-10', categoryKey: 'researchArticles' },
+  { id: '4', title: 'International Distributor Conference 2026', date: '2026-04-05', categoryKey: 'events' },
+  { id: '5', title: 'Clinical Results: Poly-L-Lactic Acid Studies', date: '2026-05-12', categoryKey: 'researchArticles' },
+  { id: '6', title: 'MEDEF Congress Paris', date: '2026-06-18', categoryKey: 'events' },
 ];
 
 export default async function NewsEventsPage({ params }: { params: Promise<{ locale: Locale }> }) {
@@ -46,11 +46,11 @@ export default async function NewsEventsPage({ params }: { params: Promise<{ loc
               <Link key={article.id} href={`/news-events/${article.id}`}
                 className="group rounded-2xl border border-brand-line bg-white overflow-hidden transition hover:shadow-md">
                 <div className="aspect-[16/10] bg-brand-teal/5 flex items-center justify-center">
-                  <span className="text-sm text-brand-muted">Image</span>
+                  <span className="text-sm text-brand-muted">{t('image')}</span>
                 </div>
                 <div className="p-6">
                   <div className="flex items-center gap-2 mb-2">
-                    <span className="rounded-full bg-brand-teal/8 px-3 py-0.5 text-xs font-bold text-brand-teal">{article.category}</span>
+                    <span className="rounded-full bg-brand-teal/8 px-3 py-0.5 text-xs font-bold text-brand-teal">{t(`categories.${article.categoryKey}.label`)}</span>
                     <span className="text-xs text-brand-muted">{article.date}</span>
                   </div>
                   <h3 className="text-lg font-bold text-brand-ink group-hover:text-brand-teal transition">{article.title}</h3>

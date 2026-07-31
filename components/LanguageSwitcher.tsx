@@ -1,7 +1,7 @@
 'use client';
 
 import { useLocale } from 'next-intl';
-import { usePathname, useRouter } from '@/i18n/routing';
+import { useRouter } from 'next/navigation';
 import { useState, useRef, useEffect } from 'react';
 
 const localeNames: Record<string, { native: string; short: string; country: string }> = {
@@ -16,12 +16,30 @@ const localeNames: Record<string, { native: string; short: string; country: stri
   he: { native: 'עברית', short: 'HE', country: 'il' },
 };
 
+const SUPPORTED_LOCALES = ['en', 'fr', 'de', 'it', 'ru', 'tr', 'ar', 'es', 'he'];
+
 export default function LanguageSwitcher() {
   const locale = useLocale();
   const router = useRouter();
-  const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
+
+  const handleLocaleChange = (newLocale: string) => {
+    const pathname = window.location.pathname;
+    const segments = pathname.split('/').filter(Boolean);
+    
+    // Remove ALL locale segments from the beginning
+    while (segments.length > 0 && SUPPORTED_LOCALES.includes(segments[0])) {
+      segments.shift();
+    }
+    
+    // Add the new locale at the beginning
+    segments.unshift(newLocale);
+    
+    const newPathname = `/${segments.join('/')}`;
+    router.replace(newPathname);
+    setOpen(false);
+  };
 
   useEffect(() => {
     function handleClick(e: MouseEvent) {
@@ -74,11 +92,7 @@ export default function LanguageSwitcher() {
               return (
                 <button
                   key={code}
-                  onClick={() => {
-                    //@ts-ignore
-                    router.replace(pathname, { locale: code });
-                    setOpen(false);
-                  }}
+                  onClick={() => handleLocaleChange(code)}
                   className="language-option flex items-center gap-3 w-full text-left border-none cursor-pointer transition-all duration-200"
                   style={{
                     padding: '10px 20px',

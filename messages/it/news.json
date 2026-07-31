@@ -18,9 +18,14 @@
   "readMore": "Leggi di più",
   "share": "Condividi",
   "relatedArticles": "Articoli Correlati",
+  "image": "Immagine",
   "categories": {
     "events": {
-      "description": "Un’opportunità per entrare in contatto diretto con l’innovazione, l’eccellenza e la filosofia estetica che definiscono il nostro brand. Partecipa a presentazioni esclusive e incontra esperti del settore per vivere da vicino il mondo Bonitto®."
+      "label": "Eventi",
+      "description": "Un'opportunità per entrare in contatto diretto con l'innovazione, l'eccellenza e la filosofia estetica che definiscono il nostro brand. Partecipa a presentazioni esclusive e incontra esperti del settore per vivere da vicino il mondo Bonitto®."
+    },
+    "researchArticles": {
+      "label": "Articoli di Ricerca"
     }
   },
   "eventDetails": {

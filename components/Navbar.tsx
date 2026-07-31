@@ -68,7 +68,7 @@ export default function Navbar() {
               aria-expanded={menuOpen}
               aria-controls="primary-navigation"
             >
-              {menuOpen ? 'Close' : 'Menu'}
+              {menuOpen ? t('close') : t('menu')}
             </button>
           </div>
         </div>
@@ -85,7 +85,7 @@ export default function Navbar() {
             className="absolute right-5 top-5 md:right-12 md:top-10 z-10 inline-flex h-11 w-11 items-center justify-center border border-white/60 bg-transparent text-white transition-colors duration-300 hover:bg-white hover:text-[#4AB2A8]"
             type="button"
             onClick={() => setMenuOpen(false)}
-            aria-label="Close navigation menu"
+            aria-label={t('closeNavigation')}
           >
             <CloseIcon />
           </button>

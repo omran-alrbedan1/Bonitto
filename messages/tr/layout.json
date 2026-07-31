@@ -12,6 +12,15 @@
     "privacyPolicy": "Gizlilik Politikası",
     "cookiePolicy": "Çerez Politikası",
     "terms": "Kullanım Koşulları",
-    "poweredBy": "Destekleyen"
+    "poweredBy": "Destekleyen",
+    "companyInfo": {
+      "vienna": "Viyana: Top 1, Schegargasse 9, 1190 Viyana, Avusturya",
+      "dubai": "Dubai: 701, Damac Smart Heights, Tecom, Dubai UAE",
+      "emailLabel": "e-posta",
+      "phoneLabel": "telefon",
+      "email": "info@bonittoaesthetic.com",
+      "phone": "+43 677 61456998"
+    },
+    "futureXLabel": "Future X web sitesi"
   }
 }

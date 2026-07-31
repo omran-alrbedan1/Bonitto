@@ -10,6 +10,9 @@
   "distributors": "Distribütörler",
   "reservedArea": "Rezerve Alan",
   "shop": "Mağaza",
+  "menu": "Menü",
+  "close": "Kapat",
+  "closeNavigation": "Navigasyon menüsünü kapat",
   "megaMenu": {
     "title": "Ürünlerimiz",
     "categories": [

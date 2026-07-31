@@ -10,6 +10,9 @@
   "distributors": "الموزعين",
   "reservedArea": "المنطقة المحظورة",
   "shop": "المتجر",
+  "menu": "القائمة",
+  "close": "إغلاق",
+  "closeNavigation": "إغلاق قائمة التنقل",
   "megaMenu": {
     "title": "منتجاتنا",
     "categories": [

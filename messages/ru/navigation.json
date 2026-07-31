@@ -10,6 +10,9 @@
   "distributors": "Дистрибьюторы",
   "reservedArea": "Закрытая область",
   "shop": "Магазин",
+  "menu": "Меню",
+  "close": "Закрыть",
+  "closeNavigation": "Закрыть меню навигации",
   "megaMenu": {
     "title": "Наши продукты",
     "categories": [

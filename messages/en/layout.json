@@ -12,6 +12,15 @@
     "privacyPolicy": "Privacy Policy",
     "cookiePolicy": "Cookie Policy",
     "terms": "Terms & Conditions",
-    "poweredBy": "Powered by"
+    "poweredBy": "Powered by",
+    "companyInfo": {
+      "vienna": "Vienna: Top 1, Schegargasse 9, 1190 Vienna, Austria",
+      "dubai": "Dubai: 701, Damac Smart Heights, Tecom, Dubai UAE",
+      "emailLabel": "email",
+      "phoneLabel": "phone",
+      "email": "info@bonittoaesthetic.com",
+      "phone": "+43 677 61456998"
+    },
+    "futureXLabel": "Future X website"
   }
 }

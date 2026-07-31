@@ -12,6 +12,15 @@
     "privacyPolicy": "מדיניות פרטיות",
     "cookiePolicy": "מדיניות עוגיות",
     "terms": "תנאים והגבלות",
-    "poweredBy": "מופעל על ידי"
+    "poweredBy": "מופעל על ידי",
+    "companyInfo": {
+      "vienna": "וינה: Top 1, Schegargasse 9, 1190 וינה, אוסטריה",
+      "dubai": "דובאי: 701, Damac Smart Heights, Tecom, דובאי איח״ו",
+      "emailLabel": "אימייל",
+      "phoneLabel": "טלפון",
+      "email": "info@bonittoaesthetic.com",
+      "phone": "+43 677 61456998"
+    },
+    "futureXLabel": "אתר Future X"
   }
 }

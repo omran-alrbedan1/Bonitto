@@ -6,12 +6,21 @@
     "keywords": "طب التجميل, حشوات الجلد, حمض الهيالورونيك, العناية بالبشرة, مستحضرات التجميل المهنية, بونيتو"
   },
   "footer": {
-    "copyright": "© {year} بونيتو أيستhetic. جميع الحقوق محفوظة.",
+    "copyright": "© 2026 بونيتو أيستhetic. جميع الحقوق محفوظة.",
     "contactUs": "اتصل بنا",
     "followUs": "أو تابعنا",
     "privacyPolicy": "سياسة الخصوصية",
     "cookiePolicy": "سياسة ملفات تعريف الارتباط",
     "terms": "الشروط والأحكام",
-    "poweredBy": "مدعوم من"
+    "poweredBy": "مدعوم من",
+    "companyInfo": {
+      "vienna": "فيينا: Top 1, Schegargasse 9, 1190 فيينا، النمسا",
+      "dubai": "دبي: 701, Damac Smart Heights, Tecom, دبي الإمارات العربية المتحدة",
+      "emailLabel": "البريد الإلكتروني",
+      "phoneLabel": "الهاتف",
+      "email": "info@bonittoaesthetic.com",
+      "phone": "+43 677 61456998"
+    },
+    "futureXLabel": "موقع Future X الإلكتروني"
   }
 }
