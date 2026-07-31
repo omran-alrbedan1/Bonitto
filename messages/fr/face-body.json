@@ -12,5 +12,39 @@
   "fallback": {
     "title": "Zones de traitement",
     "description": "Sélectionnez une zone pour afficher les recommandations de produits :"
+  },
+  "face": "Visage",
+  "body": "Corps",
+  "products": "Produits",
+  "filters": {
+    "fillers": "Fillers",
+    "mesotherapy": "Mésothérapie",
+    "sterileVials": "Flacons stériles"
+  },
+  "zones": {
+    "forehead": "Front",
+    "nose": "Nez",
+    "underEye": "Sous l'œil",
+    "eyebrow": "Sourcil",
+    "sideEye": "Côté de l'œil",
+    "cheek": "Joue",
+    "jawline": "Mâchoire",
+    "doubleChin": "Double menton",
+    "sideMouth": "Côté de la bouche",
+    "smileLines": "Rides du sourire",
+    "neck": "Cou",
+    "hair": "Cheveux",
+    "mouth": "Bouche",
+    "arm": "Bras",
+    "back": "Dos",
+    "buttocks": "Fesses",
+    "leg": "Jambe",
+    "belly": "Ventre",
+    "hand": "Main"
+  },
+  "aria": {
+    "selectFaceZone": "Sélectionnez une zone de traitement du visage",
+    "selectBodyZone": "Sélectionnez une zone de traitement du corps",
+    "productFilters": "Filtres de produits"
   }
 }

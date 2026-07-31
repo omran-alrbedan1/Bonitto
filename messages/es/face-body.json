@@ -12,5 +12,39 @@
   "fallback": {
     "title": "Áreas de Tratamiento",
     "description": "Seleccione una zona para ver las recomendaciones de productos:"
+  },
+  "face": "Rostro",
+  "body": "Cuerpo",
+  "products": "Productos",
+  "filters": {
+    "fillers": "Rellenos",
+    "mesotherapy": "Mesoterapia",
+    "sterileVials": "Viales estériles"
+  },
+  "zones": {
+    "forehead": "Frente",
+    "nose": "Nariz",
+    "underEye": "Bajo el ojo",
+    "eyebrow": "Ceja",
+    "sideEye": "Lado del ojo",
+    "cheek": "Mejilla",
+    "jawline": "Mandíbula",
+    "doubleChin": "Doble mentón",
+    "sideMouth": "Lado de la boca",
+    "smileLines": "Líneas de sonrisa",
+    "neck": "Cuello",
+    "hair": "Cabello",
+    "mouth": "Boca",
+    "arm": "Brazo",
+    "back": "Espalda",
+    "buttocks": "Nalgas",
+    "leg": "Pierna",
+    "belly": "Vientre",
+    "hand": "Mano"
+  },
+  "aria": {
+    "selectFaceZone": "Seleccione una zona de tratamiento facial",
+    "selectBodyZone": "Seleccione una zona de tratamiento corporal",
+    "productFilters": "Filtros de productos"
   }
 }

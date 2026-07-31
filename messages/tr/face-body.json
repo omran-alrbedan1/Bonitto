@@ -12,5 +12,39 @@
   "fallback": {
     "title": "Tedavi Bölgeleri",
     "description": "Ürün önerilerini görüntülemek için bir bölge seçin:"
+  },
+  "face": "Yüz",
+  "body": "Vücut",
+  "products": "Ürünler",
+  "filters": {
+    "fillers": "Dolgular",
+    "mesotherapy": "Mezoterapi",
+    "sterileVials": "Steril flakonlar"
+  },
+  "zones": {
+    "forehead": "Alın",
+    "nose": "Burun",
+    "underEye": "Göz altı",
+    "eyebrow": "Kaş",
+    "sideEye": "Göz yanı",
+    "cheek": "Yanak",
+    "jawline": "Çene hattı",
+    "doubleChin": "Çift çene",
+    "sideMouth": "Ağaz yanı",
+    "smileLines": "Gülüş çizgileri",
+    "neck": "Boyun",
+    "hair": "Saç",
+    "mouth": "Ağız",
+    "arm": "Kol",
+    "back": "Sırt",
+    "buttocks": "Kalça",
+    "leg": "Bacak",
+    "belly": "Karın",
+    "hand": "El"
+  },
+  "aria": {
+    "selectFaceZone": "Yüz tedavi bölgesi seçin",
+    "selectBodyZone": "Vücut tedavi bölgesi seçin",
+    "productFilters": "Ürün filtreleri"
   }
 }
