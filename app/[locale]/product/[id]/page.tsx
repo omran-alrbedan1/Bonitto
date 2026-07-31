@@ -3,8 +3,8 @@ import { notFound } from 'next/navigation';
 import { getTranslations } from 'next-intl/server';
 import Footer from '@/components/Footer';
 import { Link } from '@/i18n/routing';
-import { bonittoProducts, getBonittoProduct, getCategorySlug } from '@/lib/bonitto-products';
-import { PRODUCT_CATEGORIES } from '@/constants/data';
+import { bonittoProducts, getCategorySlug } from '@/lib/bonitto-products';
+import { getLocalizedProduct } from '@/lib/product-translations';
 import { type Locale } from '@/lib/i18n';
 import NextLink from 'next/link';
 
@@ -15,8 +15,8 @@ export function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: { params: ProductPageParams }): Promise<Metadata> {
-  const { id } = await params;
-  const product = getBonittoProduct(id);
+  const { locale, id } = await params;
+  const product = getLocalizedProduct(id, locale);
   if (!product) return {};
 
   return {
@@ -33,13 +33,15 @@ export async function generateMetadata({ params }: { params: ProductPageParams }
 
 export default async function ProductDetailPage({ params }: { params: ProductPageParams }) {
   const { locale, id } = await params;
-  const product = getBonittoProduct(id);
+  const product = getLocalizedProduct(id, locale);
   if (!product) notFound();
 
   const t = await getTranslations({ locale, namespace: 'products' });
-  
+  const tn = await getTranslations({ locale, namespace: 'navigation' });
+
   const categorySlug = getCategorySlug(product);
-  const category = PRODUCT_CATEGORIES.find((cat) => cat.slug === categorySlug);
+  const categories = tn.raw('megaMenu.categories') as Array<{ number: string; label: string }>;
+  const category = categories?.find((cat) => cat.number === categorySlug);
 
   return (
     <main className="product-detail-page">
@@ -47,7 +49,7 @@ export default async function ProductDetailPage({ params }: { params: ProductPag
       <nav className="breadcrumb-nav">
         <div className="container mx-auto px-4 py-4">
           <NextLink href={`/${locale}`} className="text-gray-600 hover:text-teal-600">
-            Home
+            {t('detail.home')}
           </NextLink>
           <span className="mx-2 text-gray-400">/</span>
           {category && (
@@ -126,7 +128,7 @@ export default async function ProductDetailPage({ params }: { params: ProductPag
               )}
               <img
                 src={product.campaignImage.mobile || product.campaignImage.desktop}
-                alt={product.campaignImage.alt || `${product.title} treatment`}
+                alt={product.campaignImage.alt || t('detail.treatmentAlt', { title: product.title })}
               />
             </picture>
           </section>

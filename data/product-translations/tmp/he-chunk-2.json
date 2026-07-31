@@ -1,0 +1,595 @@
+{
+  "age": {
+    "title": "AGE+",
+    "category": "בקבוקונים סטריליים",
+    "description": "AGE+ הוא פתרון קוסמטי סטרילי שנועד להצעיר ולהמריץ את העור באמצעות הפחתת סימני ההזדקנות. הוא פועל למזעור קווים עדינים וקמטים, לשיפור חלקות העור ולמניעת הזדקנות נוספת, באמצעות שילוב ייחודי של רכיבים פעילים. על ידי אספקת חומרים מזינים חיוניים ולחות עמוקה, הוא מקדם את בריאות העור הכללית ומבטיח מראה צעיר וזוהר.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "נפח", "value": "Vials 5 x 5ml" }
+    ],
+    "effects": [
+      "הפחתת קווים עדינים וקמטים",
+      "מרקם עור משופר",
+      "לחות מוגברת",
+      "התמרה והתחדשות",
+      "מניעת סימני הזדקנות עתידיים"
+    ],
+    "mainTarget": "אנטי-אייג'ינג",
+    "related": [
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "בקבוקונים סטריליים" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "בקבוקונים סטריליים" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "תמונת מוצר של בקבוקון קטן עם הכיתוב \"Bonitto Age+\" לצד קופסה תואמת בגווני טורקיז עם אותו כיתוב. העיצוב אלגנטי ומינימליסטי, עם הטקסט \"A drop of brilliance\" הנראה בראש הקופסה."
+  },
+  "btx": {
+    "title": "BTX+",
+    "category": "בקבוקונים סטריליים",
+    "description": "BTX+ הוא פתרון קוסמטי סטרילי שנועד לסייע במניעה ובהפחתת סימני הזדקנות ניכרים, ובמיוחד לטפל בקמטי הבעה. DMAE ידוע בזכות השפעותיו להבהרת העור. הוא פועל באמצעות ייצוב ממברנות התא ושיפור טונוס השרירים, מה שמוביל למראה עור מוצק ומותמר יותר.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Acetyl Hexapeptide-8 (Argireline), Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "מפחית קמטים",
+      "מרכך קווים עדינים",
+      "משפר את מרקם העור",
+      "משפר את המראה הצעיר"
+    ],
+    "mainTarget": "הרמה",
+    "related": [
+      { "slug": "btx-2-0", "title": "BTX 2.0", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "תמונה של ערכת מוצר Bonitto BTX+ על רקע לבן. הערכה כוללת בקבוקון וקופסה, שניהם במעבר גוון של כחול וירוק, עם שם המותג \"Bonitto\" ותווית המוצר \"BTX+\" הנראים לעין."
+  },
+  "btx-2-0": {
+    "title": "BTX 2.0",
+    "category": "בקבוקונים סטריליים",
+    "description": "BTX 2.0 הוא פתרון קוסמטי סטרילי המיועד להפחתת סימני הזדקנות, כולל מניעת קמטים ובעיות עור אחרות הקשורות להזדקנות. פתרון קוסמטי סטרילי זה מכיל קומפלקס אנטי-אייג'ינג עוצמתי המציע גישה מקיפה להפחתת קמטים, הגברת ייצור הקולגן ושיפור הלחות של העור, ומביא לעור חלק, מוצק וצעיר יותר למראה.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Hydroxyproline, Acetyl Octapeptide-3, Pentapeptide-18, Proline, Glycine, Succinic Acid" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "הפחתת קמטים",
+      "מניעת הזדקנות",
+      "לחות",
+      "חיזוק והדקות העור",
+      "שיפור מרקם העור",
+      "תמיכה בתיקון הטבעי של העור"
+    ],
+    "mainTarget": "הרמה",
+    "related": [
+      { "slug": "btx", "title": "BTX+", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "תמונת מוצר של קופסה בטורקיז ולבן עם הכיתוב \"BONITTO BTX 2.0\" לצד בקבוקון קטן המכיל נוזל, עם הכיתוב \"BONITTO BTX 2.0\". הבקבוקון והקופסה מוצגים על רקע לבן."
+  },
+  "collagen-ultra": {
+    "title": "COLLAGEN ULTRA",
+    "category": "בקבוקונים סטריליים",
+    "description": "COLLAGEN ULTRA הוא פתרון קוסמטי סטרילי שנועד להתחדשות העור, ומטפל ביעילות בסימני הזדקנות ונזק. קולגן הוא חלבון מבני מרכזי השומר על המוצקות והגמישות של העור. ככל שאנו מתבגרים, ייצור הקולגן הטבעי פוחת, מה שמוביל לקמטים, לרפיון ולאובדן גמישות העור. הקולגן בנוסחה זו מעורר סינתזה טבעית של קולגן, ומשקם את הגמישות והחלקות של העור.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Hydrolyzed Collagen, Gleditsia Triacanthos Seed Extract, Glycerin, Sodium Hyaluronate" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "מפחית קמטים",
+      "ממזער סימני מתיחה",
+      "משפר את מרקם העור"
+    ],
+    "mainTarget": "אנטי-אייג'ינג",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "בקבוקונים סטריליים" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "בקבוקונים סטריליים" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "האריזה של Bonitto Collagen Ultra מוצגת. הקופסה בעיקרה טורקיז עם מעברי גוון וטקסט לבן. בקבוקון קטן בעיצוב דומה מוצב משמאל, נראה חלקית לצד הקופסה."
+  },
+  "cor-control": {
+    "title": "COR CONTROL",
+    "category": "בקבוקונים סטריליים",
+    "description": "COR CONTROL הוא פתרון קוסמטי סטרילי שנועד להרגיע עור מגורה ונוטה לאדמומיות. תמצית Cordyceps Sinensis מציעה מגוון יתרונות, כולל הגנה נוגדת חמצון, השפעות אנטי-דלקתיות, התחדשות עור, לחות, אנטי-אייג'ינג ושיפור גוון העור. אידיאלי לעור רגיש, הוא מקדם עם שימוש קבוע גוון עור מאוזן, רגוע ועמיד.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Cordyceps Sinensis Extract, Trametes Versicolor Extract, Butylene Glycol, Epilobium Angustifolium Flower/Leaf/Stem Extract, Propylene Glycol, Calendula Officinalis Flower Extract, Allantoin" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "הפחתת אדמומיות",
+      "לחות מוגברת",
+      "הרגעה והשקטה",
+      "הגנה על העור",
+      "שיקום מחסום העור"
+    ],
+    "mainTarget": "הרגעה – אקנה",
+    "related": [
+      { "slug": "gold-stem", "title": "GOLD STEM", "category": "בקבוקונים סטריליים" },
+      { "slug": "mst-redox", "title": "MST REDOX", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "קופסה ובקבוקון של \"Bonitto Cor Control.\" הקופסה ירוקה עם מעברי גוון וטקסט לבן, ולבקבוקון תווית תואמת. המוצר הוא 5x5 ml, המעיד על סט של מכלי נוזל קטנים."
+  },
+  "dna-booster": {
+    "title": "DNA BOOSTER",
+    "category": "בקבוקונים סטריליים",
+    "description": "DNA BOOSTER הוא פתרון קוסמטי סטרילי המיועד להתמרה של העור ולשיפור צפיפותו. הוא נועד לתמוך בתהליכי ההתחדשות הטבעיים של העור, מה שמוביל למראה בריא וצעיר יותר. RNA הידרוליזט מספק נוקלאוטידים וחומצות גרעין חיוניות התומכות בתיקון ובהתחדשות תאית. הוא מסייע לשפר את תפקוד התאים ולעורר התחדשות העור.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Propylene Glycol, Hydrolyzed RNA, Hydrolyzed DNA, Carnosine, Glutathione" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "מוצקות עור משופרת",
+      "לחות עמוקה",
+      "התמרה וזוהר",
+      "הפחתת קמטים",
+      "הגנה נוגדת חמצון",
+      "גוון ומרקם עור משופרים"
+    ],
+    "mainTarget": "בוסטר לחות לעור",
+    "related": [
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "בקבוקונים סטריליים" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "בקבוקונים סטריליים" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "התמונה מציגה בקבוק קטן עם הכיתוב \"Bonitto DNA Booster\" לצד קופסת האריזה שלו בטורקיז ולבן. הקופסה כוללת את אותו מיתוג ושם מוצר בפונט מודרני."
+  },
+  "exogenix": {
+    "title": "EXOGENIX",
+    "category": "בקבוקונים סטריליים",
+    "description": "EXOGENIX הוא פתרון קוסמטי סטרילי המשפר את התחדשות העור, משפר את הגמישות ומפחית קווים עדינים. אקסוזומים מתגלים כחומר פעיל עוצמתי במוצרי טיפוח העור, בזכות תכונותיהם המתחדשות והמשקמות.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Acetyl Hexapeptide-8, Nippon Koreana Citrus Reticulata Exosomes, Acetyl Decapeptide-3, Pentapeptide-18, Glycerin, 1,2-Hexanediol, Thiamine HCL, Riboflavin, Panthenol, Tocopherol" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "מגביר ייצור קולגן",
+      "מקדם התחדשות העור",
+      "הגנה נוגדת חמצון",
+      "אפקט מבהיר",
+      "תומך בתיקון העור"
+    ],
+    "mainTarget": "אנטי-אייג'ינג",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "בקבוקונים סטריליים" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "בקבוקונים סטריליים" },
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "BONITTO® EXOGENIX – סרום אנטי-אייג'ינג עם אקסוזומים להתחדשות העור והפחתת קווים עדינים"
+  },
+  "ey": {
+    "title": "EY+",
+    "category": "בקבוקונים סטריליים",
+    "description": "EY+ הוא פתרון קוסמטי סטרילי שנוסח במיוחד כדי להמריץ ולטפל בסימני הזדקנות סביב העיניים. נוסחה זו מבהירה את אזור מתחת לעיניים, מפחיתה עיגולים כהים והיפרפיגמנטציה, ושומרת על עור חלק ומלא סביב העיניים.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Proline, Serine, Glycine, Niacinamide, Glutathione, Sodium Hyaluronate" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "מפחית קמטים",
+      "משפר את מרקם העור",
+      "מבהיר את המראה",
+      "מעניק לחות ומלאות"
+    ],
+    "mainTarget": "עיניים",
+    "related": [
+      { "slug": "radiance-pro", "title": "RADIANCE PRO", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "BONITTO® EY+ – בקבוקוני פתרון סטרילי המספקים תוצאות דמויות מילוי לאזור מתחת לעיניים, לעור בהיר, מלא וחלק יותר",
+    "campaignImageAlt": "אדם עם שיער מתולתל מצולם כשידיו ממסגרות את פניו. קו אלכסוני טורקיז מצויר על פני עין אחת ובמורד מרכז הפנים, משלים צללית תואמת. הבעת פניו רגועה ובטוחה."
+  },
+  "gold-stem": {
+    "title": "GOLD STEM",
+    "category": "בקבוקונים סטריליים",
+    "description": "GOLD STEM הוא פתרון קוסמטי סטרילי שנועד לתמוך ולשפר את התחדשות העור. Acetyl Octapeptide-3 (המכונה לעיתים SNAP-8), הידוע כפפטיד דמוי בוטוקס, פועל באמצעות עיכוב שחרור של נוירוטרנסמיטרים הגורמים לכיווץ שרירים, מה שמוביל להפחתת קמטי הבעה וקמטים.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Pentylene Glycol, Sodium Benzoate, Potassium Sorbate, Quercus Robur Root Extract Staminal Cells, Acetyl Decapeptide-3, Acetyl Octapeptide-3, Caprylyl Glycol" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "התחדשות העור",
+      "מרקם עור משופר",
+      "הפחתת קווים עדינים וקמטים",
+      "לחות מוגברת",
+      "גמישות עור מוגברת",
+      "התמרה כוללת של העור"
+    ],
+    "mainTarget": "תיקון – אקנה",
+    "related": [
+      { "slug": "cor-control", "title": "COR CONTROL", "category": "בקבוקונים סטריליים" },
+      { "slug": "mst-redox", "title": "MST REDOX", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "תמונה של מוצר Bonitto Gold Stem. בקבוקון קטן עומד לצד קופסתו, בכחול וירוק עם טקסט לבן."
+  },
+  "ha-booster-aa15": {
+    "title": "HA+ BOOSTER & AA15",
+    "category": "בקבוקונים סטריליים",
+    "description": "HA+ BOOSTER & AA15 הוא פתרון קוסמטי סטרילי לשיפור המוצקות והגמישות של העור. חומצות האמינו הכלולות בנוסחה זו מקדמות עור צעיר יותר, לח ומוצק, משפרות את איכות הרקמה ומונעות את סימני ההזדקנות.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Thiamine HCL (Vitamin B1), Pyridoxinde HCL (Vitamin B6), Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "לחות עמוקה",
+      "מוצקות משופרת",
+      "גמישות משופרת"
+    ],
+    "mainTarget": "בוסטר לחות לעור",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "בקבוקונים סטריליים" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "בקבוקונים סטריליים" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "BONITTO® HA+ BOOSTER & AA15: בקבוקוני פתרון המספקים תוצאות דמויות מילוי עור של לחות, מוצקות וגמישות.",
+    "campaignImageAlt": "תקריב של הצד השמאלי של פני אדם, המציג קווים מעוגלים בצבע תכלת המצוירים מעל הלחי. הקווים נמשכים מתחת לעין, מתעקלים החוצה ומטה לכיוון קו הלסת, ומסמנים אזורים לטיפול קוסמטי פוטנציאלי. הרקע אפור בהיר."
+  },
+  "hairscalp": {
+    "title": "HAIRSCALP",
+    "category": "בקבוקונים סטריליים",
+    "description": "HAIRSCALP הוא פתרון קוסמטי סטרילי התומך בהתחדשות השיער והקרקפת בזכות התכונות המועילות של מרכיביו. האקסוזומים מכילים גורמי גדילה ומולקולות איתות הממריצים את פעילות זקיקי השיער והתחדשותם. הם מסייעים להפעיל זקיקי שיער רדומים ולעודד צמיחת שיער חדש.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Copper Tripeptide-1, Citrus Reticulata Fruit Exosomes, 3-O-Ethyl Ascorbic Acid" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "מקדם צמיחת שיער חדש",
+      "משפר את בריאות הקרקפת",
+      "מחזק את השיער",
+      "הגנה נוגדת חמצון",
+      "מעניק לחות ולחות",
+      "מפחית דילול שיער"
+    ],
+    "mainTarget": "שיער",
+    "related": [
+      { "slug": "hair-ultra", "title": "HAIR ULTRA", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "התמונה מציגה קופסה ובקבוקון עם הכיתוב \"BONITTO HAIRSCALP.\" הקופסה טורקיז עם טקסט לבן, בעיצוב עם מעברי גוון. הבקבוקון הקטן מוצב מול הקופסה, תואם לה בצבע ובמיתוג.",
+    "campaignImageAlt": "גבר עם שיער קצר וזקן מביט במצלמה בהבעה מהורהרת, מניח את סנטרו על ידו. התאורה מטילה צל קל על פניו, המדגיש את תווי פניו על רקע פשוט."
+  },
+  "hair-ultra": {
+    "title": "HAIR ULTRA",
+    "category": "בקבוקונים סטריליים",
+    "description": "HAIR ULTRA הוא פתרון קוסמטי סטרילי שנועד להתחדשות השיער והקרקפת. הנוסחה שלו מכילה תערובת של פפטידים, חומצה היאלורונית ותמציות טבעיות הפועלות יחד כדי להזין ולחזק את השיער, לקדם צמיחה בריאה יותר ולשפר את מצב הקרקפת.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Lecithin, Sh-Oligopeptide-10, Sh-Oligopeptide-2, Sh-Polypeptide-1, Sh-Polypeptide-9, Sh-Polypeptide-11, Sodium Hyaluronate, Octapeptide-2, Sh-Oligopeptide-4, Arginine, Glycerin" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "התמרה והתחדשות",
+      "חיזוק",
+      "לחות",
+      "בריאות קרקפת משופרת",
+      "הפחתת נשירת שיער"
+    ],
+    "mainTarget": "שיער",
+    "related": [
+      { "slug": "hairscalp", "title": "HAIRSCALP", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "קופסה טורקיז עם הכיתוב \"Bonitto Hair Ultra\" עומדת זקוף, עם בקבוקון קטן לצידה. האריזה כוללת עיצוב במעברי גוון, מהבהיר לכהה.",
+    "campaignImageAlt": "אישה עם שיער ארוך ובלונדיני, מודגש בפסים ירוקים בהירים, מצולמת בהבעה שלווה, בעיניים עצומות וחיוך קל. פרופיל הצד מדגיש את עורה החלק ואת שיערה הרך והגלי על רקע ניטרלי."
+  },
+  "hyavital-hl": {
+    "title": "HYAVITAL H+L",
+    "category": "בקבוקונים סטריליים",
+    "description": "HYAVITAL H+L הוא פתרון קוסמטי סטרילי שנועד ללחות עמוקה של העור. הוא מכיל תערובת של Sodium Hyaluronate וחומצות אמינו, הממלאות תפקיד חיוני במוצרי פתרונות קוסמטיים, שכן הן מסייעות לשפר את איכות העור, לקדם התחדשות תאית ולהגביר את סינתזת הקולגן והאלסטין.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "לחות עמוקה",
+      "גמישות עור משופרת",
+      "מרקם חלק יותר",
+      "גוון עור מתחדש",
+      "יתרונות אנטי-אייג'ינג"
+    ],
+    "mainTarget": "בוסטר לחות לעור",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "בקבוקונים סטריליים" },
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "בקבוקונים סטריליים" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "תמונת מוצר המציגה קופסה ירוקה ולבנה עם הכיתוב \"BONITTO HYAVITAL H+L\" לצד בקבוקון קטן עם תווית דומה. הבקבוקון מוצב מול הקופסה."
+  },
+  "lipo": {
+    "title": "LIPO+",
+    "category": "בקבוקונים סטריליים",
+    "description": "LIPO+ הוא פתרון קוסמטי סטרילי שנועד לשפר את קווי המתאר והמוצקות של הגוף. Carnitine, Caffeine ו-Sodium Deoxycholate פועלות בסינרגיה לפירוק שומן ולחילוף החומרים שלו, ומסייעות להפחית מצבורי שומן מקומיים ולשפר את קווי המתאר של הגוף.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Carnitine, Caffeine, Palmaria Palmata Extract, Propanediol, Sodium Deoxycholate" },
+      { "label": "נפח", "value": "Vials 5 x 10 ml" }
+    ],
+    "effects": [
+      "הפחתת היקפי הגוף",
+      "קווי גוף משופרים",
+      "מוצקות עור משופרת"
+    ],
+    "mainTarget": "שומן מקומי",
+    "related": [
+      { "slug": "pro-cells", "title": "PRO CELLS", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "BONITTO LIPO+ – בקבוקונים סטריליים של חומר מילוי לגוף",
+    "campaignImageAlt": "BONITTO® LIPO+ – חומר מילוי לגוף, פתרון לשיפור קווי המתאר והמוצקות של הגוף"
+  },
+  "lips-on": {
+    "title": "LIPS ON",
+    "category": "בקבוקונים סטריליים",
+    "description": "LIPS ON הוא פתרון קוסמטי סטרילי שנועד להצעיר ולשפר את השפתיים. הוא מחליק את המרקם, משפר את הלחות ומגביר את הרכות, תוך שיפור הצבע והנפח. פתרון זה מספק לחות טבעית ומיועד ליישום מקומי להשגת מראה שפתיים מלא וצעיר יותר.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Ascorbate, Troxerutin, Sodium Hyaluronate, Pseudoalteromonas Ferment Extract, Salicylic Acid, Citric Acid, Sodium Salicylate" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "התמרה והתחדשות",
+      "החלקת המרקם",
+      "לחות משופרת",
+      "העצמת הצבע",
+      "נפח מוגבר",
+      "לחות טבעית"
+    ],
+    "mainTarget": "שפתיים",
+    "related": [],
+    "productImageAlt": "קופסה עם הכיתוב \"Bonitto Lips On\" עם בקבוקון קטן לצידה. האריזה בטורקיז ולבן עם אלמנטים עיצוביים מינימליסטיים.",
+    "campaignImageAlt": "תקריב של אדם עם גלים של שיער הממסגרים את פניו. איפור טבעי עם נגיעה של צללית ירוקה וגוון ירוק קל על השפה העליונה. יד אחת עם ציפורניים מטופחות נוגעת בעדינות בלחי, והמבט מהורהר הצידה."
+  },
+  "mevita-15-ha": {
+    "title": "MEVITA 15 + HA",
+    "category": "בקבוקונים סטריליים",
+    "description": "MEVITA 15+HA הוא פתרון קוסמטי סטרילי שנוסח ללחות והזנה אינטנסיביים של העור. הוא מכיל קומפלקס של ויטמינים המיועד לספק התחדשות עור מקיפה, תוך טיפול במגוון בעיות כמו הזדקנות, לחות, פיגמנטציה ומרקם העור, ומציע הגנה נוגדת חמצון חזקה וחיות עור משופרת.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Panthenol (Vitamin B5), Folic Acid, Biotin, Inositol, Pyridoxinde HCl, Riboflavin, Thiamine HCL, 3-O-Ethyl Ascorbic Acid, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "לחות עור משופרת",
+      "מרקם וגוון עור משופרים",
+      "הזנה ותיקון",
+      "ייצור קולגן מוגבר",
+      "הגנה נוגדת חמצון"
+    ],
+    "mainTarget": "בוסטר לחות לעור",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "בקבוקונים סטריליים" },
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "בקבוקונים סטריליים" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "קופסה בטורקיז ולבן עם הכיתוב \"Bonitto MEVITA 15+HA\" מוצגת, עם בקבוקון קטן משמאל בעל מיתוג דומה. הקופסה מכילה בקבוקונים המיועדים לטיפוח העור או לשימוש רפואי."
+  },
+  "mst-redox": {
+    "title": "MST REDOX",
+    "category": "בקבוקונים סטריליים",
+    "description": "MST REDOX הוא פתרון קוסמטי סטרילי שנועד לתמוך בהתחדשות העור באמצעות לחות אינטנסיבית והגנה נוגדת חמצון. מריסטמים הם תאי גזע שמקורם במקורות צמחיים התומכים בהתחדשות תאית. הם מאיצים את תהליכי התיקון וההחלמה של העור, מה שהופך אותם ליעילים לטיפול בנזקים ובהיפרפיגמנטציה פוסט-דלקתית.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Quercus Robur Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Paeonia Lactiflora Root Extract, Allantoin" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "התחדשות עור משופרת",
+      "לחות עמוקה",
+      "הגנה נוגדת חמצון",
+      "הקלה והרגעה"
+    ],
+    "mainTarget": "נגד אדמומיות – אקנה",
+    "related": [
+      { "slug": "gold-stem", "title": "GOLD STEM", "category": "בקבוקונים סטריליים" },
+      { "slug": "cor-control", "title": "COR CONTROL", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "תמונת מוצר של בקבוק וקופסה עם הכיתוב \"MST REDOX\" של Bonitto. לקופסה עיצוב במעבר גוון של טורקיז ולבן, והבקבוק קטן, נראה חלקית, ומוצב מול הקופסה.",
+    "campaignImageAlt": "תקריב של אדם עם שיער פנים מטופח ותווי פנים מוגדרים, מביט מהורהר הצידה. יד אחת נוגעת בעדינות בצוואר, שעליו רצועה אלסטית דקה בצבע טורקיז. הרקע מטושטש ברכות."
+  },
+  "ox": {
+    "title": "OX+",
+    "category": "בקבוקונים סטריליים",
+    "description": "OX+ הוא פתרון קוסמטי סטרילי שנועד ללחות ולהתמרה של העור, ומתאים לשימוש על הפנים, הצוואר, אזור המחשוף, הידיים, הבטן וסימני מתיחה. הוא מכיל קומפלקס של רכיבים פעילים המגבירים את ייצור האנרגיה התאית, ממריצים את תאי העור ומשפרים את החיות הכללית של העור.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Niacinamide (Vitamin B3), 3-O-Ethyl Ascorbic Acid (Vitamin C), Panthenol (Vitamin B5), Glycyrrhiza Glabra (Licorice) Root Extract" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "לחות עור משופרת",
+      "התמרה של העור",
+      "התחדשות למראה צעיר",
+      "גמישות עור משופרת",
+      "הפחתת קווים עדינים",
+      "שיפור מראה סימני המתיחה"
+    ],
+    "mainTarget": "מחדש",
+    "related": [
+      { "slug": "ox-ultra", "title": "OX ULTRA", "category": "בקבוקונים סטריליים" },
+      { "slug": "power-oxy", "title": "POWER OXY", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "קופסה ובקבוקון של סרום Bonitto OX+. הקופסה טורקיז עם מעבר גוון לבן בחלק העליון. בקבוקון הזכוכית הקטן שלצידה בעל פקק כסף ותואם לעיצוב הקופסה. על הקופסה והבקבוקון כתוב \"OX+\" ו\"5x5 ml\".",
+    "campaignImageAlt": "תקריב של פני אדם עם איפור יצירתי: קווים טורקיז העוברים מהגבות, לאורך האף ולאורך העיניים. לעור גימור זוהר, עם אייליינר שחור מדויק ושפתיים ורודות רכות. הרקע אפור נייטרלי."
+  },
+  "ox-ultra": {
+    "title": "OX ULTRA",
+    "category": "בקבוקונים סטריליים",
+    "description": "OX ULTRA הוא פתרון קוסמטי סטרילי שנועד לקדם התחדשות עור ולשפר את גוון העור הטבעי. הוא מכיל תערובת של רכיבים פעילים, כולל Sodium Hyaluronate ו-Acetyl Decapeptide-3, המסייעים לשפר את מרקם העור ואת הלחות.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Acetyl Decapeptide-3, Hydroxyproline" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "משפר את לחות העור",
+      "משפר את התחדשות העור",
+      "מאחד את גוון העור",
+      "תומך בייצור קולגן",
+      "מפחית סימני הזדקנות",
+      "ממריץ את העור"
+    ],
+    "mainTarget": "מחדש",
+    "related": [
+      { "slug": "ox", "title": "OX+", "category": "בקבוקונים סטריליים" },
+      { "slug": "power-oxy", "title": "POWER OXY", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "תמונת מוצר של אריזת Bonitto OX Ultra לצד בקבוקון קטן. האריזה לבנה וטורקיז, עם הטקסט \"A Story of Elegance\" מתחת לשם המותג. הבקבוקון שקוף עם תווית תואמת ופקק כהה."
+  },
+  "peel-4-0": {
+    "title": "PEEL 4.0",
+    "category": "בקבוקונים סטריליים",
+    "description": "PEEL 4.0 הוא פתרון קוסמטי סטרילי שנועד לקילוף והתמרה של העור. הוא מתאים לשימוש על הפנים, הצוואר, אזור המחשוף והידיים. פתרון זה נועד לשפר את מרקם העור, להגביר את הזוהר ולהתמודד עם סימני הזדקנות ופגמים.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Lactic Acid (40%)" },
+      { "label": "נפח", "value": "Vials 5 x 10 ml" }
+    ],
+    "effects": [
+      "זוהר עור משופר",
+      "מרקם עור חלק יותר",
+      "הפחתת סימני הזדקנות",
+      "מוצקות עור משופרת",
+      "הפחתת פגמים"
+    ],
+    "mainTarget": "הבהרה",
+    "related": [
+      { "slug": "shine-power", "title": "SHINE POWER", "category": "בקבוקונים סטריליים" },
+      { "slug": "whitening", "title": "WHITENING+", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "קופסה בטורקיז ולבן עם הכיתוב \"Bonitto Peel 4.0\" עומדת לצד בקבוק קטן חום עם תווית תואמת. הקופסה כוללת עיצוב במעבר גוון והטקסט \"A Study of Science\" בחלק העליון.",
+    "campaignImageAlt": "אדם עם שיער חום ארוך ועיניים כחולות, עם קו טורקיז מצויר אנכית במורד הפנים, היוצר ניגוד בולט מול עור מנומש. הוא מביט ישירות למצלמה."
+  },
+  "peel-exo-capture-35": {
+    "title": "PEEL EXO CAPTURE 35",
+    "category": "בקבוקונים סטריליים",
+    "description": "PEEL EXO CAPTURE 35 הוא פתרון קוסמטי סטרילי שנוסח לשיפור מראה העור באמצעות שיפור מרקם העור והאחדת גוון העור. הודות לרכיבים פעילים כמו Sodium Trichloroacetate, AHA ו-BHA, פורמולה זו מסייעת להעלים פיגמנטציה, מסירה תאי עור מתים ופותחת נקבוביות סתומות.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Trichloroacetate, Lactic Acid, Salicylic Acid, Allantoin, Proline, Lysine HCL, Glycine, Centella Asiatica Leaf Vesicles, Hydrolyzed RNA/ DNA, Pyridoxine HCL, Thiamine HCL." },
+      { "label": "נפח", "value": "Vials 5x10ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "בקבוקון קטן עם הכיתוב \"BONITTO PEEL EXO CAPTURE 35\" עומד לצד קופסה גבוהה ומלבנית בצבעי ירוק ולבן עם אותו מיתוג וטקסט. האריזה כוללת עיצוב מודרני במעברי גוון."
+  },
+  "power-oxy": {
+    "title": "POWER OXY",
+    "category": "בקבוקונים סטריליים",
+    "description": "POWER OXY הוא פתרון קוסמטי סטרילי שנוסח לשיפור בריאות העור באמצעות תמיכה בתיקון העור והגנה מפני רדיקלים חופשיים. הודות לרכיבים פעילים כמו Retinyl Palmitate, Cysteine HCL ו-Glutathione, פורמולה זו מפחיתה לאורך זמן את מראה הקווים העדינים והקמטים.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Sodium Hyaluronate, Taurine, Retinyl Palmitate, Proline, Cysteine HCL, Tocopheryl Acetate, Ribes Nigrum (Black Currant) Bud Extract, Glutathione" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "תיקון עור משופר",
+      "הגנה נוגדת חמצון",
+      "לחות עור משופרת",
+      "גוון עור זוהר יותר",
+      "גמישות מוגברת"
+    ],
+    "mainTarget": "מחדש",
+    "related": [
+      { "slug": "ox-ultra", "title": "OX ULTRA", "category": "בקבוקונים סטריליים" },
+      { "slug": "ox", "title": "OX+", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "בקבוקון קטן עם הכיתוב \"Bonitto Power Oxy\" מונח לצד קופסה גדולה יותר עם אותו מיתוג. הקופסה כוללת מעבר גוון מירוק כהה לירוק בהיר, עם הטקסט \"Power Oxy\" ו\"Bonitto\" מוצגים בולט."
+  },
+  "pro-age": {
+    "title": "PRO AGE",
+    "category": "בקבוקונים סטריליים",
+    "description": "PRO AGE הוא פתרון קוסמטי סטרילי וקוקטייל עוצמתי של ויטמינים ונוגדי חמצון הממריץ התחדשות רקמות, ומסייע לשמור על גוון עור חלק ועמיד יותר.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Pyridoxine HCL (Vitamin B6), Thiamine HCL (Vitamin B1), Sodium Ascorbate (Vitamin C), Panthenol (Pro-Vitamin B5), Riboflavin (Vitamin B2), Tocopheryl Acetate (Vitamin E), Retynil Palmitate (Vitamin A), Niacinamide (Vitamin B3)" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "מניעת קמטים מוקדמים",
+      "מרקם עור משופר",
+      "מראה צעיר"
+    ],
+    "mainTarget": "אנטי-אייג'ינג",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "בקבוקונים סטריליים" },
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "בקבוקונים סטריליים" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "התמונה מציגה קופסת מוצר ובקבוקון קטן. על הקופסה הכיתוב \"BONITTO\" ו\"PRO AGE\" בטקסט לבן על רקע ירוק במעבר גוון. על הבקבוקון, המונח לצד הקופסה, כתוב גם \"BONITTO PRO AGE\"."
+  },
+  "pro-cells": {
+    "title": "PRO CELLS",
+    "category": "בקבוקונים סטריליים",
+    "description": "PRO CELLS הוא פתרון קוסמטי סטרילי שנועד להפחית את מראה הצלוליט ולשפר את קווי המתאר של הגוף. הוא מפעיל פירוק של רקמת שומן ומונע הצטברות של מצבורי שומן חדשים, ומסייע לשיפור המוצקות והחלקות של העור. באמצעות קידום ניקוי רעלים, הוא תורם למרקם עור אחיד יותר ולשיפור כללי של בריאות העור.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Caffeine, Carnitine, Ananas Sativus Fruit Extract (Pineapple), Equisetum Arvense Extract (Horsetail), Cynara Scolymus Leaf Extract (Artichoke), Palmaria Palmata Extract" },
+      { "label": "נפח", "value": "Vials 5 x 10 ml" }
+    ],
+    "effects": [],
+    "mainTarget": "צלוליט",
+    "related": [
+      { "slug": "lipo", "title": "LIPO+", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "קופסה עם הכיתוב \"Bonitto Pro Cells\" ובקבוקון קטן לצידה. לקופסה ולבקבוקון עיצוב במעבר גוון של ירוק ולבן. על הקופסה כתוב \"Vols. 5x10 ml\"."
+  },
+  "radiance-pro": {
+    "title": "RADIANCE PRO",
+    "category": "בקבוקונים סטריליים",
+    "description": "RADIANCE PRO הוא פתרון קוסמטי סטרילי שנועד ללחות ולתיקון העור בגב הידיים. הוא מגביר את הלחות וממריץ תפקודים משקמים כדי לשמור על בריאות העור באזור זה.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Acetyl Decapeptide-3, Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate, Proline, Glycine, Arginine HCL, Cysteine HCL, Niacinamide (Vitamin B3)" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "הגברת לחות",
+      "תיקון העור",
+      "מראה צעיר",
+      "מחסום מגן",
+      "שיפור המרקם"
+    ],
+    "mainTarget": "ידיים",
+    "related": [
+      { "slug": "ey", "title": "EY+", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "תמונת מוצר של Bonitto Radiance Pro המוצגת עם קופסה ירוקה בהירה ובקבוקון קטן לצידה. הקופסה כוללת עיצוב במעבר גוון עם שם המותג ושם המוצר בטקסט לבן."
+  },
+  "shine-power": {
+    "title": "SHINE POWER",
+    "category": "בקבוקונים סטריליים",
+    "description": "SHINE POWER הוא פתרון קוסמטי סטרילי שנוסח עבור אנשים המחפשים גישה טבעית להבהרת העור. הוא מכיל תערובת עוצמתית של רכיבים הפועלים יחד להפחתת פיגמנטציה, להאחדת גוון העור ולשיפור הזוהר הכללי של העור. הפתרון נועד לטפל ולהפחית את מראה הכתמים הכהים ואי-האחידות, ומקדם גוון עור בהיר ואחיד יותר.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Succinic Acid, Ascorbyl Glucoside, Glutathione" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "הבהרת העור",
+      "הגנה נוגדת חמצון",
+      "החלקת העור",
+      "לחות והרגעה",
+      "יתרונות אנטי-אייג'ינג"
+    ],
+    "mainTarget": "הבהרה",
+    "related": [
+      { "slug": "peel-4-0", "title": "PEEL 4.0", "category": "בקבוקונים סטריליים" },
+      { "slug": "whitening", "title": "WHITENING+", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "מוצר Bonitto Shine Power הכולל קופסה ירוקה-מנטה ולבנה עם המילים \"Shine Power.\" בקבוקון קטן מונח לצד הקופסה עם אותו כיתוב. העיצוב הכללי מלוטש ומודרני."
+  },
+  "whitening": {
+    "title": "WHITENING+",
+    "category": "בקבוקונים סטריליים",
+    "description": "WHITENING+ הוא פתרון קוסמטי סטרילי שנועד לטפל בכתמי עור ולשפר את הזוהר הכללי של העור. חומצה טרנקסמית יעילה בטיפול בהיפרפיגמנטציה ובמלזמה, באמצעות עיכוב פעילות הטירוזינאז, אנזים המעורב בייצור המלנין. היא מסייעת להבהיר כתמים כהים ולשפר את גוון העור הכללי.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Oligopeptide-34, Glycyrrhiza Glabra (Licorice) Root Extract, Panthenol (Pro-Vitamin B5), Glutathione, Acetyl Glycil Β-Alanine, Tranexamic Acid, Sodium Hyaluronate" },
+      { "label": "נפח", "value": "Vials 5 x 5 ml" }
+    ],
+    "effects": [
+      "מבהיר את גוון העור",
+      "מפחית כתמי עור",
+      "משקם את הזוהר הטבעי",
+      "משפר את צלילות העור"
+    ],
+    "mainTarget": "הבהרה",
+    "related": [
+      { "slug": "shine-power", "title": "SHINE POWER", "category": "בקבוקונים סטריליים" },
+      { "slug": "peel-4-0", "title": "PEEL 4.0", "category": "בקבוקונים סטריליים" }
+    ],
+    "productImageAlt": "קופסה של BONITTO Whitening+ לצד בקבוקון קטן. הקופסה טורקיז עם שם המותג בלבן בחלק העליון. הבקבוקון מסומן \"BONITTO Whitening+ Master Solution\" ומכיל 5x5 ml."
+  },
+  "xnad": {
+    "title": "XNAD+",
+    "category": "בקבוקונים סטריליים",
+    "description": "XNAD+ הוא פתרון קוסמטי סטרילי שנועד להמריץ את העור באמצעות קידום התחדשות ושיפור הגמישות. מועשר ב-NAD+, בחומצות אמינו ובקומפלקסים של פפטידים, הוא מסייע לחזק את העור ולהפחית בהדרגה את מראה הקווים העדינים, למראה חלק וצעיר יותר.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "Trehalose, Acetyl Hexapeptide-1, Arginine, Oligopeptide-4, Disodium NADH, Acetyl sh-Hexapeptide-5 Amide Acetate, Acetyl Hexapeptide-8, Centella Asiatica Leaf Vesicles." },
+      { "label": "נפח", "value": "5x5ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "בקבוקון קטן וקופסה בטורקיז ולבן עם הכיתוב \"BONITTO XNAD+ Vials 5x5 ml\" מוצגים. לקופסה עיצוב במעבר גוון ושם המותג מופיע בחלק העליון."
+  }
+}

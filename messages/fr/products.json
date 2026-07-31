@@ -37,6 +37,11 @@
     "target": "Cible principale",
     "relatedProducts": "Produits similaires",
     "contactDistributor": "Contacter pour la distribution",
-    "downloadDatasheet": "Télécharger la fiche technique"
-  }
+    "downloadDatasheet": "Télécharger la fiche technique",
+    "home": "Accueil",
+    "discoverMore": "En savoir plus",
+    "noProducts": "Aucun produit trouvé dans cette catégorie.",
+    "treatmentAlt": "Traitement {title}"
+  },
+  "categoriesPrefix": "Catégorie"
 }

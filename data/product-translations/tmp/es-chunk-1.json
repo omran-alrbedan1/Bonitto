@@ -1,0 +1,273 @@
+{
+  "n-01-bonitto-pro-age-fine": {
+    "title": "01 PRO AGE FINE",
+    "category": "Rellenos",
+    "description": "BONITTO® 01 PRO AGE FINE es un gel ultraplástico de ácido hialurónico reticulado diseñado para tratar arrugas finas y defectos cutáneos moderados. Está específicamente indicado para corregir áreas como la glabela, las arrugas alrededor de la boca y los ojos, el cuello, las manos y el surco lagrimal. El gel proporciona una corrección volumétrica natural al aumentar el volumen del tejido, logrando una apariencia refinada y rejuvenecida.",
+    "technicalInfo": [
+      { "label": "Volumen", "value": "1 x 1 ml" },
+      { "label": "Aguja", "value": "2 x 30 G" },
+      { "label": "Concentración", "value": "20 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "Rellenos" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "Rellenos" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "Rellenos" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "Rellenos" }
+    ],
+    "productImageAlt": "BONITTO® 01 PRO AGE FINE: relleno de arrugas para suavizar las líneas finas alrededor de los ojos, la boca y el cuello.",
+    "campaignImageAlt": "Una mujer de piel clara y cabello recogido mira por encima del hombro. Lleva un llamativo maquillaje de ojos en color turquesa que se extiende más allá de los ojos, contorneando cejas y párpados. Su expresión es serena sobre un fondo neutro."
+  },
+  "n-02-bonitto-lips-plum": {
+    "title": "02 LIPS PLUMP",
+    "category": "Rellenos",
+    "description": "BONITTO® 02 LIPS PLUMP es un gel ultraliso de ácido hialurónico reticulado diseñado para aumentar el volumen de los tejidos blandos y corregir arrugas de moderadas a profundas. Está específicamente formulado para contornear y dar volumen a los labios, así como para tratar defectos de los tejidos blandos alrededor de la boca, las líneas de marioneta y las comisuras descendentes.",
+    "technicalInfo": [
+      { "label": "Volumen", "value": "1 × 1 ml" },
+      { "label": "Aguja", "value": "2 x 27 G" },
+      { "label": "Concentración", "value": "21 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "Rellenos" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "Rellenos" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "Rellenos" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "Rellenos" }
+    ],
+    "productImageAlt": "BONITTO® 02 LIPS PLUMP: relleno labial de ácido hialurónico ultraliso para dar volumen a los labios y corregir arrugas",
+    "campaignImageAlt": "Primer plano de una mujer con maquillaje artístico. Tiene cejas marcadas, una línea negra vertical en la nariz, sombra de ojos turquesa en un ojo y el mismo tono turquesa en el labio superior. Sus manos tocan suavemente su rostro y su expresión es serena."
+  },
+  "n-03-bonitto-age-solution": {
+    "title": "03 AGE SOLUTION",
+    "category": "Rellenos",
+    "description": "BONITTO® 03 AGE SOLUTION es un gel ultraliso de ácido hialurónico reticulado diseñado para restaurar o aumentar el volumen de los tejidos blandos y corregir arrugas profundas y surcos cutáneos. También está formulado para contornear la forma facial en áreas como el puente de la nariz, el mentón, los surcos nasolabiales y las líneas de marioneta. El gel proporciona una corrección volumétrica visible al aumentar el volumen del tejido, logrando una apariencia más definida y rejuvenecida.",
+    "technicalInfo": [
+      { "label": "Volumen", "value": "1 × 1 ml" },
+      { "label": "Aguja", "value": "2 x 27 G" },
+      { "label": "Concentración", "value": "24 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "Rellenos" },
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "Rellenos" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "Rellenos" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "Rellenos" }
+    ],
+    "productImageAlt": "BONITTO® 03 AGE SOLUTION: relleno de nariz y mentón para el aumento no quirúrgico del mentón y la restauración del volumen facial.",
+    "campaignImageAlt": "Una mujer con un peinado elegante lleva un llamativo maquillaje turquesa, con una línea desde la frente que desciende por la nariz y un delineado dramático que se extiende desde los ojos. El fondo es de un gris suave, que resalta su expresión serena."
+  },
+  "n-04-bonitto-face-sculpt": {
+    "title": "04 FACE SCULPT",
+    "category": "Rellenos",
+    "description": "BONITTO® 04 FACE SCULPT es un potente gel de ácido hialurónico reticulado de alta concentración, específicamente formulado para aumentar el volumen de los tejidos blandos y los contornos faciales. Está diseñado para esculpir y definir los rasgos faciales, incluidos la línea mandibular, el mentón y las mejillas.",
+    "technicalInfo": [
+      { "label": "Volumen", "value": "1 × 1 ml" },
+      { "label": "Aguja", "value": "2 x 25 G" },
+      { "label": "Concentración", "value": "26 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "Rellenos" },
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "Rellenos" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "Rellenos" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "Rellenos" }
+    ],
+    "productImageAlt": "BONITTO® 04 FACE SCULPT: potente gel relleno facial de ácido hialurónico para esculpir contornos y aportar volumen.",
+    "campaignImageAlt": "Primer plano del rostro de una persona con una llamativa franja diagonal verde de maquillaje sobre la mejilla, en contraste con el tono natural de la piel. La atención se centra en el ojo y en la aplicación artística del maquillaje."
+  },
+  "n-05-bonitto-volume": {
+    "title": "05 VOLUME",
+    "category": "Rellenos",
+    "description": "BONITTO® 05 VOLUME es un gel de ácido hialurónico reticulado de alta concentración diseñado para restaurar o aumentar el volumen de los tejidos blandos y contornear la superficie corporal. Es ideal para tratar atrofias extensas, irregularidades resultantes de tratamientos de liposucción y tratamientos volumétricos corporales. Este producto es especialmente eficaz para contornear áreas como los glúteos, las pantorrillas y las manos. Proporciona una corrección volumétrica visible mediante un aumento significativo del volumen del tejido, moldeando la zona tratada hasta lograr la forma deseada. La visibilidad y la duración del efecto dependen de la profundidad de aplicación y del estado original de la piel.",
+    "technicalInfo": [
+      { "label": "Volumen", "value": "1 × 10 ml" },
+      { "label": "Concentración", "value": "20 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "Rellenos" },
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "Rellenos" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "Rellenos" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "Rellenos" }
+    ],
+    "productImageAlt": "BONITTO® 05 VOLUME: relleno de ácido hialurónico reticulado de alta concentración",
+    "campaignImageAlt": "BONITTO® 05 VOLUME: relleno para piel flácida, remodelado corporal, contorneado, aumento de glúteos y corrección de la forma de las pantorrillas"
+  },
+  "01-lush-bloom": {
+    "title": "01 LUSH BLOOM",
+    "category": "Ácido hialurónico reticulado",
+    "description": "BONITTO® 01 LUSH BLOOM 22 mg/ml es un hidrogel biodegradable de ácido hialurónico reticulado que se reabsorbe con el tiempo, destinado a inyectarse en la submucosa del labio o en la dermis superficial para restaurar el volumen perdido de los tejidos blandos. El hidrogel de ácido hialurónico reticulado con BDDE de 22 mg/ml, cuando se inyecta en la submucosa del labio o en la dermis superficial, añade temporalmente volumen a los tejidos blandos adelgazados del rostro.",
+    "technicalInfo": [
+      { "label": "Volumen", "value": "2 x 1 ml" },
+      { "label": "Aguja", "value": "4 x 30 G" },
+      { "label": "Concentración", "value": "22 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "02-lover-touch": {
+    "title": "02 LOVER TOUCH",
+    "category": "Ácido hialurónico reticulado",
+    "description": "BONITTO® 02 LOVER TOUCH 24 mg/ml es un hidrogel biodegradable de ácido hialurónico reticulado que se reabsorbe con el tiempo, destinado a inyectarse en la dermis media o profunda para restaurar el volumen perdido de los tejidos blandos. El hidrogel de ácido hialurónico reticulado con BDDE de 24 mg/ml, cuando se inyecta en la dermis media o profunda, añade temporalmente volumen a los tejidos blandos adelgazados del rostro.",
+    "technicalInfo": [
+      { "label": "Volumen", "value": "2 x 1 ml" },
+      { "label": "Aguja", "value": "4 x 27 G" },
+      { "label": "Concentración", "value": "24 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "03-lift-up": {
+    "title": "03 LIFT UP",
+    "category": "Ácido hialurónico reticulado",
+    "description": "BONITTO® 03 LIFT UP 26 mg/ml es un hidrogel biodegradable de ácido hialurónico reticulado que se reabsorbe con el tiempo, destinado a inyectarse en la dermis profunda o en el tejido subcutáneo para restaurar el volumen perdido de los tejidos blandos. El hidrogel de ácido hialurónico reticulado con BDDE de 26 mg/ml, cuando se inyecta en la dermis profunda o en el tejido subcutáneo, añade temporalmente volumen a los tejidos blandos adelgazados del rostro.",
+    "technicalInfo": [
+      { "label": "Volumen", "value": "2 x 1 ml" },
+      { "label": "Aguja", "value": "4 x 27 G" },
+      { "label": "Concentración", "value": "26 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "04-level-max": {
+    "title": "04 LEVEL MAX",
+    "category": "Ácido hialurónico reticulado",
+    "description": "BONITTO® 04 LEVEL MAX 28 mg/ml es un hidrogel biodegradable de ácido hialurónico reticulado que se reabsorbe con el tiempo, destinado a inyectarse en el tejido subcutáneo para restaurar el volumen perdido de los tejidos blandos. El hidrogel de ácido hialurónico reticulado con BDDE de 28 mg/ml, cuando se inyecta en el tejido subcutáneo, añade temporalmente volumen a los tejidos blandos adelgazados del rostro.",
+    "technicalInfo": [
+      { "label": "Volumen", "value": "2 x 1 ml" },
+      { "label": "Aguja", "value": "4 x 25 G" },
+      { "label": "Concentración", "value": "28 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Una caja etiquetada como \"Bonitto 04 Level Max\" permanece en posición vertical junto a una jeringa llena de líquido transparente. El envase indica 28 mg/ml de ácido hialurónico reticulado y presenta colores azul verdoso y negro con un diseño elegante y moderno."
+  },
+  "drinxha": {
+    "title": "DrinxHa",
+    "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml",
+    "description": "El kit contiene 1 jeringa de ácido hialurónico y 1 jeringa de ácido tranexámico, alfa-arbutina y glutatión. La combinación ofrece un doble beneficio: el ácido hialurónico proporciona hidratación profunda y efecto rellenador, mientras que la alfa-arbutina, el glutatión y el ácido tranexámico aportan potentes efectos iluminadores, reducción de la pigmentación y protección antioxidante. Ingredientes como la alfa-arbutina, el ácido tranexámico y el glutatión ayudan a reducir la hiperpigmentación. La alfa-arbutina inhibe la producción de melanina y es 10 veces más eficaz que la beta-arbutina. El ácido tranexámico reduce las manchas oscuras bloqueando la pigmentación inducida por los rayos UV y la actividad de la tirosinasa. El glutatión protege la piel del daño solar, la deshidratación y el envejecimiento al neutralizar los radicales libres y favorecer la producción de colágeno.",
+    "technicalInfo": [
+      { "label": "Ingredientes principales", "value": "Sodium Hyaluronate, Alpha-arbutin, Glutathione, Tranexamic Acid" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "giha", "title": "GiHa", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" },
+      { "slug": "hadefined", "title": "HaDefined", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" },
+      { "slug": "vitalha", "title": "VitalHa", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" }
+    ],
+    "productImageAlt": "Una caja verde etiquetada como \"Bonitto\" contiene dos jeringas en posición vertical junto a ella. En la caja se puede leer el texto \"DRINxHA\"."
+  },
+  "giha": {
+    "title": "GiHa",
+    "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml",
+    "description": "El kit incluye una jeringa de ácido hialurónico y una jeringa que contiene vitamina C, vitamina PP y PDRN. Estos ingredientes aportan potentes efectos iluminadores y aclarantes con beneficios antioxidantes para la piel. El ácido hialurónico sonicado, con sus pesos moleculares bajo, medio y alto, proporciona múltiples beneficios, como la estimulación y el aumento de la elasticidad. La vitamina C ofrece propiedades antioxidantes y antienvejecimiento, ayudando a iluminar y unificar el tono de la piel. La vitamina PP es una vitamina potente que fortalece la barrera cutánea, favorece la hidratación y ayuda a normalizar la piel. El PDRN favorece la reparación y la regeneración de los tejidos. Este producto puede aplicarse inmediatamente después del tratamiento para lograr un fuerte efecto iluminador.",
+    "technicalInfo": [
+      { "label": "Ingredientes principales", "value": "Sodium Hyaluronate, 3-O-ethyl Ascorbic Acid, Niacinamide, Sodium DNA" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "vitalha", "title": "VitalHa", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" },
+      { "slug": "hadefined", "title": "HaDefined", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" },
+      { "slug": "drinxha", "title": "DrinxHa", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" }
+    ],
+    "productImageAlt": "Una caja de color azul verdoso etiquetada como \"BONITTO\" con \"GiHA\" escrito debajo. Dos jeringas llenas de un líquido transparente están frente a la caja. La caja menciona los ingredientes: Snakebee, ácido hialurónico, vitamina C, vitamina P1, FGFN."
+  },
+  "hadefined": {
+    "title": "HaDefined",
+    "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml",
+    "description": "El kit incluye una jeringa de ácido hialurónico y otra que contiene péptidos, vitaminas del grupo B, ácido gamma-aminobutírico (GABA) y PDRN. Estos ingredientes proporcionan potentes beneficios antienvejecimiento a la vez que favorecen la reparación y la hidratación de la piel. El uso de ácido hialurónico sonicado, con pesos moleculares bajo, medio y alto, ofrece múltiples efectos, como hidratación profunda y mayor elasticidad. Las vitaminas del grupo B son esenciales para una piel sana y resistente, ya que favorecen la retención de la humedad y la reparación del tejido dañado. El GABA ayuda a reducir la apariencia de las arrugas y a alisar las líneas finas, mientras que el PDRN favorece la regeneración de los tejidos. Este producto puede aplicarse después de tratamientos estéticos para ayudar a la recuperación de la piel o utilizarse de forma independiente para el rejuvenecimiento cutáneo.",
+    "technicalInfo": [
+      { "label": "Ingredientes principales", "value": "Sodium Hyaluronate, Calcium Pantothenate, Tocopherol, Thiamine HCL, Glycine, Glutathione, Aminobutyric acid, Sodium DNA, Arginine HCL, Leucine, Methionine, Phenylalanine, Serine, Lysine Hydrochloride, Glutamic acid, Riboflavin, Alanine, Histidine HCL, Valine, Proline, Pentapeptide-18, Acetyl Hexapeptide-8, Isoleucine, Aspartic Acid, Threonine, Tyrosine, Pyridoxine HCL, Tryptophan" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "drinxha", "title": "DrinxHa", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" },
+      { "slug": "giha", "title": "GiHa", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" },
+      { "slug": "vitalha", "title": "VitalHa", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" }
+    ],
+    "productImageAlt": "Combinación de ácido hialurónico, péptidos, vitaminas del grupo B, GABA y PDRN para beneficios antienvejecimiento tras tratamientos estéticos"
+  },
+  "vitalha": {
+    "title": "VitalHa",
+    "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml",
+    "description": "El kit incluye una jeringa de ácido hialurónico y una jeringa que contiene perfluorodecalina, pantenol, bisabolol y glucógeno. Estos componentes ofrecen beneficios de recuperación e hidratación, ayudando a reparar el enrojecimiento posterior al procedimiento y proporcionando efectos calmantes y relajantes. El ácido hialurónico sonicado ejerce una acción alisadora y revitalizante. La perfluorodecalina destaca por su capacidad de disolver hasta el 49% de su volumen en oxígeno, lo que aumenta los niveles de oxígeno y favorece una cicatrización más rápida. El bisabolol ayuda a hidratar la piel y a aliviar el ardor y el picor, mientras que el pantenol proporciona una humedad significativa y calma el enrojecimiento. Este producto es adecuado para utilizarse inmediatamente después del tratamiento para tratar el enrojecimiento de la piel y aportar una hidratación intensa.",
+    "technicalInfo": [
+      { "label": "Ingredientes principales", "value": "Sodium Hyaluronate, Perfluorodecalin, Bisabolol, Glycyrrhetinic Acid, Glycogen, Panthenol, Sodium Carboxymethyl Betaglucan" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "hadefined", "title": "HaDefined", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" },
+      { "slug": "drinxha", "title": "DrinxHa", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" },
+      { "slug": "giha", "title": "GiHa", "category": "1 jeringa de HA de 1,5 ml - 1 jeringa de concentrado de 0,5 ml" }
+    ],
+    "productImageAlt": "Una caja de producto verde de Bonitto etiquetada como \"Vitalha\" con dos jeringas colocadas delante que contienen una sustancia transparente. La caja incluye texto sobre el ácido hialurónico y otros ingredientes."
+  },
+  "bonitto-celeste-forte-pl": {
+    "title": "Bonitto Celestè Forte PL",
+    "category": "Viales estériles",
+    "description": "La fórmula de Bonitto Celestè Forte PL combina PLLA, CaHa, colágeno tipo III y doble HA para ofrecer un potente efecto estimulador de colágeno en múltiples capas. El PLLA actúa como bioestimulador que activa gradualmente los fibroblastos, fomentando la producción de colágeno a largo plazo para un tensado natural de la piel y la restauración del volumen. El CaHa proporciona un soporte estructural inmediato a la vez que estimula el colágeno y mejora la firmeza y la definición de la piel. El colágeno tipo III favorece la reparación cutánea en sus primeras fases. Es uno de los primeros colágenos que se producen durante la cicatrización de los tejidos, por lo que desempeña un papel en la regeneración y renovación de la piel. El doble HA aporta hidratación instantánea y un sutil efecto rellenador, mejorando la suavidad y la elasticidad de la piel desde el primer tratamiento.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "PLLA (Poly-L-lactic Acid), CaHa (Calcium Hydroxyapatite), Collagen type III, and Dual Hyaluronic Acid (HA)" },
+      { "label": "Volumen", "value": "3x5ml" }
+    ],
+    "effects": [
+      "La hidratación suaviza",
+      "La definición esculpe",
+      "La elasticidad refina",
+      "La firmeza estabiliza"
+    ],
+    "mainTarget": "Estimulación de colágeno",
+    "related": [],
+    "productImageAlt": "Una caja de color azul verdoso y blanco etiquetada como \"BONITTO CELESTE FORTE PL\" con un pequeño vial junto a ella. La caja indica que el producto es para rostro y cuerpo y contiene tres viales de 5 ml."
+  },
+  "bonitto-celeste-pl": {
+    "title": "Bonitto Celestè PL",
+    "category": "Viales estériles",
+    "description": "Bonitto Celestè PL es una formulación líquida lista para usar que combina ácido hialurónico y ácido poliláctico. Está diseñada para hidratar profundamente la piel, restaurar el volumen perdido y estimular la regeneración celular mediante la activación de los fibroblastos. La fórmula ofrece un efecto volumizador inmediato a la vez que ayuda a mejorar la calidad general de la piel. Esta solución de doble acción aborda eficazmente los problemas cutáneos más comunes, como las arrugas y la pérdida de volumen. Además de alisar y rellenar, favorece y potencia los procesos regenerativos naturales de la piel, promoviendo una renovada actividad celular y un rejuvenecimiento a más largo plazo.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "PLLA, Stabilized Sodium Hyaluronate Matrix" },
+      { "label": "Volumen", "value": "2x10ml" }
+    ],
+    "effects": [
+      "Consistencia homogénea",
+      "Distribución suave y uniforme",
+      "Rendimiento predecible y refinado",
+      "Estabilidad elegante y precisa",
+      "El equilibrio en la formulación crea equilibrio en la apariencia"
+    ],
+    "mainTarget": "Estimulación de colágeno",
+    "related": [],
+    "productImageAlt": "Una caja de color turquesa y azul verdoso etiquetada como \"BONITTO CELESTE PL\" con una imagen de dos viales y el texto \"Vials 2x10 mL.\" Un pequeño vial a juego está colocado frente a la caja."
+  },
+  "bonitto-celeste-ultra-pn": {
+    "title": "Bonitto Celestè Ultra PN",
+    "category": "Viales estériles",
+    "description": "La fórmula de Bonitto Celestè Ultra PN combina PLLA, CaHa, colágeno tipo III, arginina, hexapéptido-40, sh-polipéptido-76 y doble HA para ofrecer un potente efecto estimulador de colágeno en múltiples capas. El PLLA actúa como bioestimulador que activa gradualmente los fibroblastos, fomentando la producción de colágeno a largo plazo para un tensado natural de la piel y la restauración del volumen. El CaHa proporciona un soporte estructural inmediato a la vez que estimula el colágeno y mejora la firmeza y la definición de la piel. La arginina ayuda a mejorar la circulación cutánea, aumentar la producción de colágeno y favorecer la reparación, lo que se traduce en una piel más firme, sana y radiante. El hexapéptido-40 ayuda a aumentar el colágeno, mejorar la textura de la piel y favorecer la regeneración para conseguir una piel más suave, firme y de aspecto más joven. El sh-polipéptido-76 favorece la regeneración de la piel, aumenta el colágeno y mejora la textura para una piel más firme, suave y radiante. El colágeno tipo III favorece la reparación cutánea en sus primeras fases. Es uno de los primeros colágenos que se producen durante la cicatrización de los tejidos, por lo que desempeña un papel en la regeneración y renovación de la piel. El doble HA aporta hidratación instantánea y un sutil efecto rellenador, mejorando la suavidad y la elasticidad de la piel desde el primer tratamiento.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "PLLA (Poly-L-lactic Acid), CaHa (Calcium Hydroxyapatite), Collagen type III, Arginine, Hexapeptide-40 , sh-Polypeptide-76 ,and Dual Hyaluronic Acid (HA)" },
+      { "label": "Volumen", "value": "3x5ml" }
+    ],
+    "effects": [
+      "Estimulación profunda del colágeno",
+      "Resultados antienvejecimiento de larga duración",
+      "Mayor hidratación y luminosidad",
+      "Mejor firmeza y efecto lifting"
+    ],
+    "mainTarget": "Estimulación de colágeno",
+    "related": [],
+    "productImageAlt": "Una caja de Bonitto Celeste Ultra PN en color azul verdoso y verde con texto blanco, con un pequeño vial etiquetado como \"Bonitto\" delante. El envase indica \"Face & Body\" y contiene 3 viales de 5 ml cada uno."
+  }
+}

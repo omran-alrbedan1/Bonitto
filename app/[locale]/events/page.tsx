@@ -24,7 +24,7 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
           <div className="category-description text-center">
             {t('categories.events.description')}
           </div>
-          <div className="news-list mt-5">
+          <div className="news-list !mt-12">
             {events.map((event) => (
               <div className="news-item" key={event.slug}>
                 <Link className="post-link" href={`/events/${event.slug}`}>

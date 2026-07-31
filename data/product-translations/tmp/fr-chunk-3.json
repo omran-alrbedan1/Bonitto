@@ -1,0 +1,404 @@
+{
+  "babyskin": {
+    "title": "BabySkin",
+    "category": "Lait démaquillant micellaire",
+    "description": "Ce nettoyant doux mais efficace élimine en profondeur les impuretés, l'excès de sébum et le maquillage sans altérer la barrière d'hydratation essentielle de la peau. Contrairement aux nettoyants traditionnels qui peuvent provoquer sécheresse et irritations, cette formule nettoie en profondeur tout en préservant l'hydratation naturelle de la peau, évitant cette sensation de tiraillement et de sécheresse après utilisation. Il convient à tous les types de peau, y compris les peaux sensibles, car il aide à rééquilibrer le taux d'hydratation pour un teint sain et hydraté. Enrichi en ingrédients nourrissants, ce nettoyant soutient la santé de la peau à long terme en protégeant les huiles naturelles et la barrière cutanée. Une utilisation régulière garantit une peau lisse et fraîche, confortable et parfaitement hydratée, sans sécheresse ni irritation. C'est une étape essentielle de votre routine, qui maintient votre peau propre, nourrie et protégée des agressions extérieures.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Butyrospermum Parkii Butter, Elaeis Guineensis Oil, Gossypium Herbaceum Seed Oil, Prunus Cerasus Flower Extract, Pelargonium Graveolens Extract, Bidens Pilosa Extract, Linum Usitatissimum Seed Oil, Ceramide 3, Ceramide 6 Ii, Phytosphingosine, Ceramide 1, Cholesterol"
+      },
+      {
+        "label": "Volume",
+        "value": "200ml | 6.76 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un flacon-pompe blanc étiqueté « Bonito Baby Skin Moisturizing Milk » se tient à côté de son emballage sarcelle et blanc, tous deux affichant un volume de 200 ml. L'emballage contient les informations produit et la marque.",
+    "campaignImageAlt": "Une personne aux cheveux bouclés applique un masque facial coloré aux motifs verts et blancs, tout en touchant doucement son menton. L'arrière-plan est gris uni et ses ongles manucurés sont vernis dans une teinte pâle."
+  },
+  "balancecontrol": {
+    "title": "BalanceControl",
+    "category": "Sérum éclaircissant",
+    "description": "Cette formule avancée régule la production de sébum, contribuant à équilibrer les peaux grasses et sèches. Elle corrige les déséquilibres pouvant provoquer acné, pores obstrués et sécheresse en réduisant la brillance et en prévenant l'excès de sébum, en particulier dans les zones sujettes aux imperfections. En parallèle, elle maintient l'équilibre hydrique nécessaire pour éviter irritations et sécheresse, ce qui la rend idéale pour les peaux mixtes ou grasses. En plus de normaliser les niveaux de sébum, cette formule protège la barrière naturelle de la peau, la rendant plus résistante aux agressions extérieures. Avec une utilisation régulière, elle favorise un teint plus clair, plus lisse et plus uniforme, sans tiraillements ni sécheresse, offrant une solution douce mais efficace pour une peau plus saine et équilibrée.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Niacinamide, Phytosterols, Sebacic Acid, Phytosphingosine, Cholesterol, Ceramide 3, Ceramide 6 Ii, Ceramide 1, 10-Hydroxydecanoic Acid, 1,10-Decanediol, Dimethylmethoxy Chromanol"
+      },
+      {
+        "label": "Volume",
+        "value": "50 ml | 1.69 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un flacon blanc étiqueté « Bonitto Balance Control Brightening Serum » se tient à côté de sa boîte assortie sarcelle, tous deux au design minimaliste et aux surfaces réfléchissantes."
+  },
+  "bloomingmind": {
+    "title": "BloomingMind",
+    "category": "Crème éclat revitalisante",
+    "description": "Cette crème hydratante pour le visage, enrichie en PDRN, en acide hyaluronique breveté, en glycogène, en céramides et en gamma-tocophérol, laisse la peau hydratée et ferme. L'acide hyaluronique soniqué procure une hydratation en profondeur et améliore l'élasticité, tandis que le PDRN favorise la régénération tissulaire. Le glycogène améliore et restaure visiblement la texture et le teint de la peau tout en la lissant. Il améliore le confort cutané en adoucissant la surface et en offrant une hydratation immédiate et durable. Les céramides hydratent, atténuent l'apparence des rides et ridules et améliorent la texture de la peau. Le gamma-tocophérol, une forme unique de vitamine E, apporte des bienfaits antioxydants.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Saccharide Isomerate, Sodium Hyaluronate, Sodium DNA, Glycogen, Dimethylmethoxy Chromanol, Oryza Sativa Germ Extract, Oryza Sativa Extract, Ceramide 3, Cholesterol, Phytosphingosine, Ceramide 6 Ii, Carbomer, Ceramide 1"
+      },
+      {
+        "label": "Volume",
+        "value": "50 ml | 1.69 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "freshspirit",
+        "title": "FreshSpirit",
+        "category": "Crème hydra booster"
+      },
+      {
+        "slug": "focusy",
+        "title": "FocusY",
+        "category": "Crème contour des yeux"
+      },
+      {
+        "slug": "lightnet",
+        "title": "LightNet",
+        "category": "Crème éclaircissante globale"
+      }
+    ],
+    "productImageAlt": "Un pot et une boîte de Bonitto Bloomingmind Revitalizing Glow Cream sont présentés. Le pot a un couvercle argenté et la boîte est sarcelle avec un texte blanc. La taille du produit est de 50 ml."
+  },
+  "c-glow-serum": {
+    "title": "C-Glow Serum",
+    "category": "Sérum rajeunissant",
+    "description": "Ce sérum contient de la vitamine C sous forme d'acide 3-éthyl ascorbique, un dérivé stable et doux offrant une puissante protection antioxydante. Il neutralise les radicaux libres provoqués par les rayons UV, la pollution et le stress, éclaircit les taches brunes et réduit l'hyperpigmentation. Il stimule également la production de collagène, améliorant l'élasticité et la texture de la peau. Ce sérum offre aussi une photoprotection et participe à la réparation des cellules endommagées, contribuant à un éclat jeune et lumineux. Sa formule stable le rend adapté aux peaux sensibles, en remédiant aux problèmes d'instabilité et d'irritation souvent associés à l'acide L-ascorbique.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "30% 3-o-ethyl Ascorbic Acid"
+      },
+      {
+        "label": "Volume",
+        "value": "30 ml, | 1.01 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un flacon blanc de BONITTO C-Glow Rejuvenating Serum avec une pipette, placé à côté de sa boîte assortie sarcelle et blanche. L'emballage affiche le nom du produit et sa taille, 30 ml (1.01 fl. oz)."
+  },
+  "focusy": {
+    "title": "FocusY",
+    "category": "Crème contour des yeux",
+    "description": "Cette crème de traitement du contour des yeux contient du PDRN, de l'acide hyaluronique breveté, de la vitamine K2, des peptides et un complexe d'escine, ciblant les rides, les cernes et les poches. La vitamine K2 favorise une apparence plus lisse et plus jeune, offre des bienfaits antioxydants et aide à atténuer les cernes. L'escine revitalise et régénère la peau, tandis que le PDRN participe à la réparation tissulaire. L'acide hyaluronique soniqué breveté, à poids moléculaires faible, moyen et élevé, offre de multiples bienfaits, notamment une hydratation en profondeur, une meilleure élasticité et un effet repulpant et lissant qui agit de l'extérieur pour un résultat de type comblement.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Butyrospermum Parkii Butter, Caffeine, Tea-Hydroiodide, Ruscus Aculeatus Root Extract, Carnitine, Sodium DNA, Dimethylmethoxy Chromanol, Escin, Sodium Hyaluronate, Acacia Senegal Gum, Helianthus Annuus Seed Oil, Hedera Helix Leaf/Stem Extract, Tripeptide-1, Ascorbyl Palmitate, Menaquinone-7, Acetyl Tetrapeptide-5, Plankton Extract"
+      },
+      {
+        "label": "Volume",
+        "value": "15 ml | 0.50 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "freshspirit",
+        "title": "FreshSpirit",
+        "category": "Crème hydra booster"
+      },
+      {
+        "slug": "bloomingmind",
+        "title": "BloomingMind",
+        "category": "Crème éclat revitalisante"
+      },
+      {
+        "slug": "lightnet",
+        "title": "LightNet",
+        "category": "Crème éclaircissante globale"
+      }
+    ],
+    "productImageAlt": "Un pot blanc et sarcelle de BONITTO Focusy Eye Cellular Cream est présenté à côté de son emballage sarcelle assorti, tous deux placés sur un fond blanc."
+  },
+  "freshspirit": {
+    "title": "FreshSpirit",
+    "category": "Crème hydra booster",
+    "description": "Cette crème nourrissante, formulée avec du PDRN, de l'acide hyaluronique breveté, du glucane, des céramides et des facteurs de croissance, offre une texture riche et cocon à la peau, pour une nutrition profonde et une peau souple. Le PDRN soutient la réparation et la régénération tissulaire, tandis que le glucane apaise la peau grâce à ses bienfaits antioxydants et hydratants. Les céramides aident à hydrater la peau, à réduire l'apparence des rides et ridules et à améliorer sa texture. Les facteurs de croissance sont des protéines actives qui favorisent le renouvellement cellulaire, réduisent les signes de l'âge et soutiennent la réparation et la régénération de la peau. L'acide hyaluronique soniqué breveté, à poids moléculaires faible, moyen et élevé, apporte une hydratation en profondeur, de l'élasticité et un effet revitalisant.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Butyrospermum Parkii Butter, Sodium DNA, Sodium Carboxymethyl Betaglucan, Sodium Hyaluronate, Palmitoyl Tripeptide-38, Ceramide 3, Cholesterol, Phytosphingosine, Ceramide 6 Ii, Copper Tripeptide-1, Sh-Polypeptide-3, Sh-Oligopeptide-1, Sh-Polypeptide-11, Ceramide 1, Sh-Polypeptide-1"
+      },
+      {
+        "label": "Volume",
+        "value": "50 ml | 1.69 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "focusy",
+        "title": "FocusY",
+        "category": "Crème contour des yeux"
+      },
+      {
+        "slug": "lightnet",
+        "title": "LightNet",
+        "category": "Crème éclaircissante globale"
+      },
+      {
+        "slug": "bloomingmind",
+        "title": "BloomingMind",
+        "category": "Crème éclat revitalisante"
+      }
+    ],
+    "productImageAlt": "Un pot et une boîte de Bonitto Fresh Spirit Cream Hydro Booster. Le pot a un couvercle argenté et un corps blanc, tandis que la boîte est sarcelle avec un texte blanc. Les produits se reflètent sur la surface brillante qui les soutient."
+  },
+  "glowbooster": {
+    "title": "GlowBooster",
+    "category": "Sérum antioxydant",
+    "description": "Ce sérum léger est conçu pour hydrater et revitaliser la peau, en lui apportant une dose d'hydratation qui la maintient douce et lisse. Sa formule avancée aide à restaurer l'équilibre hydrique naturel de la peau, en corrigeant la sécheresse et la déshydratation responsables d'inconfort et d'un teint terne. En hydratant en profondeur, il favorise un teint plus sain et plus souple. En plus d'une hydratation intense, ce sérum soutient la fonction barrière de la peau, l'aidant à rester résistante face aux agressions extérieures. Une utilisation régulière améliore la texture de la peau, la laissant nourrie et régénérée. Parfait pour tous les types de peau, il apporte une hydratation durable et améliore la santé globale de la peau, garantissant une apparence éclatante et rafraîchie.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "3-o-ethyl Ascorbic Acid, , S-Arachidonoyl/Linolenoyl/Linoleoyl Glutathione, Ubiquinone, Thioctic Acid"
+      },
+      {
+        "label": "Volume",
+        "value": "30ml | 1.01 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un flacon blanc de 30 ml étiqueté « BONITTO Glow Booster Antioxidant Serum » avec un bouchon compte-gouttes est présenté à côté de son emballage sarcelle et blanc, qui affiche également le nom du produit et ses détails."
+  },
+  "hyperskin": {
+    "title": "HyperSkin",
+    "category": "Crème éclat à la vitamine C",
+    "description": "Hyperskin est formulé pour rehausser l'éclat de la peau et réduire les signes visibles du vieillissement, en restaurant un teint jeune et lumineux. Les agressions extérieures, l'exposition aux UV et le vieillissement naturel peuvent faire perdre à la peau sa luminosité et sa fermeté, entraînant ternissement et ridules. Ce produit revitalise la peau, favorisant un teint plus lumineux tout en unifiant le teint et en réduisant les taches brunes. En plus de booster l'éclat, Hyperskin aide à se protéger contre les effets visibles du vieillissement. Il soutient la production de collagène et renforce la barrière cutanée, prévenant la formation des ridules et des rides. Avec une utilisation régulière, il laisse la peau plus lisse, plus ferme et plus jeune, offrant une apparence fraîche et lumineuse tout en défendant la peau contre les facteurs accélérant le vieillissement.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "3-o-ethyl Ascorbic Acid, Phytosterols"
+      },
+      {
+        "label": "Volume",
+        "value": "30ml | 1.01 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un flacon blanc de Bonitto HyperSkin Radiance Cream se tient à côté de sa boîte sarcelle et blanche. Tous deux affichent le nom du produit, la description et le volume (30 ml / 1.01 fl. oz) sur un fond blanc uni."
+  },
+  "infinite-youth": {
+    "title": "Infinite Youth",
+    "category": "Gel repulpant intime",
+    "description": "Cette formule spécialisée apporte une hydratation immédiate, apaise et soulage les irritations de la zone intime, offrant un confort grâce à des ingrédients actifs soigneusement sélectionnés. La zone intime est sensible et sujette à la sécheresse, aux irritations et aux inconforts dus à des facteurs tels que les changements hormonaux, les produits d'hygiène personnelle ou les agressions extérieures. Ce produit rétablit l'équilibre en apportant une hydratation instantanée et un soulagement apaisant, favorisant une sensation de bien-être. Enrichi en actifs doux mais efficaces, il restaure rapidement l'hydratation, apaise les irritations et réduit les rougeurs ou les sensations de sensibilité. La formule soutient la peau délicate de la zone intime, la protégeant de tout inconfort supplémentaire tout en assurant un soulagement durable. Idéal pour les personnes souffrant de sécheresse ou d'irritations, il aide à garder la zone confortable, nourrie et rafraîchie grâce à une utilisation régulière, ce qui en fait un soin essentiel au quotidien pour les peaux sensibles.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Sodium Hyaluronate, Trehalose, Hyaluronic Acid, Sh-Polypeptide-9, Sh-Oligopeptide-2, Sh-Polypeptide-1, Sh-Polypeptide-11, Sh-Oligopeptide-1"
+      },
+      {
+        "label": "Volume",
+        "value": "50ml | 1.69 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un flacon blanc et sarcelle de BONITO Infinite Youth Reviving Gel se tient à côté de son emballage sarcelle assorti, tous deux au design minimaliste et avec les détails du produit."
+  },
+  "lightnet": {
+    "title": "LightNet",
+    "category": "Crème éclaircissante globale",
+    "description": "Cette crème éclaircissante contient du PDRN, de l'acide hyaluronique breveté, de la niacinamide, du butylrésorcinol et de l'alpha-arbutine, offrant des bienfaits lissants et hydratants pour un teint éclatant. La niacinamide, une vitamine largement étudiée, renforce la résistance de la peau et soutient une apparence impeccable et lumineuse. Elle renforce la barrière cutanée, favorise l'hydratation et aide à normaliser la peau. Le butylrésorcinol, un puissant agent éclaircissant, unifie le teint pour une apparence plus équilibrée. L'alpha-arbutine, reconnue pour ses propriétés éclaircissantes douces mais efficaces, illumine le teint et affine la texture de la peau, tout en offrant une protection antioxydante. L'acide hyaluronique soniqué hydrate en profondeur, stimulant l'élasticité et la souplesse de la peau. Enfin, le PDRN favorise la régénération tissulaire, contribuant à une apparence plus saine et plus jeune.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Niacinamide, 4-Butylresorcinol, Alpha-Arbutin, Sodium DNA, Persea Gratissima Oil, Simmondsia Chinensis Seed Oil, Sodium Hyaluronate"
+      },
+      {
+        "label": "Volume",
+        "value": "50 ml | 1.69 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "focusy",
+        "title": "FocusY",
+        "category": "Crème contour des yeux"
+      },
+      {
+        "slug": "freshspirit",
+        "title": "FreshSpirit",
+        "category": "Crème hydra booster"
+      },
+      {
+        "slug": "bloomingmind",
+        "title": "BloomingMind",
+        "category": "Crème éclat revitalisante"
+      }
+    ],
+    "productImageAlt": "Un pot et une boîte de Bonitto Lightnet Brightening Global Cream. Le pot est blanc avec un couvercle argenté, et la boîte est sarcelle avec un texte blanc, placés sur une surface réfléchissante."
+  },
+  "lushlips": {
+    "title": "LushLips",
+    "category": "Volumatrix à l'acide hyaluronique 3D",
+    "description": "Ce soin des lèvres luxueux est conçu pour définir, sublimer et rajeunir les lèvres, leur conférant une apparence plus pulpeuse, plus douce et plus jeune. Il restaure le volume et la douceur naturels, en corrigeant les problèmes de déshydratation, de vieillissement et de stress environnemental. La formule agit pour rehausser les contours des lèvres, les laissant plus pulpeuses, plus lisses et parfaitement définies. Enrichi en ingrédients nourrissants, ce soin hydrate en profondeur, retient l'humidité et lisse les ridules, créant une texture souple et douce. Sa formule légère et non grasse s'absorbe rapidement, offrant une hydratation durable tout au long de la journée. Une utilisation régulière restaure le volume et l'élasticité, laissant les lèvres naturellement sublimées, définies et rajeunies. Parfait pour celles et ceux qui souhaitent revitaliser leurs lèvres, ce soin améliore la texture tout en rehaussant leur apparence globale.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédient actif",
+        "value": "3ha, Plumping Peptide: Palmitoyl Tripeptide-1:Arnica Montana, Vitamin K2, Sesamum Indicum Seed Extract, Hydroxymethoxyphenyl Decanone, Neem Oil"
+      },
+      {
+        "label": "Volume",
+        "value": "4.5 ml | 0.15 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un tube et sa boîte assortie sarcelle de BONITO Lush Lips 3D Hyaluronic Acid Volumizer, présentés sur un fond blanc avec leurs reflets visibles en dessous.",
+    "campaignImageAlt": "Gros plan sur les lèvres et le menton d'une femme, sa main reposant contre son visage. Elle a un teint clair et un maquillage naturel."
+  },
+  "ohmygoodnessrich": {
+    "title": "OhMyGoodnessRich",
+    "category": "Crème ultra-nourrissante",
+    "description": "Cette crème nourrissante se distingue par une texture riche et cocon qui hydrate en profondeur et régénère la peau, la laissant douce, souple et confortable. Conçue pour restaurer l'équilibre hydrique naturel de la peau, elle combat la sécheresse et offre une hydratation durable, pour une sensation de douceur et de nutrition. Cette formule généreuse regorge d'ingrédients nourrissants qui pénètrent en profondeur, délivrant hydratation et nutriments essentiels là où ils sont le plus nécessaires. Idéale pour les peaux sèches ou stressées, cette crème améliore l'élasticité et la résistance, rendant la peau visiblement repulpée et plus éclatante. Sa texture veloutée forme une couche protectrice qui protège la peau des agressions extérieures tout en réduisant les tiraillements et en laissant un subtil éclat. À absorption rapide et non grasse, elle est parfaite pour une utilisation de jour comme de nuit, offrant hydratation et confort ultimes pour restaurer douceur et vitalité naturelles.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Butyrospermum Parkii Butter, Sodium Hyaluronate, Hyaluronic Acid"
+      },
+      {
+        "label": "Volume",
+        "value": "50 ml | 1.69 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un pot de BONITTO OhMyGoodnessRich Ultra Nourishing Cream se trouve à côté de son emballage sarcelle et blanc sur une surface réfléchissante."
+  },
+  "protime": {
+    "title": "ProTime",
+    "category": "Sérum anti-âge puissant",
+    "description": "Ce sérum visage associe trois rétinoïdes, de l'acide hyaluronique breveté et du PDRN, conçus pour rehausser l'éclat et la jeunesse de la peau tout en offrant une protection anti-âge et antioxydante complète. Le rétinol améliore la texture de la peau, atténue la sécheresse et lisse les ridules, pour un aspect plus ferme et plus tonique. Le rétinaldéhyde augmente l'épaisseur du derme, réduit l'apparence des rides et ridules et aide à atténuer l'hyperpigmentation cutanée. Le PDRN participe à la réparation tissulaire, tandis que l'acide hyaluronique soniqué breveté procure un effet lissant et revitalisant.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Sodium Hyaluronate, Hydroxypinacolone Retinoate, Retinaldehyde, Retinol, Sodium DNA"
+      },
+      {
+        "label": "Volume",
+        "value": "30 ml | 1.01 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "vitaminstrong",
+        "title": "VitaminStrong",
+        "category": "Sérum hydra booster"
+      }
+    ],
+    "productImageAlt": "L'image montre un flacon blanc de Bonitto ProTime Anti-Age Power Serum se tenant à côté de sa boîte sarcelle. Le flacon a un bouchon argenté et contient 30 ml (1.01 fl oz) de produit."
+  },
+  "sun-age-defense-50": {
+    "title": "SUNAGEDEFENSE",
+    "category": "Crème de protection cutanée SPF 50",
+    "description": "Sun Age Defense SPF 50 est une crème solaire haute protection conçue pour protéger la peau des rayons UVA et UVB nocifs tout en prévenant le vieillissement prématuré. Enrichie en peptides et en complexes antioxydants, elle aide à améliorer la fermeté, l'élasticité et la résistance de la peau, la laissant hydratée, lisse et protégée contre les agressions extérieures. Idéale pour une utilisation quotidienne sur tous les types de peau, elle offre une protection solaire complète et des bienfaits anti-âge.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Homosalate, Octocrylene, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Butyl Methoxydibenzoylmethane, Ethylhexyl Salicylate, Acetyl Tetrapeptide-2, Sh-Polypeptide-2, Nicotiana Benthamiana Hexapeptide-40, Silanediol Salicylate, Zinc Bisglycinate."
+      },
+      {
+        "label": "Volume",
+        "value": "30 ml | 1.01 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un flacon blanc de crème Bonito Sun Age Defense SPF 30 se tient à côté de sa boîte sarcelle et blanche assortie, tous deux étiquetés avec les détails du produit et la marque."
+  },
+  "sunagedefense": {
+    "title": "SunAgeDefense",
+    "category": "Crème de protection cutanée SPF 30+",
+    "description": "Cet écran solaire de haute qualité offre une protection à large spectre avec un SPF 30+, protégeant la peau des rayons UVA et UVB responsables du photovieillissement, des ridules, des rides et des taches brunes. Sa formule légère et non grasse s'absorbe rapidement, laissant la peau douce, veloutée et hydratée, sans fini gras. Adapté à tous les types de peau, y compris les peaux sensibles, il aide à maintenir l'équilibre hydrique tout en prévenant les dommages solaires. Une utilisation régulière protège contre les rayons UV, améliore la texture de la peau et aide à conserver une apparence jeune et éclatante.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Lactobacillus Ferment, Niacinamide, Oryza Sativa Extract, Oryza Sativa Germ Extract, Tocopheryl Acetate, Scenedesmus Rubescens Extract, Pinus Pinaster Extract, Sodium Hyaluronate"
+      },
+      {
+        "label": "Volume",
+        "value": "50 ml | 1.69 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un flacon d'écran solaire BONITTO Sun Age Defense SPF 30+ se tient à côté de son emballage sarcelle et blanc, tous deux reflétés sur une surface brillante.",
+    "campaignImageAlt": "Un homme souriant avec une barbe a une touche de crème sur la joue. Il se tient devant un fond blanc avec des ombres diagonales."
+  },
+  "supermelabooster": {
+    "title": "SuperMelaBooster",
+    "category": "Sérum anti-taches",
+    "description": "Supermelabooster est conçu pour éclaircir les taches brunes et restaurer l'éclat de jeunesse de la peau. Il cible efficacement les taches brunes, l'hyperpigmentation et le teint irrégulier causés par des facteurs tels que l'exposition au soleil, le vieillissement et les agressions extérieures. La formule agit en inhibant la production de mélanine et en estompant les décolorations existantes, laissant la peau plus uniforme, plus lumineuse et revitalisée au fil du temps. Enrichi en ingrédients puissants, ce produit favorise un éclat sain et jeune en stimulant le renouvellement cellulaire et en améliorant la texture de la peau. Avec une utilisation régulière, il rehausse l'éclat naturel de la peau, la rendant plus lisse, lumineuse et régénérée. Idéal pour celles et ceux qui cherchent à lutter contre les effets du vieillissement et des facteurs environnementaux, Supermelabooster aide à obtenir un teint équilibré et éclatant.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "Niacinamide, 3-o-ethyl Ascorbic Acid, Sodium Hyaluronate, Tranexamic Acid, 4-Butylresorcinol, Oligopeptide-34"
+      },
+      {
+        "label": "Volume",
+        "value": "30ml | 1.01 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un flacon blanc de BONITTO Super Mela Booster Anti Spot Serum avec une pipette se trouve à côté de sa boîte verte et blanche, tous deux étiquetés avec les détails du produit et contenant 30 ml (1.01 fl.oz) de sérum."
+  },
+  "vitaminstrong": {
+    "title": "VitaminStrong",
+    "category": "Sérum hydra booster",
+    "description": "Ce sérum visage associe du PDRN, de l'acide hyaluronique breveté, de la vitamine B5 et de la vitamine C, offrant des bienfaits apaisants et revitalisants. L'acide 3-O-éthyl ascorbique (vitamine C) procure des effets antioxydants et anti-âge, en éclaircissant et en unifiant le teint. Le PDRN soutient la régénération tissulaire, tandis que la vitamine B5 hydrate, régénère et apaise la peau, renforçant la barrière cutanée et améliorant l'hydratation. L'acide hyaluronique soniqué apporte une hydratation en profondeur et améliore l'élasticité de la peau.",
+    "technicalInfo": [
+      {
+        "label": "Ingrédients actifs",
+        "value": "3-O-Ethyl Ascorbic Acid, Sodium Hyaluronate, Calcium Pantothenate, Sodium DNA"
+      },
+      {
+        "label": "Volume",
+        "value": "30 ml | 1.01 fl.oz."
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "protime",
+        "title": "ProTime",
+        "category": "Sérum anti-âge puissant"
+      }
+    ],
+    "productImageAlt": "Un flacon de BONITIO Vitamin Strong Serum Hydra Booster avec un bouchon sarcelle est placé à côté de sa boîte sarcelle assortie. Le flacon et la boîte sont tous deux étiquetés avec le nom du produit et sa taille, 30 ml / 1.01 fl. oz."
+  }
+}

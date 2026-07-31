@@ -1,0 +1,273 @@
+{
+  "n-01-bonitto-pro-age-fine": {
+    "title": "01 PRO AGE FINE",
+    "category": "Filler",
+    "description": "BONITTO® 01 PRO AGE FINE è un gel ultra-plastico di acido ialuronico reticolato, studiato per il trattamento di rughe superficiali e imperfezioni cutanee moderate. È specificamente indicato per correggere aree come la glabella, le rughe attorno alla bocca e agli occhi, il collo, le mani e le fosse lacrimali. Il gel garantisce una correzione volumetrica naturale aumentando il volume dei tessuti, per un aspetto raffinato e ringiovanito.",
+    "technicalInfo": [
+      { "label": "Volume", "value": "1 x 1 ml" },
+      { "label": "Aghi", "value": "2 x 30 G" },
+      { "label": "Concentrazione", "value": "20 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "Filler", "image": "/images/products/FILLERS-02-3-745x1024.webp" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "Filler", "image": "/images/products/FILLERS-03-745x1024.webp" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "Filler", "image": "/images/products/FILLERS-04-745x1024.webp" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "Filler", "image": "/images/products/FILLERS-SB-05-745x1024.webp" }
+    ],
+    "productImageAlt": "BONITTO® 01 PRO AGE FINE: filler per rughe per distendere le linee sottili intorno a occhi, bocca e collo.",
+    "campaignImageAlt": "Una donna con pelle chiara e capelli raccolti guarda oltre la spalla. Ha un sorprendente trucco turchese sugli occhi che si estende oltre gli stessi, definendo sopracciglia e palpebre. La sua espressione è serena su uno sfondo neutro."
+  },
+  "n-02-bonitto-lips-plum": {
+    "title": "02 LIPS PLUMP",
+    "category": "Filler",
+    "description": "BONITTO® 02 LIPS PLUMP è un gel ultra-liscio di acido ialuronico reticolato progettato per aumentare il volume dei tessuti molli e correggere rughe medie e profonde. È specificamente formulato per il contouring e la volumizzazione delle labbra, oltre che per trattare i difetti dei tessuti molli attorno alla bocca, le pieghe del marionettista e gli angoli labiali cadenti.",
+    "technicalInfo": [
+      { "label": "Volume", "value": "1 × 1 ml" },
+      { "label": "Aghi", "value": "2 x 27 G" },
+      { "label": "Concentrazione", "value": "21 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "Filler", "image": "/images/products/FILLERS-01-3-745x1024.webp" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "Filler", "image": "/images/products/FILLERS-03-745x1024.webp" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "Filler", "image": "/images/products/FILLERS-04-745x1024.webp" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "Filler", "image": "/images/products/FILLERS-SB-05-745x1024.webp" }
+    ],
+    "productImageAlt": "BONITTO® 02 LIPS PLUMP: filler labbra in acido ialuronico ultra-liscio per volume labbra e correzione delle rughe",
+    "campaignImageAlt": "Primo piano di una donna con trucco artistico. Ha sopracciglia marcate, una linea nera verticale sul naso, ombretto turchese su un occhio e un turchese coordinato sul labbro superiore. Le sue mani toccano delicatamente il viso e la sua espressione è serena."
+  },
+  "n-03-bonitto-age-solution": {
+    "title": "03 AGE SOLUTION",
+    "category": "Filler",
+    "description": "BONITTO® 03 AGE SOLUTION è un gel ultra-liscio di acido ialuronico reticolato progettato per ripristinare o aumentare il volume dei tessuti molli e correggere rughe profonde e solchi cutanei. È inoltre formulato per definire la forma del viso in aree come il dorso del naso, il mento, le pieghe naso-labiali e le pieghe del marionettista. Il gel garantisce una correzione volumetrica visibile aumentando il volume dei tessuti, per un aspetto più definito e ringiovanito.",
+    "technicalInfo": [
+      { "label": "Volume", "value": "1 × 1 ml" },
+      { "label": "Aghi", "value": "2 x 27 G" },
+      { "label": "Concentrazione", "value": "24 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "Filler", "image": "/images/products/FILLERS-01-3-745x1024.webp" },
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "Filler", "image": "/images/products/FILLERS-02-3-745x1024.webp" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "Filler", "image": "/images/products/FILLERS-04-745x1024.webp" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "Filler", "image": "/images/products/FILLERS-SB-05-745x1024.webp" }
+    ],
+    "productImageAlt": "BONITTO® 03 AGE SOLUTION: filler per naso e mento per l'aumento del mento senza intervento chirurgico e il ripristino del volume del viso.",
+    "campaignImageAlt": "Una donna con un'acconciatura elegante ha un trucco turchese deciso, con una linea dalla fronte lungo il naso e un eyeliner drammatico che si estende dagli occhi. Lo sfondo è grigio tenue, a sottolineare la sua espressione serena."
+  },
+  "n-04-bonitto-face-sculpt": {
+    "title": "04 FACE SCULPT",
+    "category": "Filler",
+    "description": "BONITTO® 04 FACE SCULPT è un potente gel di acido ialuronico reticolato ad alta concentrazione, specificamente formulato per aumentare il volume dei tessuti molli e i contorni del viso. È progettato per scolpire e definire i tratti del viso, inclusi la linea mandibolare, il mento e le zone degli zigomi.",
+    "technicalInfo": [
+      { "label": "Volume", "value": "1 × 1 ml" },
+      { "label": "Aghi", "value": "2 x 25 G" },
+      { "label": "Concentrazione", "value": "26 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "Filler", "image": "/images/products/FILLERS-01-3-745x1024.webp" },
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "Filler", "image": "/images/products/FILLERS-02-3-745x1024.webp" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "Filler", "image": "/images/products/FILLERS-03-745x1024.webp" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "Filler", "image": "/images/products/FILLERS-SB-05-745x1024.webp" }
+    ],
+    "productImageAlt": "BONITTO® 04 FACE SCULPT: potente gel riempitivo in acido ialuronico per scolpire i contorni e aggiungere volume.",
+    "campaignImageAlt": "Primo piano del viso di una persona con una sorprendente striscia diagonale verde di trucco sulla guancia, in contrasto con il tono naturale della pelle. L'attenzione è focalizzata sull'occhio e sull'applicazione artistica del trucco."
+  },
+  "n-05-bonitto-volume": {
+    "title": "05 VOLUME",
+    "category": "Filler",
+    "description": "BONITTO® 05 VOLUME è un gel di acido ialuronico reticolato ad alta concentrazione, progettato per ripristinare o aumentare il volume dei tessuti molli e rimodellare la superficie corporea. È ideale per trattare atrofie estese, irregolarità conseguenti a trattamenti di liposuzione e trattamenti volumetrici del corpo. Questo prodotto è particolarmente efficace per rimodellare aree come i glutei, i polpacci e le mani. Garantisce una correzione volumetrica visibile grazie a un aumento significativo del volume dei tessuti, portando l'area trattata alla forma desiderata. La visibilità e la durata dell'effetto dipendono dalla profondità di applicazione e dalle condizioni originali della pelle.",
+    "technicalInfo": [
+      { "label": "Volume", "value": "1 × 10 ml" },
+      { "label": "Concentrazione", "value": "20 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "Filler", "image": "/images/products/FILLERS-01-3-745x1024.webp" },
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "Filler", "image": "/images/products/FILLERS-02-3-745x1024.webp" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "Filler", "image": "/images/products/FILLERS-03-745x1024.webp" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "Filler", "image": "/images/products/FILLERS-04-745x1024.webp" }
+    ],
+    "productImageAlt": "BONITTO® 05 VOLUME - filler in acido ialuronico reticolato ad alta concentrazione",
+    "campaignImageAlt": "BONITTO® 05 VOLUME - filler per pelle rilassata, rimodellamento corporeo, contouring, aumento dei glutei, correzione della forma dei polpacci"
+  },
+  "01-lush-bloom": {
+    "title": "01 LUSH BLOOM",
+    "category": "Acido Ialuronico Reticolato",
+    "description": "BONITTO® 01 LUSH BLOOM 22 mg/ml è un idrogel di acido ialuronico reticolato biodegradabile che viene riassorbito nel tempo, destinato a essere iniettato nella sottomucosa labiale o nel derma superficiale per ripristinare il volume perso dei tessuti molli. L'idrogel di acido ialuronico reticolato con BDDE 22 mg/ml, quando iniettato nella sottomucosa labiale o nel derma superficiale, aggiunge temporaneamente volume ai tessuti molli del viso assottigliati.",
+    "technicalInfo": [
+      { "label": "Volume", "value": "2 x 1 ml" },
+      { "label": "Aghi", "value": "4 x 30 G" },
+      { "label": "Concentrazione", "value": "22 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "02-lover-touch": {
+    "title": "02 LOVER TOUCH",
+    "category": "Acido Ialuronico Reticolato",
+    "description": "BONITTO® 02 LOVER TOUCH 24 mg/ml è un idrogel di acido ialuronico reticolato biodegradabile che viene riassorbito nel tempo, destinato a essere iniettato nel derma medio e profondo per ripristinare il volume perso dei tessuti molli. L'idrogel di acido ialuronico reticolato con BDDE 24 mg/ml, quando iniettato nel derma medio e profondo, aggiunge temporaneamente volume ai tessuti molli del viso assottigliati.",
+    "technicalInfo": [
+      { "label": "Volume", "value": "2 x 1 ml" },
+      { "label": "Aghi", "value": "4 x 27 G" },
+      { "label": "Concentrazione", "value": "24 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "03-lift-up": {
+    "title": "03 LIFT UP",
+    "category": "Acido Ialuronico Reticolato",
+    "description": "BONITTO® 03 LIFT UP 26 mg/ml è un idrogel di acido ialuronico reticolato biodegradabile che viene riassorbito nel tempo, destinato a essere iniettato nel derma profondo o nel tessuto sottocutaneo per ripristinare il volume perso dei tessuti molli. L'idrogel di acido ialuronico reticolato con BDDE 26 mg/ml, quando iniettato nel derma profondo o nel tessuto sottocutaneo, aggiunge temporaneamente volume ai tessuti molli del viso assottigliati.",
+    "technicalInfo": [
+      { "label": "Volume", "value": "2 x 1 ml" },
+      { "label": "Aghi", "value": "4 x 27 G" },
+      { "label": "Concentrazione", "value": "26 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "04-level-max": {
+    "title": "04 LEVEL MAX",
+    "category": "Acido Ialuronico Reticolato",
+    "description": "BONITTO® 04 LEVEL MAX 28 mg/ml è un idrogel di acido ialuronico reticolato biodegradabile che viene riassorbito nel tempo, destinato a essere iniettato nel tessuto sottocutaneo per ripristinare il volume perso dei tessuti molli. L'idrogel di acido ialuronico reticolato con BDDE 28 mg/ml, quando iniettato nel tessuto sottocutaneo, aggiunge temporaneamente volume ai tessuti molli del viso assottigliati.",
+    "technicalInfo": [
+      { "label": "Volume", "value": "2 x 1 ml" },
+      { "label": "Aghi", "value": "4 x 25 G" },
+      { "label": "Concentrazione", "value": "28 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Una scatola con la scritta \"Bonitto 04 Level Max\" è in posizione verticale accanto a una siringa piena di liquido trasparente. La confezione indica 28mg/ml di acido ialuronico reticolato e presenta colori verde acqua e nero con un design moderno ed elegante."
+  },
+  "drinxha": {
+    "title": "DrinxHa",
+    "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml",
+    "description": "Il kit contiene 1 siringa di Acido Ialuronico e 1 siringa di Acido Tranexamico, Alpha-Arbutin e Glutathione. La combinazione offre un duplice beneficio: l'acido ialuronico garantisce un'idratazione profonda e un effetto volumizzante, mentre Alpha-Arbutin, Glutathione e Acido Tranexamico offrono potenti effetti illuminanti, riduzione della pigmentazione e protezione antiossidante. Ingredienti come Alpha-Arbutin, Acido Tranexamico e Glutathione aiutano a ridurre l'iperpigmentazione. L'Alpha-Arbutin inibisce la produzione di melanina ed è 10 volte più efficace del Beta-Arbutin. L'Acido Tranexamico riduce le macchie scure bloccando la pigmentazione indotta dai raggi UV e l'attività della tirosinasi. Il Glutathione protegge la pelle dai danni del sole, dalla disidratazione e dall'invecchiamento neutralizzando i radicali liberi e promuovendo la produzione di collagene.",
+    "technicalInfo": [
+      { "label": "Ingredienti principali", "value": "Sodium Hyaluronate, Alpha-arbutin, Glutathione, Tranexamic Acid" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "giha", "title": "GiHa", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/GIHA-796x1024.webp" },
+      { "slug": "hadefined", "title": "HaDefined", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/HADEFINED-796x1024.webp" },
+      { "slug": "vitalha", "title": "VitalHa", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/VITAL-HA-796x1024.webp" }
+    ],
+    "productImageAlt": "Una scatola verde con la scritta \"Bonitto\" contiene due siringhe in posizione verticale accanto ad essa. Il testo \"DRINxHA\" è visibile sulla scatola."
+  },
+  "giha": {
+    "title": "GiHa",
+    "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml",
+    "description": "Il kit include una siringa di acido ialuronico e una siringa contenente vitamina C, vitamina PP e PDRN. Questi ingredienti offrono potenti effetti illuminanti e schiarenti con benefici antiossidanti per la pelle. L'acido ialuronico sonificato, con i suoi pesi molecolari basso, medio e alto, offre molteplici benefici, tra cui la stimolazione e l'aumento dell'elasticità. La vitamina C offre proprietà antiossidanti e anti-età, aiutando a illuminare e uniformare l'incarnato. La vitamina PP è una vitamina potente che rafforza la barriera cutanea, favorisce l'idratazione e aiuta a normalizzare la pelle. Il PDRN supporta la riparazione e la rigenerazione dei tessuti. Questo prodotto può essere applicato immediatamente dopo il trattamento per ottenere un forte effetto illuminante.",
+    "technicalInfo": [
+      { "label": "Ingredienti principali", "value": "Sodium Hyaluronate, 3-O-ethyl Ascorbic Acid, Niacinamide, Sodium DNA" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "vitalha", "title": "VitalHa", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/VITAL-HA-796x1024.webp" },
+      { "slug": "hadefined", "title": "HaDefined", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/HADEFINED-796x1024.webp" },
+      { "slug": "drinxha", "title": "DrinxHa", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/DRINX-HA-796x1024.webp" }
+    ],
+    "productImageAlt": "Una scatola verde acqua con la scritta \"BONITTO\" e \"GiHA\" sotto. Due siringhe piene di liquido trasparente sono davanti alla scatola. La confezione menziona gli ingredienti: Snakebee, Acido Ialuronico, Vitamina C, Vitamina P1, FGFN."
+  },
+  "hadefined": {
+    "title": "HaDefined",
+    "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml",
+    "description": "Il kit include una siringa di acido ialuronico e un'altra contenente peptidi, vitamine del gruppo B, acido gamma-aminobutirrico (GABA) e PDRN. Questi ingredienti offrono forti benefici anti-età supportando al contempo la riparazione e l'idratazione della pelle. L'uso di acido ialuronico sonificato, con pesi molecolari basso, medio e alto, offre molteplici effetti, come l'idratazione profonda e una maggiore elasticità. Le vitamine del gruppo B sono essenziali per una pelle sana e resiliente, promuovendo la ritenzione idrica e la riparazione dei tessuti danneggiati. Il GABA aiuta a ridurre l'aspetto delle rughe e a distendere le linee sottili, mentre il PDRN supporta la rigenerazione dei tessuti. Questo prodotto può essere applicato dopo trattamenti estetici per favorire il recupero della pelle o utilizzato in modo indipendente per il ringiovanimento cutaneo.",
+    "technicalInfo": [
+      { "label": "Ingredienti principali", "value": "Sodium Hyaluronate, Calcium Pantothenate, Tocopherol, Thiamine HCL, Glycine, Glutathione, Aminobutyric acid, Sodium DNA, Arginine HCL, Leucine, Methionine, Phenylalanine, Serine, Lysine Hydrochloride, Glutamic acid, Riboflavin, Alanine, Histidine HCL, Valine, Proline, Pentapeptide-18, Acetyl Hexapeptide-8, Isoleucine, Aspartic Acid, Threonine, Tyrosine, Pyridoxine HCL, Tryptophan" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "drinxha", "title": "DrinxHa", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/DRINX-HA-796x1024.webp" },
+      { "slug": "giha", "title": "GiHa", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/GIHA-796x1024.webp" },
+      { "slug": "vitalha", "title": "VitalHa", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/VITAL-HA-796x1024.webp" }
+    ],
+    "productImageAlt": "Miscela di acido ialuronico e peptidi, vitamine del gruppo B, GABA e PDRN per benefici anti-età dopo trattamenti estetici"
+  },
+  "vitalha": {
+    "title": "VitalHa",
+    "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml",
+    "description": "Il kit include una siringa di acido ialuronico e una siringa contenente perfluorodecalina, pantenolo, bisabololo e glicogeno. Questi componenti offrono benefici di recupero e idratazione, favorendo la riparazione del rossore post-trattamento e fornendo effetti lenitivi e calmanti. L'acido ialuronico sonificato offre un'azione levigante e rivitalizzante. La perfluorodecalina è nota per la sua capacità di dissolvere fino al 49% del proprio volume in ossigeno, aumentando i livelli di ossigeno e favorendo una più rapida guarigione delle ferite. Il bisabololo aiuta a idratare la pelle e ad alleviare bruciore e prurito, mentre il pantenolo fornisce un'idratazione significativa e lenisce il rossore. Questo prodotto è adatto all'uso immediatamente dopo il trattamento per contrastare il rossore cutaneo e fornire un'idratazione intensa.",
+    "technicalInfo": [
+      { "label": "Ingredienti principali", "value": "Sodium Hyaluronate, Perfluorodecalin, Bisabolol, Glycyrrhetinic Acid, Glycogen, Panthenol, Sodium Carboxymethyl Betaglucan" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "hadefined", "title": "HaDefined", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/HADEFINED-796x1024.webp" },
+      { "slug": "drinxha", "title": "DrinxHa", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/DRINX-HA-796x1024.webp" },
+      { "slug": "giha", "title": "GiHa", "category": "1 Siringa di Acido Ialuronico da 1,5 ml - 1 Siringa di Concentrato da 0,5 ml", "image": "/images/products/GIHA-796x1024.webp" }
+    ],
+    "productImageAlt": "Una confezione di prodotto Bonitto verde con la scritta \"Vitalha\" e due siringhe poste davanti, contenenti una sostanza trasparente. La confezione include testo sull'acido ialuronico e altri ingredienti."
+  },
+  "bonitto-celeste-forte-pl": {
+    "title": "Bonitto Celestè Forte PL",
+    "category": "Flaconcini sterili",
+    "description": "La formula di Bonitto Celestè Forte PL combina PLLA, CaHa, Collagene di tipo III e Doppio HA per offrire un potente effetto stimolante del collagene a più livelli. Il PLLA agisce come biostimolatore che attiva gradualmente i fibroblasti, incoraggiando la produzione di collagene a lungo termine per un naturale rassodamento della pelle e il ripristino del volume. Il CaHa fornisce un supporto strutturale immediato stimolando al contempo il collagene e migliorando compattezza e definizione della pelle. Il Collagene di tipo III supporta la riparazione cutanea nelle fasi iniziali. È uno dei primi collageni prodotti durante la guarigione dei tessuti, quindi svolge un ruolo nella rigenerazione e nel rinnovamento della pelle. Il Doppio HA offre idratazione immediata e una leggera azione volumizzante, migliorando levigatezza ed elasticità della pelle fin dal primo trattamento.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "PLLA (Poly-L-lactic Acid), CaHa (Calcium Hydroxyapatite), Collagen type III, and Dual Hyaluronic Acid (HA)" },
+      { "label": "Volume", "value": "3x5ml" }
+    ],
+    "effects": [
+      "L'idratazione ammorbidisce",
+      "La definizione modella",
+      "L'elasticità affina",
+      "La compattezza stabilizza"
+    ],
+    "mainTarget": "Stimolazione del collagene",
+    "related": [],
+    "productImageAlt": "Una scatola verde acqua e bianca con la scritta \"BONITTO CELESTE FORTE PL\" con un piccolo flaconcino accanto. La confezione indica che il prodotto è per viso e corpo e contiene tre flaconcini da 5 mL."
+  },
+  "bonitto-celeste-pl": {
+    "title": "Bonitto Celestè PL",
+    "category": "Flaconcini sterili",
+    "description": "Bonitto Celestè PL è una formulazione liquida pronta all'uso che combina Acido Ialuronico e Acido Polilattico. È progettata per idratare in profondità la pelle, ripristinare il volume perso e stimolare la rigenerazione cellulare attivando i fibroblasti. La formula offre un effetto volumizzante immediato contribuendo a migliorare la qualità complessiva della pelle. Questa soluzione a doppia azione affronta efficacemente le comuni problematiche cutanee come rughe e perdita di volume. Oltre a levigare e volumizzare, supporta e potenzia i naturali processi rigenerativi della pelle, promuovendo una nuova attività cellulare e un ringiovanimento a più lungo termine.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "PLLA, Stabilized Sodium Hyaluronate Matrix" },
+      { "label": "Volume", "value": "2x10ml" }
+    ],
+    "effects": [
+      "Consistenza omogenea",
+      "Distribuzione liscia e uniforme",
+      "Performance prevedibile e raffinata",
+      "Stabilità di precisione elegante",
+      "L'equilibrio nella formulazione crea equilibrio nell'aspetto"
+    ],
+    "mainTarget": "Stimolazione del collagene",
+    "related": [],
+    "productImageAlt": "Una scatola turchese e verde acqua con la scritta \"BONITTO CELESTE PL\" con l'immagine di due flaconcini e il testo \"Vials 2x10 mL.\" Un piccolo flaconcino coordinato è posto davanti alla scatola."
+  },
+  "bonitto-celeste-ultra-pn": {
+    "title": "Bonitto Celestè Ultra PN",
+    "category": "Flaconcini sterili",
+    "description": "La formula di Bonitto Celestè Ultra PN combina PLLA, CaHa, Collagene di tipo III, Arginina, Hexapeptide-40, Sh-Polypeptide-76 e Doppio HA per offrire un potente effetto stimolante del collagene a più livelli. Il PLLA agisce come biostimolatore che attiva gradualmente i fibroblasti, incoraggiando la produzione di collagene a lungo termine per un naturale rassodamento della pelle e il ripristino del volume. Il CaHa fornisce un supporto strutturale immediato stimolando al contempo il collagene e migliorando compattezza e definizione della pelle. L'Arginina aiuta a migliorare la circolazione cutanea, a stimolare la produzione di collagene e a favorire la riparazione, per una pelle più compatta, sana e luminosa. L'Hexapeptide-40 aiuta a stimolare il collagene, a migliorare la texture della pelle e a favorire la rigenerazione per una pelle più liscia, compatta e dall'aspetto più giovane. Lo Sh-Polypeptide-76 supporta la rigenerazione cutanea, stimola il collagene e migliora la texture per una pelle più compatta, liscia e luminosa. Il Collagene di tipo III supporta la riparazione cutanea nelle fasi iniziali. È uno dei primi collageni prodotti durante la guarigione dei tessuti, quindi svolge un ruolo nella rigenerazione e nel rinnovamento della pelle. Il Doppio HA offre idratazione immediata e una leggera azione volumizzante, migliorando levigatezza ed elasticità della pelle fin dal primo trattamento.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "PLLA (Poly-L-lactic Acid), CaHa (Calcium Hydroxyapatite), Collagen type III, Arginine, Hexapeptide-40 , sh-Polypeptide-76 ,and Dual Hyaluronic Acid (HA)" },
+      { "label": "Volume", "value": "3x5ml" }
+    ],
+    "effects": [
+      "Stimolazione profonda del collagene",
+      "Risultati anti-età di lunga durata",
+      "Idratazione e luminosità potenziate",
+      "Compattezza e lifting migliorati"
+    ],
+    "mainTarget": "Stimolazione del collagene",
+    "related": [],
+    "productImageAlt": "Una scatola Bonitto Celeste Ultra PN verde acqua e verde con testo bianco, con un piccolo flaconcino etichettato \"Bonitto\" davanti. La confezione riporta \"Face & Body\" e contiene 3 flaconcini da 5 mL ciascuno."
+  }
+}

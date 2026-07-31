@@ -1,0 +1,595 @@
+{
+  "age": {
+    "title": "AGE+",
+    "category": "Viales estériles",
+    "description": "AGE+ es una solución cosmética estéril diseñada para rejuvenecer y revitalizar la piel reduciendo los signos del envejecimiento. Ayuda a minimizar las líneas finas y las arrugas, mejora la suavidad de la piel y previene un mayor envejecimiento gracias a su exclusiva combinación de ingredientes activos. Al aportar nutrientes esenciales e hidratación profunda, favorece la salud general de la piel, garantizando una apariencia joven y radiante.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Reducción de líneas finas y arrugas",
+      "Mejora de la textura de la piel",
+      "Mayor hidratación",
+      "Revitalización",
+      "Prevención de futuros signos de envejecimiento"
+    ],
+    "mainTarget": "Antiedad",
+    "related": [
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "Viales estériles" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "Viales estériles" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Imagen de producto que muestra un pequeño vial etiquetado como \"Bonitto Age+\" junto a una caja a juego con degradado turquesa y la misma etiqueta. El diseño es elegante y minimalista, con el texto \"A drop of brilliance\" visible en la parte superior de la caja."
+  },
+  "btx": {
+    "title": "BTX+",
+    "category": "Viales estériles",
+    "description": "BTX+ es una solución cosmética estéril diseñada para ayudar a prevenir y reducir los signos visibles del envejecimiento, dirigida específicamente a las arrugas de expresión. El DMAE es conocido por sus efectos reafirmantes sobre la piel. Actúa estabilizando las membranas celulares y mejorando el tono muscular, lo que conduce a una apariencia de la piel más firme y elevada.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Acetyl Hexapeptide-8 (Argireline), Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Reduce las arrugas",
+      "Suaviza las líneas finas",
+      "Mejora la textura de la piel",
+      "Potencia una apariencia juvenil"
+    ],
+    "mainTarget": "Lifting",
+    "related": [
+      { "slug": "btx-2-0", "title": "BTX 2.0", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Imagen de un producto Bonitto BTX+ sobre un fondo blanco. El conjunto incluye un pequeño vial y una caja, ambos con un degradado en tonos azules y verdes, con el nombre de la marca \"Bonitto\" y la etiqueta del producto \"BTX+\" visibles."
+  },
+  "btx-2-0": {
+    "title": "BTX 2.0",
+    "category": "Viales estériles",
+    "description": "BTX 2.0 es una solución cosmética estéril indicada para la reducción de los signos del envejecimiento, incluida la prevención de arrugas y otros problemas cutáneos relacionados con la edad. Esta solución cosmética estéril contiene un potente complejo anti-edad que ofrece un enfoque integral para reducir las arrugas, potenciar la producción de colágeno y mejorar la hidratación de la piel, dando como resultado una piel más suave, firme y de aspecto más joven.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Hydroxyproline, Acetyl Octapeptide-3, Pentapeptide-18, Proline, Glycine, Succinic Acid" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Reducción de arrugas",
+      "Prevención del envejecimiento",
+      "Hidratación",
+      "Firmeza y tensado de la piel",
+      "Mejora de la textura de la piel",
+      "Apoyo a la reparación natural de la piel"
+    ],
+    "mainTarget": "Lifting",
+    "related": [
+      { "slug": "btx", "title": "BTX+", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Imagen de producto que muestra una caja turquesa y blanca etiquetada como \"BONITTO BTX 2.0\" junto a un pequeño vial con líquido, también etiquetado como \"BONITTO BTX 2.0\". El vial y la caja están sobre un fondo blanco."
+  },
+  "collagen-ultra": {
+    "title": "COLLAGEN ULTRA",
+    "category": "Viales estériles",
+    "description": "COLLAGEN ULTRA es una solución cosmética estéril diseñada para la regeneración cutánea, que actúa de forma eficaz contra los signos del envejecimiento y el daño de la piel. El colágeno es una proteína estructural clave que mantiene la firmeza y la elasticidad de la piel. Con la edad, la producción natural de colágeno disminuye, lo que provoca arrugas, flacidez y pérdida del tono cutáneo. El colágeno presente en esta fórmula estimula la síntesis natural de colágeno, restaurando la elasticidad y la suavidad de la piel.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Hydrolyzed Collagen, Gleditsia Triacanthos Seed Extract, Glycerin, Sodium Hyaluronate" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Reduce las arrugas",
+      "Minimiza las estrías",
+      "Mejora la textura de la piel"
+    ],
+    "mainTarget": "Antiedad",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "Viales estériles" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "Viales estériles" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Se muestra el envase de Bonitto Collagen Ultra. La caja es principalmente turquesa con un degradado y texto en blanco. Un pequeño vial con un diseño similar se encuentra a la izquierda, parcialmente visible junto a la caja."
+  },
+  "cor-control": {
+    "title": "COR CONTROL",
+    "category": "Viales estériles",
+    "description": "COR CONTROL es una solución cosmética estéril diseñada para calmar la piel irritada y propensa al enrojecimiento. El extracto de Cordyceps Sinensis ofrece una serie de beneficios, incluida la protección antioxidante, efectos antiinflamatorios, rejuvenecimiento cutáneo, hidratación, propiedades antienvejecimiento y mejora del tono de la piel. Ideal para pieles sensibles, favorece una tez equilibrada, calmada y resistente con su uso regular.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Cordyceps Sinensis Extract, Trametes Versicolor Extract, Butylene Glycol, Epilobium Angustifolium Flower/Leaf/Stem Extract, Propylene Glycol, Calendula Officinalis Flower Extract, Allantoin" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Reducción del enrojecimiento",
+      "Mayor hidratación",
+      "Efecto calmante y suavizante",
+      "Protección de la piel",
+      "Restauración de la barrera cutánea"
+    ],
+    "mainTarget": "Calmante – Acné",
+    "related": [
+      { "slug": "gold-stem", "title": "GOLD STEM", "category": "Viales estériles" },
+      { "slug": "mst-redox", "title": "MST REDOX", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Caja y vial de \"Bonitto Cor Control\". La caja tiene un degradado verde con texto blanco, y el vial lleva una etiqueta a juego. El producto es de 5x5 ml, lo que indica un conjunto de pequeños recipientes de líquido."
+  },
+  "dna-booster": {
+    "title": "DNA BOOSTER",
+    "category": "Viales estériles",
+    "description": "DNA BOOSTER es una solución cosmética estéril indicada para la revitalización de la piel y la mejora de la densidad cutánea. Está diseñado para favorecer los procesos naturales de revitalización de la piel, lo que se traduce en una apariencia más sana y juvenil. El ARN hidrolizado aporta nucleótidos y ácidos nucleicos esenciales que favorecen la reparación y la regeneración celular. Ayuda a mejorar la función celular y a estimular el rejuvenecimiento de la piel.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Propylene Glycol, Hydrolyzed RNA, Hydrolyzed DNA, Carnosine, Glutathione" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Mayor firmeza de la piel",
+      "Hidratación profunda",
+      "Revitalización y luminosidad",
+      "Reducción de arrugas",
+      "Protección antioxidante",
+      "Mejora del tono y la textura de la piel"
+    ],
+    "mainTarget": "Booster de hidratación de la piel",
+    "related": [
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "Viales estériles" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "Viales estériles" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "La imagen muestra una pequeña botella etiquetada como \"Bonitto DNA Booster\" junto a su caja de envase turquesa y blanca. La caja presenta la misma marca y el nombre del producto en una tipografía moderna."
+  },
+  "exogenix": {
+    "title": "EXOGENIX",
+    "category": "Viales estériles",
+    "description": "EXOGENIX es una solución cosmética estéril que potencia la regeneración cutánea, mejora la elasticidad y reduce las líneas finas. Los exosomas se están consolidando como un potente ingrediente en los productos de cuidado de la piel gracias a sus propiedades regenerativas y reparadoras.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Acetyl Hexapeptide-8, Nippon Koreana Citrus Reticulata Exosomes, Acetyl Decapeptide-3, Pentapeptide-18, Glycerin, 1,2-Hexanediol, Thiamine HCL, Riboflavin, Panthenol, Tocopherol" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Estimula la producción de colágeno",
+      "Promueve la regeneración de la piel",
+      "Protección antioxidante",
+      "Efecto iluminador",
+      "Favorece la reparación de la piel"
+    ],
+    "mainTarget": "Antiedad",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "Viales estériles" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "Viales estériles" },
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "BONITTO® EXOGENIX - sérum anti-edad con exosomas para la regeneración de la piel y la reducción de líneas finas"
+  },
+  "ey": {
+    "title": "EY+",
+    "category": "Viales estériles",
+    "description": "EY+ es una solución cosmética estéril formulada específicamente para revitalizar y tratar los signos del envejecimiento alrededor de los ojos. Esta fórmula ilumina la zona infraorbitaria, reduce las ojeras y la hiperpigmentación, y mantiene la piel alrededor de los ojos suave y tersa.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Proline, Serine, Glycine, Niacinamide, Glutathione, Sodium Hyaluronate" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Reduce las arrugas",
+      "Mejora la textura de la piel",
+      "Ilumina la apariencia",
+      "Hidrata y rellena"
+    ],
+    "mainTarget": "Ojos",
+    "related": [
+      { "slug": "radiance-pro", "title": "RADIANCE PRO", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "BONITTO® EY+ viales de solución estéril que aportan resultados similares a un relleno infraorbitario para una piel más luminosa, tersa y suave",
+    "campaignImageAlt": "Una persona con el cabello rizado posa con las manos enmarcando el rostro. Lleva una línea diagonal turquesa pintada sobre un ojo y descendiendo por el centro del rostro, complementada con una sombra de ojos a juego. Su expresión es serena y segura."
+  },
+  "gold-stem": {
+    "title": "GOLD STEM",
+    "category": "Viales estériles",
+    "description": "GOLD STEM es una solución cosmética estéril diseñada para favorecer y potenciar la regeneración cutánea. Conocido también como un péptido similar al bótox, el acetil octapéptido-3 (a menudo denominado SNAP-8) actúa inhibiendo la liberación de neurotransmisores que provocan la contracción muscular, lo que se traduce en una reducción de las líneas de expresión y las arrugas.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Pentylene Glycol, Sodium Benzoate, Potassium Sorbate, Quercus Robur Root Extract Staminal Cells, Acetyl Decapeptide-3, Acetyl Octapeptide-3, Caprylyl Glycol" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Regeneración de la piel",
+      "Mejora de la textura cutánea",
+      "Reducción de líneas finas y arrugas",
+      "Mayor hidratación",
+      "Aumento de la elasticidad de la piel",
+      "Rejuvenecimiento general de la piel"
+    ],
+    "mainTarget": "Reparador – Acné",
+    "related": [
+      { "slug": "cor-control", "title": "COR CONTROL", "category": "Viales estériles" },
+      { "slug": "mst-redox", "title": "MST REDOX", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Imagen de un producto Bonitto Gold Stem. Un pequeño vial se alza junto a su caja, que es de color azul y verde con texto blanco."
+  },
+  "ha-booster-aa15": {
+    "title": "HA+ BOOSTER & AA15",
+    "category": "Viales estériles",
+    "description": "HA+ BOOSTER & AA15 es una solución cosmética estéril destinada a mejorar la firmeza y la elasticidad de la piel. Los aminoácidos incluidos en esta formulación favorecen una piel más joven, hidratada y firme, mejorando la calidad del tejido y previniendo los signos del envejecimiento.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Thiamine HCL (Vitamin B1), Pyridoxinde HCL (Vitamin B6), Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Hidratación profunda",
+      "Mayor firmeza",
+      "Mejor elasticidad"
+    ],
+    "mainTarget": "Booster de hidratación de la piel",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "Viales estériles" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "Viales estériles" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "BONITTO® HA+ BOOSTER & AA15: viales de solución que aportan una hidratación, firmeza y elasticidad similares a un relleno cutáneo.",
+    "campaignImageAlt": "Primer plano del lado izquierdo del rostro de una persona, con líneas curvas de color azul claro dibujadas sobre la mejilla. Las líneas van desde debajo del ojo, curvándose hacia afuera y hacia abajo en dirección a la línea mandibular, indicando las zonas para un posible tratamiento cosmético. El fondo es de un gris pálido."
+  },
+  "hairscalp": {
+    "title": "HAIRSCALP",
+    "category": "Viales estériles",
+    "description": "HAIRSCALP es una solución cosmética estéril que favorece la revitalización del cabello y del cuero cabelludo gracias a las propiedades beneficiosas de sus ingredientes. Los exosomas contienen factores de crecimiento y moléculas de señalización que estimulan la actividad y la regeneración de los folículos pilosos. Ayudan a activar los folículos pilosos inactivos y a promover el crecimiento de nuevo cabello.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Copper Tripeptide-1, Citrus Reticulata Fruit Exosomes, 3-O-Ethyl Ascorbic Acid" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Promueve el crecimiento de nuevo cabello",
+      "Mejora la salud del cuero cabelludo",
+      "Fortalece el cabello",
+      "Protección antioxidante",
+      "Hidrata y nutre",
+      "Reduce el adelgazamiento del cabello"
+    ],
+    "mainTarget": "Cabello",
+    "related": [
+      { "slug": "hair-ultra", "title": "HAIR ULTRA", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "La imagen muestra una caja y un vial etiquetados como \"BONITTO HAIRSCALP\". La caja es turquesa con texto blanco y un diseño de degradado. El pequeño vial está colocado delante de la caja, a juego con su color y marca.",
+    "campaignImageAlt": "Un hombre de pelo corto y barba mira a la cámara con expresión pensativa, apoyando la barbilla en la mano. La iluminación proyecta una ligera sombra sobre su rostro, resaltando sus rasgos sobre un fondo neutro."
+  },
+  "hair-ultra": {
+    "title": "HAIR ULTRA",
+    "category": "Viales estériles",
+    "description": "HAIR ULTRA es una solución cosmética estéril diseñada para la revitalización del cabello y del cuero cabelludo. Su fórmula contiene una combinación de péptidos, ácido hialurónico y extractos naturales que trabajan en conjunto para nutrir y fortalecer el cabello, favoreciendo un crecimiento más sano y una mejor condición del cuero cabelludo.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Lecithin, Sh-Oligopeptide-10, Sh-Oligopeptide-2, Sh-Polypeptide-1, Sh-Polypeptide-9, Sh-Polypeptide-11, Sodium Hyaluronate, Octapeptide-2, Sh-Oligopeptide-4, Arginine, Glycerin" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Revitalización",
+      "Fortalecimiento",
+      "Hidratación",
+      "Mejora de la salud del cuero cabelludo",
+      "Reducción de la caída del cabello"
+    ],
+    "mainTarget": "Cabello",
+    "related": [
+      { "slug": "hairscalp", "title": "HAIRSCALP", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Una caja turquesa etiquetada como \"Bonitto Hair Ultra\" permanece en posición vertical, con un pequeño vial a su lado. El envase presenta un diseño de degradado, que va de tonos claros a oscuros.",
+    "campaignImageAlt": "Una mujer con el cabello largo y rubio, acentuado con mechones de color verde claro, posa con expresión serena, los ojos cerrados y una ligera sonrisa. El perfil lateral resalta su piel suave y su cabello ondulado y sedoso sobre un fondo neutro."
+  },
+  "hyavital-hl": {
+    "title": "HYAVITAL H+L",
+    "category": "Viales estériles",
+    "description": "HYAVITAL H+L es una solución cosmética estéril diseñada para la hidratación profunda de la piel. Contiene una combinación de hialuronato de sodio y aminoácidos que desempeñan un papel crucial en los productos de solución cosmética, ya que ayudan a mejorar la calidad de la piel, favorecen la regeneración celular y potencian la síntesis de colágeno y elastina.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Hidratación profunda",
+      "Mejora de la elasticidad de la piel",
+      "Textura más suave",
+      "Tez revitalizada",
+      "Beneficios antienvejecimiento"
+    ],
+    "mainTarget": "Booster de hidratación de la piel",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "Viales estériles" },
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "Viales estériles" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Imagen de producto que muestra una caja verde y blanca etiquetada como \"BONITTO HYAVITAL H+L\" junto a un pequeño vial con una etiqueta similar. El vial está colocado delante de la caja."
+  },
+  "lipo": {
+    "title": "LIPO+",
+    "category": "Viales estériles",
+    "description": "LIPO+ es una solución cosmética estéril diseñada para mejorar los contornos y la firmeza corporales. La carnitina, la cafeína y el desoxicolato de sodio actúan de forma sinérgica para descomponer y metabolizar la grasa, ayudando a reducir los depósitos de grasa localizada y a mejorar los contornos del cuerpo.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Carnitine, Caffeine, Palmaria Palmata Extract, Propanediol, Sodium Deoxycholate" },
+      { "label": "Volumen", "value": "Viales 5 x 10 ml" }
+    ],
+    "effects": [
+      "Reducción de perímetros corporales",
+      "Mejora de los contornos corporales",
+      "Mayor firmeza de la piel"
+    ],
+    "mainTarget": "Grasa localizada",
+    "related": [
+      { "slug": "pro-cells", "title": "PRO CELLS", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "BONITTO LIPO+ viales estériles de relleno corporal",
+    "campaignImageAlt": "BONITTO® LIPO+ relleno corporal, una solución para mejorar los contornos y la firmeza del cuerpo"
+  },
+  "lips-on": {
+    "title": "LIPS ON",
+    "category": "Viales estériles",
+    "description": "LIPS ON es una solución cosmética estéril diseñada para rejuvenecer y realzar los labios. Suaviza la textura, mejora la hidratación y aumenta la suavidad, a la vez que realza el color y el volumen. Esta solución proporciona hidratación natural y está indicada para su aplicación tópica con el fin de conseguir unos labios más voluminosos y de aspecto más joven.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Ascorbate, Troxerutin, Sodium Hyaluronate, Pseudoalteromonas Ferment Extract, Salicylic Acid, Citric Acid, Sodium Salicylate" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Rejuvenecimiento",
+      "Suavizado de la textura",
+      "Mejor hidratación",
+      "Realce del color",
+      "Mayor volumen",
+      "Hidratación natural"
+    ],
+    "mainTarget": "Labios",
+    "related": [],
+    "productImageAlt": "Una caja etiquetada como \"Bonitto Lips On\" con un pequeño vial a su lado. El envase es turquesa y blanco con elementos de diseño minimalista.",
+    "campaignImageAlt": "Primer plano de una persona con mechones ondulados de cabello enmarcando el rostro. Lleva un maquillaje natural con un toque de sombra de ojos verde y un leve tinte verdoso en el labio superior. Una mano con las uñas cuidadas toca suavemente su mejilla, y su mirada se dirige pensativamente hacia un lado."
+  },
+  "mevita-15-ha": {
+    "title": "MEVITA 15 + HA",
+    "category": "Viales estériles",
+    "description": "MEVITA 15+HA es una solución cosmética estéril formulada para la hidratación y nutrición intensivas de la piel. Contiene un complejo de vitaminas diseñado para proporcionar un rejuvenecimiento cutáneo integral, abordando múltiples preocupaciones como el envejecimiento, la hidratación, la pigmentación y la textura de la piel, a la vez que ofrece una potente protección antioxidante y una mayor vitalidad cutánea.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Panthenol (Vitamin B5), Folic Acid, Biotin, Inositol, Pyridoxinde HCl, Riboflavin, Thiamine HCL, 3-O-Ethyl Ascorbic Acid, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Mayor hidratación de la piel",
+      "Mejora de la textura y el tono de la piel",
+      "Nutrición y reparación",
+      "Aumento de la producción de colágeno",
+      "Protección antioxidante"
+    ],
+    "mainTarget": "Booster de hidratación de la piel",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "Viales estériles" },
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "Viales estériles" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Se muestra una caja turquesa y blanca etiquetada como \"Bonitto MEVITA 15+HA\", con un pequeño vial a la izquierda que presenta una marca similar. La caja contiene viales diseñados para el cuidado de la piel o uso médico."
+  },
+  "mst-redox": {
+    "title": "MST REDOX",
+    "category": "Viales estériles",
+    "description": "MST REDOX es una solución cosmética estéril diseñada para favorecer la regeneración cutánea mediante una hidratación intensa y protección antioxidante. Los meristemas son células madre de origen vegetal que favorecen la regeneración celular. Aceleran los procesos de reparación y curación de la piel, lo que los hace eficaces para tratar daños e hiperpigmentación postinflamatoria.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Quercus Robur Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Paeonia Lactiflora Root Extract, Allantoin" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Mayor regeneración de la piel",
+      "Hidratación profunda",
+      "Protección antioxidante",
+      "Alivio calmante"
+    ],
+    "mainTarget": "Anti-enrojecimiento – Acné",
+    "related": [
+      { "slug": "gold-stem", "title": "GOLD STEM", "category": "Viales estériles" },
+      { "slug": "cor-control", "title": "COR CONTROL", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Imagen de producto que muestra una botella y una caja etiquetadas como \"MST REDOX\" de Bonitto. La caja tiene un diseño de degradado en turquesa y blanco, y la botella es pequeña, parcialmente visible y colocada delante de la caja.",
+    "campaignImageAlt": "Primer plano de una persona con el vello facial bien cuidado y rasgos definidos, mirando pensativamente hacia un lado. Una mano toca suavemente su cuello, que lleva una fina banda elástica de color turquesa. El fondo aparece suavemente desenfocado."
+  },
+  "ox": {
+    "title": "OX+",
+    "category": "Viales estériles",
+    "description": "OX+ es una solución cosmética estéril diseñada para la hidratación y revitalización de la piel, adecuada para su uso en rostro, cuello, escote, manos, abdomen y estrías. Contiene un complejo de ingredientes activos que potencian la producción de energía celular, revitalizando las células cutáneas y mejorando la vitalidad general de la piel.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Niacinamide (Vitamin B3), 3-O-Ethyl Ascorbic Acid (Vitamin C), Panthenol (Vitamin B5), Glycyrrhiza Glabra (Licorice) Root Extract" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Mayor hidratación de la piel",
+      "Revitalización de la piel",
+      "Rejuvenecimiento para una apariencia juvenil",
+      "Mejora de la elasticidad de la piel",
+      "Reducción de líneas finas",
+      "Mejora del aspecto de las estrías"
+    ],
+    "mainTarget": "Revitalizante",
+    "related": [
+      { "slug": "ox-ultra", "title": "OX ULTRA", "category": "Viales estériles" },
+      { "slug": "power-oxy", "title": "POWER OXY", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Caja y vial del sérum Bonitto OX+. La caja es turquesa con un degradado blanco en la parte superior. El pequeño vial de vidrio que está a su lado tiene una tapa plateada y hace juego con el diseño de la caja. El texto de la caja y del vial indica \"OX+\" y \"5x5 ml\".",
+    "campaignImageAlt": "Primer plano del rostro de una persona que muestra un maquillaje creativo: líneas turquesa que recorren las cejas, descienden por la nariz y se extienden a lo largo de los ojos. La piel tiene un acabado luminoso, con un delineado negro preciso y labios rosas suaves. El fondo es de un gris neutro."
+  },
+  "ox-ultra": {
+    "title": "OX ULTRA",
+    "category": "Viales estériles",
+    "description": "OX ULTRA es una solución cosmética estéril diseñada para favorecer la regeneración de la piel y realzar el tono natural de la piel. Contiene una combinación de ingredientes activos, incluidos el hialuronato de sodio y el acetil decapéptido-3, que ayudan a mejorar la textura y la hidratación de la piel.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Acetyl Decapeptide-3, Hydroxyproline" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Mejora la hidratación de la piel",
+      "Potencia la regeneración de la piel",
+      "Unifica el tono de la piel",
+      "Favorece la producción de colágeno",
+      "Reduce los signos del envejecimiento",
+      "Revitaliza la piel"
+    ],
+    "mainTarget": "Revitalizante",
+    "related": [
+      { "slug": "ox", "title": "OX+", "category": "Viales estériles" },
+      { "slug": "power-oxy", "title": "POWER OXY", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Imagen de producto que muestra un envase de Bonitto OX Ultra junto a un pequeño vial. El envase es blanco y turquesa, con el texto \"A Story of Elegance\" bajo el nombre de la marca. El vial es transparente, con una etiqueta a juego y una tapa oscura."
+  },
+  "peel-4-0": {
+    "title": "PEEL 4.0",
+    "category": "Viales estériles",
+    "description": "PEEL 4.0 es una solución cosmética estéril diseñada para exfoliar y revitalizar la piel. Es adecuada para su uso en rostro, cuello, escote y manos. Esta solución tiene como objetivo mejorar la textura de la piel, potenciar la luminosidad y tratar los signos del envejecimiento y las imperfecciones.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Lactic Acid (40%)" },
+      { "label": "Volumen", "value": "Viales 5 x 10 ml" }
+    ],
+    "effects": [
+      "Mayor luminosidad de la piel",
+      "Textura de la piel más suave",
+      "Reducción de los signos del envejecimiento",
+      "Mejora de la firmeza de la piel",
+      "Atenuación de las imperfecciones"
+    ],
+    "mainTarget": "Aclarante",
+    "related": [
+      { "slug": "shine-power", "title": "SHINE POWER", "category": "Viales estériles" },
+      { "slug": "whitening", "title": "WHITENING+", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Una caja turquesa y blanca etiquetada como \"Bonitto Peel 4.0\" se encuentra junto a una pequeña botella marrón con una etiqueta a juego. La caja presenta un diseño de degradado y el texto \"A Study of Science\" en la parte superior.",
+    "campaignImageAlt": "Una persona con el cabello largo y castaño y ojos azules tiene una línea turquesa pintada verticalmente por el centro del rostro, creando un contraste llamativo con su piel pecosa. Está mirando directamente a la cámara."
+  },
+  "peel-exo-capture-35": {
+    "title": "PEEL EXO CAPTURE 35",
+    "category": "Viales estériles",
+    "description": "PEEL EXO CAPTURE 35 es una solución cosmética estéril formulada para mejorar el aspecto de la piel al perfeccionar su textura y unificar el tono cutáneo. Gracias a activos como el tricloroacetato de sodio, los AHA y los BHA, esta formulación ayuda a atenuar la pigmentación, elimina las células muertas de la piel y descongestiona los poros.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Trichloroacetate, Lactic Acid, Salicylic Acid, Allantoin, Proline, Lysine HCL, Glycine, Centella Asiatica Leaf Vesicles, Hydrolyzed RNA/ DNA, Pyridoxine HCL, Thiamine HCL." },
+      { "label": "Volumen", "value": "Viales 5x10ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un pequeño vial etiquetado como \"BONITTO PEEL EXO CAPTURE 35\" se encuentra junto a una caja alta y rectangular de color verde y blanco con la misma marca y texto. El envase presenta un diseño moderno con degradado."
+  },
+  "power-oxy": {
+    "title": "POWER OXY",
+    "category": "Viales estériles",
+    "description": "POWER OXY es una solución cosmética estéril formulada para mejorar la salud de la piel favoreciendo su reparación y protegiéndola contra los radicales libres. Gracias a activos como el palmitato de retinilo, la cisteína HCL y el glutatión, esta formulación reduce la apariencia de líneas finas y arrugas con el tiempo.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Sodium Hyaluronate, Taurine, Retinyl Palmitate, Proline, Cysteine HCL, Tocopheryl Acetate, Ribes Nigrum (Black Currant) Bud Extract, Glutathione" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Mejora de la reparación de la piel",
+      "Protección antioxidante",
+      "Mejora de la hidratación de la piel",
+      "Tez más luminosa",
+      "Mayor elasticidad"
+    ],
+    "mainTarget": "Revitalizante",
+    "related": [
+      { "slug": "ox-ultra", "title": "OX ULTRA", "category": "Viales estériles" },
+      { "slug": "ox", "title": "OX+", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Un pequeño vial etiquetado como \"Bonitto Power Oxy\" está colocado junto a una caja más grande con la misma marca. La caja presenta un degradado de verde oscuro a claro, con los textos \"Power Oxy\" y \"Bonitto\" mostrados de forma destacada."
+  },
+  "pro-age": {
+    "title": "PRO AGE",
+    "category": "Viales estériles",
+    "description": "PRO AGE es una solución cosmética estéril y un potente cóctel de vitaminas y antioxidantes que estimula la renovación de los tejidos, ayudando a mantener una tez más suave y resistente.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Pyridoxine HCL (Vitamin B6), Thiamine HCL (Vitamin B1), Sodium Ascorbate (Vitamin C), Panthenol (Pro-Vitamin B5), Riboflavin (Vitamin B2), Tocopheryl Acetate (Vitamin E), Retynil Palmitate (Vitamin A), Niacinamide (Vitamin B3)" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Prevención de arrugas prematuras",
+      "Mejora de la textura de la piel",
+      "Apariencia juvenil"
+    ],
+    "mainTarget": "Antiedad",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "Viales estériles" },
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "Viales estériles" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "La imagen muestra una caja de producto y un pequeño vial. La caja está etiquetada con \"BONITTO\" y \"PRO AGE\" en texto blanco sobre un fondo verde degradado. El vial, colocado junto a la caja, también lleva escrito \"BONITTO PRO AGE\"."
+  },
+  "pro-cells": {
+    "title": "PRO CELLS",
+    "category": "Viales estériles",
+    "description": "PRO CELLS es una solución cosmética estéril diseñada para reducir la apariencia de la celulitis y mejorar el contorno corporal. Activa la descomposición del tejido graso y previene la acumulación de nuevos depósitos de grasa, ayudando a mejorar la firmeza y la suavidad de la piel. Al favorecer la desintoxicación, contribuye a una textura de la piel más uniforme y a una mejor salud cutánea en general.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Caffeine, Carnitine, Ananas Sativus Fruit Extract (Pineapple), Equisetum Arvense Extract (Horsetail), Cynara Scolymus Leaf Extract (Artichoke), Palmaria Palmata Extract" },
+      { "label": "Volumen", "value": "Viales 5 x 10 ml" }
+    ],
+    "effects": [],
+    "mainTarget": "Celulitis",
+    "related": [
+      { "slug": "lipo", "title": "LIPO+", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Una caja etiquetada como \"Bonitto Pro Cells\" con un pequeño vial a su lado. La caja y el vial tienen un diseño de degradado en verde y blanco. El texto de la caja indica \"Vols. 5x10 ml\"."
+  },
+  "radiance-pro": {
+    "title": "RADIANCE PRO",
+    "category": "Viales estériles",
+    "description": "RADIANCE PRO es una solución cosmética estéril diseñada para hidratar y reparar la piel del dorso de las manos. Potencia la hidratación y estimula las funciones reparadoras para mantener la salud de la piel en esta zona.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Acetyl Decapeptide-3, Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate, Proline, Glycine, Arginine HCL, Cysteine HCL, Niacinamide (Vitamin B3)" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Impulso de hidratación",
+      "Reparación de la piel",
+      "Apariencia juvenil",
+      "Barrera protectora",
+      "Mejora de la textura"
+    ],
+    "mainTarget": "Manos",
+    "related": [
+      { "slug": "ey", "title": "EY+", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Imagen de producto de Bonitto Radiance Pro mostrada con una caja de color verde claro y un pequeño vial a su lado. La caja presenta un diseño de degradado con el nombre de la marca y del producto en texto blanco."
+  },
+  "shine-power": {
+    "title": "SHINE POWER",
+    "category": "Viales estériles",
+    "description": "SHINE POWER es una solución cosmética estéril formulada para quienes buscan un enfoque natural para aclarar la piel. Una potente combinación de ingredientes que trabajan en conjunto para reducir la pigmentación, unificar el tono de la piel y potenciar la luminosidad general. La solución está diseñada para atenuar la apariencia de las manchas oscuras y la decoloración, favoreciendo una tez más brillante y uniforme.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Succinic Acid, Ascorbyl Glucoside, Glutathione" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Aclara la piel",
+      "Protección antioxidante",
+      "Suaviza la piel",
+      "Hidratación y efecto calmante",
+      "Beneficios antienvejecimiento"
+    ],
+    "mainTarget": "Aclarante",
+    "related": [
+      { "slug": "peel-4-0", "title": "PEEL 4.0", "category": "Viales estériles" },
+      { "slug": "whitening", "title": "WHITENING+", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Producto Bonitto Shine Power que incluye una caja de color verde menta y blanco con las palabras \"Shine Power\". Un pequeño vial está colocado junto a la caja, con la misma etiqueta. El diseño general es elegante y moderno."
+  },
+  "whitening": {
+    "title": "WHITENING+",
+    "category": "Viales estériles",
+    "description": "WHITENING+ es una solución cosmética estéril diseñada para tratar la decoloración de la piel y potenciar la luminosidad general. El ácido tranexámico es eficaz para tratar la hiperpigmentación y el melasma al inhibir la actividad de la tirosinasa, una enzima implicada en la producción de melanina. Ayuda a aclarar las manchas oscuras y a mejorar el tono general de la piel.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Oligopeptide-34, Glycyrrhiza Glabra (Licorice) Root Extract, Panthenol (Pro-Vitamin B5), Glutathione, Acetyl Glycil Β-Alanine, Tranexamic Acid, Sodium Hyaluronate" },
+      { "label": "Volumen", "value": "Viales 5 x 5 ml" }
+    ],
+    "effects": [
+      "Ilumina el tono de la piel",
+      "Reduce la decoloración",
+      "Restaura el brillo natural",
+      "Mejora la claridad de la piel"
+    ],
+    "mainTarget": "Aclarante",
+    "related": [
+      { "slug": "shine-power", "title": "SHINE POWER", "category": "Viales estériles" },
+      { "slug": "peel-4-0", "title": "PEEL 4.0", "category": "Viales estériles" }
+    ],
+    "productImageAlt": "Una caja de BONITTO Whitening+ junto a una pequeña botella. La caja es turquesa con el nombre de la marca en blanco en la parte superior. El vial está etiquetado como \"BONITTO Whitening+ Master Solution\" y contiene 5x5 ml."
+  },
+  "xnad": {
+    "title": "XNAD+",
+    "category": "Viales estériles",
+    "description": "XNAD+ es una solución cosmética estéril diseñada para revitalizar la piel favoreciendo su renovación y mejorando la elasticidad. Enriquecida con NAD+, aminoácidos y complejos peptídicos, ayuda a reafirmar la piel y a reducir gradualmente la apariencia de las líneas finas para lograr un aspecto más suave y joven.",
+    "technicalInfo": [
+      { "label": "Ingredientes activos", "value": "Trehalose, Acetyl Hexapeptide-1, Arginine, Oligopeptide-4, Disodium NADH, Acetyl sh-Hexapeptide-5 Amide Acetate, Acetyl Hexapeptide-8, Centella Asiatica Leaf Vesicles." },
+      { "label": "Volumen", "value": "5x5ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Se muestran un pequeño vial y una caja turquesa y blanca etiquetada como \"BONITTO XNAD+ Vials 5x5 ml\". La caja tiene un diseño de degradado y el nombre de la marca aparece en la parte superior."
+  }
+}

@@ -90,52 +90,52 @@ export default function Navbar() {
             <CloseIcon />
           </button>
 
-          <div className="pb-20 md:pb-0 md:flex md:flex-col md:justify-center md:h-[calc(100vh-200px)]">
-            <div className="md:flex md:items-end md:gap-16">
-              <div className="mb-8 md:mb-0 md:w-1/2">
-                <h2 className="mb-4 font-semibold uppercase text-4xl md:text-5xl lg:text-7xl md:leading-none"
-                  style={{ fontSize: 'clamp(40px, 5vw, 90px)', lineHeight: 'clamp(40px, 5.5vw, 105px)' }}>
-                  {t('megaMenu.title')}
-                </h2>
-                <ul className="list-none">
-                  {categories?.map((cat) => (
-                    <li key={cat.number} className="flex flex-wrap mb-4 md:mb-8">
-                      <span className="w-8 md:w-12 font-normal">
-                        {cat.number.padStart(2, '0')}.
-                      </span>
-                      <Link
-                      //@ts-ignore
-                        href={`/product-category/${cat.number}`}
-                        className="text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light hover:italic transition-all duration-500"
-                        style={{ width: 'calc(100% - 32px)' }}
-                        onClick={() => setMenuOpen(false)}
-                      >
-                        {cat.label}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
+        <div className="pb-20 md:pb-0 md:flex md:flex-col md:justify-center md:h-[calc(100vh-200px)]">
+  <div className="md:flex md:items-start md:gap-16">
+    <div className="mb-8 md:mb-0 md:w-1/2">
+      <h2 className="mb-4 font-semibold uppercase text-4xl md:text-5xl lg:text-7xl md:leading-none"
+        style={{ fontSize: 'clamp(40px, 5vw, 90px)', lineHeight: 'clamp(40px, 5.5vw, 105px)' }}>
+        {t('megaMenu.title')}
+      </h2>
+      <ul className="list-none">
+        {categories?.map((cat) => (
+          <li key={cat.number} className="flex flex-wrap mb-4 md:mb-8">
+            <span className="w-8 md:w-12 font-normal">
+              {cat.number.padStart(2, '0')}.
+            </span>
+            <Link
+              //@ts-ignore
+              href={`/product-category/${cat.number}`}
+              className="text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light hover:italic transition-all duration-500"
+              style={{ width: 'calc(100% - 32px)' }}
+              onClick={() => setMenuOpen(false)}
+            >
+              {cat.label}
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </div>
 
-              <div className="md:w-1/2 md:text-right">
-                <ul className="list-none">
-                  {mainNav.map(([href, key]) => (
-                    <li key={href} className="mb-2 md:mb-4">
-                      <Link
-                        href={href}
-                        className={`text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light transition-all duration-300 hover:italic ${
-                          pathname === href || pathname.startsWith(`${href}/`) ? 'italic' : ''
-                        }`}
-                        onClick={() => setMenuOpen(false)}
-                      >
-                        {t(key)}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-          </div>
+    <div className="md:w-1/2 md:text-right self-center">
+      <ul className="list-none">
+        {mainNav.map(([href, key]) => (
+          <li key={href} className="mb-2 md:mb-4">
+            <Link
+              href={href}
+              className={`text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light transition-all duration-300 hover:italic ${
+                pathname === href || pathname.startsWith(`${href}/`) ? 'italic' : ''
+              }`}
+              onClick={() => setMenuOpen(false)}
+            >
+              {t(key)}
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+</div>
         </div>
       </nav>
     </>

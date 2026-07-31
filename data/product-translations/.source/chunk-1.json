@@ -1,0 +1,758 @@
+{
+  "count": 16,
+  "products": [
+    {
+      "id": "n-01-bonitto-pro-age-fine",
+      "slug": "n-01-bonitto-pro-age-fine",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/n-01-bonitto-pro-age-fine/",
+      "title": "01 PRO AGE FINE",
+      "category": "Fillers",
+      "description": "BONITTO® 01 PRO AGE FINE is an ultra-plastic gel of cross-linked hyaluronic acid designed for treating shallow wrinkles and moderate skin defects. It is specifically intended for correcting areas such as the glabella, wrinkles around the mouth and eyes, neck, hands, and tear troughs. The gel provides natural volumetric correction by enhancing tissue volume, achieving a refined and rejuvenated appearance.",
+      "cardImage": "/images/products/FILLERS-01-2-745x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/FILLERS-01-2.webp",
+        "mobile": "/images/products/FILLERS-01-2-745x1024.webp",
+        "alt": "BONITTO® 01 PRO AGE FINE: wrinkle filler for smoothing fine lines around the eyes, mouth, and neck areas."
+      },
+      "campaignImage": {
+        "desktop": "/images/products/01ProAge.webp",
+        "mobile": "/images/products/01ProAge-684x1024.webp",
+        "alt": "A woman with light skin and hair pulled back gazes over her shoulder. She has striking turquoise eye makeup that extends beyond her eyes, contouring her brows and eyelids. Her expression is serene against a neutral background."
+      },
+      "technicalInfo": [
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "1 x 1 ml"
+        },
+        {
+          "icon": "/images/products/needle.svg",
+          "label": "Needle",
+          "value": "2 x 30 G"
+        },
+        {
+          "icon": "/images/products/concentration-1.svg",
+          "label": "Concentration",
+          "value": "20 mg/ml"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [
+        {
+          "slug": "n-02-bonitto-lips-plum",
+          "title": "02 LIPS PLUMP",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-02-3-745x1024.webp"
+        },
+        {
+          "slug": "n-03-bonitto-age-solution",
+          "title": "03 AGE SOLUTION",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-03-745x1024.webp"
+        },
+        {
+          "slug": "n-04-bonitto-face-sculpt",
+          "title": "04 FACE SCULPT",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-04-745x1024.webp"
+        },
+        {
+          "slug": "n-05-bonitto-volume",
+          "title": "05 VOLUME",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-SB-05-745x1024.webp"
+        }
+      ],
+      "categorySlug": "01"
+    },
+    {
+      "id": "n-02-bonitto-lips-plum",
+      "slug": "n-02-bonitto-lips-plum",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/n-02-bonitto-lips-plum/",
+      "title": "02 LIPS PLUMP",
+      "category": "Fillers",
+      "description": "BONITTO® 02 LIPS PLUMP is an ultra-smooth gel of cross-linked hyaluronic acid designed to increase the volume of soft tissues and correct medium to deep wrinkles. It is specifically formulated for contouring and volumizing the lips, as well as addressing soft tissue defects around the mouth, puppet lines, and drooping corners.",
+      "cardImage": "/images/products/FILLERS-02-2-745x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/FILLERS-02-2.webp",
+        "mobile": "/images/products/FILLERS-02-2-745x1024.webp",
+        "alt": "BONITTO® 02 LIPS PLUMP: Ultra-smooth hyaluronic acid lip filler for lip volume and wrinkle correction"
+      },
+      "campaignImage": {
+        "desktop": "/images/products/10LipsPlump.webp",
+        "mobile": "/images/products/10LipsPlump-684x1024.webp",
+        "alt": "A close-up of a woman with artistic makeup. She has bold eyebrows, a vertical black line on her nose, turquoise eyeshadow on one eye, and matching turquoise on her upper lip. Her hands gently touch her face, and she has a serene expression."
+      },
+      "technicalInfo": [
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "1 × 1 ml"
+        },
+        {
+          "icon": "/images/products/needle.svg",
+          "label": "Needle",
+          "value": "2 x 27 G"
+        },
+        {
+          "icon": "/images/products/concentration-1.svg",
+          "label": "Concentration",
+          "value": "21 mg/ml"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [
+        {
+          "slug": "n-01-bonitto-pro-age-fine",
+          "title": "01 PRO AGE FINE",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-01-3-745x1024.webp"
+        },
+        {
+          "slug": "n-03-bonitto-age-solution",
+          "title": "03 AGE SOLUTION",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-03-745x1024.webp"
+        },
+        {
+          "slug": "n-04-bonitto-face-sculpt",
+          "title": "04 FACE SCULPT",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-04-745x1024.webp"
+        },
+        {
+          "slug": "n-05-bonitto-volume",
+          "title": "05 VOLUME",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-SB-05-745x1024.webp"
+        }
+      ],
+      "categorySlug": "01"
+    },
+    {
+      "id": "n-03-bonitto-age-solution",
+      "slug": "n-03-bonitto-age-solution",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/n-03-bonitto-age-solution/",
+      "title": "03 AGE SOLUTION",
+      "category": "Fillers",
+      "description": "BONITTO® 03 AGE SOLUTION is an ultra-smooth gel of cross-linked hyaluronic acid designed for restoring or increasing the volume of soft tissues and correcting deep wrinkles and skin grooves. It is also formulated for contouring the facial shape in areas such as bridge of the nose, chin, nasolabial folds, and puppet lines. The gel provides visible volumetric correction by enhancing tissue volume, achieving a more defined and rejuvenated appearance.",
+      "cardImage": "/images/products/FILLERS-03-1-745x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/FILLERS-03-1.webp",
+        "mobile": "/images/products/FILLERS-03-1-745x1024.webp",
+        "alt": "BONITTO® 03 AGE SOLUTION: nose and chin filler for non-surgical chin augmentation and facial volume restoration."
+      },
+      "campaignImage": {
+        "desktop": "/images/products/09AgeSolution.webp",
+        "mobile": "/images/products/09AgeSolution-684x1024.webp",
+        "alt": "A woman with an elegant hairstyle has bold turquoise makeup, featuring a line from her forehead down her nose and dramatic eyeliner extending from her eyes. The background is a soft gray, emphasizing her serene expression."
+      },
+      "technicalInfo": [
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "1 × 1 ml"
+        },
+        {
+          "icon": "/images/products/needle.svg",
+          "label": "Needle",
+          "value": "2 x 27 G"
+        },
+        {
+          "icon": "/images/products/concentration-1.svg",
+          "label": "Concentration",
+          "value": "24 mg/ml"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [
+        {
+          "slug": "n-01-bonitto-pro-age-fine",
+          "title": "01 PRO AGE FINE",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-01-3-745x1024.webp"
+        },
+        {
+          "slug": "n-02-bonitto-lips-plum",
+          "title": "02 LIPS PLUMP",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-02-3-745x1024.webp"
+        },
+        {
+          "slug": "n-04-bonitto-face-sculpt",
+          "title": "04 FACE SCULPT",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-04-745x1024.webp"
+        },
+        {
+          "slug": "n-05-bonitto-volume",
+          "title": "05 VOLUME",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-SB-05-745x1024.webp"
+        }
+      ],
+      "categorySlug": "01"
+    },
+    {
+      "id": "n-04-bonitto-face-sculpt",
+      "slug": "n-04-bonitto-face-sculpt",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/n-04-bonitto-face-sculpt/",
+      "title": "04 FACE SCULPT",
+      "category": "Fillers",
+      "description": "BONITTO® 04 FACE SCULPT is a powerful, highly concentrated cross-linked hyaluronic acid gel specifically formulated to increase soft tissue volume and facial contours. It is designed to sculpt and define facial features, including the jaw line, chin and cheek areas.",
+      "cardImage": "/images/products/FILLERS-04-1-745x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/FILLERS-04-1.webp",
+        "mobile": "/images/products/FILLERS-04-1-745x1024.webp",
+        "alt": "BONITTO® 04 FACE SCULPT: Powerful hyaluronic acid facial filler gel for sculpting contours & adding volume."
+      },
+      "campaignImage": {
+        "desktop": "/images/products/04FaceSculpt.webp",
+        "mobile": "/images/products/04FaceSculpt-710x1024.webp",
+        "alt": "Close-up of a person's face with one striking green diagonal stripe of makeup across the cheek, contrasting with the natural skin tone. The focus is on the eye and the artistic makeup application."
+      },
+      "technicalInfo": [
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "1 × 1 ml"
+        },
+        {
+          "icon": "/images/products/needle.svg",
+          "label": "Needle",
+          "value": "2 x 25 G"
+        },
+        {
+          "icon": "/images/products/concentration-1.svg",
+          "label": "Concentration",
+          "value": "26 mg/ml"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [
+        {
+          "slug": "n-01-bonitto-pro-age-fine",
+          "title": "01 PRO AGE FINE",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-01-3-745x1024.webp"
+        },
+        {
+          "slug": "n-02-bonitto-lips-plum",
+          "title": "02 LIPS PLUMP",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-02-3-745x1024.webp"
+        },
+        {
+          "slug": "n-03-bonitto-age-solution",
+          "title": "03 AGE SOLUTION",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-03-745x1024.webp"
+        },
+        {
+          "slug": "n-05-bonitto-volume",
+          "title": "05 VOLUME",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-SB-05-745x1024.webp"
+        }
+      ],
+      "categorySlug": "01"
+    },
+    {
+      "id": "n-05-bonitto-volume",
+      "slug": "n-05-bonitto-volume",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/n-05-bonitto-volume/",
+      "title": "05 VOLUME",
+      "category": "Fillers",
+      "description": "BONITTO® 05 VOLUME is a gel of cross-linked, highly concentrated hyaluronic acid designed for restoring or increasing the volume of soft tissues and contouring the body surface. It is ideal for addressing extensive atrophies, irregularities resulting from liposuction treatments, and volumetric body treatments. This product is particularly effective for contouring areas such as the buttocks, calves, and hands. It provides visible volumetric correction through a significant increase in tissue volume, enhancing the treated area to the desired shape. The visibility and durability of the effect depend on the depth of application and the original condition of the skin.",
+      "cardImage": "/images/products/FILLERS-SB-05-1-745x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/FILLERS-SB-05-1.webp",
+        "mobile": "/images/products/FILLERS-SB-05-1-745x1024.webp",
+        "alt": "BONITTO® 05 VOLUME - cross-linked, highly concentrated hyaluronic acid filler"
+      },
+      "campaignImage": {
+        "desktop": "/images/products/05Volume.webp",
+        "mobile": "/images/products/05Volume-684x1024.webp",
+        "alt": "BONITTO® 05 VOLUME - filler for flabby skin, body shaping, contouring, buttocks enlargement, calf shape correction"
+      },
+      "technicalInfo": [
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "1 × 10 ml"
+        },
+        {
+          "icon": "/images/products/concentration-1.svg",
+          "label": "Concentration",
+          "value": "20 mg/ml"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [
+        {
+          "slug": "n-01-bonitto-pro-age-fine",
+          "title": "01 PRO AGE FINE",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-01-3-745x1024.webp"
+        },
+        {
+          "slug": "n-02-bonitto-lips-plum",
+          "title": "02 LIPS PLUMP",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-02-3-745x1024.webp"
+        },
+        {
+          "slug": "n-03-bonitto-age-solution",
+          "title": "03 AGE SOLUTION",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-03-745x1024.webp"
+        },
+        {
+          "slug": "n-04-bonitto-face-sculpt",
+          "title": "04 FACE SCULPT",
+          "category": "Fillers",
+          "image": "/images/products/FILLERS-04-745x1024.webp"
+        }
+      ],
+      "categorySlug": "01"
+    },
+    {
+      "id": "01-lush-bloom",
+      "slug": "01-lush-bloom",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/01-lush-bloom/",
+      "title": "01 LUSH BLOOM",
+      "category": "Cross-linked Hyaluronic Acid",
+      "description": "BONITTO® 01 LUSH BLOOM 22 mg/ml is a biodegradable crosslinked hyaluronic acid hydrogel resorbed over time, intended to be injected in the lip submucosa or superficial dermis to restore lost volume of the soft tissue. BDDE-crosslinked hyaluronic acid hydrogel 22 mg/ml when injected in the lip submucosa or superficial dermis, adds temporarily volume to thinned soft tissues of the face.",
+      "cardImage": "/images/products/lush-bloom-745x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/lush-bloom.webp",
+        "mobile": "/images/products/lush-bloom-745x1024.webp",
+        "alt": ""
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "2 x 1 ml"
+        },
+        {
+          "icon": "/images/products/needle.svg",
+          "label": "Needle",
+          "value": "4 x 30 G"
+        },
+        {
+          "icon": "/images/products/concentration-1.svg",
+          "label": "Concentration",
+          "value": "22 mg/ml"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [],
+      "categorySlug": "02"
+    },
+    {
+      "id": "02-lover-touch",
+      "slug": "02-lover-touch",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/02-lover-touch/",
+      "title": "02 LOVER TOUCH",
+      "category": "Cross-linked Hyaluronic Acid",
+      "description": "BONITTO® 02 LOVER TOUCH 24 mg/ml is a biodegradable crosslinked hyaluronic acid hydrogel resorbed over time, intended to be injected in the mid to deep dermis to restore lost volume of the soft tissue. BDDE-crosslinked hyaluronic acid hydrogel 24 mg/ml when injected in the mid to deep dermis, adds temporarily volume to thinned soft tissues of the face.",
+      "cardImage": "/images/products/lover-touch-2-745x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/lover-touch-2.webp",
+        "mobile": "/images/products/lover-touch-2-745x1024.webp",
+        "alt": ""
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "2 x 1 ml"
+        },
+        {
+          "icon": "/images/products/needle.svg",
+          "label": "Needle",
+          "value": "4 x 27 G"
+        },
+        {
+          "icon": "/images/products/concentration-1.svg",
+          "label": "Concentration",
+          "value": "24 mg/ml"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [],
+      "categorySlug": "02"
+    },
+    {
+      "id": "03-lift-up",
+      "slug": "03-lift-up",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/03-lift-up/",
+      "title": "03 LIFT UP",
+      "category": "Cross-linked Hyaluronic Acid",
+      "description": "BONITTO® 03 LIFT UP 26 mg/ml is a biodegradable crosslinked hyaluronic acid hydrogel resorbed over time, intended to be injected in deep dermis or subcutaneous tissue to restore lost volume of the soft tissue. BDDE-crosslinked hyaluronic acid hydrogel 26 mg/ml when injected in deep dermis or subcutaneous tissue, adds temporarily volume to thinned soft tissues of the face.",
+      "cardImage": "/images/products/lift-up-2-745x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/lift-up-2.webp",
+        "mobile": "/images/products/lift-up-2-745x1024.webp",
+        "alt": ""
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "2 x 1 ml"
+        },
+        {
+          "icon": "/images/products/needle.svg",
+          "label": "Needle",
+          "value": "4 x 27 G"
+        },
+        {
+          "icon": "/images/products/concentration-1.svg",
+          "label": "Concentration",
+          "value": "26 mg/ml"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [],
+      "categorySlug": "02"
+    },
+    {
+      "id": "04-level-max",
+      "slug": "04-level-max",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/04-level-max/",
+      "title": "04 LEVEL MAX",
+      "category": "Cross-linked Hyaluronic Acid",
+      "description": "BONITTO® 04 LEVEL MAX 28 mg/ml is a biodegradable crosslinked hyaluronic acid hydrogel resorbed over time, intended to be injected in the subcutaneous tissue to restore lost volume of the soft tissue. BDDE-crosslinked hyaluronic acid hydrogel 28 mg/ml when injected in the subcutaneous tissue, adds temporarily volume to thinned soft tissues of the face.",
+      "cardImage": "/images/products/level-max-2-745x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/level-max-2.webp",
+        "mobile": "/images/products/level-max-2-745x1024.webp",
+        "alt": "A box labeled \"Bonitto 04 Level Max\" stands upright next to a syringe filled with clear liquid. The packaging notes 28mg/ml cross-linked hyaluronic acid, and features teal and black colors with sleek, modern design."
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "2 x 1 ml"
+        },
+        {
+          "icon": "/images/products/needle.svg",
+          "label": "Needle",
+          "value": "4 x 25 G"
+        },
+        {
+          "icon": "/images/products/concentration-1.svg",
+          "label": "Concentration",
+          "value": "28 mg/ml"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [],
+      "categorySlug": "02"
+    },
+    {
+      "id": "drinxha",
+      "slug": "drinxha",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/drinxha/",
+      "title": "DrinxHa",
+      "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+      "description": "The kit contains 1 syringe of Hyaluronic Acid and 1 syringe of Tranexamic Acid, Alpha-Arbutin and Glutathione. The combination offers a dual benefit, hyaluronic acid provides deep hydration and plumping, while Alpha-Arbutin, Glutathione, and Tranexamic acid deliver powerful brightening effects, pigmentation reduction, and antioxidant protection Ingredients like Alpha-Arbutin, Tranexamic Acid, and Glutathione help reduce hyperpigmentation. Alpha-Arbutin inhibits melanin production and is 10 times more effective than Beta-Arbutin. Tranexamic Acid reduces dark spots by blocking UV-induced pigmentation and tyrosinase activity. Glutathione protects skin from sun damage, dehydration, and aging by neutralizing free radicals and promoting collagen production.",
+      "cardImage": "/images/products/DRINX-HA-1-796x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/DRINX-HA-1.webp",
+        "mobile": "/images/products/DRINX-HA-1-796x1024.webp",
+        "alt": "A green box labeled \"Bonitto\" contains two syringes standing upright next to it. The text \"DRINxHA\" is visible on the box."
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Main ingredients",
+          "value": "Sodium Hyaluronate, Alpha-arbutin, Glutathione, Tranexamic Acid"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [
+        {
+          "slug": "giha",
+          "title": "GiHa",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/GIHA-796x1024.webp"
+        },
+        {
+          "slug": "hadefined",
+          "title": "HaDefined",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/HADEFINED-796x1024.webp"
+        },
+        {
+          "slug": "vitalha",
+          "title": "VitalHa",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/VITAL-HA-796x1024.webp"
+        }
+      ],
+      "categorySlug": "04"
+    },
+    {
+      "id": "giha",
+      "slug": "giha",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/giha/",
+      "title": "GiHa",
+      "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+      "description": "The kit includes one syringe of hyaluronic acid and one syringe containing vitamin C, vitamin PP, and PDRN. These ingredients deliver powerful illumination and lightening effects with antioxidant benefits for the skin. Sonicated hyaluronic acid, with its low, medium, and high molecular weights, provides multiple benefits, including stimulation and increased elasticity. Vitamin C offers antioxidant and anti-aging properties, helping to brighten and even out the complexion. Vitamin PP is a potent vitamin that strengthens the skin barrier, aids in hydration, and helps normalize the skin. PDRN supports tissue repair and regeneration. This product can be applied immediately after treatment to achieve a strong illuminating effect.",
+      "cardImage": "/images/products/GIHA-1-796x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/GIHA-1.webp",
+        "mobile": "/images/products/GIHA-1-796x1024.webp",
+        "alt": "A teal box labeled \"BONITTO\" with \"GiHA\" written below. Two syringes filled with a transparent liquid are in front of the box. The box mentions ingredients: Snakebee, Hyaluronic Acid, Vitamin C, Vitamin P1, FGFN."
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Main ingredients",
+          "value": "Sodium Hyaluronate, 3-O-ethyl Ascorbic Acid, Niacinamide, Sodium DNA"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [
+        {
+          "slug": "vitalha",
+          "title": "VitalHa",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/VITAL-HA-796x1024.webp"
+        },
+        {
+          "slug": "hadefined",
+          "title": "HaDefined",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/HADEFINED-796x1024.webp"
+        },
+        {
+          "slug": "drinxha",
+          "title": "DrinxHa",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/DRINX-HA-796x1024.webp"
+        }
+      ],
+      "categorySlug": "04"
+    },
+    {
+      "id": "hadefined",
+      "slug": "hadefined",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/hadefined/",
+      "title": "HaDefined",
+      "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+      "description": "The kit includes one syringe of hyaluronic acid and another containing peptides, B vitamins, gamma-aminobutyric acid (GABA), and PDRN. These ingredients provide strong anti-aging benefits while supporting skin repair and hydration. The use of sonicated hyaluronic acid, with low, medium, and high molecular weights, delivers multiple effects, such as deep hydration and enhanced elasticity. B vitamins are essential for healthy, resilient skin, promoting moisture retention and the repair of damaged tissue. GABA helps reduce the appearance of wrinkles and smooth fine lines, while PDRN supports tissue regeneration. This product can be applied after aesthetic treatments to assist in skin recovery or used independently for skin rejuvenation.",
+      "cardImage": "/images/products/HADEFINED-1-796x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/HADEFINED-1.webp",
+        "mobile": "/images/products/HADEFINED-1-796x1024.webp",
+        "alt": "Mix of hyaluronic acid and peptides, B vitamins, GABA and PDRN for anti-aging benefits after aesthetic treatments"
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Main ingredients",
+          "value": "Sodium Hyaluronate, Calcium Pantothenate, Tocopherol, Thiamine HCL, Glycine, Glutathione, Aminobutyric acid, Sodium DNA, Arginine HCL, Leucine, Methionine, Phenylalanine, Serine, Lysine Hydrochloride, Glutamic acid, Riboflavin, Alanine, Histidine HCL, Valine, Proline, Pentapeptide-18, Acetyl Hexapeptide-8, Isoleucine, Aspartic Acid, Threonine, Tyrosine, Pyridoxine HCL, Tryptophan"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [
+        {
+          "slug": "drinxha",
+          "title": "DrinxHa",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/DRINX-HA-796x1024.webp"
+        },
+        {
+          "slug": "giha",
+          "title": "GiHa",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/GIHA-796x1024.webp"
+        },
+        {
+          "slug": "vitalha",
+          "title": "VitalHa",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/VITAL-HA-796x1024.webp"
+        }
+      ],
+      "categorySlug": "04"
+    },
+    {
+      "id": "vitalha",
+      "slug": "vitalha",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/vitalha/",
+      "title": "VitalHa",
+      "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+      "description": "The kit includes one syringe of hyaluronic acid and one syringe containing perfluorodecalin, panthenol, bisabolol, and glycogen. These components offer recovery and hydration benefits, aiding in the repair of post-procedure redness while providing soothing and calming effects. Sonicated hyaluronic acid delivers a smoothing and revitalizing action. Perfluorodecalin is notable for its capacity to dissolve up to 49% of its volume in oxygen, which boosts oxygen levels and supports faster wound healing. Bisabolol helps hydrate the skin and alleviate burning and itching, while panthenol provides significant moisture and soothes redness. This product is suitable for use immediately after treatment to address skin redness and deliver intense hydration.",
+      "cardImage": "/images/products/VITAL-HA-1-796x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/VITAL-HA-1.webp",
+        "mobile": "/images/products/VITAL-HA-1-796x1024.webp",
+        "alt": "A green Bonitto product box labeled \"Vitalha\" with two syringes placed in front, containing a transparent substance. The box includes text about hyaluronic acid and other ingredients."
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Main ingredients",
+          "value": "Sodium Hyaluronate, Perfluorodecalin, Bisabolol, Glycyrrhetinic Acid, Glycogen, Panthenol, Sodium Carboxymethyl Betaglucan"
+        }
+      ],
+      "effects": [],
+      "mainTarget": "",
+      "related": [
+        {
+          "slug": "hadefined",
+          "title": "HaDefined",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/HADEFINED-796x1024.webp"
+        },
+        {
+          "slug": "drinxha",
+          "title": "DrinxHa",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/DRINX-HA-796x1024.webp"
+        },
+        {
+          "slug": "giha",
+          "title": "GiHa",
+          "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
+          "image": "/images/products/GIHA-796x1024.webp"
+        }
+      ],
+      "categorySlug": "04"
+    },
+    {
+      "id": "bonitto-celeste-forte-pl",
+      "slug": "bonitto-celeste-forte-pl",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/bonitto-celeste-forte-pl/",
+      "title": "Bonitto Celestè Forte PL",
+      "category": "Sterile vials",
+      "description": "Bonitto Celestè Forte PL formula combines PLLA , CaHa, Collagen type III, and Dual HA to deliver a powerful multi-layered collagen-boosting effect. PLLA works as a biostimulator that gradually activates fibroblasts, encouraging long-term production of collagen for natural skin tightening and volume restoration. CaHa provides immediate structural support while also stimulating collagen and improving skin firmness and definition. Collagen type III supports early-stage skin repair. It is one of the first collagens produced during tissue healing, so it plays a role in skin regeneration and renewal. Dual HA delivers instant hydration and subtle plumping, improving skin smoothness and elasticity from the first treatment.",
+      "cardImage": "/images/products/Celeste-Forte-PL-796x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/Celeste-Forte-PL.webp",
+        "mobile": "/images/products/Celeste-Forte-PL-796x1024.webp",
+        "alt": "A teal and white box labeled \"BONITTO CELESTE FORTE PL\" with a small vial next to it. The box indicates the product is for face and body and contains three 5 mL vials."
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Active ingredients",
+          "value": "PLLA (Poly-L-lactic Acid), CaHa (Calcium Hydroxyapatite), Collagen type III, and Dual Hyaluronic Acid (HA)"
+        },
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "3x5ml"
+        }
+      ],
+      "effects": [
+        "Hydration softens",
+        "Definition shapes",
+        "Elasticity refines",
+        "Firmness stabilizes"
+      ],
+      "mainTarget": "Collagen stimulation",
+      "related": [],
+      "categorySlug": "05"
+    },
+    {
+      "id": "bonitto-celeste-pl",
+      "slug": "bonitto-celeste-pl",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/bonitto-celeste-pl/",
+      "title": "Bonitto Celestè PL",
+      "category": "Sterile vials",
+      "description": "Bonitto Celestè PL is a ready-to-use liquid formulation combining Hyaluronic Acid and Polylactic Acid. It is designed to deeply hydrate the skin, restore lost volume, and stimulate cellular regeneration by activating fibroblasts. The formula delivers an immediate volumizing effect while helping to improve overall skin quality. This dual-action solution effectively addresses common skin concerns such as wrinkles and volume loss. In addition to smoothing and plumping, it supports and enhances the skin’s natural regenerative processes, promoting renewed cell activity and longer-term rejuvenation.",
+      "cardImage": "/images/products/Celeste-PL-796x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/Celeste-PL.webp",
+        "mobile": "/images/products/Celeste-PL-796x1024.webp",
+        "alt": "A turquoise and teal box labeled \"BONITTO CELESTE PL\" with an image of two vials and text \"Vials 2x10 mL.\" A small matching vial is placed in front of the box."
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Active ingredients",
+          "value": "PLLA, Stabilized Sodium Hyaluronate Matrix"
+        },
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "2x10ml"
+        }
+      ],
+      "effects": [
+        "Homogeneous consistency",
+        "Smooth and even distribution",
+        "Predictable and refined performance",
+        "Elegant precision stability",
+        "Balance in formulation creates balance in appearance"
+      ],
+      "mainTarget": "Collagen stimulation",
+      "related": [],
+      "categorySlug": "05"
+    },
+    {
+      "id": "bonitto-celeste-ultra-pn",
+      "slug": "bonitto-celeste-ultra-pn",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/bonitto-celeste-ultra-pn/",
+      "title": "Bonitto Celestè Ultra PN",
+      "category": "Sterile vials",
+      "description": "Bonitto Celestè Ultra PN formula combines PLLA , CaHa, Collagen type III, Arginine, Hexapeptide-40, Sh-Polypeptide-76, and Dual HA to deliver a powerful multi-layered collagen-boosting effect. PLLA works as a biostimulator that gradually activates fibroblasts, encouraging long-term production of collagen for natural skin tightening and volume restoration. CaHa provides immediate structural support while also stimulating collagen and improving skin firmness and definition. Arginine helps improve skin circulation, boost collagen production, and support repair, resulting in firmer, healthier, and more radiant skin. Hexapeptide-40 helps boost collagen, improve skin texture, and support regeneration for smoother, firmer, and more youthful-looking skin. sh-Polypeptide-76 supports skin regeneration, boosts collagen, and improves texture for firmer, smoother, and more radiant skin. Collagen type III supports early-stage skin repair. It is one of the first collagens produced during tissue healing, so it plays a role in skin regeneration and renewal. Dual HA delivers instant hydration and subtle plumping, improving skin smoothness and elasticity from the first treatment.",
+      "cardImage": "/images/products/Celeste-Ultra-PN-796x1024.webp",
+      "productImage": {
+        "desktop": "/images/products/Celeste-Ultra-PN.webp",
+        "mobile": "/images/products/Celeste-Ultra-PN-796x1024.webp",
+        "alt": "A teal and green Bonitto Celeste Ultra PN box with white text, featuring a small vial labeled \"Bonitto\" in front. The package states \"Face & Body,\" and contains 3 vials of 5 mL each."
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Active ingredients",
+          "value": "PLLA (Poly-L-lactic Acid), CaHa (Calcium Hydroxyapatite), Collagen type III, Arginine, Hexapeptide-40 , sh-Polypeptide-76 ,and Dual Hyaluronic Acid (HA)"
+        },
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "3x5ml"
+        }
+      ],
+      "effects": [
+        "Deep collagen stimulation",
+        "Long-lasting anti-aging results",
+        "Enhanced hydration and glow",
+        "Improved firmness and lifting"
+      ],
+      "mainTarget": "Collagen stimulation",
+      "related": [],
+      "categorySlug": "05"
+    }
+  ]
+}

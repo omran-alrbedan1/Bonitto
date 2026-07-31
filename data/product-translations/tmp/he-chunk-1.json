@@ -1,0 +1,273 @@
+{
+  "n-01-bonitto-pro-age-fine": {
+    "title": "01 PRO AGE FINE",
+    "category": "חומרי מילוי",
+    "description": "BONITTO® 01 PRO AGE FINE הוא ג'ל פלסטי במיוחד של חומצה היאלורונית מצולבת שנועד לטיפול בקמטים שטחיים ובפגמי עור בינוניים. הוא מיועד ספציפית לתיקון אזורים כגון אזור הגבות, קמטים סביב הפה והעיניים, הצוואר, הידיים ושקעי הדמעות. הג'ל מספק תיקון נפח טבעי על ידי שיפור נפח הרקמה, תוך השגת מראה מעודן ומחודש.",
+    "technicalInfo": [
+      { "label": "נפח", "value": "1 x 1 ml" },
+      { "label": "מחט", "value": "2 x 30 G" },
+      { "label": "ריכוז", "value": "20 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "חומרי מילוי" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "חומרי מילוי" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "חומרי מילוי" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "חומרי מילוי" }
+    ],
+    "productImageAlt": "BONITTO® 01 PRO AGE FINE: חומר מילוי לקמטים להחלקת קווים עדינים סביב אזורי העיניים, הפה והצוואר.",
+    "campaignImageAlt": "אישה עם עור בהיר ושיער אסוף לאחור מביטה מעבר לכתפה. היא מרכיבה איפור עיניים טורקיז בולט המשתרע מעבר לעיניים ומתאר את הגבות והעפעפיים. הבעת פניה שלווה על רקע ניטרלי."
+  },
+  "n-02-bonitto-lips-plum": {
+    "title": "02 LIPS PLUMP",
+    "category": "חומרי מילוי",
+    "description": "BONITTO® 02 LIPS PLUMP הוא ג'ל חלק במיוחד של חומצה היאלורונית מצולבת שנועד להגדיל את נפח הרקמות הרכות ולתקן קמטים בינוניים עד עמוקים. הוא פותח במיוחד לעיצוב והגדלת נפח השפתיים, וכן לטיפול בפגמים ברקמות רכות סביב הפה, בקמטי מריונטה ובזוויות פה נפולות.",
+    "technicalInfo": [
+      { "label": "נפח", "value": "1 × 1 ml" },
+      { "label": "מחט", "value": "2 x 27 G" },
+      { "label": "ריכוז", "value": "21 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "חומרי מילוי" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "חומרי מילוי" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "חומרי מילוי" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "חומרי מילוי" }
+    ],
+    "productImageAlt": "BONITTO® 02 LIPS PLUMP: חומר מילוי שפתיים מחומצה היאלורונית חלק במיוחד לנפח שפתיים ותיקון קמטים",
+    "campaignImageAlt": "תקריב של אישה עם איפור אמנותי. יש לה גבות נועזות, קו שחור אנכי על אפה, צללית טורקיז על עין אחת וטורקיז תואם על שפתה העליונה. ידיה נוגעות בעדינות בפניה, והבעת פניה שלווה."
+  },
+  "n-03-bonitto-age-solution": {
+    "title": "03 AGE SOLUTION",
+    "category": "חומרי מילוי",
+    "description": "BONITTO® 03 AGE SOLUTION הוא ג'ל חלק במיוחד של חומצה היאלורונית מצולבת שנועד לשיקום או הגדלת נפח הרקמות הרכות ולתיקון קמטים עמוקים וחריצי עור. הוא פותח גם לעיצוב צורת הפנים באזורים כמו גשר האף, הסנטר, קפלי האף-שפה וקמטי מריונטה. הג'ל מספק תיקון נפח נראה לעין על ידי שיפור נפח הרקמה, תוך השגת מראה מוגדר ומחודש יותר.",
+    "technicalInfo": [
+      { "label": "נפח", "value": "1 × 1 ml" },
+      { "label": "מחט", "value": "2 x 27 G" },
+      { "label": "ריכוז", "value": "24 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "חומרי מילוי" },
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "חומרי מילוי" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "חומרי מילוי" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "חומרי מילוי" }
+    ],
+    "productImageAlt": "BONITTO® 03 AGE SOLUTION: חומר מילוי לאף ולסנטר להגדלת סנטר לא ניתוחית ולשיקום נפח הפנים.",
+    "campaignImageAlt": "אישה עם תסרוקת אלגנטית מרכיבה איפור טורקיז בולט, הכולל קו מהמצח לאורך האף ואייליינר דרמטי המשתרע מהעיניים. הרקע אפור רך, המדגיש את הבעת פניה השלווה."
+  },
+  "n-04-bonitto-face-sculpt": {
+    "title": "04 FACE SCULPT",
+    "category": "חומרי מילוי",
+    "description": "BONITTO® 04 FACE SCULPT הוא ג'ל חזק ומרוכז במיוחד של חומצה היאלורונית מצולבת, שנוסח ספציפית להגדלת נפח הרקמות הרכות ועיצוב קווי המתאר של הפנים. הוא נועד לפסל ולהגדיר את תווי הפנים, כולל קו הלסת, הסנטר ואזור הלחיים.",
+    "technicalInfo": [
+      { "label": "נפח", "value": "1 × 1 ml" },
+      { "label": "מחט", "value": "2 x 25 G" },
+      { "label": "ריכוז", "value": "26 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "חומרי מילוי" },
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "חומרי מילוי" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "חומרי מילוי" },
+      { "slug": "n-05-bonitto-volume", "title": "05 VOLUME", "category": "חומרי מילוי" }
+    ],
+    "productImageAlt": "BONITTO® 04 FACE SCULPT: ג'ל מילוי לפנים מחומצה היאלורונית עוצמתי לעיצוב קווי מתאר והוספת נפח.",
+    "campaignImageAlt": "תקריב של פני אדם עם פס איפור ירוק אלכסוני בולט על פני הלחי, המנוגד לגוון העור הטבעי. ההתמקדות היא בעין ובמריחת האיפור האמנותית."
+  },
+  "n-05-bonitto-volume": {
+    "title": "05 VOLUME",
+    "category": "חומרי מילוי",
+    "description": "BONITTO® 05 VOLUME הוא ג'ל של חומצה היאלורונית מצולבת ומרוכזת במיוחד שנועד לשיקום או הגדלת נפח הרקמות הרכות ולעיצוב פני הגוף. הוא אידיאלי לטיפול באטרופיות נרחבות, בחוסרי אחידות הנובעים מטיפולי ליפוסקציה, ובטיפולי נפח לגוף. המוצר יעיל במיוחד לעיצוב אזורים כמו הישבן, השוקיים והידיים. הוא מספק תיקון נפח נראה לעין באמצעות הגדלה משמעותית של נפח הרקמה, ומעצב את האזור המטופל לצורה הרצויה. נראות ההשפעה ועמידותה תלויות בעומק ההזרקה ובמצב העור המקורי.",
+    "technicalInfo": [
+      { "label": "נפח", "value": "1 × 10 ml" },
+      { "label": "ריכוז", "value": "20 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "n-01-bonitto-pro-age-fine", "title": "01 PRO AGE FINE", "category": "חומרי מילוי" },
+      { "slug": "n-02-bonitto-lips-plum", "title": "02 LIPS PLUMP", "category": "חומרי מילוי" },
+      { "slug": "n-03-bonitto-age-solution", "title": "03 AGE SOLUTION", "category": "חומרי מילוי" },
+      { "slug": "n-04-bonitto-face-sculpt", "title": "04 FACE SCULPT", "category": "חומרי מילוי" }
+    ],
+    "productImageAlt": "BONITTO® 05 VOLUME - חומר מילוי מחומצה היאלורונית מצולבת ומרוכזת במיוחד",
+    "campaignImageAlt": "BONITTO® 05 VOLUME - חומר מילוי לעור רפוי, עיצוב גוף, מידול, הגדלת ישבן, תיקון צורת שוקיים"
+  },
+  "01-lush-bloom": {
+    "title": "01 LUSH BLOOM",
+    "category": "חומצה היאלורונית מצולבת",
+    "description": "BONITTO® 01 LUSH BLOOM 22 mg/ml הוא הידרוג'ל ביולוגי מתכלה של חומצה היאלורונית מצולבת הנספג לאורך זמן, ונועד להזרקה לתת-רירית השפה או לדרמיס השטחי כדי לשקם נפח שאבד ברקמות הרכות. הידרוג'ל של חומצה היאלורונית מצולבת ב-BDDE בריכוז 22 mg/ml, כאשר הוא מוזרק לתת-רירית השפה או לדרמיס השטחי, מוסיף זמנית נפח לרקמות הרכות המדוללות של הפנים.",
+    "technicalInfo": [
+      { "label": "נפח", "value": "2 x 1 ml" },
+      { "label": "מחט", "value": "4 x 30 G" },
+      { "label": "ריכוז", "value": "22 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "02-lover-touch": {
+    "title": "02 LOVER TOUCH",
+    "category": "חומצה היאלורונית מצולבת",
+    "description": "BONITTO® 02 LOVER TOUCH 24 mg/ml הוא הידרוג'ל ביולוגי מתכלה של חומצה היאלורונית מצולבת הנספג לאורך זמן, ונועד להזרקה לדרמיס הבינוני עד העמוק כדי לשקם נפח שאבד ברקמות הרכות. הידרוג'ל של חומצה היאלורונית מצולבת ב-BDDE בריכוז 24 mg/ml, כאשר הוא מוזרק לדרמיס הבינוני עד העמוק, מוסיף זמנית נפח לרקמות הרכות המדוללות של הפנים.",
+    "technicalInfo": [
+      { "label": "נפח", "value": "2 x 1 ml" },
+      { "label": "מחט", "value": "4 x 27 G" },
+      { "label": "ריכוז", "value": "24 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "03-lift-up": {
+    "title": "03 LIFT UP",
+    "category": "חומצה היאלורונית מצולבת",
+    "description": "BONITTO® 03 LIFT UP 26 mg/ml הוא הידרוג'ל ביולוגי מתכלה של חומצה היאלורונית מצולבת הנספג לאורך זמן, ונועד להזרקה לדרמיס העמוק או לרקמה התת-עורית כדי לשקם נפח שאבד ברקמות הרכות. הידרוג'ל של חומצה היאלורונית מצולבת ב-BDDE בריכוז 26 mg/ml, כאשר הוא מוזרק לדרמיס העמוק או לרקמה התת-עורית, מוסיף זמנית נפח לרקמות הרכות המדוללות של הפנים.",
+    "technicalInfo": [
+      { "label": "נפח", "value": "2 x 1 ml" },
+      { "label": "מחט", "value": "4 x 27 G" },
+      { "label": "ריכוז", "value": "26 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "04-level-max": {
+    "title": "04 LEVEL MAX",
+    "category": "חומצה היאלורונית מצולבת",
+    "description": "BONITTO® 04 LEVEL MAX 28 mg/ml הוא הידרוג'ל ביולוגי מתכלה של חומצה היאלורונית מצולבת הנספג לאורך זמן, ונועד להזרקה לרקמה התת-עורית כדי לשקם נפח שאבד ברקמות הרכות. הידרוג'ל של חומצה היאלורונית מצולבת ב-BDDE בריכוז 28 mg/ml, כאשר הוא מוזרק לרקמה התת-עורית, מוסיף זמנית נפח לרקמות הרכות המדוללות של הפנים.",
+    "technicalInfo": [
+      { "label": "נפח", "value": "2 x 1 ml" },
+      { "label": "מחט", "value": "4 x 25 G" },
+      { "label": "ריכוז", "value": "28 mg/ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "קופסה שעליה הכיתוב \"Bonitto 04 Level Max\" עומדת זקוף לצד מזרק המלא בנוזל שקוף. האריזה מציינת חומצה היאלורונית מצולבת בריכוז 28mg/ml, וכוללת צבעי טורקיז ושחור בעיצוב מודרני ואלגנטי."
+  },
+  "drinxha": {
+    "title": "DrinxHa",
+    "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml",
+    "description": "הערכה מכילה מזרק אחד של חומצה היאלורונית ומזרק אחד של חומצה טרנקסמית, אלפא-ארבוטין וגלוטתיון. השילוב מציע תועלת כפולה: חומצה היאלורונית מספקת לחות עמוקה ומלאות, בעוד שאלפא-ארבוטין, גלוטתיון וחומצה טרנקסמית מספקים אפקטים חזקים של הבהרה, הפחתת פיגמנטציה והגנה נוגדת חמצון. רכיבים כמו אלפא-ארבוטין, חומצה טרנקסמית וגלוטתיון מסייעים להפחית היפרפיגמנטציה. אלפא-ארבוטין מעכב ייצור מלנין ויעיל פי 10 מבטא-ארבוטין. חומצה טרנקסמית מפחיתה כתמים כהים על ידי חסימת פיגמנטציה הנגרמת מקרינת UV ופעילות טירוזינאז. גלוטתיון מגן על העור מפני נזקי שמש, התייבשות והזדקנות על ידי נטרול רדיקלים חופשיים וקידום ייצור קולגן.",
+    "technicalInfo": [
+      { "label": "רכיבים עיקריים", "value": "Sodium Hyaluronate, Alpha-arbutin, Glutathione, Tranexamic Acid" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "giha", "title": "GiHa", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" },
+      { "slug": "hadefined", "title": "HaDefined", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" },
+      { "slug": "vitalha", "title": "VitalHa", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" }
+    ],
+    "productImageAlt": "קופסה ירוקה שעליה הכיתוב \"Bonitto\" מכילה שני מזרקים העומדים זקוף לצידה. הכיתוב \"DRINxHA\" נראה על הקופסה."
+  },
+  "giha": {
+    "title": "GiHa",
+    "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml",
+    "description": "הערכה כוללת מזרק אחד של חומצה היאלורונית ומזרק אחד המכיל ויטמין C, ויטמין PP ו-PDRN. רכיבים אלה מספקים אפקטים חזקים של הארה והבהרה עם יתרונות נוגדי חמצון לעור. חומצה היאלורונית מסווננת, במשקלים מולקולריים נמוכים, בינוניים וגבוהים, מספקת יתרונות מרובים, כולל גירוי והגברת גמישות. ויטמין C מציע תכונות נוגדות חמצון ואנטי-אייג'ינג, ומסייע להבהיר ולאזן את גוון העור. ויטמין PP הוא ויטמין עוצמתי שמחזק את מחסום העור, תורם ללחות ומסייע לנרמול העור. PDRN תומך בתיקון והתחדשות רקמות. ניתן ליישם מוצר זה מיד לאחר הטיפול כדי להשיג אפקט הארה חזק.",
+    "technicalInfo": [
+      { "label": "רכיבים עיקריים", "value": "Sodium Hyaluronate, 3-O-ethyl Ascorbic Acid, Niacinamide, Sodium DNA" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "vitalha", "title": "VitalHa", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" },
+      { "slug": "hadefined", "title": "HaDefined", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" },
+      { "slug": "drinxha", "title": "DrinxHa", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" }
+    ],
+    "productImageAlt": "קופסה בצבע טורקיז שעליה הכיתוב \"BONITTO\" וכתוב מתחת \"GiHA\". שני מזרקים מלאים בנוזל שקוף מונחים מול הקופסה. הקופסה מציינת רכיבים: Snakebee, Hyaluronic Acid, Vitamin C, Vitamin P1, FGFN."
+  },
+  "hadefined": {
+    "title": "HaDefined",
+    "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml",
+    "description": "הערכה כוללת מזרק אחד של חומצה היאלורונית ומזרק נוסף המכיל פפטידים, ויטמינים מקבוצת B, חומצה גמא-אמינובוטירית (GABA) ו-PDRN. רכיבים אלה מספקים יתרונות אנטי-אייג'ינג חזקים תוך תמיכה בתיקון העור ובלחותו. השימוש בחומצה היאלורונית מסווננת, במשקלים מולקולריים נמוכים, בינוניים וגבוהים, מספק אפקטים מרובים כגון לחות עמוקה וגמישות משופרת. ויטמינים מקבוצת B חיוניים לעור בריא וגמיש, ומקדמים שמירת לחות ותיקון רקמות פגועות. GABA מסייע להפחית את מראה הקמטים ולהחליק קווים עדינים, בעוד ש-PDRN תומך בהתחדשות רקמות. ניתן ליישם מוצר זה לאחר טיפולים אסתטיים כדי לסייע בהחלמת העור, או להשתמש בו באופן עצמאי להתחדשות העור.",
+    "technicalInfo": [
+      { "label": "רכיבים עיקריים", "value": "Sodium Hyaluronate, Calcium Pantothenate, Tocopherol, Thiamine HCL, Glycine, Glutathione, Aminobutyric acid, Sodium DNA, Arginine HCL, Leucine, Methionine, Phenylalanine, Serine, Lysine Hydrochloride, Glutamic acid, Riboflavin, Alanine, Histidine HCL, Valine, Proline, Pentapeptide-18, Acetyl Hexapeptide-8, Isoleucine, Aspartic Acid, Threonine, Tyrosine, Pyridoxine HCL, Tryptophan" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "drinxha", "title": "DrinxHa", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" },
+      { "slug": "giha", "title": "GiHa", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" },
+      { "slug": "vitalha", "title": "VitalHa", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" }
+    ],
+    "productImageAlt": "שילוב של חומצה היאלורונית ופפטידים, ויטמיני B, GABA ו-PDRN ליתרונות אנטי-אייג'ינג לאחר טיפולים אסתטיים"
+  },
+  "vitalha": {
+    "title": "VitalHa",
+    "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml",
+    "description": "הערכה כוללת מזרק אחד של חומצה היאלורונית ומזרק אחד המכיל פרפלואורודקלין, פנטנול, ביזבולול וגליקוגן. רכיבים אלה מציעים יתרונות של התאוששות ולחות, ומסייעים בתיקון אדמומיות לאחר פרוצדורות תוך מתן אפקטים מרגיעים ומשקיטים. חומצה היאלורונית מסווננת מספקת פעולת החלקה והתחדשות. פרפלואורודקלין בולט ביכולתו להמיס עד 49% מנפחו בחמצן, מה שמעלה את רמות החמצן ותומך בריפוי פצעים מהיר יותר. ביזבולול מסייע להעניק לחות לעור ולהקל על צריבה וגרד, בעוד שפנטנול מספק לחות משמעותית ומרגיע אדמומיות. מוצר זה מתאים לשימוש מיד לאחר הטיפול כדי לטפל באדמומיות העור ולהעניק לחות אינטנסיבית.",
+    "technicalInfo": [
+      { "label": "רכיבים עיקריים", "value": "Sodium Hyaluronate, Perfluorodecalin, Bisabolol, Glycyrrhetinic Acid, Glycogen, Panthenol, Sodium Carboxymethyl Betaglucan" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      { "slug": "hadefined", "title": "HaDefined", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" },
+      { "slug": "drinxha", "title": "DrinxHa", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" },
+      { "slug": "giha", "title": "GiHa", "category": "מזרק HA אחד של 1,5 ml - מזרק ריכוז אחד של 0,5 ml" }
+    ],
+    "productImageAlt": "קופסת מוצר ירוקה של Bonitto שעליה הכיתוב \"Vitalha\", עם שני מזרקים המונחים לפניה ומכילים חומר שקוף. הקופסה כוללת טקסט אודות חומצה היאלורונית ורכיבים נוספים."
+  },
+  "bonitto-celeste-forte-pl": {
+    "title": "Bonitto Celestè Forte PL",
+    "category": "בקבוקונים סטריליים",
+    "description": "הפורמולה של Bonitto Celestè Forte PL משלבת PLLA, CaHa, קולגן מסוג III ו-Dual HA כדי לספק אפקט עוצמתי ורב-שכבתי של הגברת קולגן. PLLA פועל כביוסטימולטור שמפעיל בהדרגה פיברובלסטים, ומעודד ייצור ארוך טווח של קולגן לצורך הידוק עור טבעי ושיקום נפח. CaHa מספק תמיכה מבנית מיידית תוך גירוי קולגן ושיפור המוצקות וההגדרה של העור. קולגן מסוג III תומך בתיקון עור בשלב המוקדם. זהו אחד הקולגנים הראשונים המופקים במהלך ריפוי הרקמות, ולכן הוא ממלא תפקיד בהתחדשות וחידוש העור. Dual HA מספק לחות מיידית ומלאות עדינה, ומשפר את החלקות והגמישות של העור כבר מהטיפול הראשון.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "PLLA (Poly-L-lactic Acid), CaHa (Calcium Hydroxyapatite), Collagen type III, and Dual Hyaluronic Acid (HA)" },
+      { "label": "נפח", "value": "3x5ml" }
+    ],
+    "effects": [
+      "לחות מרככת",
+      "הגדרה מעצבת",
+      "גמישות מעדנת",
+      "מוצקות מייצבת"
+    ],
+    "mainTarget": "גירוי קולגן",
+    "related": [],
+    "productImageAlt": "קופסה בטורקיז ולבן שעליה הכיתוב \"BONITTO CELESTE FORTE PL\", עם בקבוקון קטן לצידה. הקופסה מציינת שהמוצר מיועד לפנים ולגוף ומכילה שלושה בקבוקונים של 5 מ\"ל."
+  },
+  "bonitto-celeste-pl": {
+    "title": "Bonitto Celestè PL",
+    "category": "בקבוקונים סטריליים",
+    "description": "Bonitto Celestè PL הוא פורמולציה נוזלית מוכנה לשימוש המשלבת חומצה היאלורונית וחומצה פולילקטית. הוא נועד להעניק לחות עמוקה לעור, לשקם נפח שאבד ולעורר התחדשות תאית באמצעות הפעלת פיברובלסטים. הפורמולה מספקת אפקט מילוי מיידי תוך שיפור איכות העור הכללית. פתרון דו-פעולתי זה מטפל ביעילות בבעיות עור נפוצות כגון קמטים ואובדן נפח. בנוסף להחלקה ולמילוי, הוא תומך ומעצים את תהליכי ההתחדשות הטבעיים של העור, מקדם פעילות תאית מחודשת והתחדשות לאורך זמן.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "PLLA, Stabilized Sodium Hyaluronate Matrix" },
+      { "label": "נפח", "value": "2x10ml" }
+    ],
+    "effects": [
+      "עקביות הומוגנית",
+      "פיזור חלק ואחיד",
+      "ביצועים צפויים ומדויקים",
+      "יציבות מדויקת ואלגנטית",
+      "איזון בפורמולה יוצר איזון במראה"
+    ],
+    "mainTarget": "גירוי קולגן",
+    "related": [],
+    "productImageAlt": "קופסה בגווני טורקיז שעליה הכיתוב \"BONITTO CELESTE PL\" עם תמונה של שני בקבוקונים וטקסט \"Vials 2x10 mL.\" בקבוקון קטן תואם מונח מול הקופסה."
+  },
+  "bonitto-celeste-ultra-pn": {
+    "title": "Bonitto Celestè Ultra PN",
+    "category": "בקבוקונים סטריליים",
+    "description": "הפורמולה של Bonitto Celestè Ultra PN משלבת PLLA, CaHa, קולגן מסוג III, ארגינין, Hexapeptide-40, sh-Polypeptide-76 ו-Dual HA כדי לספק אפקט עוצמתי ורב-שכבתי של הגברת קולגן. PLLA פועל כביוסטימולטור שמפעיל בהדרגה פיברובלסטים, ומעודד ייצור ארוך טווח של קולגן לצורך הידוק עור טבעי ושיקום נפח. CaHa מספק תמיכה מבנית מיידית תוך גירוי קולגן ושיפור המוצקות וההגדרה של העור. ארגינין מסייע לשיפור זרימת הדם בעור, להגברת ייצור הקולגן ולתמיכה בתיקון, מה שמוביל לעור מוצק יותר, בריא יותר וזוהר יותר. Hexapeptide-40 מסייע להגביר קולגן, לשפר את מרקם העור ולתמוך בהתחדשות, עבור עור חלק יותר, מוצק יותר וצעיר יותר למראה. sh-Polypeptide-76 תומך בהתחדשות העור, מגביר קולגן ומשפר את המרקם עבור עור מוצק יותר, חלק יותר וזוהר יותר. קולגן מסוג III תומך בתיקון עור בשלב המוקדם. זהו אחד הקולגנים הראשונים המופקים במהלך ריפוי הרקמות, ולכן הוא ממלא תפקיד בהתחדשות וחידוש העור. Dual HA מספק לחות מיידית ומלאות עדינה, ומשפר את החלקות והגמישות של העור כבר מהטיפול הראשון.",
+    "technicalInfo": [
+      { "label": "רכיבים פעילים", "value": "PLLA (Poly-L-lactic Acid), CaHa (Calcium Hydroxyapatite), Collagen type III, Arginine, Hexapeptide-40 , sh-Polypeptide-76 ,and Dual Hyaluronic Acid (HA)" },
+      { "label": "נפח", "value": "3x5ml" }
+    ],
+    "effects": [
+      "גירוי קולגן עמוק",
+      "תוצאות אנטי-אייג'ינג לאורך זמן",
+      "לחות וזוהר משופרים",
+      "מוצקות והרמה משופרות"
+    ],
+    "mainTarget": "גירוי קולגן",
+    "related": [],
+    "productImageAlt": "קופסת Bonitto Celeste Ultra PN בגווני טורקיז וירוק עם טקסט לבן, הכוללת בקבוקון קטן עם הכיתוב \"Bonitto\" מלפנים. האריזה מציינת \"Face & Body,\" ומכילה 3 בקבוקונים של 5 מ\"ל כל אחד."
+  }
+}

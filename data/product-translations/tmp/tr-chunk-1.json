@@ -1,0 +1,509 @@
+{
+  "n-01-bonitto-pro-age-fine": {
+    "title": "01 PRO AGE FINE",
+    "category": "Dolgular",
+    "description": "BONITTO® 01 PRO AGE FINE, yüzeyel kırışıklıkların ve orta düzeydeki cilt kusurlarının tedavisi için tasarlanmış, çapraz bağlı hyalüronik asit içeren ultra-plastik bir jeldir. Glabella, ağız ve göz çevresindeki kırışıklıklar, boyun, eller ve göz altı (tear trough) bölgelerinin düzeltilmesi için özel olarak geliştirilmiştir. Jel, doku hacmini artırarak doğal hacimsel düzeltme sağlar ve daha zarif, gençleşmiş bir görünüm elde edilmesini sağlar.",
+    "technicalInfo": [
+      {
+        "label": "Hacim",
+        "value": "1 x 1 ml"
+      },
+      {
+        "label": "İğne",
+        "value": "2 x 30 G"
+      },
+      {
+        "label": "Konsantrasyon",
+        "value": "20 mg/ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "n-02-bonitto-lips-plum",
+        "title": "02 LIPS PLUMP",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-03-bonitto-age-solution",
+        "title": "03 AGE SOLUTION",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-04-bonitto-face-sculpt",
+        "title": "04 FACE SCULPT",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-05-bonitto-volume",
+        "title": "05 VOLUME",
+        "category": "Dolgular"
+      }
+    ],
+    "productImageAlt": "BONITTO® 01 PRO AGE FINE: göz, ağız ve boyun çevresindeki ince çizgileri yumuşatmak için kırışıklık dolgusu.",
+    "campaignImageAlt": "Açık tenli, saçları geriye toplanmış bir kadın omzunun üzerinden bakıyor. Gözlerinin ötesine uzanan, kaşlarını ve göz kapaklarını çevreleyen çarpıcı turkuaz makyajı var. Nötr bir arka plan karşısında ifadesi huzurlu."
+  },
+  "n-02-bonitto-lips-plum": {
+    "title": "02 LIPS PLUMP",
+    "category": "Dolgular",
+    "description": "BONITTO® 02 LIPS PLUMP, yumuşak dokuların hacmini artırmak ve orta ile derin kırışıklıkları düzeltmek için tasarlanmış, çapraz bağlı hyalüronik asit içeren ultra-pürüzsüz bir jeldir. Dudakların konturlanması ve hacimlendirilmesinin yanı sıra ağız çevresindeki yumuşak doku kusurları, kukla çizgileri ve sarkmış ağız köşelerinin düzeltilmesi için özel olarak formüle edilmiştir.",
+    "technicalInfo": [
+      {
+        "label": "Hacim",
+        "value": "1 × 1 ml"
+      },
+      {
+        "label": "İğne",
+        "value": "2 x 27 G"
+      },
+      {
+        "label": "Konsantrasyon",
+        "value": "21 mg/ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "n-01-bonitto-pro-age-fine",
+        "title": "01 PRO AGE FINE",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-03-bonitto-age-solution",
+        "title": "03 AGE SOLUTION",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-04-bonitto-face-sculpt",
+        "title": "04 FACE SCULPT",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-05-bonitto-volume",
+        "title": "05 VOLUME",
+        "category": "Dolgular"
+      }
+    ],
+    "productImageAlt": "BONITTO® 02 LIPS PLUMP: dudak hacmi ve kırışıklık düzeltme için ultra-pürüzsüz hyalüronik asit dudak dolgusu",
+    "campaignImageAlt": "Artistlik makyaj yapılmış bir kadının yakın çekimi. Belirgin kaşları, burnunda dikey siyah bir çizgi, bir gözünde turkuaz far ve üst dudağında uyumlu turkuaz makyaj var. Elleri yüzüne nazikçe dokunuyor ve ifadesi huzurlu."
+  },
+  "n-03-bonitto-age-solution": {
+    "title": "03 AGE SOLUTION",
+    "category": "Dolgular",
+    "description": "BONITTO® 03 AGE SOLUTION, yumuşak dokuların hacmini geri kazandırmak veya artırmak ve derin kırışıklıklar ile cilt oluklarını düzeltmek için tasarlanmış, çapraz bağlı hyalüronik asit içeren ultra-pürüzsüz bir jeldir. Ayrıca burun sırtı, çene, nazolabiyal çizgiler ve kukla çizgileri gibi bölgelerde yüz şeklini konturlamak için formüle edilmiştir. Jel, doku hacmini artırarak belirgin hacimsel düzeltme sağlar ve daha belirgin, gençleşmiş bir görünüm elde edilmesini sağlar.",
+    "technicalInfo": [
+      {
+        "label": "Hacim",
+        "value": "1 × 1 ml"
+      },
+      {
+        "label": "İğne",
+        "value": "2 x 27 G"
+      },
+      {
+        "label": "Konsantrasyon",
+        "value": "24 mg/ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "n-01-bonitto-pro-age-fine",
+        "title": "01 PRO AGE FINE",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-02-bonitto-lips-plum",
+        "title": "02 LIPS PLUMP",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-04-bonitto-face-sculpt",
+        "title": "04 FACE SCULPT",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-05-bonitto-volume",
+        "title": "05 VOLUME",
+        "category": "Dolgular"
+      }
+    ],
+    "productImageAlt": "BONITTO® 03 AGE SOLUTION: cerrahi müdahalesiz çene büyütme ve yüz hacmi geri kazanımı için burun ve çene dolgusu.",
+    "campaignImageAlt": "Zarif bir saç stiline sahip bir kadının çarpıcı turkuaz makyajı var; alnından burnuna uzanan bir çizgi ve gözlerinden dışa doğru uzanan dramatik eyeliner dikkat çekiyor. Arka plan yumuşak gri ve ifadesi huzurlu."
+  },
+  "n-04-bonitto-face-sculpt": {
+    "title": "04 FACE SCULPT",
+    "category": "Dolgular",
+    "description": "BONITTO® 04 FACE SCULPT, yumuşak doku hacmini ve yüz hatlarını artırmak için özel olarak formüle edilmiş, güçlü ve yüksek konsantrasyonlu çapraz bağlı hyalüronik asit jelidir. Çene hattı, çene ve elmacık bölgeleri dahil olmak üzere yüz hatlarını şekillendirmek ve belirginleştirmek için tasarlanmıştır.",
+    "technicalInfo": [
+      {
+        "label": "Hacim",
+        "value": "1 × 1 ml"
+      },
+      {
+        "label": "İğne",
+        "value": "2 x 25 G"
+      },
+      {
+        "label": "Konsantrasyon",
+        "value": "26 mg/ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "n-01-bonitto-pro-age-fine",
+        "title": "01 PRO AGE FINE",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-02-bonitto-lips-plum",
+        "title": "02 LIPS PLUMP",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-03-bonitto-age-solution",
+        "title": "03 AGE SOLUTION",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-05-bonitto-volume",
+        "title": "05 VOLUME",
+        "category": "Dolgular"
+      }
+    ],
+    "productImageAlt": "BONITTO® 04 FACE SCULPT: konturları şekillendirmek ve hacim eklemek için güçlü hyalüronik asit yüz dolgu jeli.",
+    "campaignImageAlt": "Bir kişinin yüzünün yakın çekimi: yanağında doğal cilt tonuyla kontrast oluşturan çarpıcı yeşil çapraz makyaj çizgisi var. Odak noktası göz ve artistik makyaj uygulaması."
+  },
+  "n-05-bonitto-volume": {
+    "title": "05 VOLUME",
+    "category": "Dolgular",
+    "description": "BONITTO® 05 VOLUME, yumuşak dokuların hacmini geri kazandırmak veya artırmak ve vücut yüzeyini konturlamak için tasarlanmış, çapraz bağlı, yüksek konsantrasyonlu hyalüronik asit jelidir. Yaygın atrofiler, liposuction (yağ alma) tedavilerinden kaynaklanan düzensizlikler ve hacimsel vücut tedavileri için idealdir. Bu ürün özellikle kalça, baldır ve eller gibi bölgelerin konturlanmasında etkilidir. Doku hacminde önemli bir artış sağlayarak belirgin hacimsel düzeltme sunar ve tedavi edilen bölgeyi istenen şekle kavuşturur. Etkinin görünürlüğü ve kalıcılığı, uygulama derinliğine ve cildin başlangıçtaki durumuna bağlıdır.",
+    "technicalInfo": [
+      {
+        "label": "Hacim",
+        "value": "1 × 10 ml"
+      },
+      {
+        "label": "Konsantrasyon",
+        "value": "20 mg/ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "n-01-bonitto-pro-age-fine",
+        "title": "01 PRO AGE FINE",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-02-bonitto-lips-plum",
+        "title": "02 LIPS PLUMP",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-03-bonitto-age-solution",
+        "title": "03 AGE SOLUTION",
+        "category": "Dolgular"
+      },
+      {
+        "slug": "n-04-bonitto-face-sculpt",
+        "title": "04 FACE SCULPT",
+        "category": "Dolgular"
+      }
+    ],
+    "productImageAlt": "BONITTO® 05 VOLUME - çapraz bağlı, yüksek konsantrasyonlu hyalüronik asit dolgusu",
+    "campaignImageAlt": "BONITTO® 05 VOLUME - sarkık cilt, vücut şekillendirme, konturlama, kalça büyütme, baldır şekli düzeltme dolgusu"
+  },
+  "01-lush-bloom": {
+    "title": "01 LUSH BLOOM",
+    "category": "Çapraz Bağlı Hyalüronik Asit",
+    "description": "BONITTO® 01 LUSH BLOOM 22 mg/ml, zamanla emilen biyolojik olarak parçalanabilir çapraz bağlı hyalüronik asit hidrojelidir; dudak submukozasına veya yüzeyel dermise enjekte edilerek yumuşak dokuların kaybolan hacmini geri kazandırması amaçlanmıştır. Dudak submukozasına veya yüzeyel dermise enjekte edilen BDDE ile çapraz bağlı 22 mg/ml hyalüronik asit hidrojeli, yüzün incelen yumuşak dokularına geçici olarak hacim ekler.",
+    "technicalInfo": [
+      {
+        "label": "Hacim",
+        "value": "2 x 1 ml"
+      },
+      {
+        "label": "İğne",
+        "value": "4 x 30 G"
+      },
+      {
+        "label": "Konsantrasyon",
+        "value": "22 mg/ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "02-lover-touch": {
+    "title": "02 LOVER TOUCH",
+    "category": "Çapraz Bağlı Hyalüronik Asit",
+    "description": "BONITTO® 02 LOVER TOUCH 24 mg/ml, zamanla emilen biyolojik olarak parçalanabilir çapraz bağlı hyalüronik asit hidrojelidir; orta ve derin dermise enjekte edilerek yumuşak dokuların kaybolan hacmini geri kazandırması amaçlanmıştır. Orta ve derin dermise enjekte edilen BDDE ile çapraz bağlı 24 mg/ml hyalüronik asit hidrojeli, yüzün incelen yumuşak dokularına geçici olarak hacim ekler.",
+    "technicalInfo": [
+      {
+        "label": "Hacim",
+        "value": "2 x 1 ml"
+      },
+      {
+        "label": "İğne",
+        "value": "4 x 27 G"
+      },
+      {
+        "label": "Konsantrasyon",
+        "value": "24 mg/ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "03-lift-up": {
+    "title": "03 LIFT UP",
+    "category": "Çapraz Bağlı Hyalüronik Asit",
+    "description": "BONITTO® 03 LIFT UP 26 mg/ml, zamanla emilen biyolojik olarak parçalanabilir çapraz bağlı hyalüronik asit hidrojelidir; derin dermise veya subkutan dokuya enjekte edilerek yumuşak dokuların kaybolan hacmini geri kazandırması amaçlanmıştır. Derin dermise veya subkutan dokuya enjekte edilen BDDE ile çapraz bağlı 26 mg/ml hyalüronik asit hidrojeli, yüzün incelen yumuşak dokularına geçici olarak hacim ekler.",
+    "technicalInfo": [
+      {
+        "label": "Hacim",
+        "value": "2 x 1 ml"
+      },
+      {
+        "label": "İğne",
+        "value": "4 x 27 G"
+      },
+      {
+        "label": "Konsantrasyon",
+        "value": "26 mg/ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": []
+  },
+  "04-level-max": {
+    "title": "04 LEVEL MAX",
+    "category": "Çapraz Bağlı Hyalüronik Asit",
+    "description": "BONITTO® 04 LEVEL MAX 28 mg/ml, zamanla emilen biyolojik olarak parçalanabilir çapraz bağlı hyalüronik asit hidrojelidir; subkutan dokuya enjekte edilerek yumuşak dokuların kaybolan hacmini geri kazandırması amaçlanmıştır. Subkutan dokuya enjekte edilen BDDE ile çapraz bağlı 28 mg/ml hyalüronik asit hidrojeli, yüzün incelen yumuşak dokularına geçici olarak hacim ekler.",
+    "technicalInfo": [
+      {
+        "label": "Hacim",
+        "value": "2 x 1 ml"
+      },
+      {
+        "label": "İğne",
+        "value": "4 x 25 G"
+      },
+      {
+        "label": "Konsantrasyon",
+        "value": "28 mg/ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "\"Bonitto 04 Level Max\" etiketli bir kutu, berrak sıvıyla dolu bir şırınganın yanında dik duruyor. Ambalaj, 28mg/ml çapraz bağlı hyalüronik asit içerdiğini belirtiyor ve şık, modern bir tasarımla turkuaz ve siyah renklerine sahip."
+  },
+  "drinxha": {
+    "title": "DrinxHa",
+    "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga",
+    "description": "Kit, 1 şırınga Hyalüronik Asit ile 1 şırınga Traneksamik Asit, Alfa-Arbutin ve Glutatyon içerir. Bu kombinasyon ikili fayda sağlar: hyalüronik asit derin nemlendirme ve hacimlendirme sunarken, Alfa-Arbutin, Glutatyon ve Traneksamik Asit güçlü aydınlatıcı etkiler, pigmentasyon azaltma ve antioksidan koruma sağlar. Alfa-Arbutin, Traneksamik Asit ve Glutatyon gibi bileşenler hiperpigmentasyonun azaltılmasına yardımcı olur. Alfa-Arbutin, melanin üretimini inhibe eder ve Beta-Arbutin'den 10 kat daha etkilidir. Traneksamik Asit, UV kaynaklı pigmentasyonu ve tirozinaz aktivitesini bloke ederek koyu lekeleri azaltır. Glutatyon, serbest radikalleri nötralize ederek ve kolajen üretimini teşvik ederek cildi güneş hasarına, dehidrasyona ve yaşlanmaya karşı korur.",
+    "technicalInfo": [
+      {
+        "label": "Ana Bileşenler",
+        "value": "Sodium Hyaluronate, Alpha-arbutin, Glutathione, Tranexamic Acid"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "giha",
+        "title": "GiHa",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      },
+      {
+        "slug": "hadefined",
+        "title": "HaDefined",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      },
+      {
+        "slug": "vitalha",
+        "title": "VitalHa",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      }
+    ],
+    "productImageAlt": "Üzerinde \"Bonitto\" yazan yeşil bir kutu, yanında dik duran iki şırıngayla birlikte. Kutuda \"DRINxHA\" metni görülüyor."
+  },
+  "giha": {
+    "title": "GiHa",
+    "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga",
+    "description": "Kit, bir şırınga hyalüronik asit ve vitamin C, vitamin PP ve PDRN içeren bir şırınga içerir. Bu bileşenler cilt için antioksidan faydalarla birlikte güçlü aydınlatıcı ve ağartıcı etkiler sağlar. Düşük, orta ve yüksek molekül ağırlıklı sonike edilmiş hyalüronik asit, stimülasyon ve artan elastikiyet dahil olmak üzere çok sayıda fayda sunar. C vitamini, cilt tonunu aydınlatmaya ve eşitlemeye yardımcı olan antioksidan ve yaşlanma karşıtı özellikler sunar. PP vitamini, cilt bariyerini güçlendiren, nemlenmeye yardımcı olan ve cildi normalleştirmeye katkı sağlayan güçlü bir vitamindir. PDRN, doku onarımını ve yenilenmesini destekler. Bu ürün, güçlü bir aydınlatma etkisi elde etmek için tedavi sonrasında hemen uygulanabilir.",
+    "technicalInfo": [
+      {
+        "label": "Ana Bileşenler",
+        "value": "Sodium Hyaluronate, 3-O-ethyl Ascorbic Acid, Niacinamide, Sodium DNA"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "vitalha",
+        "title": "VitalHa",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      },
+      {
+        "slug": "hadefined",
+        "title": "HaDefined",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      },
+      {
+        "slug": "drinxha",
+        "title": "DrinxHa",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      }
+    ],
+    "productImageAlt": "Üzerinde \"BONITTO\" yazan turkuaz bir kutu ve altında \"GiHA\" yazıyor. Kutunun önünde şeffaf bir sıvıyla dolu iki şırınga var. Kutu, Snakebee, Hyalüronik Asit, C Vitamini, P1 Vitamini, FGFN gibi bileşenlerden bahsediyor."
+  },
+  "hadefined": {
+    "title": "HaDefined",
+    "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga",
+    "description": "Kit, bir şırınga hyalüronik asit ve bir diğerinde peptitler, B vitaminleri, gama-aminobütirik asit (GABA) ve PDRN içeren bir şırınga içerir. Bu bileşenler, cilt onarımını ve nemlenmeyi desteklerken güçlü yaşlanma karşıtı faydalar sağlar. Düşük, orta ve yüksek molekül ağırlıklı sonike edilmiş hyalüronik asit kullanımı, derin nemlendirme ve artan elastikiyet gibi çok sayıda etki sunar. B vitaminleri, sağlıklı ve dirençli bir cilt için gereklidir; nem tutulmasını ve hasarlı dokunun onarımını destekler. GABA, kırışıklıkların görünümünü azaltmaya ve ince çizgileri yumuşatmaya yardımcı olurken, PDRN doku yenilenmesini destekler. Bu ürün, cilt iyileşmesine yardımcı olmak için estetik tedavilerden sonra uygulanabilir veya cilt yenileme için bağımsız olarak kullanılabilir.",
+    "technicalInfo": [
+      {
+        "label": "Ana Bileşenler",
+        "value": "Sodium Hyaluronate, Calcium Pantothenate, Tocopherol, Thiamine HCL, Glycine, Glutathione, Aminobutyric acid, Sodium DNA, Arginine HCL, Leucine, Methionine, Phenylalanine, Serine, Lysine Hydrochloride, Glutamic acid, Riboflavin, Alanine, Histidine HCL, Valine, Proline, Pentapeptide-18, Acetyl Hexapeptide-8, Isoleucine, Aspartic Acid, Threonine, Tyrosine, Pyridoxine HCL, Tryptophan"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "drinxha",
+        "title": "DrinxHa",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      },
+      {
+        "slug": "giha",
+        "title": "GiHa",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      },
+      {
+        "slug": "vitalha",
+        "title": "VitalHa",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      }
+    ],
+    "productImageAlt": "Estetik tedaviler sonrası yaşlanma karşıtı faydalar için hyalüronik asit ve peptitler, B vitaminleri, GABA ve PDRN karışımı"
+  },
+  "vitalha": {
+    "title": "VitalHa",
+    "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga",
+    "description": "Kit, bir şırınga hyalüronik asit ve perflorodekalin, pantenol, bisabolol ve glikojen içeren bir şırınga içerir. Bu bileşenler, işlem sonrası kızarıklığın onarılmasına yardımcı olurken yatıştırıcı ve sakinleştirici etkiler sağlayan iyileşme ve nemlendirme faydaları sunar. Sonike edilmiş hyalüronik asit, pürüzsüzleştirici ve canlandırıcı bir etki sağlar. Perflorodekalin, hacminin %49'una kadar oksijeni çözme kapasitesiyle dikkat çeker; bu da oksijen seviyelerini artırır ve daha hızlı yara iyileşmesini destekler. Bisabolol cildin nemlenmesine yardımcı olur ve yanma ile kaşıntıyı hafifletir; pantenol ise önemli ölçüde nem sağlar ve kızarıklığı yatıştırır. Bu ürün, cilt kızarıklığını gidermek ve yoğun nemlendirme sağlamak için tedavi sonrasında hemen kullanıma uygundur.",
+    "technicalInfo": [
+      {
+        "label": "Ana Bileşenler",
+        "value": "Sodium Hyaluronate, Perfluorodecalin, Bisabolol, Glycyrrhetinic Acid, Glycogen, Panthenol, Sodium Carboxymethyl Betaglucan"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [
+      {
+        "slug": "hadefined",
+        "title": "HaDefined",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      },
+      {
+        "slug": "drinxha",
+        "title": "DrinxHa",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      },
+      {
+        "slug": "giha",
+        "title": "GiHa",
+        "category": "1,5 ml'lik 1 HA Şırıngası - 0,5 ml'lik 1 Konsantre Şırınga"
+      }
+    ],
+    "productImageAlt": "Üzerinde \"Vitalha\" yazan yeşil Bonitto ürün kutusu, önünde şeffaf bir madde içeren iki şırınga yer alıyor. Kutu, hyalüronik asit ve diğer bileşenler hakkında bilgiler içeriyor."
+  },
+  "bonitto-celeste-forte-pl": {
+    "title": "Bonitto Celestè Forte PL",
+    "category": "Steril Flakonlar",
+    "description": "Bonitto Celestè Forte PL formülü, güçlü çok katmanlı kolajen artırıcı bir etki sunmak için PLLA, CaHa, Tip III Kolajen ve Dual HA'yı birleştirir. PLLA, fibroblastları kademeli olarak aktive eden bir biyostimülatör olarak çalışır ve doğal cilt sıkılaşması ile hacim geri kazanımı için uzun vadeli kolajen üretimini teşvik eder. CaHa, anında yapısal destek sağlarken aynı zamanda kolajeni uyarır ve cilt sıkılığını ile belirginliğini iyileştirir. Tip III kolajen, erken dönem cilt onarımını destekler. Doku iyileşmesi sırasında üretilen ilk kolajenlerden biridir, bu nedenle cilt yenilenmesi ve yeniden yapılanmada rol oynar. Dual HA, ilk uygulamadan itibaren cilt pürüzsüzlüğünü ve elastikiyetini iyileştirerek anında nemlendirme ve hafif hacimlendirme sağlar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif Bileşenler",
+        "value": "PLLA (Poly-L-lactic Acid), CaHa (Calcium Hydroxyapatite), Collagen type III, and Dual Hyaluronic Acid (HA)"
+      },
+      {
+        "label": "Hacim",
+        "value": "3x5ml"
+      }
+    ],
+    "effects": [
+      "Hidrasyon yumuşatır",
+      "Kontur şekillendirir",
+      "Elastikiyet rafine eder",
+      "Sıkılık stabilize eder"
+    ],
+    "mainTarget": "Kolajen stimülasyonu",
+    "related": [],
+    "productImageAlt": "Üzerinde \"BONITTO CELESTE FORTE PL\" yazan turkuaz ve beyaz bir kutu, yanında küçük bir flakon var. Kutu, ürünün yüz ve vücut için olduğunu ve üç adet 5 ml'lik flakon içerdiğini belirtiyor."
+  },
+  "bonitto-celeste-pl": {
+    "title": "Bonitto Celestè PL",
+    "category": "Steril Flakonlar",
+    "description": "Bonitto Celestè PL, Hyalüronik Asit ve Polilaktik Asidi birleştiren, kullanıma hazır sıvı bir formülasyondur. Cildi derinlemesine nemlendirmek, kaybolan hacmi geri kazandırmak ve fibroblastları aktive ederek hücresel yenilenmeyi uyarmak için tasarlanmıştır. Formül, genel cilt kalitesinin iyileştirilmesine yardımcı olurken anında hacimlendirme etkisi sunar. Bu çift etkili çözüm, kırışıklıklar ve hacim kaybı gibi yaygın cilt sorunlarını etkili bir şekilde ele alır. Pürüzsüzleştirme ve hacimlendirmenin yanı sıra, cildin doğal yenilenme süreçlerini destekler ve güçlendirir, yenilenen hücre aktivitesini ve daha uzun vadeli gençleşmeyi teşvik eder.",
+    "technicalInfo": [
+      {
+        "label": "Aktif Bileşenler",
+        "value": "PLLA, Stabilized Sodium Hyaluronate Matrix"
+      },
+      {
+        "label": "Hacim",
+        "value": "2x10ml"
+      }
+    ],
+    "effects": [
+      "Homojen kıvam",
+      "Pürüzsüz ve eşit dağılım",
+      "Öngörülebilir ve rafine performans",
+      "Zarif hassasiyet ve stabilite",
+      "Formüldeki denge, görünümde denge yaratır"
+    ],
+    "mainTarget": "Kolajen stimülasyonu",
+    "related": [],
+    "productImageAlt": "Üzerinde \"BONITTO CELESTE PL\" yazan turkuaz bir kutu, iki flakon görseli ve \"Vials 2x10 mL.\" metniyle birlikte. Kutunun önüne küçük uyumlu bir flakon yerleştirilmiş."
+  },
+  "bonitto-celeste-ultra-pn": {
+    "title": "Bonitto Celestè Ultra PN",
+    "category": "Steril Flakonlar",
+    "description": "Bonitto Celestè Ultra PN formülü, güçlü çok katmanlı kolajen artırıcı bir etki sunmak için PLLA, CaHa, Tip III Kolajen, Arginin, Heksapeptit-40, Sh-Polipeptit-76 ve Dual HA'yı birleştirir. PLLA, fibroblastları kademeli olarak aktive eden bir biyostimülatör olarak çalışır ve doğal cilt sıkılaşması ile hacim geri kazanımı için uzun vadeli kolajen üretimini teşvik eder. CaHa, anında yapısal destek sağlarken aynı zamanda kolajeni uyarır ve cilt sıkılığını ile belirginliğini iyileştirir. Arginin, cilt dolaşımını iyileştirmeye, kolajen üretimini artırmaya ve onarımı desteklemeye yardımcı olarak daha sıkı, daha sağlıklı ve daha ışıltılı bir cilt sağlar. Heksapeptit-40, kolajeni artırmaya, cilt dokusunu iyileştirmeye ve yenilenmeyi desteklemeye yardımcı olarak daha pürüzsüz, daha sıkı ve daha genç görünümlü bir cilt sunar. Sh-Polipeptit-76, cilt yenilenmesini destekler, kolajeni artırır ve daha sıkı, daha pürüzsüz ve daha ışıltılı bir cilt için dokuyu iyileştirir. Tip III kolajen, erken dönem cilt onarımını destekler. Doku iyileşmesi sırasında üretilen ilk kolajenlerden biridir, bu nedenle cilt yenilenmesi ve yeniden yapılanmada rol oynar. Dual HA, ilk uygulamadan itibaren cilt pürüzsüzlüğünü ve elastikiyetini iyileştirerek anında nemlendirme ve hafif hacimlendirme sağlar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif Bileşenler",
+        "value": "PLLA (Poly-L-lactic Acid), CaHa (Calcium Hydroxyapatite), Collagen type III, Arginine, Hexapeptide-40 , sh-Polypeptide-76 ,and Dual Hyaluronic Acid (HA)"
+      },
+      {
+        "label": "Hacim",
+        "value": "3x5ml"
+      }
+    ],
+    "effects": [
+      "Derin kolajen stimülasyonu",
+      "Uzun süreli yaşlanma karşıtı sonuçlar",
+      "Gelişmiş hidrasyon ve ışıltı",
+      "İyileştirilmiş sıkılık ve kaldırma etkisi"
+    ],
+    "mainTarget": "Kolajen stimülasyonu",
+    "related": [],
+    "productImageAlt": "Üzerinde beyaz metin bulunan turkuaz ve yeşil Bonitto Celestè Ultra PN kutusu, önünde \"Bonitto\" etiketli küçük bir flakon var. Paket, \"Face & Body\" ifadesini ve her biri 5 ml olan 3 flakon içerdiğini belirtiyor."
+  }
+}

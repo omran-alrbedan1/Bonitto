@@ -37,6 +37,11 @@
     "target": "Основная цель",
     "relatedProducts": "Похожие продукты",
     "contactDistributor": "Связаться для дистрибуции",
-    "downloadDatasheet": "Скачать паспорт продукта"
-  }
+    "downloadDatasheet": "Скачать паспорт продукта",
+    "home": "Главная",
+    "discoverMore": "Узнать больше",
+    "noProducts": "В этой категории товары не найдены.",
+    "treatmentAlt": "Процедура {title}"
+  },
+  "categoriesPrefix": "Категория"
 }

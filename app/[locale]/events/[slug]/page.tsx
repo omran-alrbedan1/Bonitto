@@ -56,9 +56,9 @@ export default async function EventDetailPage({ params }: { params: Promise<{ lo
       <section className="block-image section-md">
         <img className="block-image-value" src={event.image} alt={event.alt} />
       </section>
-
+            
       {event.videos?.map((video) => (
-        <section className="block-video section-md" key={video}>
+        <section className="block-video !mt-12 md:mt-0 section-md" key={video}>
           <video className="full-height" controls autoPlay muted playsInline loop>
             <source src={video} type="video/webm" />
             {t('eventDetails.videoFallback')}
@@ -67,7 +67,7 @@ export default async function EventDetailPage({ params }: { params: Promise<{ lo
       ))}
 
       {event.gallery?.map((image) => (
-        <section className="block-image section-md" key={image.desktop}>
+        <section className="block-image section-md !mt-12 md:mt-0" key={image.desktop}>
           <picture>
             <source media="(min-width:992px)" srcSet={image.desktop} />
             <img className="block-image-value" src={image.mobile} alt={image.alt} />

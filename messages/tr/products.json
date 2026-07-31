@@ -37,6 +37,11 @@
     "target": "Ana Hedef",
     "relatedProducts": "İlgili Ürünler",
     "contactDistributor": "Dağıtım İçin İletişim",
-    "downloadDatasheet": "Bilgi Formunu İndir"
-  }
+    "downloadDatasheet": "Bilgi Formunu İndir",
+    "home": "Ana Sayfa",
+    "discoverMore": "Daha fazlası",
+    "noProducts": "Bu kategoride ürün bulunamadı.",
+    "treatmentAlt": "{title} uygulaması"
+  },
+  "categoriesPrefix": "Kategori"
 }

@@ -37,6 +37,11 @@
     "target": "Bersaglio Principale",
     "relatedProducts": "Prodotti Correlati",
     "contactDistributor": "Contatto per Distribuzione",
-    "downloadDatasheet": "Scarica Scheda Tecnica"
-  }
+    "downloadDatasheet": "Scarica Scheda Tecnica",
+    "home": "Home",
+    "discoverMore": "Scopri di più",
+    "noProducts": "Nessun prodotto trovato in questa categoria.",
+    "treatmentAlt": "Trattamento {title}"
+  },
+  "categoriesPrefix": "Categoria"
 }

@@ -1,0 +1,963 @@
+{
+  "age": {
+    "title": "AGE+",
+    "category": "Sterile Durchstechflaschen",
+    "description": "AGE+ ist eine sterile kosmetische Lösung, die die Haut verjüngt und revitalisiert, indem sie sichtbare Zeichen der Hautalterung reduziert. Sie minimiert feine Linien und Fältchen, verbessert die Hautglätte und beugt weiterer Hautalterung durch ihre einzigartige Mischung aktiver Wirkstoffe vor. Durch die Zufuhr essenzieller Nährstoffe und intensiver Feuchtigkeit fördert sie die allgemeine Hautgesundheit und sorgt für ein jugendliches und strahlendes Erscheinungsbild.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5ml"
+      }
+    ],
+    "effects": [
+      "Reduzierung feiner Linien und Fältchen",
+      "Verbesserte Hautstruktur",
+      "Erhöhte Feuchtigkeitsversorgung",
+      "Revitalisierung",
+      "Vorbeugung künftiger Zeichen der Hautalterung"
+    ],
+    "mainTarget": "Anti-Aging",
+    "related": [
+      {
+        "slug": "collagen-ultra",
+        "title": "COLLAGEN ULTRA",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "pro-age",
+        "title": "PRO AGE",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "exogenix",
+        "title": "EXOGENIX",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Ein Produktbild mit einer kleinen, mit „Bonitto Age+“ beschrifteten Durchstechflasche neben einer passenden türkis verlaufenden Verpackungsbox mit derselben Beschriftung. Das Design ist elegant und minimalistisch, mit dem Text „A drop of brilliance“ oben auf der Box."
+  },
+  "btx": {
+    "title": "BTX+",
+    "category": "Sterile Durchstechflaschen",
+    "description": "BTX+ ist eine sterile kosmetische Lösung, die dazu beiträgt, sichtbare Zeichen der Hautalterung zu verhindern und zu reduzieren, insbesondere Mimikfalten. DMAE ist bekannt für seine hautstraffenden Wirkungen. Es wirkt, indem es die Zellmembranen stabilisiert und den Muskeltonus verbessert, was zu einem festeren und gestraffteren Erscheinungsbild der Haut führt.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Acetyl Hexapeptide-8 (Argireline), Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Reduziert Falten",
+      "Glättet feine Linien",
+      "Verbessert die Hautstruktur",
+      "Verleiht ein jugendliches Erscheinungsbild"
+    ],
+    "mainTarget": "Lifting",
+    "related": [
+      {
+        "slug": "btx-2-0",
+        "title": "BTX 2.0",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Bild eines Bonitto BTX+ Produktsets vor weißem Hintergrund. Das Set umfasst eine kleine Durchstechflasche und eine Verpackungsbox, beide in einem Farbverlauf aus Blau- und Grüntönen, mit sichtbarem Markennamen „Bonitto“ und Produktbezeichnung „BTX+“."
+  },
+  "btx-2-0": {
+    "title": "BTX 2.0",
+    "category": "Sterile Durchstechflaschen",
+    "description": "BTX 2.0 ist eine sterile kosmetische Lösung zur Reduzierung von Zeichen der Hautalterung, einschließlich der Vorbeugung von Falten und anderer altersbedingter Hautprobleme. Diese sterile kosmetische Lösung enthält einen leistungsstarken Ageless-Komplex, der einen umfassenden Ansatz zur Faltenreduzierung bietet, die Kollagenproduktion steigert und die Feuchtigkeitsversorgung der Haut verbessert – für glattere, festere und jünger wirkende Haut.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Hydroxyproline, Acetyl Octapeptide-3, Pentapeptide-18, Proline, Glycine, Succinic Acid"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Reduzierung von Falten",
+      "Vorbeugung der Hautalterung",
+      "Feuchtigkeitsversorgung",
+      "Straffung und Festigung der Haut",
+      "Verbesserung der Hautstruktur",
+      "Unterstützung der natürlichen Hautreparatur"
+    ],
+    "mainTarget": "Lifting",
+    "related": [
+      {
+        "slug": "btx",
+        "title": "BTX+",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Ein Produktbild mit einer türkis-weißen, mit „BONITTO BTX 2.0“ beschrifteten Box neben einer kleinen, Flüssigkeit enthaltenden Durchstechflasche, ebenfalls mit der Aufschrift „BONITTO BTX 2.0“. Die Durchstechflasche und die Box sind vor einem weißen Hintergrund platziert."
+  },
+  "collagen-ultra": {
+    "title": "COLLAGEN ULTRA",
+    "category": "Sterile Durchstechflaschen",
+    "description": "COLLAGEN ULTRA ist eine sterile kosmetische Lösung zur Hautregeneration, die gezielt gegen Zeichen der Hautalterung und Hautschäden wirkt. Kollagen ist ein wichtiges Strukturprotein, das Festigkeit und Elastizität der Haut erhält. Mit zunehmendem Alter nimmt die natürliche Kollagenproduktion ab, was zu Falten, Erschlaffung und Verlust des Hauttons führt. Das Kollagen in dieser Formel stimuliert die natürliche Kollagensynthese und stellt Elastizität und Glätte der Haut wieder her.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Hydrolyzed Collagen, Gleditsia Triacanthos Seed Extract, Glycerin, Sodium Hyaluronate"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Reduziert Falten",
+      "Minimiert Schwangerschaftsstreifen",
+      "Verbessert die Hautstruktur"
+    ],
+    "mainTarget": "Anti-Aging",
+    "related": [
+      {
+        "slug": "age",
+        "title": "AGE+",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "pro-age",
+        "title": "PRO AGE",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "exogenix",
+        "title": "EXOGENIX",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Die Verpackung von Bonitto Collagen Ultra wird gezeigt. Die Box ist überwiegend türkis mit Farbverlauf und weißem Text. Eine kleine Durchstechflasche mit ähnlichem Design ist links, teilweise hinter der Box, platziert."
+  },
+  "cor-control": {
+    "title": "COR CONTROL",
+    "category": "Sterile Durchstechflaschen",
+    "description": "COR CONTROL ist eine sterile kosmetische Lösung, die entwickelt wurde, um gereizte und zu Rötungen neigende Haut zu beruhigen. Cordyceps-Sinensis-Extrakt bietet eine Reihe von Vorteilen, darunter antioxidativen Schutz, entzündungshemmende Wirkung, Hautregeneration, Feuchtigkeitsversorgung, Anti-Aging und einen verbesserten Hautton. Ideal für empfindliche Haut, fördert es bei regelmäßiger Anwendung einen ausgeglichenen, ruhigen und widerstandsfähigen Teint.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Cordyceps Sinensis Extract, Trametes Versicolor Extract, Butylene Glycol, Epilobium Angustifolium Flower/Leaf/Stem Extract, Propylene Glycol, Calendula Officinalis Flower Extract, Allantoin"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Reduzierung von Rötungen",
+      "Verbesserte Feuchtigkeitsversorgung",
+      "Beruhigend und lindernd",
+      "Hautschutz",
+      "Wiederherstellung der Hautbarriere"
+    ],
+    "mainTarget": "Beruhigung – Akne",
+    "related": [
+      {
+        "slug": "gold-stem",
+        "title": "GOLD STEM",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "mst-redox",
+        "title": "MST REDOX",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Verpackungsbox und Durchstechflasche von „Bonitto Cor Control“. Die Box ist grün mit Farbverlauf und weißem Text, die Durchstechflasche trägt ein passendes Etikett. Das Produkt ist 5x5 ml, was auf einen Satz kleiner Flüssigkeitsbehälter hinweist."
+  },
+  "dna-booster": {
+    "title": "DNA BOOSTER",
+    "category": "Sterile Durchstechflaschen",
+    "description": "DNA BOOSTER ist eine sterile kosmetische Lösung zur Revitalisierung der Haut und Verbesserung der Hautdichte. Sie unterstützt die natürlichen Revitalisierungsprozesse der Haut und führt zu einem gesünderen und jugendlicheren Erscheinungsbild. Hydrolysierte RNA liefert essenzielle Nukleotide und Nukleinsäuren, die die zelluläre Reparatur und Regeneration unterstützen. Sie verbessert die Zellfunktion und regt die Hautverjüngung an.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Propylene Glycol, Hydrolyzed RNA, Hydrolyzed DNA, Carnosine, Glutathione"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Verbesserte Hautfestigkeit",
+      "Intensive Feuchtigkeitsversorgung",
+      "Revitalisierung und Strahlkraft",
+      "Reduzierung von Falten",
+      "Antioxidativer Schutz",
+      "Verbesserter Hautton und verbesserte Hautstruktur"
+    ],
+    "mainTarget": "Haut-Hydra-Booster",
+    "related": [
+      {
+        "slug": "ha-booster-aa15",
+        "title": "HA+ BOOSTER & AA15",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "hyavital-hl",
+        "title": "HYAVITAL H+L",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "mevita-15-ha",
+        "title": "MEVITA 15 + HA",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Das Bild zeigt eine kleine Flasche mit der Aufschrift „Bonitto DNA Booster“ neben ihrer türkis-weißen Verpackungsbox. Die Box trägt dasselbe Branding und denselben Produktnamen in einer modernen Schrift."
+  },
+  "exogenix": {
+    "title": "EXOGENIX",
+    "category": "Sterile Durchstechflaschen",
+    "description": "EXOGENIX ist eine sterile kosmetische Lösung, die die Hautregeneration fördert, die Elastizität verbessert und feine Linien reduziert. Exosomen gelten dank ihrer regenerativen und restorativen Eigenschaften als kraftvoller Inhaltsstoff in Hautpflegeprodukten.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Acetyl Hexapeptide-8, Nippon Koreana Citrus Reticulata Exosomes, Acetyl Decapeptide-3, Pentapeptide-18, Glycerin, 1,2-Hexanediol, Thiamine HCL, Riboflavin, Panthenol, Tocopherol"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Steigert die Kollagenproduktion",
+      "Fördert die Hautregeneration",
+      "Antioxidativer Schutz",
+      "Aufhellende Wirkung",
+      "Unterstützt die Hautreparatur"
+    ],
+    "mainTarget": "Anti-Aging",
+    "related": [
+      {
+        "slug": "age",
+        "title": "AGE+",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "pro-age",
+        "title": "PRO AGE",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "collagen-ultra",
+        "title": "COLLAGEN ULTRA",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "BONITTO® EXOGENIX – Anti-Aging-Serum mit Exosomen für die Hautregeneration und die Reduzierung feiner Linien"
+  },
+  "ey": {
+    "title": "EY+",
+    "category": "Sterile Durchstechflaschen",
+    "description": "EY+ ist eine sterile kosmetische Lösung, die speziell zur Revitalisierung der Augenpartie und zur Behandlung von Zeichen der Hautalterung entwickelt wurde. Die Formel hellt die Augenpartie auf, reduziert dunkle Augenringe und Hyperpigmentierung und hält die Haut rund um die Augen glatt und prall.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Proline, Serine, Glycine, Niacinamide, Glutathione, Sodium Hyaluronate"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Reduziert Falten",
+      "Verbessert die Hautstruktur",
+      "Hellt das Erscheinungsbild auf",
+      "Befeuchtet und polstert"
+    ],
+    "mainTarget": "Augen",
+    "related": [
+      {
+        "slug": "radiance-pro",
+        "title": "RADIANCE PRO",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "BONITTO® EY+ sterile Lösung in Durchstechflaschen, die ein an Augenunterspritzungen erinnerndes Ergebnis für eine strahlendere, prallere und glattere Haut erzielt",
+    "campaignImageAlt": "Eine Person mit lockigem Haar posiert mit ihren Händen, die das Gesicht einrahmen. Über einem Auge und entlang der Gesichtsmitte verläuft eine türkisfarbene diagonale Linie, ergänzt durch passenden Lidschatten. Ihr Ausdruck ist gelassen und selbstbewusst."
+  },
+  "gold-stem": {
+    "title": "GOLD STEM",
+    "category": "Sterile Durchstechflaschen",
+    "description": "GOLD STEM ist eine sterile kosmetische Lösung, die die Hautregeneration unterstützen und fördern soll. Acetyl-Octapeptid-3 (oft als SNAP-8 bezeichnet), auch als Botox-ähnliches Peptid bekannt, wirkt, indem es die Freisetzung von Neurotransmittern hemmt, die Muskelkontraktionen auslösen, was zu einer Reduzierung von Mimikfalten und Falten führt.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Pentylene Glycol, Sodium Benzoate, Potassium Sorbate, Quercus Robur Root Extract Staminal Cells, Acetyl Decapeptide-3, Acetyl Octapeptide-3, Caprylyl Glycol"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Hautregeneration",
+      "Verbesserte Hautstruktur",
+      "Reduzierung feiner Linien und Falten",
+      "Erhöhte Feuchtigkeitsversorgung",
+      "Erhöhte Hautelastizität",
+      "Allgemeine Hautverjüngung"
+    ],
+    "mainTarget": "Reparatur – Akne",
+    "related": [
+      {
+        "slug": "cor-control",
+        "title": "COR CONTROL",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "mst-redox",
+        "title": "MST REDOX",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Bild eines Bonitto Gold Stem Produkts. Eine kleine Durchstechflasche steht neben ihrer Verpackungsbox, die blau-grün mit weißem Text ist."
+  },
+  "ha-booster-aa15": {
+    "title": "HA+ BOOSTER & AA15",
+    "category": "Sterile Durchstechflaschen",
+    "description": "HA+ BOOSTER & AA15 ist eine sterile kosmetische Lösung zur Verbesserung von Hautfestigkeit und Elastizität. Die in dieser Formulierung enthaltenen Aminosäuren fördern jüngere, befeuchtete und festere Haut, verbessern die Gewebequalität und beugen Zeichen der Hautalterung vor.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Thiamine HCL (Vitamin B1), Pyridoxinde HCL (Vitamin B6), Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Intensive Feuchtigkeitsversorgung",
+      "Erhöhte Festigkeit",
+      "Verbesserte Elastizität"
+    ],
+    "mainTarget": "Haut-Hydra-Booster",
+    "related": [
+      {
+        "slug": "dna-booster",
+        "title": "DNA BOOSTER",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "hyavital-hl",
+        "title": "HYAVITAL H+L",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "mevita-15-ha",
+        "title": "MEVITA 15 + HA",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "BONITTO® HA+ BOOSTER & AA15: Lösung in Durchstechflaschen für eine an Hautfiller erinnernde Feuchtigkeitsversorgung, Festigkeit und Elastizität.",
+    "campaignImageAlt": "Nahaufnahme der linken Gesichtshälfte einer Person mit hellblauen, geschwungenen Linien über der Wange. Die Linien verlaufen von unterhalb des Auges nach außen und unten in Richtung der Kieferpartie und markieren Bereiche für eine mögliche kosmetische Behandlung. Der Hintergrund ist blassgrau."
+  },
+  "hairscalp": {
+    "title": "HAIRSCALP",
+    "category": "Sterile Durchstechflaschen",
+    "description": "HAIRSCALP ist eine sterile kosmetische Lösung, die die Revitalisierung von Haar und Kopfhaut durch die wohltuenden Eigenschaften ihrer Inhaltsstoffe unterstützt. Exosomen enthalten Wachstumsfaktoren und Signalmoleküle, die die Aktivität und Regeneration der Haarfollikel stimulieren. Sie helfen, ruhende Haarfollikel zu aktivieren und neues Haarwachstum zu fördern.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Copper Tripeptide-1, Citrus Reticulata Fruit Exosomes, 3-O-Ethyl Ascorbic Acid"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Fördert neues Haarwachstum",
+      "Verbessert die Kopfhautgesundheit",
+      "Stärkt das Haar",
+      "Antioxidativer Schutz",
+      "Befeuchtet und spendet Feuchtigkeit",
+      "Reduziert Haarausdünnung"
+    ],
+    "mainTarget": "Haar",
+    "related": [
+      {
+        "slug": "hair-ultra",
+        "title": "HAIR ULTRA",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Das Bild zeigt eine Verpackungsbox und eine Durchstechflasche mit der Aufschrift „BONITTO HAIRSCALP“. Die Box ist türkis mit weißem Text und einem Farbverlauf. Die kleine Durchstechflasche steht vor der Box und passt in Farbe und Branding dazu.",
+    "campaignImageAlt": "Ein Mann mit kurzem Haar und Bart blickt mit nachdenklichem Ausdruck in die Kamera, das Kinn auf eine Hand gestützt. Das Licht wirft einen leichten Schatten auf sein Gesicht und hebt seine Gesichtszüge vor einem schlichten Hintergrund hervor."
+  },
+  "hair-ultra": {
+    "title": "HAIR ULTRA",
+    "category": "Sterile Durchstechflaschen",
+    "description": "HAIR ULTRA ist eine sterile kosmetische Lösung zur Revitalisierung von Haar und Kopfhaut. Ihre Formel enthält eine Mischung aus Peptiden, Hyaluronsäure und natürlichen Extrakten, die zusammenwirken, um das Haar zu nähren und zu stärken, ein gesünderes Wachstum zu fördern und den Zustand der Kopfhaut zu verbessern.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Lecithin, Sh-Oligopeptide-10, Sh-Oligopeptide-2, Sh-Polypeptide-1, Sh-Polypeptide-9, Sh-Polypeptide-11, Sodium Hyaluronate, Octapeptide-2, Sh-Oligopeptide-4, Arginine, Glycerin"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Revitalisierung",
+      "Stärkung",
+      "Feuchtigkeitsversorgung",
+      "Verbesserte Kopfhautgesundheit",
+      "Reduzierter Haarausfall"
+    ],
+    "mainTarget": "Haar",
+    "related": [
+      {
+        "slug": "hairscalp",
+        "title": "HAIRSCALP",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Eine aufrecht stehende türkisfarbene Box mit der Aufschrift „Bonitto Hair Ultra“, daneben eine kleine Durchstechflasche. Die Verpackung weist ein Farbverlaufsdesign von hell nach dunkel auf.",
+    "campaignImageAlt": "Eine Frau mit langen blonden Haaren, akzentuiert durch hellgrüne Strähnen, posiert mit gelassenem Ausdruck, die Augen geschlossen und ein leichtes Lächeln im Gesicht. Das Seitenprofil hebt ihre glatte Haut und ihr weiches, welliges Haar vor neutralem Hintergrund hervor."
+  },
+  "hyavital-hl": {
+    "title": "HYAVITAL H+L",
+    "category": "Sterile Durchstechflaschen",
+    "description": "HYAVITAL H+L ist eine sterile kosmetische Lösung für die intensive Feuchtigkeitsversorgung der Haut. Sie enthält eine Mischung aus Natriumhyaluronat und Aminosäuren, die in kosmetischen Lösungsprodukten eine entscheidende Rolle spielen: Sie verbessern die Hautqualität, fördern die Zellregeneration und unterstützen die Synthese von Kollagen und Elastin.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Intensive Feuchtigkeitsversorgung",
+      "Verbesserte Hautelastizität",
+      "Glattere Hautstruktur",
+      "Revitalisierter Teint",
+      "Anti-Aging-Vorteile"
+    ],
+    "mainTarget": "Haut-Hydra-Booster",
+    "related": [
+      {
+        "slug": "dna-booster",
+        "title": "DNA BOOSTER",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "ha-booster-aa15",
+        "title": "HA+ BOOSTER & AA15",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "mevita-15-ha",
+        "title": "MEVITA 15 + HA",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Ein Produktbild mit einer grün-weißen Box mit der Aufschrift „BONITTO HYAVITAL H+L“ neben einer kleinen Durchstechflasche mit ähnlichem Etikett. Die Durchstechflasche ist vor der Box platziert."
+  },
+  "lipo": {
+    "title": "LIPO+",
+    "category": "Sterile Durchstechflaschen",
+    "description": "LIPO+ ist eine sterile kosmetische Lösung zur Verbesserung der Körperkonturen und -festigkeit. Carnitin, Koffein und Natriumdesoxycholat wirken synergistisch, um Fett abzubauen und zu verstoffwechseln, wodurch lokale Fettdepots reduziert und die Körperkonturen verbessert werden.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Carnitine, Caffeine, Palmaria Palmata Extract, Propanediol, Sodium Deoxycholate"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 10 ml"
+      }
+    ],
+    "effects": [
+      "Reduzierung der Körperumfänge",
+      "Verbesserte Körperkonturen",
+      "Erhöhte Hautfestigkeit"
+    ],
+    "mainTarget": "Lokales Fett",
+    "related": [
+      {
+        "slug": "pro-cells",
+        "title": "PRO CELLS",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "BONITTO LIPO+ Body-Filler, sterile Durchstechflaschen",
+    "campaignImageAlt": "BONITTO® LIPO+ Body-Filler, eine Lösung zur Verbesserung von Körperkonturen und Festigkeit"
+  },
+  "lips-on": {
+    "title": "LIPS ON",
+    "category": "Sterile Durchstechflaschen",
+    "description": "LIPS ON ist eine sterile kosmetische Lösung zur Verjüngung und Verbesserung der Lippen. Sie glättet die Struktur, verbessert die Befeuchtung und erhöht die Weichheit, während Farbe und Volumen intensiviert werden. Die Lösung sorgt für natürliche Feuchtigkeit und ist zur topischen Anwendung bestimmt, um vollere, jünger wirkende Lippen zu erzielen.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Ascorbate, Troxerutin, Sodium Hyaluronate, Pseudoalteromonas Ferment Extract, Salicylic Acid, Citric Acid, Sodium Salicylate"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Verjüngung",
+      "Glättung der Struktur",
+      "Verbesserte Befeuchtung",
+      "Farbintensivierung",
+      "Erhöhtes Volumen",
+      "Natürliche Feuchtigkeit"
+    ],
+    "mainTarget": "Lippen",
+    "related": [],
+    "productImageAlt": "Eine Verpackungsbox mit der Aufschrift „Bonitto Lips On“ mit einer kleinen Durchstechflasche daneben. Die Verpackung ist türkis-weiß mit minimalistischen Designelementen.",
+    "campaignImageAlt": "Nahaufnahme einer Person mit welligen Haarsträhnen, die das Gesicht einrahmen. Sie trägt dezentes Make-up mit einem Hauch von grünem Lidschatten und einem leichten Grünstich auf der Oberlippe. Eine Hand mit gepflegten Nägeln berührt sanft ihre Wange, während sie gedankenverloren zur Seite blickt."
+  },
+  "mevita-15-ha": {
+    "title": "MEVITA 15 + HA",
+    "category": "Sterile Durchstechflaschen",
+    "description": "MEVITA 15+HA ist eine sterile kosmetische Lösung für die intensive Feuchtigkeitsversorgung und Pflege der Haut. Sie enthält einen Vitaminkomplex, der eine umfassende Hautverjüngung ermöglicht und mehrere Anliegen wie Hautalterung, Feuchtigkeitsversorgung, Pigmentierung und Hautstruktur adressiert, während er gleichzeitig einen starken antioxidativen Schutz und eine verbesserte Hautvitalität bietet.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Panthenol (Vitamin B5), Folic Acid, Biotin, Inositol, Pyridoxinde HCl, Riboflavin, Thiamine HCL, 3-O-Ethyl Ascorbic Acid, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Verbesserte Hautfeuchtigkeit",
+      "Verbesserte Hautstruktur und Hautton",
+      "Pflege und Reparatur",
+      "Erhöhte Kollagenproduktion",
+      "Antioxidativer Schutz"
+    ],
+    "mainTarget": "Haut-Hydra-Booster",
+    "related": [
+      {
+        "slug": "dna-booster",
+        "title": "DNA BOOSTER",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "ha-booster-aa15",
+        "title": "HA+ BOOSTER & AA15",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "hyavital-hl",
+        "title": "HYAVITAL H+L",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Eine türkis-weiße Box mit der Aufschrift „Bonitto MEVITA 15+HA“, links davon eine kleine Durchstechflasche mit ähnlichem Branding. Die Box enthält Durchstechflaschen für die Hautpflege oder den medizinischen Gebrauch."
+  },
+  "mst-redox": {
+    "title": "MST REDOX",
+    "category": "Sterile Durchstechflaschen",
+    "description": "MST REDOX ist eine sterile kosmetische Lösung, die die Hautregeneration durch intensive Feuchtigkeitsversorgung und antioxidativen Schutz unterstützt. Meristeme sind aus pflanzlichen Quellen gewonnene Stammzellen, die die Zellregeneration unterstützen. Sie beschleunigen die Reparatur- und Heilungsprozesse der Haut und sind daher wirksam bei der Behandlung von Schäden und postinflammatorischer Hyperpigmentierung.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Quercus Robur Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Paeonia Lactiflora Root Extract, Allantoin"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Verbesserte Hautregeneration",
+      "Intensive Feuchtigkeitsversorgung",
+      "Antioxidativer Schutz",
+      "Beruhigende Linderung"
+    ],
+    "mainTarget": "Anti-Rötungen – Akne",
+    "related": [
+      {
+        "slug": "gold-stem",
+        "title": "GOLD STEM",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "cor-control",
+        "title": "COR CONTROL",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Ein Produktbild mit einer Flasche und einer Box mit der Aufschrift „MST REDOX“ von Bonitto. Die Box hat ein Farbverlaufsdesign in Türkis und Weiß; die kleine Flasche ist teilweise sichtbar vor der Box platziert.",
+    "campaignImageAlt": "Nahaufnahme einer Person mit gepflegter Gesichtsbehaarung und markanten Gesichtszügen, die gedankenverloren zur Seite blickt. Eine Hand berührt sanft ihren Hals, der ein dünnes, türkisfarbenes elastisches Band trägt. Der Hintergrund ist weich unscharf."
+  },
+  "ox": {
+    "title": "OX+",
+    "category": "Sterile Durchstechflaschen",
+    "description": "OX+ ist eine sterile kosmetische Lösung für die Feuchtigkeitsversorgung und Revitalisierung der Haut, geeignet für Gesicht, Hals, Dekolleté, Hände, Bauch und Schwangerschaftsstreifen. Sie enthält einen Komplex aktiver Wirkstoffe, der die zelluläre Energieproduktion steigert, Hautzellen revitalisiert und die allgemeine Hautvitalität verbessert.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Niacinamide (Vitamin B3), 3-O-Ethyl Ascorbic Acid (Vitamin C), Panthenol (Vitamin B5), Glycyrrhiza Glabra (Licorice) Root Extract"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Verbesserte Hautfeuchtigkeit",
+      "Revitalisierung der Haut",
+      "Verjüngung für ein jugendliches Erscheinungsbild",
+      "Verbesserte Hautelastizität",
+      "Reduzierung feiner Linien",
+      "Verbessertes Erscheinungsbild von Schwangerschaftsstreifen"
+    ],
+    "mainTarget": "Revitalisierer",
+    "related": [
+      {
+        "slug": "ox-ultra",
+        "title": "OX ULTRA",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "power-oxy",
+        "title": "POWER OXY",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Verpackungsbox und Durchstechflasche des Bonitto OX+ Serums. Die Box ist türkis mit einem weißen Verlauf oben. Die kleine Glasflasche daneben hat einen silbernen Deckel und ein passendes Design. Der Text auf Box und Flasche lautet „OX+“ und „5x5 ml“.",
+    "campaignImageAlt": "Nahaufnahme eines Gesichts mit kreativem Make-up: Türkisfarbene Linien verlaufen von den Augenbrauen über die Nase und entlang der Augen. Die Haut hat ein dewy Finish, mit präzisem schwarzem Eyeliner und zartrosa Lippen. Der Hintergrund ist ein neutrales Grau."
+  },
+  "ox-ultra": {
+    "title": "OX ULTRA",
+    "category": "Sterile Durchstechflaschen",
+    "description": "OX ULTRA ist eine sterile kosmetische Lösung, die die Hautregeneration fördern und den natürlichen Hautton verbessern soll. Sie enthält eine Mischung aktiver Wirkstoffe, darunter Natriumhyaluronat und Acetyl-Decapeptid-3, die dazu beitragen, Hautstruktur und Feuchtigkeitsversorgung zu verbessern.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Acetyl Decapeptide-3, Hydroxyproline"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Verbessert die Hautfeuchtigkeit",
+      "Fördert die Hautregeneration",
+      "Vereinheitlicht den Hautton",
+      "Unterstützt die Kollagenproduktion",
+      "Reduziert Zeichen der Hautalterung",
+      "Revitalisiert die Haut"
+    ],
+    "mainTarget": "Revitalisierer",
+    "related": [
+      {
+        "slug": "ox",
+        "title": "OX+",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "power-oxy",
+        "title": "POWER OXY",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Produktbild mit einer Bonitto OX Ultra Verpackung und einer kleinen Durchstechflasche. Die Verpackung ist weiß-türkis mit dem Text „A Story of Elegance“ unter dem Markennamen. Die Durchstechflasche ist klar mit passendem Etikett und dunklem Deckel."
+  },
+  "peel-4-0": {
+    "title": "PEEL 4.0",
+    "category": "Sterile Durchstechflaschen",
+    "description": "PEEL 4.0 ist eine sterile kosmetische Lösung zum Peeling und zur Revitalisierung der Haut. Sie ist für Gesicht, Hals, Dekolleté und Hände geeignet. Die Lösung verbessert die Hautstruktur, steigert die Strahlkraft und behandelt Zeichen der Hautalterung sowie Unreinheiten.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Lactic Acid (40%)"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 10 ml"
+      }
+    ],
+    "effects": [
+      "Erhöhte Hautstrahlkraft",
+      "Glattere Hautstruktur",
+      "Reduzierte Zeichen der Hautalterung",
+      "Verbesserte Hautfestigkeit",
+      "Verminderte Unreinheiten"
+    ],
+    "mainTarget": "Aufhellung",
+    "related": [
+      {
+        "slug": "shine-power",
+        "title": "SHINE POWER",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "whitening",
+        "title": "WHITENING+",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Eine türkis-weiße Box mit der Aufschrift „Bonitto Peel 4.0“ neben einer kleinen braunen Flasche mit passendem Etikett. Die Box weist ein Farbverlaufsdesign mit dem Text „A Study of Science“ oben auf.",
+    "campaignImageAlt": "Eine Person mit langen braunen Haaren und blauen Augen hat eine türkisfarbene Linie, die vertikal über ihr Gesicht verläuft und einen auffälligen Kontrast zu ihrer sommersprossigen Haut bildet. Sie blickt direkt in die Kamera."
+  },
+  "peel-exo-capture-35": {
+    "title": "PEEL EXO CAPTURE 35",
+    "category": "Sterile Durchstechflaschen",
+    "description": "PEEL EXO CAPTURE 35 ist eine sterile kosmetische Lösung, die das Hautbild verbessert, indem sie die Hautstruktur optimiert und den Hautton vereinheitlicht. Dank Wirkstoffen wie Natriumtrichloracetat, AHA und BHA hilft diese Formulierung, Pigmentierung zu reduzieren, abgestorbene Hautzellen zu entfernen und die Poren zu reinigen.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Trichloroacetate, Lactic Acid, Salicylic Acid, Allantoin, Proline, Lysine HCL, Glycine, Centella Asiatica Leaf Vesicles, Hydrolyzed RNA/ DNA, Pyridoxine HCL, Thiamine HCL."
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5x10ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Eine kleine Durchstechflasche mit der Aufschrift „BONITTO PEEL EXO CAPTURE 35“ steht neben einer hohen, rechteckigen, grün-weißen Box mit gleichem Branding und gleichem Text. Die Verpackung weist ein modernes Farbverlaufsdesign auf."
+  },
+  "power-oxy": {
+    "title": "POWER OXY",
+    "category": "Sterile Durchstechflaschen",
+    "description": "POWER OXY ist eine sterile kosmetische Lösung, die die Hautgesundheit fördert, indem sie die Hautreparatur unterstützt und vor freien Radikalen schützt. Dank Wirkstoffen wie Retinylpalmitat, Cystein-HCL und Glutathion reduziert diese Formulierung im Laufe der Zeit das Erscheinungsbild feiner Linien und Falten.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Sodium Hyaluronate, Taurine, Retinyl Palmitate, Proline, Cysteine HCL, Tocopheryl Acetate, Ribes Nigrum (Black Currant) Bud Extract, Glutathione"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Verbesserte Hautreparatur",
+      "Antioxidativer Schutz",
+      "Verbesserte Hautfeuchtigkeit",
+      "Strahlenderer Teint",
+      "Erhöhte Elastizität"
+    ],
+    "mainTarget": "Revitalisierer",
+    "related": [
+      {
+        "slug": "ox-ultra",
+        "title": "OX ULTRA",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "ox",
+        "title": "OX+",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Eine kleine Durchstechflasche mit der Aufschrift „Bonitto Power Oxy“ ist neben einer größeren Verpackungsbox mit demselben Branding platziert. Die Box weist einen Farbverlauf von dunkel- zu hellgrün auf, mit prominent platzierten Texten „Power Oxy“ und „Bonitto“."
+  },
+  "pro-age": {
+    "title": "PRO AGE",
+    "category": "Sterile Durchstechflaschen",
+    "description": "PRO AGE ist eine sterile kosmetische Lösung und ein kraftvoller Cocktail aus Vitaminen und Antioxidantien, der die Gewebeerneuerung stimuliert und zu einem glatteren und widerstandsfähigeren Teint beiträgt.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Pyridoxine HCL (Vitamin B6), Thiamine HCL (Vitamin B1), Sodium Ascorbate (Vitamin C), Panthenol (Pro-Vitamin B5), Riboflavin (Vitamin B2), Tocopheryl Acetate (Vitamin E), Retynil Palmitate (Vitamin A), Niacinamide (Vitamin B3)"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Vorbeugung früher Falten",
+      "Verbesserte Hautstruktur",
+      "Jugendliches Erscheinungsbild"
+    ],
+    "mainTarget": "Anti-Aging",
+    "related": [
+      {
+        "slug": "age",
+        "title": "AGE+",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "collagen-ultra",
+        "title": "COLLAGEN ULTRA",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "exogenix",
+        "title": "EXOGENIX",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Das Bild zeigt eine Produktverpackung und eine kleine Durchstechflasche. Die Box trägt die Aufschrift „BONITTO“ und „PRO AGE“ in weißem Text auf einem grünen Farbverlauf. Die neben der Box stehende Durchstechflasche trägt ebenfalls „BONITTO PRO AGE“."
+  },
+  "pro-cells": {
+    "title": "PRO CELLS",
+    "category": "Sterile Durchstechflaschen",
+    "description": "PRO CELLS ist eine sterile kosmetische Lösung zur Reduzierung des Erscheinungsbilds von Cellulite und zur Verbesserung der Körperkontur. Sie aktiviert den Abbau von Fettgewebe und verhindert die Ansammlung neuer Fettdepots, wodurch Hautfestigkeit und Glätte verbessert werden. Durch die Förderung der Entgiftung trägt sie zu einer ebenmäßigeren Hautstruktur und insgesamt besserer Hautgesundheit bei.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Caffeine, Carnitine, Ananas Sativus Fruit Extract (Pineapple), Equisetum Arvense Extract (Horsetail), Cynara Scolymus Leaf Extract (Artichoke), Palmaria Palmata Extract"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 10 ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "Cellulite",
+    "related": [
+      {
+        "slug": "lipo",
+        "title": "LIPO+",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Eine Box mit der Aufschrift „Bonitto Pro Cells“ mit einer kleinen Durchstechflasche daneben. Box und Durchstechflasche weisen ein Farbverlaufsdesign in Grün und Weiß auf. Der Text auf der Box lautet „Vols. 5x10 ml“."
+  },
+  "radiance-pro": {
+    "title": "RADIANCE PRO",
+    "category": "Sterile Durchstechflaschen",
+    "description": "RADIANCE PRO ist eine sterile kosmetische Lösung zur Feuchtigkeitsversorgung und Reparatur der Haut am Handrücken. Sie steigert die Feuchtigkeit und stimuliert die regenerativen Funktionen, um die Hautgesundheit in diesem Bereich zu erhalten.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Acetyl Decapeptide-3, Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate, Proline, Glycine, Arginine HCL, Cysteine HCL, Niacinamide (Vitamin B3)"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Feuchtigkeits-Boost",
+      "Hautreparatur",
+      "Jugendliches Erscheinungsbild",
+      "Schützende Barriere",
+      "Verbesserte Hautstruktur"
+    ],
+    "mainTarget": "Hände",
+    "related": [
+      {
+        "slug": "ey",
+        "title": "EY+",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Ein Produktbild von Bonitto Radiance Pro mit einer hellgrünen Box und einer kleinen Durchstechflasche daneben. Die Box weist ein Farbverlaufsdesign mit Marken- und Produktnamen in weißem Text auf."
+  },
+  "shine-power": {
+    "title": "SHINE POWER",
+    "category": "Sterile Durchstechflaschen",
+    "description": "SHINE POWER ist eine sterile kosmetische Lösung, die für Personen entwickelt wurde, die einen natürlichen Ansatz zur Hautaufhellung suchen. Sie vereint eine kraftvolle Mischung von Inhaltsstoffen, die zusammenwirken, um Pigmentierung zu reduzieren, den Hautton zu vereinheitlichen und die allgemeine Hautstrahlkraft zu steigern. Die Lösung zielt darauf ab, dunkle Flecken und Verfärbungen sichtbar zu reduzieren und einen helleren, gleichmäßigeren Teint zu fördern.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Succinic Acid, Ascorbyl Glucoside, Glutathione"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Hautaufhellung",
+      "Antioxidativer Schutz",
+      "Glättung der Haut",
+      "Feuchtigkeitsversorgung und Beruhigung",
+      "Anti-Aging-Vorteile"
+    ],
+    "mainTarget": "Aufhellung",
+    "related": [
+      {
+        "slug": "peel-4-0",
+        "title": "PEEL 4.0",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "whitening",
+        "title": "WHITENING+",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Bonitto Shine Power Produkt mit einer mintgrün-weißen Box und der Aufschrift „Shine Power“. Eine kleine, gleich beschriftete Durchstechflasche ist neben der Box platziert. Das Gesamtdesign ist schlicht und modern."
+  },
+  "whitening": {
+    "title": "WHITENING+",
+    "category": "Sterile Durchstechflaschen",
+    "description": "WHITENING+ ist eine sterile kosmetische Lösung zur Behandlung von Hautverfärbungen und zur Steigerung der allgemeinen Hautstrahlkraft. Tranexamsäure ist wirksam bei der Behandlung von Hyperpigmentierung und Melasma, indem sie die Aktivität der Tyrosinase, eines an der Melaninproduktion beteiligten Enzyms, hemmt. Sie hilft, dunkle Flecken aufzuhellen und den gesamten Hautton zu verbessern.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Oligopeptide-34, Glycyrrhiza Glabra (Licorice) Root Extract, Panthenol (Pro-Vitamin B5), Glutathione, Acetyl Glycil Β-Alanine, Tranexamic Acid, Sodium Hyaluronate"
+      },
+      {
+        "label": "Volumen",
+        "value": "Durchstechflaschen 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Hellt den Hautton auf",
+      "Reduziert Verfärbungen",
+      "Stellt den natürlichen Glow wieder her",
+      "Verbessert die Hautklarheit"
+    ],
+    "mainTarget": "Aufhellung",
+    "related": [
+      {
+        "slug": "shine-power",
+        "title": "SHINE POWER",
+        "category": "Sterile Durchstechflaschen"
+      },
+      {
+        "slug": "peel-4-0",
+        "title": "PEEL 4.0",
+        "category": "Sterile Durchstechflaschen"
+      }
+    ],
+    "productImageAlt": "Eine BONITTO Whitening+ Box neben einer kleinen Flasche. Die Box ist türkis mit dem Markennamen in Weiß oben. Die Durchstechflasche trägt die Aufschrift „BONITTO Whitening+ Master Solution“ und enthält 5x5 ml."
+  },
+  "xnad": {
+    "title": "XNAD+",
+    "category": "Sterile Durchstechflaschen",
+    "description": "XNAD+ ist eine sterile kosmetische Lösung, die die Haut durch Förderung der Erneuerung und Verbesserung der Elastizität revitalisiert. Angereichert mit NAD+, Aminosäuren und Peptidkomplexen strafft sie die Haut und reduziert allmählich das Erscheinungsbild feiner Linien für einen glatteren, jugendlicheren Look.",
+    "technicalInfo": [
+      {
+        "label": "Wirkstoffe",
+        "value": "Trehalose, Acetyl Hexapeptide-1, Arginine, Oligopeptide-4, Disodium NADH, Acetyl sh-Hexapeptide-5 Amide Acetate, Acetyl Hexapeptide-8, Centella Asiatica Leaf Vesicles."
+      },
+      {
+        "label": "Volumen",
+        "value": "5x5ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Eine kleine Durchstechflasche und eine türkis-weiße Box mit der Aufschrift „BONITTO XNAD+ Vials 5x5 ml“ werden gezeigt. Die Box hat ein Farbverlaufsdesign, der Markenname erscheint oben."
+  }
+}

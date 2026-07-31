@@ -1,0 +1,595 @@
+{
+  "age": {
+    "title": "AGE+",
+    "category": "Flaconcini sterili",
+    "description": "AGE+ è una soluzione cosmetica sterile progettata per ringiovanire e rivitalizzare la pelle, riducendo i segni dell'invecchiamento. Agisce minimizzando linee sottili e rughe, migliorando la levigatezza cutanea e prevenendo l'ulteriore invecchiamento grazie alla sua miscela unica di principi attivi. Apportando nutrienti essenziali e un'idratazione profonda, promuove la salute generale della pelle, garantendo un aspetto giovane e luminoso.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5ml" }
+    ],
+    "effects": [
+      "Riduzione di linee sottili e rughe",
+      "Texture cutanea migliorata",
+      "Maggiore idratazione",
+      "Rivitalizzazione",
+      "Prevenzione dei futuri segni dell'invecchiamento"
+    ],
+    "mainTarget": "Anti-età",
+    "related": [
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "Flaconcini sterili" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "Flaconcini sterili" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Un'immagine del prodotto raffigurante un piccolo flaconcino etichettato \"Bonitto Age+\" accanto a una confezione con gradiente turchese abbinata e con la stessa etichetta. Il design è elegante e minimalista, con il testo \"A drop of brilliance\" visibile nella parte superiore della confezione."
+  },
+  "btx": {
+    "title": "BTX+",
+    "category": "Flaconcini sterili",
+    "description": "BTX+ è una soluzione cosmetica sterile progettata per aiutare a prevenire e ridurre i segni visibili dell'invecchiamento, con un obiettivo specifico sulle rughe mimiche. La DMAE è ben nota per i suoi effetti schiarenti sulla pelle. Agisce stabilizzando le membrane cellulari e migliorando il tono muscolare, il che porta a un aspetto della pelle più compatto e disteso.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Acetyl Hexapeptide-8 (Argireline), Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Riduce le rughe",
+      "Ammorbidisce le linee sottili",
+      "Migliora la texture della pelle",
+      "Ravviva l'aspetto giovane"
+    ],
+    "mainTarget": "Lifting",
+    "related": [
+      { "slug": "btx-2-0", "title": "BTX 2.0", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Immagine del prodotto Bonitto BTX+ su sfondo bianco. Il set comprende un piccolo flaconcino e una confezione, entrambi con una gradazione di tonalità blu e verdi, con il marchio \"Bonitto\" e l'etichetta del prodotto \"BTX+\" visibili."
+  },
+  "btx-2-0": {
+    "title": "BTX 2.0",
+    "category": "Flaconcini sterili",
+    "description": "BTX 2.0 è una soluzione cosmetica sterile indicata per la riduzione dei segni dell'invecchiamento, inclusa la prevenzione delle rughe e di altri inestetismi cutanei legati all'età. Questa soluzione cosmetica sterile contiene un potente complesso anti-età che offre un approccio completo alla riduzione delle rughe, potenziando la produzione di collagene e migliorando l'idratazione cutanea, con il risultato di una pelle più liscia, compatta e dall'aspetto più giovane.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Hydroxyproline, Acetyl Octapeptide-3, Pentapeptide-18, Proline, Glycine, Succinic Acid" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Riduzione delle rughe",
+      "Prevenzione anti-età",
+      "Idratazione",
+      "Rassodamento e tonificazione della pelle",
+      "Miglioramento della texture cutanea",
+      "Supporto alla naturale riparazione della pelle"
+    ],
+    "mainTarget": "Lifting",
+    "related": [
+      { "slug": "btx", "title": "BTX+", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Immagine del prodotto raffigurante una scatola turchese e bianca etichettata \"BONITTO BTX 2.0\" accanto a un piccolo flaconcino contenente liquido, anch'esso etichettato \"BONITTO BTX 2.0\". Il flaconcino e la scatola sono su sfondo bianco."
+  },
+  "collagen-ultra": {
+    "title": "COLLAGEN ULTRA",
+    "category": "Flaconcini sterili",
+    "description": "COLLAGEN ULTRA è una soluzione cosmetica sterile progettata per la rigenerazione cutanea, mirata efficacemente ai segni dell'invecchiamento e del danneggiamento. Il collagene è una proteina strutturale fondamentale che mantiene compattezza ed elasticità della pelle. Con l'età, la produzione naturale di collagene diminuisce, portando a rughe, rilassamento e perdita di tonicità cutanea. Il collagene contenuto in questa formula stimola la sintesi naturale di collagene, ripristinando elasticità e levigatezza della pelle.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Hydrolyzed Collagen, Gleditsia Triacanthos Seed Extract, Glycerin, Sodium Hyaluronate" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Riduce le rughe",
+      "Minimizza le smagliature",
+      "Migliora la texture cutanea"
+    ],
+    "mainTarget": "Anti-età",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "Flaconcini sterili" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "Flaconcini sterili" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Vengono mostrati la confezione di Bonitto Collagen Ultra. La scatola è prevalentemente turchese con sfumature graduate e testo bianco. Un piccolo flaconcino con design simile è posizionato a sinistra, parzialmente visibile accanto alla scatola."
+  },
+  "cor-control": {
+    "title": "COR CONTROL",
+    "category": "Flaconcini sterili",
+    "description": "COR CONTROL è una soluzione cosmetica sterile progettata per lenire la pelle irritata e soggetta a rossori. L'estratto di Cordyceps Sinensis offre una serie di benefici, tra cui la protezione antiossidante, gli effetti antinfiammatori, il ringiovanimento cutaneo, l'idratazione, l'azione anti-età e il miglioramento del tono della pelle. Ideale per la pelle sensibile, promuove con l'uso regolare un incarnato equilibrato, calmo e resiliente.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Cordyceps Sinensis Extract, Trametes Versicolor Extract, Butylene Glycol, Epilobium Angustifolium Flower/Leaf/Stem Extract, Propylene Glycol, Calendula Officinalis Flower Extract, Allantoin" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Riduzione del rossore",
+      "Maggiore idratazione",
+      "Azione calmante e lenitiva",
+      "Protezione della pelle",
+      "Ripristino della barriera cutanea"
+    ],
+    "mainTarget": "Lenitivo – Acne",
+    "related": [
+      { "slug": "gold-stem", "title": "GOLD STEM", "category": "Flaconcini sterili" },
+      { "slug": "mst-redox", "title": "MST REDOX", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Scatola e flaconcino di \"Bonitto Cor Control\". La scatola è di un verde sfumato con testo bianco e il flaconcino ha un'etichetta coordinata. Il prodotto è da 5x5 ml, a indicare un set di piccoli contenitori di liquido."
+  },
+  "dna-booster": {
+    "title": "DNA BOOSTER",
+    "category": "Flaconcini sterili",
+    "description": "DNA BOOSTER è una soluzione cosmetica sterile indicata per la rivitalizzazione della pelle e il miglioramento della densità cutanea. È destinata a sostenere i processi naturali di rivitalizzazione della pelle, portando a un aspetto più sano e più giovane. L'RNA idrolizzato fornisce nucleotidi e acidi nucleici essenziali che supportano la riparazione e la rigenerazione cellulare. Aiuta a migliorare la funzione cellulare e a stimolare il ringiovanimento cutaneo.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Propylene Glycol, Hydrolyzed RNA, Hydrolyzed DNA, Carnosine, Glutathione" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Maggiore compattezza della pelle",
+      "Idratazione profonda",
+      "Rivitalizzazione e luminosità",
+      "Riduzione delle rughe",
+      "Protezione antiossidante",
+      "Miglioramento di tono e texture cutanea"
+    ],
+    "mainTarget": "Booster idratante per la pelle",
+    "related": [
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "Flaconcini sterili" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "Flaconcini sterili" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "L'immagine mostra una piccola bottiglietta etichettata \"Bonitto DNA Booster\" accanto alla sua confezione turchese e bianca. La scatola presenta lo stesso marchio e nome del prodotto in un carattere moderno."
+  },
+  "exogenix": {
+    "title": "EXOGENIX",
+    "category": "Flaconcini sterili",
+    "description": "EXOGENIX è una soluzione cosmetica sterile che potenzia la rigenerazione cutanea, migliora l'elasticità e riduce le linee sottili. Gli esosomi stanno emergendo come un ingrediente potente nei prodotti per la cura della pelle grazie alle loro proprietà rigenerative e riparatrici.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Acetyl Hexapeptide-8, Nippon Koreana Citrus Reticulata Exosomes, Acetyl Decapeptide-3, Pentapeptide-18, Glycerin, 1,2-Hexanediol, Thiamine HCL, Riboflavin, Panthenol, Tocopherol" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Stimola la produzione di collagene",
+      "Promuove la rigenerazione cutanea",
+      "Protezione antiossidante",
+      "Effetto illuminante",
+      "Supporta la riparazione della pelle"
+    ],
+    "mainTarget": "Anti-età",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "Flaconcini sterili" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "Flaconcini sterili" },
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "BONITTO® EXOGENIX - siero anti-età con esosomi per la rigenerazione della pelle e la riduzione delle linee sottili"
+  },
+  "ey": {
+    "title": "EY+",
+    "category": "Flaconcini sterili",
+    "description": "EY+ è una soluzione cosmetica sterile specificamente formulata per rivitalizzare il contorno occhi e contrastare i segni dell'invecchiamento in quest'area. La formula illumina la zona del contorno occhi, riducendo occhiaie e iperpigmentazione e mantenendo la pelle intorno agli occhi liscia e distesa.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Proline, Serine, Glycine, Niacinamide, Glutathione, Sodium Hyaluronate" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Riduce le rughe",
+      "Migliora la texture della pelle",
+      "Illumina l'aspetto",
+      "Idrata e distende"
+    ],
+    "mainTarget": "Occhi",
+    "related": [
+      { "slug": "radiance-pro", "title": "RADIANCE PRO", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "BONITTO® EY+ flaconcini di soluzione sterile che offrono risultati simili a un filler per il contorno occhi per una pelle più luminosa, distesa e liscia",
+    "campaignImageAlt": "Una persona dai capelli ricci posa con le mani a incorniciare il viso. Ha una linea diagonale turchese dipinta su un occhio e al centro del viso, completata da un ombretto coordinato. La sua espressione è serena e sicura."
+  },
+  "gold-stem": {
+    "title": "GOLD STEM",
+    "category": "Flaconcini sterili",
+    "description": "GOLD STEM è una soluzione cosmetica sterile destinata a sostenere e potenziare la rigenerazione cutanea. Conosciuto anche come peptide simile alla tossina botulinica, l'Acetyl Octapeptide-3 (spesso indicato come SNAP-8) agisce inibendo il rilascio dei neurotrasmettitori che causano la contrazione muscolare, portando a una riduzione delle rughe d'espressione.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Pentylene Glycol, Sodium Benzoate, Potassium Sorbate, Quercus Robur Root Extract Staminal Cells, Acetyl Decapeptide-3, Acetyl Octapeptide-3, Caprylyl Glycol" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Rigenerazione cutanea",
+      "Texture della pelle migliorata",
+      "Riduzione di linee sottili e rughe",
+      "Maggiore idratazione",
+      "Aumento dell'elasticità cutanea",
+      "Ringiovanimento generale della pelle"
+    ],
+    "mainTarget": "Riparatore – Acne",
+    "related": [
+      { "slug": "cor-control", "title": "COR CONTROL", "category": "Flaconcini sterili" },
+      { "slug": "mst-redox", "title": "MST REDOX", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Immagine del prodotto Bonitto Gold Stem. Un piccolo flaconcino si trova accanto alla sua scatola, blu e verde con testo bianco."
+  },
+  "ha-booster-aa15": {
+    "title": "HA+ BOOSTER & AA15",
+    "category": "Flaconcini sterili",
+    "description": "HA+ BOOSTER & AA15 è una soluzione cosmetica sterile per migliorare compattezza ed elasticità della pelle. Gli amminoacidi inclusi in questa formulazione promuovono una pelle più giovane, idratata e compatta, migliorando la qualità dei tessuti e prevenendo i segni dell'invecchiamento.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Thiamine HCL (Vitamin B1), Pyridoxinde HCL (Vitamin B6), Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Idratazione profonda",
+      "Maggiore compattezza",
+      "Elasticità migliorata"
+    ],
+    "mainTarget": "Booster idratante per la pelle",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "Flaconcini sterili" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "Flaconcini sterili" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "BONITTO® HA+ BOOSTER & AA15: flaconcini di soluzione che offrono idratazione simile a un filler, compattezza ed elasticità.",
+    "campaignImageAlt": "Primo piano del lato sinistro del viso di una persona, con linee curve azzurro chiaro disegnate sullo zigomo. Le linee partono da sotto l'occhio, curvando verso l'esterno e verso il basso lungo la linea della mascella, indicando le aree per un potenziale trattamento estetico. Lo sfondo è grigio chiaro."
+  },
+  "hairscalp": {
+    "title": "HAIRSCALP",
+    "category": "Flaconcini sterili",
+    "description": "HAIRSCALP è una soluzione cosmetica sterile che supporta la rivitalizzazione di capelli e cuoio capelluto grazie alle proprietà benefiche dei suoi ingredienti. Gli esosomi, che contengono fattori di crescita e molecole di segnalazione, stimolano l'attività e la rigenerazione dei follicoli piliferi. Aiutano ad attivare i follicoli piliferi dormienti e a promuovere la nuova crescita dei capelli.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Copper Tripeptide-1, Citrus Reticulata Fruit Exosomes, 3-O-Ethyl Ascorbic Acid" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Promuove la nuova crescita dei capelli",
+      "Migliora la salute del cuoio capelluto",
+      "Rafforza i capelli",
+      "Protezione antiossidante",
+      "Idrata e nutre",
+      "Riduce il diradamento dei capelli"
+    ],
+    "mainTarget": "Capelli",
+    "related": [
+      { "slug": "hair-ultra", "title": "HAIR ULTRA", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "L'immagine mostra una scatola e un flaconcino etichettati \"BONITTO HAIRSCALP\". La scatola è turchese con testo bianco e design a gradiente. Il piccolo flaconcino è posto davanti alla scatola, con colori e marchio coordinati.",
+    "campaignImageAlt": "Un uomo con capelli corti e barba guarda la fotocamera con espressione pensierosa, appoggiando il mento sulla mano. La luce proietta una leggera ombra sul suo viso, evidenziandone i lineamenti su uno sfondo neutro."
+  },
+  "hair-ultra": {
+    "title": "HAIR ULTRA",
+    "category": "Flaconcini sterili",
+    "description": "HAIR ULTRA è una soluzione cosmetica sterile progettata per la rivitalizzazione di capelli e cuoio capelluto. La sua formula contiene una miscela di peptidi, acido ialuronico ed estratti naturali che lavorano in sinergia per nutrire e rinforzare i capelli, favorendo una crescita più sana e migliorando le condizioni del cuoio capelluto.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Lecithin, Sh-Oligopeptide-10, Sh-Oligopeptide-2, Sh-Polypeptide-1, Sh-Polypeptide-9, Sh-Polypeptide-11, Sodium Hyaluronate, Octapeptide-2, Sh-Oligopeptide-4, Arginine, Glycerin" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Rivitalizzazione",
+      "Rinforzo",
+      "Idratazione",
+      "Migliore salute del cuoio capelluto",
+      "Riduzione della caduta dei capelli"
+    ],
+    "mainTarget": "Capelli",
+    "related": [
+      { "slug": "hairscalp", "title": "HAIRSCALP", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Una scatola turchese etichettata \"Bonitto Hair Ultra\" è in posizione verticale, con un piccolo flaconcino accanto. La confezione presenta un design a gradiente, dal chiaro allo scuro.",
+    "campaignImageAlt": "Una donna con lunghi capelli biondi, accentuati da ciocche verde chiaro, posa con espressione serena, occhi chiusi e un leggero sorriso. Il profilo laterale evidenzia la sua pelle liscia e i capelli morbidi e ondulati su uno sfondo neutro."
+  },
+  "hyavital-hl": {
+    "title": "HYAVITAL H+L",
+    "category": "Flaconcini sterili",
+    "description": "HYAVITAL H+L è una soluzione cosmetica sterile progettata per l'idratazione profonda della pelle. Contiene una miscela di Sodium Hyaluronate e amminoacidi, che svolgono un ruolo cruciale nelle soluzioni cosmetiche: aiutano a migliorare la qualità della pelle, a promuovere la rigenerazione cellulare e a potenziare la sintesi di collagene ed elastina.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Idratazione profonda",
+      "Elasticità cutanea migliorata",
+      "Texture più liscia",
+      "Incarnato rivitalizzato",
+      "Benefici anti-età"
+    ],
+    "mainTarget": "Booster idratante per la pelle",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "Flaconcini sterili" },
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "Flaconcini sterili" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Immagine del prodotto che mostra una scatola verde e bianca etichettata \"BONITTO HYAVITAL H+L\" insieme a un piccolo flaconcino con etichetta simile. Il flaconcino è posizionato davanti alla scatola."
+  },
+  "lipo": {
+    "title": "LIPO+",
+    "category": "Flaconcini sterili",
+    "description": "LIPO+ è una soluzione cosmetica sterile progettata per migliorare i contorni e la compattezza del corpo. Carnitina, caffeina e sodio deossicolato agiscono in sinergia per scindere e mobilizzare i grassi, aiutando a ridurre i depositi di grasso localizzato e a migliorare i contorni del corpo.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Carnitine, Caffeine, Palmaria Palmata Extract, Propanediol, Sodium Deoxycholate" },
+      { "label": "Volume", "value": "Flaconcini 5 x 10 ml" }
+    ],
+    "effects": [
+      "Riduzione delle circonferenze corporee",
+      "Contorni corporei migliorati",
+      "Maggiore compattezza della pelle"
+    ],
+    "mainTarget": "Grasso localizzato",
+    "related": [
+      { "slug": "pro-cells", "title": "PRO CELLS", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "BONITTO LIPO+ flaconcini sterili per filler corporeo",
+    "campaignImageAlt": "BONITTO® LIPO+ filler corporeo, una soluzione per migliorare i contorni e la compattezza del corpo"
+  },
+  "lips-on": {
+    "title": "LIPS ON",
+    "category": "Flaconcini sterili",
+    "description": "LIPS ON è una soluzione cosmetica sterile progettata per ringiovanire e valorizzare le labbra. Leviga la texture, migliora l'idratazione e aumenta la morbidezza, esaltando colore e volume. Questa soluzione offre un'idratazione naturale ed è destinata all'applicazione topica per ottenere labbra più piene e dall'aspetto più giovane.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Ascorbate, Troxerutin, Sodium Hyaluronate, Pseudoalteromonas Ferment Extract, Salicylic Acid, Citric Acid, Sodium Salicylate" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Ringiovanimento",
+      "Texture levigata",
+      "Migliore idratazione",
+      "Esaltazione del colore",
+      "Aumento del volume",
+      "Idratazione naturale"
+    ],
+    "mainTarget": "Labbra",
+    "related": [],
+    "productImageAlt": "Una scatola etichettata \"Bonitto Lips On\" con un piccolo flaconcino accanto. La confezione è turchese e bianca con elementi di design minimalisti.",
+    "campaignImageAlt": "Primo piano di una persona con ciocche di capelli mossi che incorniciano il viso. Ha un trucco naturale con un tocco di ombretto verde e una leggera sfumatura verde sul labbro superiore. Una mano con unghie curate tocca delicatamente la guancia, mentre lo sguardo è pensieroso verso il lato."
+  },
+  "mevita-15-ha": {
+    "title": "MEVITA 15 + HA",
+    "category": "Flaconcini sterili",
+    "description": "MEVITA 15+HA è una soluzione cosmetica sterile formulata per l'idratazione intensiva e la nutrizione della pelle. Contiene un complesso di vitamine progettato per fornire un ringiovanimento cutaneo completo, affrontando molteplici problematiche come invecchiamento, idratazione, pigmentazione e texture cutanea, offrendo al contempo una forte protezione antiossidante e una migliore vitalità della pelle.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Panthenol (Vitamin B5), Folic Acid, Biotin, Inositol, Pyridoxinde HCl, Riboflavin, Thiamine HCL, 3-O-Ethyl Ascorbic Acid, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Maggiore idratazione della pelle",
+      "Texture e tono della pelle migliorati",
+      "Nutrimento e riparazione",
+      "Aumento della produzione di collagene",
+      "Protezione antiossidante"
+    ],
+    "mainTarget": "Booster idratante per la pelle",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "Flaconcini sterili" },
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "Flaconcini sterili" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Viene mostrata una scatola turchese e bianca etichettata \"Bonitto MEVITA 15+HA\", con un piccolo flaconcino a sinistra con marchio simile. La scatola contiene flaconcini progettati per uso skincare o medico."
+  },
+  "mst-redox": {
+    "title": "MST REDOX",
+    "category": "Flaconcini sterili",
+    "description": "MST REDOX è una soluzione cosmetica sterile progettata per supportare la rigenerazione cutanea offrendo un'idratazione intensa e una protezione antiossidante. I meristemi sono cellule staminali di origine vegetale che supportano la rigenerazione cellulare. Accelerano i processi di riparazione e guarigione della pelle, rendendoli efficaci per il trattamento dei danni cutanei e dell'iperpigmentazione post-infiammatoria.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Quercus Robur Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Paeonia Lactiflora Root Extract, Allantoin" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Maggiore rigenerazione cutanea",
+      "Idratazione profonda",
+      "Protezione antiossidante",
+      "Sollievo lenitivo"
+    ],
+    "mainTarget": "Anti-rossore – Acne",
+    "related": [
+      { "slug": "gold-stem", "title": "GOLD STEM", "category": "Flaconcini sterili" },
+      { "slug": "cor-control", "title": "COR CONTROL", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Immagine del prodotto raffigurante una bottiglia e una scatola etichettate \"MST REDOX\" di Bonitto. La scatola presenta un design a gradiente in turchese e bianco, e la bottiglietta, piccola e parzialmente visibile, è posizionata davanti alla scatola.",
+    "campaignImageAlt": "Primo piano di una persona con barba curata e lineamenti definiti, che guarda pensierosa di lato. Una mano tocca delicatamente il collo, sul quale c'è una sottile fascia elastica turchese. Lo sfondo è leggermente sfocato."
+  },
+  "ox": {
+    "title": "OX+",
+    "category": "Flaconcini sterili",
+    "description": "OX+ è una soluzione cosmetica sterile progettata per l'idratazione e la rivitalizzazione della pelle, adatta all'uso su viso, collo, décolleté, mani, addome e smagliature. Contiene un complesso di principi attivi che potenziano la produzione di energia cellulare, rivitalizzando le cellule cutanee e migliorando la vitalità generale della pelle.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Niacinamide (Vitamin B3), 3-O-Ethyl Ascorbic Acid (Vitamin C), Panthenol (Vitamin B5), Glycyrrhiza Glabra (Licorice) Root Extract" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Maggiore idratazione della pelle",
+      "Rivitalizzazione della pelle",
+      "Ringiovanimento per un aspetto giovane",
+      "Elasticità cutanea migliorata",
+      "Riduzione delle linee sottili",
+      "Migliore aspetto delle smagliature"
+    ],
+    "mainTarget": "Rivitalizzante",
+    "related": [
+      { "slug": "ox-ultra", "title": "OX ULTRA", "category": "Flaconcini sterili" },
+      { "slug": "power-oxy", "title": "POWER OXY", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Scatola e flaconcino del siero Bonitto OX+. La scatola è turchese con un gradiente bianco nella parte superiore. Il piccolo flaconcino di vetro accanto ha un tappo argentato e riprende il design della scatola. Il testo su scatola e flaconcino riporta \"OX+\" e \"5x5 ml\".",
+    "campaignImageAlt": "Primo piano del viso di una persona con un trucco creativo: linee turchesi che partono dalle sopracciglia, scendono lungo il naso e seguono gli occhi. La pelle ha una finitura luminosa, con eyeliner nero preciso e labbra rosa tenue. Lo sfondo è grigio neutro."
+  },
+  "ox-ultra": {
+    "title": "OX ULTRA",
+    "category": "Flaconcini sterili",
+    "description": "OX ULTRA è una soluzione cosmetica sterile progettata per promuovere la rigenerazione cutanea e valorizzare il tono naturale della pelle. Contiene una miscela di principi attivi, tra cui Sodium Hyaluronate e Acetyl Decapeptide-3, che aiutano a migliorare texture e idratazione della pelle.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Acetyl Decapeptide-3, Hydroxyproline" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Migliora l'idratazione della pelle",
+      "Potenzia la rigenerazione cutanea",
+      "Uniforma il tono della pelle",
+      "Supporta la produzione di collagene",
+      "Riduce i segni dell'invecchiamento",
+      "Rivitalizza la pelle"
+    ],
+    "mainTarget": "Rivitalizzante",
+    "related": [
+      { "slug": "ox", "title": "OX+", "category": "Flaconcini sterili" },
+      { "slug": "power-oxy", "title": "POWER OXY", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Immagine del prodotto che mostra la confezione Bonitto OX Ultra accanto a un piccolo flaconcino. La confezione è bianca e turchese con il testo \"A Story of Elegance\" sotto il nome del marchio. Il flaconcino è trasparente con un'etichetta coordinata e un tappo scuro."
+  },
+  "peel-4-0": {
+    "title": "PEEL 4.0",
+    "category": "Flaconcini sterili",
+    "description": "PEEL 4.0 è una soluzione cosmetica sterile progettata per esfoliare e rivitalizzare la pelle. È adatta all'uso su viso, collo, décolleté e mani. Questa soluzione mira a migliorare la texture cutanea, potenziare la luminosità e contrastare i segni dell'invecchiamento e le imperfezioni.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Lactic Acid (40%)" },
+      { "label": "Volume", "value": "Flaconcini 5 x 10 ml" }
+    ],
+    "effects": [
+      "Maggiore luminosità della pelle",
+      "Texture cutanea più liscia",
+      "Riduzione dei segni dell'invecchiamento",
+      "Maggiore compattezza della pelle",
+      "Imperfezioni attenuate"
+    ],
+    "mainTarget": "Schiarente",
+    "related": [
+      { "slug": "shine-power", "title": "SHINE POWER", "category": "Flaconcini sterili" },
+      { "slug": "whitening", "title": "WHITENING+", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Una scatola turchese e bianca etichettata \"Bonitto Peel 4.0\" si trova accanto a una piccola bottiglia marrone con etichetta coordinata. La scatola presenta un design a gradiente e il testo \"A Study of Science\" nella parte superiore.",
+    "campaignImageAlt": "Una persona con lunghi capelli castani e occhi azzurri ha una linea turchese dipinta verticalmente al centro del viso, creando un contrasto sorprendente con la pelle lentigginosa. Sta guardando direttamente la fotocamera."
+  },
+  "peel-exo-capture-35": {
+    "title": "PEEL EXO CAPTURE 35",
+    "category": "Flaconcini sterili",
+    "description": "PEEL EXO CAPTURE 35 è una soluzione cosmetica sterile formulata per migliorare l'aspetto della pelle agendo sulla texture cutanea e uniformando il tono. Grazie a principi attivi come Sodium Trichloroacetate, AHA e BHA, questa formulazione aiuta a schiarire la pigmentazione, rimuovere le cellule morte e liberare i pori.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Trichloroacetate, Lactic Acid, Salicylic Acid, Allantoin, Proline, Lysine HCL, Glycine, Centella Asiatica Leaf Vesicles, Hydrolyzed RNA/ DNA, Pyridoxine HCL, Thiamine HCL." },
+      { "label": "Volume", "value": "Flaconcini 5x10ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Un piccolo flaconcino etichettato \"BONITTO PEEL EXO CAPTURE 35\" si trova accanto a una scatola alta e rettangolare, verde e bianca, con lo stesso marchio e testo. La confezione presenta un design moderno a gradiente."
+  },
+  "power-oxy": {
+    "title": "POWER OXY",
+    "category": "Flaconcini sterili",
+    "description": "POWER OXY è una soluzione cosmetica sterile formulata per migliorare la salute della pelle supportando la riparazione cutanea e proteggendo dai radicali liberi. Grazie a principi attivi come Retinyl Palmitate, Cysteine HCL e Glutathione, questa formulazione riduce nel tempo l'aspetto di linee sottili e rughe.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Sodium Hyaluronate, Taurine, Retinyl Palmitate, Proline, Cysteine HCL, Tocopheryl Acetate, Ribes Nigrum (Black Currant) Bud Extract, Glutathione" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Maggiore riparazione cutanea",
+      "Protezione antiossidante",
+      "Migliore idratazione della pelle",
+      "Incarnato più luminoso",
+      "Elasticità aumentata"
+    ],
+    "mainTarget": "Rivitalizzante",
+    "related": [
+      { "slug": "ox-ultra", "title": "OX ULTRA", "category": "Flaconcini sterili" },
+      { "slug": "ox", "title": "OX+", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Un piccolo flaconcino etichettato \"Bonitto Power Oxy\" è posto accanto a una scatola più grande con lo stesso marchio. La scatola presenta un gradiente dal verde scuro al verde chiaro, con i testi \"Power Oxy\" e \"Bonitto\" in evidenza."
+  },
+  "pro-age": {
+    "title": "PRO AGE",
+    "category": "Flaconcini sterili",
+    "description": "PRO AGE è una soluzione cosmetica sterile e un potente cocktail di vitamine e antiossidanti che stimola il rinnovamento dei tessuti, aiutando a mantenere un incarnato più liscio e più resistente.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Pyridoxine HCL (Vitamin B6), Thiamine HCL (Vitamin B1), Sodium Ascorbate (Vitamin C), Panthenol (Pro-Vitamin B5), Riboflavin (Vitamin B2), Tocopheryl Acetate (Vitamin E), Retynil Palmitate (Vitamin A), Niacinamide (Vitamin B3)" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Prevenzione delle rughe precoci",
+      "Texture della pelle migliorata",
+      "Aspetto giovane"
+    ],
+    "mainTarget": "Anti-età",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "Flaconcini sterili" },
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "Flaconcini sterili" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "L'immagine mostra una confezione e un piccolo flaconcino. La scatola è etichettata \"BONITTO\" e \"PRO AGE\" in testo bianco su uno sfondo verde sfumato. Il flaconcino, accanto alla scatola, riporta anch'esso \"BONITTO PRO AGE\"."
+  },
+  "pro-cells": {
+    "title": "PRO CELLS",
+    "category": "Flaconcini sterili",
+    "description": "PRO CELLS è una soluzione cosmetica sterile progettata per ridurre l'aspetto della cellulite e migliorare i contorni del corpo. Attiva la scomposizione del tessuto adiposo e previene l'accumulo di nuovi depositi di grasso, contribuendo a migliorare compattezza e levigatezza della pelle. Promuovendo la disintossicazione, contribuisce a una texture cutanea più uniforme e a una migliore salute generale della pelle.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Caffeine, Carnitine, Ananas Sativus Fruit Extract (Pineapple), Equisetum Arvense Extract (Horsetail), Cynara Scolymus Leaf Extract (Artichoke), Palmaria Palmata Extract" },
+      { "label": "Volume", "value": "Flaconcini 5 x 10 ml" }
+    ],
+    "effects": [],
+    "mainTarget": "Cellulite",
+    "related": [
+      { "slug": "lipo", "title": "LIPO+", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Una scatola etichettata \"Bonitto Pro Cells\" con un piccolo flaconcino accanto. La scatola e il flaconcino presentano un design a gradiente verde e bianco. Il testo sulla scatola riporta \"Vols. 5x10 ml\"."
+  },
+  "radiance-pro": {
+    "title": "RADIANCE PRO",
+    "category": "Flaconcini sterili",
+    "description": "RADIANCE PRO è una soluzione cosmetica sterile progettata per idratare e riparare la pelle del dorso delle mani. Stimola l'idratazione e le funzioni riparatrici per mantenere la salute della pelle in quest'area.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Acetyl Decapeptide-3, Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate, Proline, Glycine, Arginine HCL, Cysteine HCL, Niacinamide (Vitamin B3)" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Idratazione intensa",
+      "Riparazione cutanea",
+      "Aspetto giovane",
+      "Barriera protettiva",
+      "Miglioramento della texture"
+    ],
+    "mainTarget": "Mani",
+    "related": [
+      { "slug": "ey", "title": "EY+", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Immagine del prodotto Bonitto Radiance Pro con una scatola verde chiaro e un piccolo flaconcino accanto. La scatola presenta un design a gradiente con il nome del marchio e del prodotto in testo bianco."
+  },
+  "shine-power": {
+    "title": "SHINE POWER",
+    "category": "Flaconcini sterili",
+    "description": "SHINE POWER è una soluzione cosmetica sterile formulata per chi cerca un approccio naturale allo schiarimento della pelle. Una miscela potente di ingredienti che lavorano insieme per ridurre la pigmentazione, uniformare il tono e potenziare la luminosità generale della pelle. La soluzione è progettata per contrastare e attenuare l'aspetto di macchie scure e discromie, promuovendo un incarnato più luminoso e uniforme.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Succinic Acid, Ascorbyl Glucoside, Glutathione" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Schiarimento della pelle",
+      "Protezione antiossidante",
+      "Leviga la pelle",
+      "Idratazione ed effetto lenitivo",
+      "Benefici anti-età"
+    ],
+    "mainTarget": "Schiarente",
+    "related": [
+      { "slug": "peel-4-0", "title": "PEEL 4.0", "category": "Flaconcini sterili" },
+      { "slug": "whitening", "title": "WHITENING+", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Prodotto Bonitto Shine Power con una scatola verde menta e bianca con la scritta \"Shine Power\". Un piccolo flaconcino è posto accanto alla scatola, con la stessa etichetta. Il design complessivo è elegante e moderno."
+  },
+  "whitening": {
+    "title": "WHITENING+",
+    "category": "Flaconcini sterili",
+    "description": "WHITENING+ è una soluzione cosmetica sterile progettata per contrastare le discromie cutanee e valorizzare la luminosità generale della pelle. L'acido tranexamico è efficace nel trattamento dell'iperpigmentazione e del melasma, inibendo l'attività della tirosinasi, un enzima coinvolto nella produzione di melanina. Aiuta a schiarire le macchie scure e a migliorare il tono generale della pelle.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Oligopeptide-34, Glycyrrhiza Glabra (Licorice) Root Extract, Panthenol (Pro-Vitamin B5), Glutathione, Acetyl Glycil Β-Alanine, Tranexamic Acid, Sodium Hyaluronate" },
+      { "label": "Volume", "value": "Flaconcini 5 x 5 ml" }
+    ],
+    "effects": [
+      "Illumina il tono della pelle",
+      "Riduce le discromie",
+      "Ripristina la luminosità naturale",
+      "Migliora la purezza della pelle"
+    ],
+    "mainTarget": "Schiarente",
+    "related": [
+      { "slug": "shine-power", "title": "SHINE POWER", "category": "Flaconcini sterili" },
+      { "slug": "peel-4-0", "title": "PEEL 4.0", "category": "Flaconcini sterili" }
+    ],
+    "productImageAlt": "Una scatola di BONITTO Whitening+ insieme a una piccola bottiglietta. La scatola è turchese con il nome del marchio in bianco nella parte superiore. Il flaconcino è etichettato \"BONITTO Whitening+ Master Solution\" e contiene 5x5 ml."
+  },
+  "xnad": {
+    "title": "XNAD+",
+    "category": "Flaconcini sterili",
+    "description": "XNAD+ è una soluzione cosmetica sterile progettata per rivitalizzare la pelle promuovendo il rinnovamento e migliorando l'elasticità. Arricchita con NAD+, amminoacidi e complessi peptidici, aiuta a rassodare la pelle e a ridurre gradualmente l'aspetto delle linee sottili per un aspetto più liscio e giovanile.",
+    "technicalInfo": [
+      { "label": "Principi attivi", "value": "Trehalose, Acetyl Hexapeptide-1, Arginine, Oligopeptide-4, Disodium NADH, Acetyl sh-Hexapeptide-5 Amide Acetate, Acetyl Hexapeptide-8, Centella Asiatica Leaf Vesicles." },
+      { "label": "Volume", "value": "5x5ml" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Vengono mostrati un piccolo flaconcino e una scatola turchese e bianca etichettata \"BONITTO XNAD+ Vials 5x5 ml\". La scatola presenta un design a gradiente e il nome del marchio appare nella parte superiore."
+  }
+}

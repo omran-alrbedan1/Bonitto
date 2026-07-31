@@ -37,6 +37,11 @@
     "target": "מטרה עיקרית",
     "relatedProducts": "מוצרים קשורים",
     "contactDistributor": "צור קשר להפצה",
-    "downloadDatasheet": "הורד גיליון נתונים"
-  }
+    "downloadDatasheet": "הורד גיליון נתונים",
+    "home": "דף הבית",
+    "discoverMore": "גלה עוד",
+    "noProducts": "לא נמצאו מוצרים בקטגוריה זו.",
+    "treatmentAlt": "טיפול {title}"
+  },
+  "categoriesPrefix": "קטגוריה"
 }

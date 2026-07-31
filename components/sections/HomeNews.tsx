@@ -50,7 +50,7 @@ export function HomeNews() {
       </div>
 
       <div className="home-news-list flex items-center md:px-16 lg:px-20 py-12 md:py-0 overflow-hidden">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 w-full">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full">
           {articles.map((article) => (
             <Link
               key={article.slug}

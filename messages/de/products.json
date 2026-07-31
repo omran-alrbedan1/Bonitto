@@ -37,6 +37,11 @@
     "target": "Hauptziel",
     "relatedProducts": "Ähnliche Produkte",
     "contactDistributor": "Kontakt für Vertrieb",
-    "downloadDatasheet": "Datenblatt herunterladen"
-  }
+    "downloadDatasheet": "Datenblatt herunterladen",
+    "home": "Startseite",
+    "discoverMore": "Mehr erfahren",
+    "noProducts": "Keine Produkte in dieser Kategorie gefunden.",
+    "treatmentAlt": "{title} Behandlung"
+  },
+  "categoriesPrefix": "Kategorie"
 }

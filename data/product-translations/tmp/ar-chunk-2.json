@@ -1,0 +1,595 @@
+{
+  "age": {
+    "title": "AGE+",
+    "category": "أمبولات معقّمة",
+    "description": "AGE+ هو محلول تجميلي معقّم صُمم لتجديد البشرة وإنعاشها من خلال الحد من علامات الشيخوخة. يعمل على تقليل الخطوط الدقيقة والتجاعيد، وتعزيز نعومة البشرة، والوقاية من تفاقم علامات التقدم في السن بفضل مزيجه الفريد من المكونات النشطة. ومن خلال توفير العناصر الغذائية الأساسية والترطيب العميق، يعزز الصحة العامة للبشرة، ويضمن مظهراً شاباً ومشرقاً.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "تقليل الخطوط الدقيقة والتجاعيد",
+      "تحسين ملمس البشرة",
+      "زيادة الترطيب",
+      "إنعاش البشرة",
+      "الوقاية من علامات الشيخوخة المستقبلية"
+    ],
+    "mainTarget": "مكافحة الشيخوخة",
+    "related": [
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "أمبولات معقّمة" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "أمبولات معقّمة" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "صورة للمنتج تعرض أمبولة صغيرة تحمل ملصق \"Bonitto Age+\" بجانب علبة متطابقة بتدرج لوني تركوازي تحمل الملصق نفسه. التصميم أنيق وبسيط، مع ظهور عبارة \"A drop of brilliance\" أعلى العلبة."
+  },
+  "btx": {
+    "title": "BTX+",
+    "category": "أمبولات معقّمة",
+    "description": "BTX+ هو محلول تجميلي معقّم صُمم للمساعدة في الوقاية من علامات الشيخوخة الظاهرة وتقليلها، مع التركيز على تجاعيد التعبير. يُعرف حمض الدايميثيل أمينو إيثانول (DMAE) بتأثيراته المشدودة للبشرة. يعمل عن طريق تثبيت أغشية الخلايا وتحسين قوة العضلات، مما يؤدي إلى مظهر أكثر صلابة ورفعاً للبشرة.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Acetyl Hexapeptide-8 (Argireline), Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "يقلل التجاعيد",
+      "ينعّم الخطوط الدقيقة",
+      "يحسّن ملمس البشرة",
+      "يعزز المظهر الشبابي"
+    ],
+    "mainTarget": "شدّ البشرة",
+    "related": [
+      { "slug": "btx-2-0", "title": "BTX 2.0", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "صورة لمنتج BTX+ من Bonitto على خلفية بيضاء. تشمل المجموعة أمبولة صغيرة وعلبة، وكلاهما بتدرج لوني من درجات الأزرق والأخضر، مع ظهور اسم العلامة التجارية \"Bonitto\" واسم المنتج \"BTX+\"."
+  },
+  "btx-2-0": {
+    "title": "BTX 2.0",
+    "category": "أمبولات معقّمة",
+    "description": "BTX 2.0 هو محلول تجميلي معقّم يُستخدم لتقليل علامات الشيخوخة، بما في ذلك الوقاية من التجاعيد وغيرها من المشاكل الجلدية المرتبطة بالتقدم في العمر. يحتوي هذا المحلول التجميلي المعقّم على مركب قوي مضاد للشيخوخة يقدّم نهجاً شاملاً لتقليل التجاعيد، وتعزيز إنتاج الكولاجين، وتحسين ترطيب البشرة، مما يؤدي إلى بشرة أكثر نعومة وصلابة ومظهراً أكثر شباباً.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Hydroxyproline, Acetyl Octapeptide-3, Pentapeptide-18, Proline, Glycine, Succinic Acid" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "تقليل التجاعيد",
+      "الوقاية من الشيخوخة",
+      "الترطيب",
+      "شدّ البشرة وتماسكها",
+      "تحسين ملمس البشرة",
+      "دعم الإصلاح الطبيعي للبشرة"
+    ],
+    "mainTarget": "شدّ البشرة",
+    "related": [
+      { "slug": "btx", "title": "BTX+", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "صورة لمنتج تعرض علبة تركوازية وبيضاء تحمل ملصق \"BONITTO BTX 2.0\" بجانب أمبولة صغيرة تحتوي سائلاً، وتحمل أيضاً ملصق \"BONITTO BTX 2.0\". توضع الأمبولة والعلبة على خلفية بيضاء."
+  },
+  "collagen-ultra": {
+    "title": "COLLAGEN ULTRA",
+    "category": "أمبولات معقّمة",
+    "description": "COLLAGEN ULTRA هو محلول تجميلي معقّم مصمم لتجديد البشرة، ويعالج علامات الشيخوخة والضرر بفعالية. الكولاجين بروتين هيكلي أساسي يحافظ على صلابة البشرة ومرونتها. ومع التقدم في العمر، يتراجع إنتاج الكولاجين الطبيعي، مما يؤدي إلى ظهور التجاعيد وترهّل البشرة وفقدان نضارتها. يحفز الكولاجين الموجود في هذه التركيبة إنتاج الكولاجين الطبيعي، مما يستعيد مرونة البشرة ونعومتها.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Hydrolyzed Collagen, Gleditsia Triacanthos Seed Extract, Glycerin, Sodium Hyaluronate" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "يقلل التجاعيد",
+      "يخفف علامات التمدد",
+      "يحسّن ملمس البشرة"
+    ],
+    "mainTarget": "مكافحة الشيخوخة",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "أمبولات معقّمة" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "أمبولات معقّمة" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "يظهر تغليف Collagen Ultra من Bonitto. العلبة تركوازية في الغالب مع تدرج لوني ونص أبيض. توضع أمبولة صغيرة بتصميم مماثل على اليسار، ظاهرة جزئياً بجانب العلبة."
+  },
+  "cor-control": {
+    "title": "COR CONTROL",
+    "category": "أمبولات معقّمة",
+    "description": "COR CONTROL هو محلول تجميلي معقّم مصمم لتهدئة البشرة المتهيجة والمعرضة للاحمرار. يقدّم مستخلص كورديسيبس (Cordyceps Sinensis) مجموعة من الفوائد تشمل الحماية المضادة للأكسدة، والتأثيرات المضادة للالتهابات، وتجديد البشرة، والترطيب، ومكافحة الشيخوخة، وتحسين لون البشرة. وهو مثالي للبشرة الحساسة، حيث يعزز مظهراً متوازناً وهادئاً وأكثر مرونة مع الاستخدام المنتظم.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Cordyceps Sinensis Extract, Trametes Versicolor Extract, Butylene Glycol, Epilobium Angustifolium Flower/Leaf/Stem Extract, Propylene Glycol, Calendula Officinalis Flower Extract, Allantoin" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "تقليل الاحمرار",
+      "ترطيب معزز",
+      "التهدئة والإراحة",
+      "حماية البشرة",
+      "استعادة حاجز البشرة"
+    ],
+    "mainTarget": "تهدئة – حب الشباب",
+    "related": [
+      { "slug": "gold-stem", "title": "GOLD STEM", "category": "أمبولات معقّمة" },
+      { "slug": "mst-redox", "title": "MST REDOX", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "علبة وأمبولة من \"Bonitto Cor Control\". العلبة بتدرج لوني أخضر مع نص أبيض، والأمبولة تحمل ملصقاً مطابقاً. المنتج بحجم 5 × 5 مل، ما يشير إلى مجموعة من الحاويات السائلة الصغيرة."
+  },
+  "dna-booster": {
+    "title": "DNA BOOSTER",
+    "category": "أمبولات معقّمة",
+    "description": "DNA BOOSTER هو محلول تجميلي معقّم، يُستخدم لإنعاش البشرة وتحسين كثافتها. يهدف إلى دعم عمليات الإنعاش الطبيعي للبشرة، مما يؤدي إلى مظهر أكثر صحة وشباباً. يوفر الحمض النووي الريبي المتحلل (RNA) النيوكليوتيدات والأحماض النووية الأساسية التي تدعم إصلاح الخلايا وتجديدها. كما يساعد على تحسين وظائف الخلايا وتحفيز تجدد البشرة.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Propylene Glycol, Hydrolyzed RNA, Hydrolyzed DNA, Carnosine, Glutathione" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "صلابة معززة للبشرة",
+      "ترطيب عميق",
+      "إنعاش وإشراق",
+      "تقليل التجاعيد",
+      "حماية مضادة للأكسدة",
+      "تحسين لون البشرة وملمسها"
+    ],
+    "mainTarget": "معزز ترطيب البشرة",
+    "related": [
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "أمبولات معقّمة" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "أمبولات معقّمة" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "تعرض الصورة زجاجة صغيرة تحمل ملصق \"Bonitto DNA Booster\" بجانب علبة تغليف باللونين الفيروزي والأبيض. تتميز العلبة بنفس العلامة التجارية واسم المنتج بخط عصري."
+  },
+  "exogenix": {
+    "title": "EXOGENIX",
+    "category": "أمبولات معقّمة",
+    "description": "EXOGENIX هو محلول تجميلي معقّم يعزز تجدد البشرة ويحسّن مرونتها ويقلل الخطوط الدقيقة. تبرز الإكسوسومات (Exosomes) كمكوّن قوي في منتجات العناية بالبشرة نظراً لخصائصها المتجددة والمجدّدة للأنسجة.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Acetyl Hexapeptide-8, Nippon Koreana Citrus Reticulata Exosomes, Acetyl Decapeptide-3, Pentapeptide-18, Glycerin, 1,2-Hexanediol, Thiamine HCL, Riboflavin, Panthenol, Tocopherol" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "يعزز إنتاج الكولاجين",
+      "يعزز تجدد البشرة",
+      "حماية مضادة للأكسدة",
+      "تأثير مضيء للبشرة",
+      "يدعم إصلاح البشرة"
+    ],
+    "mainTarget": "مكافحة الشيخوخة",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "أمبولات معقّمة" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "أمبولات معقّمة" },
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "BONITTO® EXOGENIX - سيروم مضاد للشيخوخة يحتوي على الإكسوسومات لتجدد البشرة وتقليل الخطوط الدقيقة"
+  },
+  "ey": {
+    "title": "EY+",
+    "category": "أمبولات معقّمة",
+    "description": "EY+ هو محلول تجميلي معقّم مصمم خصيصاً لإنعاش منطقة حول العينين ومعالجة علامات الشيخوخة فيها. تعمل هذه التركيبة على تفتيح منطقة تحت العين، وتقليل الهالات السوداء وفرط التصبغ، والحفاظ على نعومة وامتلاء البشرة حول العينين.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Proline, Serine, Glycine, Niacinamide, Glutathione, Sodium Hyaluronate" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "يقلل التجاعيد",
+      "يحسّن ملمس البشرة",
+      "يضيء المظهر",
+      "يرطّب ويملأ البشرة"
+    ],
+    "mainTarget": "منطقة العين",
+    "related": [
+      { "slug": "radiance-pro", "title": "RADIANCE PRO", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "أمبولات محلول EY+ المعقّم من BONITTO® تقدم نتائج تشبه الفيلر تحت العين لبشرة أكثر إشراقاً وامتلاءً ونعومة",
+    "campaignImageAlt": "شخص بشعر مجعّد يضع يديه حول وجهه. يوجد خط تركوازي قطري مرسوم على إحدى العينين وعبر منتصف الوجه، مع ظلال عيون بنفس اللون. تعبير الوجه هادئ وواثق."
+  },
+  "gold-stem": {
+    "title": "GOLD STEM",
+    "category": "أمبولات معقّمة",
+    "description": "GOLD STEM هو محلول تجميلي معقّم يهدف إلى دعم وتعزيز تجدد البشرة. يُعرف الببتيد Acetyl Octapeptide-3 (ويشار إليه غالباً بـ SNAP-8) بأنه ببتيد مشابه لتأثير البوتوكس، إذ يعمل عن طريق تثبيط إطلاق النواقل العصبية التي تسبب تقلص العضلات، مما يؤدي إلى تقليل خطوط التعبير والتجاعيد.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Pentylene Glycol, Sodium Benzoate, Potassium Sorbate, Quercus Robur Root Extract Staminal Cells, Acetyl Decapeptide-3, Acetyl Octapeptide-3, Caprylyl Glycol" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "تجدد البشرة",
+      "تحسين ملمس البشرة",
+      "تقليل الخطوط الدقيقة والتجاعيد",
+      "ترطيب معزز",
+      "زيادة مرونة البشرة",
+      "تجدد شباب البشرة بشكل عام"
+    ],
+    "mainTarget": "إصلاح – حب الشباب",
+    "related": [
+      { "slug": "cor-control", "title": "COR CONTROL", "category": "أمبولات معقّمة" },
+      { "slug": "mst-redox", "title": "MST REDOX", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "صورة لمنتج Gold Stem من Bonitto. تقف أمبولة صغيرة بجانب علبتها، وهي باللونين الأزرق والأخضر مع نص أبيض."
+  },
+  "ha-booster-aa15": {
+    "title": "HA+ BOOSTER & AA15",
+    "category": "أمبولات معقّمة",
+    "description": "HA+ BOOSTER & AA15 هو محلول تجميلي معقّم لتحسين صلابة البشرة ومرونتها. تساهم الأحماض الأمينية الموجودة في هذه التركيبة في الحصول على بشرة أكثر شباباً وترطيباً وصلابة، وتحسين جودة الأنسجة، والوقاية من علامات الشيخوخة.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Thiamine HCL (Vitamin B1), Pyridoxinde HCL (Vitamin B6), Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "ترطيب عميق",
+      "صلابة معززة",
+      "مرونة محسّنة"
+    ],
+    "mainTarget": "معزز ترطيب البشرة",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "أمبولات معقّمة" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "أمبولات معقّمة" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "BONITTO® HA+ BOOSTER & AA15: أمبولات محلول تقدم ترطيباً وصلابة ومرونة مشابهة لتأثيرات الفيلر للبشرة.",
+    "campaignImageAlt": "لقطة مقربة للجانب الأيسر من وجه شخص، تظهر خطوط منحنية زرقاء فاتحة مرسومة فوق الخد. تمتد الخطوط من أسفل العين وتنحني للخارج وللأسفل نحو خط الفك، للإشارة إلى مناطق العلاج التجميلي المحتملة. الخلفية رمادية فاتحة."
+  },
+  "hairscalp": {
+    "title": "HAIRSCALP",
+    "category": "أمبولات معقّمة",
+    "description": "HAIRSCALP هو محلول تجميلي معقّم يدعم إنعاش الشعر وفروة الرأس بفضل الخصائص المفيدة لمكوناته. تحتوي الإكسوسومات على عوامل نمو وجزيئات إشارات تحفز نشاط بصيلات الشعر وتجددها. كما تساعد على تنشيط البصيلات الخاملة وتعزيز نمو شعر جديد.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Copper Tripeptide-1, Citrus Reticulata Fruit Exosomes, 3-O-Ethyl Ascorbic Acid" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "تعزيز نمو شعر جديد",
+      "تحسين صحة فروة الرأس",
+      "تقوية الشعر",
+      "حماية مضادة للأكسدة",
+      "ترطيب الشعر وفروة الرأس",
+      "تقليل ترقق الشعر"
+    ],
+    "mainTarget": "الشعر",
+    "related": [
+      { "slug": "hair-ultra", "title": "HAIR ULTRA", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "تعرض الصورة علبة وأمبولة تحملان ملصق \"BONITTO HAIRSCALP\". العلبة تركوازية بنص أبيض وتصميم متدرج. توضع الأمبولة الصغيرة أمام العلبة، مطابقة لها في اللون والعلامة التجارية.",
+    "campaignImageAlt": "رجل بشعر قصير ولحية ينظر إلى الكاميرا بتعبير متأمل، مستنداً بذقنه على يده. تلقي الإضاءة ظلاً خفيفاً على وجهه لتبرز ملامحه على خلفية بسيطة."
+  },
+  "hair-ultra": {
+    "title": "HAIR ULTRA",
+    "category": "أمبولات معقّمة",
+    "description": "HAIR ULTRA هو محلول تجميلي معقّم مصمم لإنعاش الشعر وفروة الرأس. تحتوي تركيبته على مزيج من الببتيدات وحمض الهيالورونيك والمستخلصات الطبيعية التي تعمل معاً على تغذية وتقوية الشعر، وتعزيز نمو أكثر صحة وتحسين حالة فروة الرأس.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Lecithin, Sh-Oligopeptide-10, Sh-Oligopeptide-2, Sh-Polypeptide-1, Sh-Polypeptide-9, Sh-Polypeptide-11, Sodium Hyaluronate, Octapeptide-2, Sh-Oligopeptide-4, Arginine, Glycerin" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "إنعاش",
+      "تقوية",
+      "ترطيب",
+      "تحسين صحة فروة الرأس",
+      "تقليل تساقط الشعر"
+    ],
+    "mainTarget": "الشعر",
+    "related": [
+      { "slug": "hairscalp", "title": "HAIRSCALP", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "علبة تركوازية تحمل ملصق \"Bonitto Hair Ultra\" واقفة بشكل عمودي، مع أمبولة صغيرة بجانبها. يتميز التغليف بتصميم متدرج ينتقل من الفاتح إلى الداكن.",
+    "campaignImageAlt": "امرأة بشعر طويل أشقر تعززه خصلات خضراء فاتحة، تتأمل بتعبير هادئ وعيناها مغمضتان وابتسامة خفيفة. تبرز الصورة الجانبية بشرتها الناعمة وشعرها المتموج الناعم على خلفية محايدة."
+  },
+  "hyavital-hl": {
+    "title": "HYAVITAL H+L",
+    "category": "أمبولات معقّمة",
+    "description": "HYAVITAL H+L هو محلول تجميلي معقّم مصمم للترطيب العميق للبشرة. يحتوي على مزيج من هيالورونات الصوديوم والأحماض الأمينية التي تلعب دوراً مهماً في المحاليل التجميلية، إذ تساعد على تحسين جودة البشرة، وتعزيز تجدد الخلايا، وتحفيز تخليق الكولاجين والإيلاستين.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "ترطيب عميق",
+      "تحسين مرونة البشرة",
+      "ملمس أكثر نعومة",
+      "بشرة منتعشة",
+      "فوائد مضادة للشيخوخة"
+    ],
+    "mainTarget": "معزز ترطيب البشرة",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "أمبولات معقّمة" },
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "أمبولات معقّمة" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "صورة لمنتج تعرض علبة خضراء وبيضاء تحمل ملصق \"BONITTO HYAVITAL H+L\" بجانب أمبولة صغيرة بملصق مشابه. توضع الأمبولة أمام العلبة."
+  },
+  "lipo": {
+    "title": "LIPO+",
+    "category": "أمبولات معقّمة",
+    "description": "LIPO+ هو محلول تجميلي معقّم مصمم لتحسين محيطات الجسم وصلابته. تعمل الكارنيتين والكافيين ودوكسي كولات الصوديوم بشكل تآزري على تكسير الدهون واستقلابها، مما يساعد على تقليل تراكمات الدهون الموضعية وتحسين محيطات الجسم.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Carnitine, Caffeine, Palmaria Palmata Extract, Propanediol, Sodium Deoxycholate" },
+      { "label": "الحجم", "value": "أمبولات 5 × 10 مل" }
+    ],
+    "effects": [
+      "تقليل محيطات الجسم",
+      "تحسين محيطات الجسم",
+      "تحسين صلابة البشرة"
+    ],
+    "mainTarget": "الدهون الموضعية",
+    "related": [
+      { "slug": "pro-cells", "title": "PRO CELLS", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "أمبولات LIPO+ المعقّمة من BONITTO لمعالجة الجسم",
+    "campaignImageAlt": "BONITTO® LIPO+ فلمر للجسم، محلول لتحسين محيطات الجسم وصلابته"
+  },
+  "lips-on": {
+    "title": "LIPS ON",
+    "category": "أمبولات معقّمة",
+    "description": "LIPS ON هو محلول تجميلي معقّم مصمم لتجديد الشفاه وتحسين مظهرها. يعمل على تنعيم الملمس، وتحسين الترطيب، وتعزيز النعومة مع تحسين اللون والحجم. يوفر هذا المحلول ترطيباً طبيعياً وهو مخصص للاستخدام الموضعي للحصول على شفاه أكثر امتلاءً ومظهراً أكثر شباباً.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Ascorbate, Troxerutin, Sodium Hyaluronate, Pseudoalteromonas Ferment Extract, Salicylic Acid, Citric Acid, Sodium Salicylate" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "تجدد الشفاه",
+      "تنعيم الملمس",
+      "تحسين الترطيب",
+      "تعزيز اللون",
+      "زيادة الحجم",
+      "ترطيب طبيعي"
+    ],
+    "mainTarget": "الشفاه",
+    "related": [],
+    "productImageAlt": "علبة تحمل ملصق \"Bonitto Lips On\" مع أمبولة صغيرة بجانبها. التغليف تركوازي وأبيض بعناصر تصميم بسيطة.",
+    "campaignImageAlt": "لقطة مقربة لشخص تتدلى خصلات شعر متموجة حول وجهه. مكياج طبيعي مع لمسة من ظلال العيون الخضراء وصبغة خضراء خفيفة على الشفة العليا. تلمس إحدى اليدين بأظافر مرتبة الخد بلطف، والنظرة متأملة إلى الجانب."
+  },
+  "mevita-15-ha": {
+    "title": "MEVITA 15 + HA",
+    "category": "أمبولات معقّمة",
+    "description": "MEVITA 15+HA هو محلول تجميلي معقّم مصمم للترطيب والتغذية المكثفة للبشرة. يحتوي على مركب من الفيتامينات مصمم لتوفير تجدد شامل للبشرة، ومعالجة مشاكل متعددة مثل الشيخوخة والترطيب والتصبغ وملمس البشرة، مع توفير حماية قوية مضادة للأكسدة وتحسين حيوية البشرة.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Panthenol (Vitamin B5), Folic Acid, Biotin, Inositol, Pyridoxinde HCl, Riboflavin, Thiamine HCL, 3-O-Ethyl Ascorbic Acid, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "ترطيب معزز للبشرة",
+      "تحسين ملمس البشرة ولونها",
+      "التغذية والإصلاح",
+      "زيادة إنتاج الكولاجين",
+      "حماية مضادة للأكسدة"
+    ],
+    "mainTarget": "معزز ترطيب البشرة",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "أمبولات معقّمة" },
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "أمبولات معقّمة" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "تُعرض علبة تركوازية وبيضاء تحمل ملصق \"Bonitto MEVITA 15+HA\"، مع أمبولة صغيرة على اليسار بعلامة تجارية مشابهة. تحتوي العلبة على أمبولات مصممة للعناية بالبشرة أو الاستخدام الطبي."
+  },
+  "mst-redox": {
+    "title": "MST REDOX",
+    "category": "أمبولات معقّمة",
+    "description": "MST REDOX هو محلول تجميلي معقّم مصمم لدعم تجدد البشرة من خلال توفير ترطيب مكثف وحماية مضادة للأكسدة. الميرستيم هي خلايا جذعية مشتقة من مصادر نباتية تدعم التجدد الخلوي. تعمل على تسريع عمليات إصلاح البشرة والالتئام، مما يجعلها فعالة في علاج الضرر والتصبغات اللاحقة للالتهابات.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Quercus Robur Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Paeonia Lactiflora Root Extract, Allantoin" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "تجدد معزز للبشرة",
+      "ترطيب عميق",
+      "حماية مضادة للأكسدة",
+      "إحساس مهدئ ومريح"
+    ],
+    "mainTarget": "مضاد الاحمرار – حب الشباب",
+    "related": [
+      { "slug": "gold-stem", "title": "GOLD STEM", "category": "أمبولات معقّمة" },
+      { "slug": "cor-control", "title": "COR CONTROL", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "صورة لمنتج تعرض زجاجة وعلبة تحملان ملصق \"MST REDOX\" من Bonitto. العلبة بتصميم متدرج باللونين التركوازي والأبيض، والزجاجة صغيرة وظاهرة جزئياً في مقدمة العلبة.",
+    "campaignImageAlt": "لقطة مقربة لشخص بملامح محددة ولحية معتنى بها، ينظر إلى الجانب بتأمل. تلمس إحدى اليدين الرقبة بلطف، وتحمل شريطاً مطاطياً رفيعاً بلون تركوازي. الخلفية ضبابية قليلاً."
+  },
+  "ox": {
+    "title": "OX+",
+    "category": "أمبولات معقّمة",
+    "description": "OX+ هو محلول تجميلي معقّم مصمم لترطيب البشرة وإنعاشها، وهو مناسب للاستخدام على الوجه والرقبة والصدر واليدين والبطن وعلامات التمدد. يحتوي على مركب من المكونات النشطة التي تعزز إنتاج الطاقة الخلوية، وتنشّط خلايا البشرة وتحسّن حيويتها بشكل عام.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Niacinamide (Vitamin B3), 3-O-Ethyl Ascorbic Acid (Vitamin C), Panthenol (Vitamin B5), Glycyrrhiza Glabra (Licorice) Root Extract" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "ترطيب معزز للبشرة",
+      "إنعاش البشرة",
+      "تجدد لمظهر شبابي",
+      "تحسين مرونة البشرة",
+      "تقليل الخطوط الدقيقة",
+      "تحسين مظهر علامات التمدد"
+    ],
+    "mainTarget": "منشّط البشرة",
+    "related": [
+      { "slug": "ox-ultra", "title": "OX ULTRA", "category": "أمبولات معقّمة" },
+      { "slug": "power-oxy", "title": "POWER OXY", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "علبة وأمبولة من سيروم OX+ من Bonitto. العلبة تركوازية مع تدرج أبيض في الأعلى. الزجاجة الصغيرة بجانبها ذات غطاء فضي وتطابق تصميم العلبة. النص على العلبة والأمبولة \"OX+\" و\"5x5 مل\".",
+    "campaignImageAlt": "لقطة مقربة لوجه شخص تعرض مكياجاً إبداعياً: خطوط تركوازية تمتد من الحاجبين إلى أسفل الأنف وعلى طول العينين. البشرة بمظهر متوهج رطب، مع كحل أسود دقيق وشفاه وردية ناعمة. الخلفية رمادية محايدة."
+  },
+  "ox-ultra": {
+    "title": "OX ULTRA",
+    "category": "أمبولات معقّمة",
+    "description": "OX ULTRA هو محلول تجميلي معقّم مصمم لتعزيز تجدد البشرة وتحسين اللون الطبيعي للبشرة. يحتوي على مزيج من المكونات النشطة، بما في ذلك هيالورونات الصوديوم وAcetyl Decapeptide-3، مما يساعد على تحسين ملمس البشرة وترطيبها.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Acetyl Decapeptide-3, Hydroxyproline" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "يحسّن ترطيب البشرة",
+      "يعزز تجدد البشرة",
+      "يوحّد لون البشرة",
+      "يدعم إنتاج الكولاجين",
+      "يقلل علامات الشيخوخة",
+      "ينعش البشرة"
+    ],
+    "mainTarget": "منشّط البشرة",
+    "related": [
+      { "slug": "ox", "title": "OX+", "category": "أمبولات معقّمة" },
+      { "slug": "power-oxy", "title": "POWER OXY", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "صورة لمنتج تعرض عبوة OX Ultra من Bonitto بجانب أمبولة صغيرة. العبوة بيضاء وتركوازية مع نص \"A Story of Elegance\" أسفل اسم العلامة التجارية. الأمبولة شفافة بملصق مطابق وغطاء داكن."
+  },
+  "peel-4-0": {
+    "title": "PEEL 4.0",
+    "category": "أمبولات معقّمة",
+    "description": "PEEL 4.0 هو محلول تجميلي معقّم مصمم لتقشير البشرة وإنعاشها. وهو مناسب للاستخدام على الوجه والرقبة والصدر واليدين. يهدف هذا المحلول إلى تحسين ملمس البشرة، وتعزيز إشراقتها، ومعالجة علامات الشيخوخة والعيوب.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Lactic Acid (40%)" },
+      { "label": "الحجم", "value": "أمبولات 5 × 10 مل" }
+    ],
+    "effects": [
+      "إشراق معزز للبشرة",
+      "ملمس بشرة أكثر نعومة",
+      "تقليل علامات الشيخوخة",
+      "تحسين صلابة البشرة",
+      "تخفيف عيوب البشرة"
+    ],
+    "mainTarget": "تفتيح البشرة",
+    "related": [
+      { "slug": "shine-power", "title": "SHINE POWER", "category": "أمبولات معقّمة" },
+      { "slug": "whitening", "title": "WHITENING+", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "علبة تركوازية وبيضاء تحمل ملصق \"Bonitto Peel 4.0\" تقف بجانب زجاجة بنية صغيرة بملصق مطابق. تتميز العلبة بتصميم متدرج مع نص \"A Study of Science\" في الأعلى.",
+    "campaignImageAlt": "شخص بشعر بني طويل وعينين زرقاوين، يرسم خط تركوازي عمودياً أسفل الوجه، مما يخلق تبايناً لافتاً مع البشرة المنمشة. ينظر مباشرة إلى الكاميرا."
+  },
+  "peel-exo-capture-35": {
+    "title": "PEEL EXO CAPTURE 35",
+    "category": "أمبولات معقّمة",
+    "description": "PEEL EXO CAPTURE 35 هو محلول تجميلي معقّم مصمم لتحسين مظهر البشرة من خلال تحسين ملمسها وتوحيد لونها. بفضل المكونات النشطة مثل ثلاثي كلورو أسيتات الصوديوم وAHA وBHA، تساعد هذه التركيبة على تخفيف التصبغات، وإزالة خلايا الجلد الميتة، وتنظيف المسام.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Trichloroacetate, Lactic Acid, Salicylic Acid, Allantoin, Proline, Lysine HCL, Glycine, Centella Asiatica Leaf Vesicles, Hydrolyzed RNA/ DNA, Pyridoxine HCL, Thiamine HCL." },
+      { "label": "الحجم", "value": "أمبولات 5×10 مل" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "أمبولة صغيرة تحمل ملصق \"BONITTO PEEL EXO CAPTURE 35\" تقف بجانب علبة طويلة مستطيلة خضراء وبيضاء بنفس العلامة التجارية والنص. يتميز التغليف بتصميم عصري متدرج."
+  },
+  "power-oxy": {
+    "title": "POWER OXY",
+    "category": "أمبولات معقّمة",
+    "description": "POWER OXY هو محلول تجميلي معقّم مصمم لتعزيز صحة البشرة من خلال دعم إصلاحها والحماية من الجذور الحرة. بفضل المكونات النشطة مثل ريتينيل بالميتات وسيستين هيدروكلوريد والغلوتاثيون، تساهم هذه التركيبة في تقليل ظهور الخطوط الدقيقة والتجاعيد بمرور الوقت.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Sodium Hyaluronate, Taurine, Retinyl Palmitate, Proline, Cysteine HCL, Tocopheryl Acetate, Ribes Nigrum (Black Currant) Bud Extract, Glutathione" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "إصلاح معزز للبشرة",
+      "حماية مضادة للأكسدة",
+      "تحسين ترطيب البشرة",
+      "بشرة أكثر إشراقاً",
+      "زيادة المرونة"
+    ],
+    "mainTarget": "منشّط البشرة",
+    "related": [
+      { "slug": "ox-ultra", "title": "OX ULTRA", "category": "أمبولات معقّمة" },
+      { "slug": "ox", "title": "OX+", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "أمبولة صغيرة تحمل ملصق \"Bonitto Power Oxy\" موضوعة بجانب علبة أكبر بنفس العلامة التجارية. تتميز العلبة بتدرج لوني من الأخضر الداكن إلى الفاتح مع إبراز نصي \"Power Oxy\" و\"Bonitto\"."
+  },
+  "pro-age": {
+    "title": "PRO AGE",
+    "category": "أمبولات معقّمة",
+    "description": "PRO AGE هو محلول تجميلي معقّم ومزيج قوي من الفيتامينات ومضادات الأكسدة يحفز تجدد الأنسجة، مما يساعد في الحفاظ على بشرة أكثر نعومة ومرونة.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Pyridoxine HCL (Vitamin B6), Thiamine HCL (Vitamin B1), Sodium Ascorbate (Vitamin C), Panthenol (Pro-Vitamin B5), Riboflavin (Vitamin B2), Tocopheryl Acetate (Vitamin E), Retynil Palmitate (Vitamin A), Niacinamide (Vitamin B3)" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "الوقاية من التجاعيد المبكرة",
+      "تحسين ملمس البشرة",
+      "مظهر شبابي"
+    ],
+    "mainTarget": "مكافحة الشيخوخة",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "أمبولات معقّمة" },
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "أمبولات معقّمة" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "تعرض الصورة علبة منتج وأمبولة صغيرة. العلبة تحمل نص \"BONITTO\" و\"PRO AGE\" بأحرف بيضاء على خلفية خضراء متدرجة. الأمبولة الموضوعة بجانب العلبة تحمل أيضاً \"BONITTO PRO AGE\"."
+  },
+  "pro-cells": {
+    "title": "PRO CELLS",
+    "category": "أمبولات معقّمة",
+    "description": "PRO CELLS هو محلول تجميلي معقّم مصمم لتقليل ظهور السيلوليت وتحسين محيط الجسم. ينشط تكسير الأنسجة الدهنية ويمنع تراكم ترسبات دهنية جديدة، مما يساعد على تعزيز صلابة البشرة ونعومتها. وبفضل تعزيزه لإزالة السموم، يساهم في الحصول على ملمس بشرة أكثر تناسقاً وتحسين الصحة العامة للبشرة.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Caffeine, Carnitine, Ananas Sativus Fruit Extract (Pineapple), Equisetum Arvense Extract (Horsetail), Cynara Scolymus Leaf Extract (Artichoke), Palmaria Palmata Extract" },
+      { "label": "الحجم", "value": "أمبولات 5 × 10 مل" }
+    ],
+    "effects": [],
+    "mainTarget": "السيلوليت",
+    "related": [
+      { "slug": "lipo", "title": "LIPO+", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "علبة تحمل ملصق \"Bonitto Pro Cells\" مع أمبولة صغيرة بجانبها. تتميز العلبة والأمبولة بتصميم متدرج باللونين الأخضر والأبيض. نص العلبة يقرأ \"Vols. 5x10 مل\"."
+  },
+  "radiance-pro": {
+    "title": "RADIANCE PRO",
+    "category": "أمبولات معقّمة",
+    "description": "RADIANCE PRO هو محلول تجميلي معقّم مصمم لترطيب وإصلاح البشرة على ظهر اليدين. يعزز الترطيب ويحفز الوظائف الترميمية للحفاظ على صحة البشرة في هذه المنطقة.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Acetyl Decapeptide-3, Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate, Proline, Glycine, Arginine HCL, Cysteine HCL, Niacinamide (Vitamin B3)" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "تعزيز الترطيب",
+      "إصلاح البشرة",
+      "مظهر شبابي",
+      "حاجز وقائي",
+      "تحسين الملمس"
+    ],
+    "mainTarget": "اليدين",
+    "related": [
+      { "slug": "ey", "title": "EY+", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "صورة لمنتج Radiance Pro من Bonitto معروضة مع علبة خضراء فاتحة وأمبولة صغيرة بجانبها. تتميز العلبة بتصميم متدرج مع اسم العلامة التجارية واسم المنتج بأحرف بيضاء."
+  },
+  "shine-power": {
+    "title": "SHINE POWER",
+    "category": "أمبولات معقّمة",
+    "description": "SHINE POWER هو محلول تجميلي معقّم، مصمم للأشخاص الباحثين عن نهج طبيعي لتفتيح البشرة. مزيج قوي من المكونات يعمل معاً لتقليل التصبغ، وتوحيد لون البشرة، وتعزيز إشراقتها العامة. صُمم المحلول لاستهداف ظهور البقع الداكنة وتغيرات اللون وتقليلها، مما يعزز بشرة أكثر إشراقاً وتناسقاً.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Succinic Acid, Ascorbyl Glucoside, Glutathione" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "تفتيح البشرة",
+      "حماية مضادة للأكسدة",
+      "تنعيم البشرة",
+      "الترطيب والتهدئة",
+      "فوائد مضادة للشيخوخة"
+    ],
+    "mainTarget": "تفتيح البشرة",
+    "related": [
+      { "slug": "peel-4-0", "title": "PEEL 4.0", "category": "أمبولات معقّمة" },
+      { "slug": "whitening", "title": "WHITENING+", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "منتج Shine Power من Bonitto يتميز بعلبة نعناعية خضراء وبيضاء تحمل عبارة \"Shine Power\". توضع أمبولة صغيرة بجانب العلبة بنفس الملصق. التصميم العام أنيق وعصري."
+  },
+  "whitening": {
+    "title": "WHITENING+",
+    "category": "أمبولات معقّمة",
+    "description": "WHITENING+ هو محلول تجميلي معقّم مصمم لمعالجة تغير لون البشرة وتعزيز إشراقتها العامة. يعتبر حمض الترانيكساميك فعالاً في علاج فرط التصبغ والكلف من خلال تثبيط نشاط إنزيم التيروزيناز المسؤول عن إنتاج الميلانين. يساعد على تفتيح البقع الداكنة وتحسين لون البشرة العام.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Oligopeptide-34, Glycyrrhiza Glabra (Licorice) Root Extract, Panthenol (Pro-Vitamin B5), Glutathione, Acetyl Glycil Β-Alanine, Tranexamic Acid, Sodium Hyaluronate" },
+      { "label": "الحجم", "value": "أمبولات 5 × 5 مل" }
+    ],
+    "effects": [
+      "يضيء لون البشرة",
+      "يقلل تغير اللون",
+      "يستعيد التوهج الطبيعي",
+      "يحسّن نقاء البشرة"
+    ],
+    "mainTarget": "تفتيح البشرة",
+    "related": [
+      { "slug": "shine-power", "title": "SHINE POWER", "category": "أمبولات معقّمة" },
+      { "slug": "peel-4-0", "title": "PEEL 4.0", "category": "أمبولات معقّمة" }
+    ],
+    "productImageAlt": "علبة من BONITTO Whitening+ بجانب زجاجة صغيرة. العلبة تركوازية مع اسم العلامة التجارية بأحرف بيضاء في الأعلى. تحمل الأمبولة ملصق \"BONITTO Whitening+ Master Solution\" وتحتوي على 5 × 5 مل."
+  },
+  "xnad": {
+    "title": "XNAD+",
+    "category": "أمبولات معقّمة",
+    "description": "XNAD+ هو محلول تجميلي معقّم مصمم لإنعاش البشرة من خلال تعزيز التجدد وتحسين المرونة. غني بـ NAD+ والأحماض الأمينية ومركبات الببتيدات، يساعد على شد البشرة وتقليل ظهور الخطوط الدقيقة تدريجياً لمظهر أكثر نعومة وشباباً.",
+    "technicalInfo": [
+      { "label": "المكونات النشطة", "value": "Trehalose, Acetyl Hexapeptide-1, Arginine, Oligopeptide-4, Disodium NADH, Acetyl sh-Hexapeptide-5 Amide Acetate, Acetyl Hexapeptide-8, Centella Asiatica Leaf Vesicles." },
+      { "label": "الحجم", "value": "5×5 مل" }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "تُعرض أمبولة صغيرة وعلبة تركوازية وبيضاء تحمل ملصق \"BONITTO XNAD+ Vials 5x5 ml\". تتميز العلبة بتصميم متدرج ويظهر اسم العلامة التجارية في الأعلى."
+  }
+}

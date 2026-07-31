@@ -37,6 +37,11 @@
     "target": "Objetivo Principal",
     "relatedProducts": "Productos Relacionados",
     "contactDistributor": "Contactar para Distribución",
-    "downloadDatasheet": "Descargar Ficha Técnica"
-  }
+    "downloadDatasheet": "Descargar Ficha Técnica",
+    "home": "Inicio",
+    "discoverMore": "Descubre más",
+    "noProducts": "No se encontraron productos en esta categoría.",
+    "treatmentAlt": "Tratamiento {title}"
+  },
+  "categoriesPrefix": "Categoría"
 }

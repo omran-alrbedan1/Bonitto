@@ -1,0 +1,763 @@
+{
+  "age": {
+    "title": "AGE+",
+    "category": "Steril flakonlar",
+    "description": "AGE+, yaşlanma belirtilerini azaltarak cildi yenileyen ve canlandıran steril bir kozmetik çözümdür. Eşsiz aktif bileşen karışımı sayesinde ince çizgileri ve kırışıklıkları en aza indirir, cildin pürüzsüzlüğünü artırır ve ilerleyen yaşlanmayı önler. Temel besinleri ve derinlemesine nemlendirmeyi sağlayarak genel cilt sağlığını destekler; genç ve ışıltılı bir görünüm kazandırır.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "İnce çizgilerde ve kırışıklıklarda azalma",
+      "Gelişmiş cilt dokusu",
+      "Artan nemlendirme",
+      "Canlandırma",
+      "Gelecekteki yaşlanma belirtilerinin önlenmesi"
+    ],
+    "mainTarget": "Anti-aging",
+    "related": [
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "Steril flakonlar" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "Steril flakonlar" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Üzerinde \"Bonitto Age+\" etiketi bulunan küçük bir flakonu, aynı etikete sahip eşleşen turkuaz gradyan kutuyla birlikte gösteren ürün görseli. Tasarım şık ve minimalisttir; kutunun üst kısmında \"A drop of brilliance\" metni görünmektedir."
+  },
+  "btx": {
+    "title": "BTX+",
+    "category": "Steril flakonlar",
+    "description": "BTX+, özellikle mimik kırışıklıklarını hedefleyerek görünür yaşlanma belirtilerini önlemeye ve azaltmaya yardımcı olan steril bir kozmetik çözümdür. DMAE, cilt aydınlatıcı etkileriyle iyi bilinmektedir. Hücre zarlarını stabilize ederek ve kas tonusunu iyileştirerek çalışır; bu da cildin daha sıkı ve daha kaldırılmış bir görünüm kazanmasını sağlar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Acetyl Hexapeptide-8 (Argireline), Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Kırışıklıkları azaltır",
+      "İnce çizgileri yumuşatır",
+      "Cilt dokusunu iyileştirir",
+      "Genç görünümü destekler"
+    ],
+    "mainTarget": "Lifting",
+    "related": [
+      { "slug": "btx-2-0", "title": "BTX 2.0", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Beyaz bir zemin üzerinde Bonitto BTX+ ürününün görseli. Set, mavi ve yeşil tonlarında gradyanlı küçük bir flakon ile bir kutu içerir; \"Bonitto\" marka adı ve \"BTX+\" ürün etiketi görünmektedir."
+  },
+  "btx-2-0": {
+    "title": "BTX 2.0",
+    "category": "Steril flakonlar",
+    "description": "BTX 2.0, kırışıklıkların önlenmesi ve yaşlanmaya bağlı diğer cilt sorunları dahil olmak üzere yaşlanma belirtilerinin azaltılması için endike steril bir kozmetik çözümdür. Bu steril kozmetik çözüm, kırışıklıkları azaltma, kolajen üretimini artırma ve cilt nemlendirmesini iyileştirme konusunda kapsamlı bir yaklaşım sunan güçlü bir gençlik kompleksi içerir; sonuçta daha pürüzsüz, daha sıkı ve daha genç görünümlü bir cilt sağlar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Hydroxyproline, Acetyl Octapeptide-3, Pentapeptide-18, Proline, Glycine, Succinic Acid"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Kırışıklıkların azaltılması",
+      "Yaşlanma karşıtı koruma",
+      "Nemlendirme",
+      "Cilt sıkılaştırma ve gerdirme",
+      "Cilt dokusunda iyileşme",
+      "Cildin doğal onarımını destekleme"
+    ],
+    "mainTarget": "Lifting",
+    "related": [
+      { "slug": "btx", "title": "BTX+", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Üzerinde \"BONITTO BTX 2.0\" etiketi bulunan turkuaz ve beyaz bir kutuyu ve yine \"BONITTO BTX 2.0\" etiketli, sıvı içeren küçük bir flakonu gösteren ürün görseli. Flakon ve kutu beyaz bir zemin üzerinde yer almaktadır."
+  },
+  "collagen-ultra": {
+    "title": "COLLAGEN ULTRA",
+    "category": "Steril flakonlar",
+    "description": "COLLAGEN ULTRA, cilt yenilenmesi için tasarlanmış olup yaşlanma ve hasar belirtilerini etkili şekilde hedefleyen steril bir kozmetik çözümdür. Kolajen, cildin sıkılığını ve elastikiyetini koruyan temel bir yapısal proteindir. Yaşlandıkça doğal kolajen üretimi azalır; kırışıklıklar, sarkma ve cilt tonu kaybı ortaya çıkar. Bu formüldeki kolajen, doğal kolajen sentezini uyararak cildin elastikiyetini ve pürüzsüzlüğünü geri kazandırır.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Hydrolyzed Collagen, Gleditsia Triacanthos Seed Extract, Glycerin, Sodium Hyaluronate"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Kırışıklıkları azaltır",
+      "Çatlakları en aza indirir",
+      "Cilt dokusunu iyileştirir"
+    ],
+    "mainTarget": "Anti-aging",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "Steril flakonlar" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "Steril flakonlar" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Bonitto Collagen Ultra ambalajı gösterilmektedir. Kutu ağırlıklı olarak turkuaz renktedir; gradyan gölgelendirme ve beyaz yazılara sahiptir. Benzer tasarıma sahip küçük bir flakon, kutunun yanında solda kısmen görünür şekilde konumlandırılmıştır."
+  },
+  "cor-control": {
+    "title": "COR CONTROL",
+    "category": "Steril flakonlar",
+    "description": "COR CONTROL, tahriş olmuş ve kızarıklığa yatkın cildi yatıştırmak için tasarlanmış steril bir kozmetik çözümdür. Cordyceps Sinensis Ekstresi; antioksidan koruma, anti-inflamatuar etkiler, cilt yenilenmesi, nemlendirme, anti-aging ve iyileşmiş cilt tonu dahil bir dizi fayda sunar. Hassas ciltler için ideal olan ürün, düzenli kullanımda dengeli, sakin ve dirençli bir cilt görünümü sağlar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Cordyceps Sinensis Extract, Trametes Versicolor Extract, Butylene Glycol, Epilobium Angustifolium Flower/Leaf/Stem Extract, Propylene Glycol, Calendula Officinalis Flower Extract, Allantoin"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Kızarıklığın azaltılması",
+      "Artan nemlendirme",
+      "Yatıştırma ve rahatlatma",
+      "Cilt koruması",
+      "Cilt bariyerinin onarımı"
+    ],
+    "mainTarget": "Yatıştırıcı – Akne",
+    "related": [
+      { "slug": "gold-stem", "title": "GOLD STEM", "category": "Steril flakonlar" },
+      { "slug": "mst-redox", "title": "MST REDOX", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "\"Bonitto Cor Control\" kutusu ve flakonu. Kutu, beyaz yazılı gradyan yeşil renktedir ve flakonun uyumlu bir etiketi vardır. Ürün, küçük sıvı kaplarından oluşan bir seti belirten 5x5 ml'dir."
+  },
+  "dna-booster": {
+    "title": "DNA BOOSTER",
+    "category": "Steril flakonlar",
+    "description": "DNA BOOSTER, cildin canlandırılması ve cilt yoğunluğunun artırılması için endike steril bir kozmetik çözümdür. Cildin doğal canlanma süreçlerini destekleyerek daha sağlıklı ve genç bir görünüm sağlamayı amaçlar. Hidrolize RNA, hücresel onarımı ve yenilenmeyi destekleyen temel nükleotidler ve nükleik asitler sağlar. Hücre fonksiyonunun iyileşmesine ve cilt yenilenmesinin uyarılmasına yardımcı olur.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Propylene Glycol, Hydrolyzed RNA, Hydrolyzed DNA, Carnosine, Glutathione"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Artan cilt sıkılığı",
+      "Derinlemesine nemlendirme",
+      "Canlandırma ve ışıltı",
+      "Kırışıklıkların azaltılması",
+      "Antioksidan koruma",
+      "İyileşmiş cilt tonu ve dokusu"
+    ],
+    "mainTarget": "Cilt Nemlendirme Booster'ı",
+    "related": [
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "Steril flakonlar" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "Steril flakonlar" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Görselde, turkuaz ve beyaz ambalaj kutusunun yanında \"Bonitto DNA Booster\" etiketli küçük bir şişe gösterilmektedir. Kutuda aynı marka ve ürün adı modern bir fontla yer almaktadır."
+  },
+  "exogenix": {
+    "title": "EXOGENIX",
+    "category": "Steril flakonlar",
+    "description": "EXOGENIX, cilt yenilenmesini artıran, elastikiyeti iyileştiren ve ince çizgileri azaltan steril bir kozmetik çözümdür. Eksozomlar, yenileyici ve onarıcı özellikleri nedeniyle cilt bakım ürünlerinde güçlü bir bileşen olarak öne çıkmaktadır.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine, Acetyl Hexapeptide-8, Nippon Koreana Citrus Reticulata Exosomes, Acetyl Decapeptide-3, Pentapeptide-18, Glycerin, 1,2-Hexanediol, Thiamine HCL, Riboflavin, Panthenol, Tocopherol"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Kolajen üretimini artırır",
+      "Cilt yenilenmesini destekler",
+      "Antioksidan koruma",
+      "Aydınlatıcı etki",
+      "Cilt onarımını destekler"
+    ],
+    "mainTarget": "Anti-aging",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "Steril flakonlar" },
+      { "slug": "pro-age", "title": "PRO AGE", "category": "Steril flakonlar" },
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "BONITTO® EXOGENIX - cilt yenilenmesi ve ince çizgilerin azaltılması için eksozomlu anti-aging serum"
+  },
+  "ey": {
+    "title": "EY+",
+    "category": "Steril flakonlar",
+    "description": "EY+, göz çevresini canlandırmak ve bu bölgedeki yaşlanma belirtilerini gidermek için özel olarak formüle edilmiş steril bir kozmetik çözümdür. Bu formül, göz altı bölgesini aydınlatarak koyu halkaları ve hiperpigmentasyonu azaltır; göz çevresindeki cildi pürüzsüz ve dolgun tutar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Proline, Serine, Glycine, Niacinamide, Glutathione, Sodium Hyaluronate"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Kırışıklıkları azaltır",
+      "Cilt dokusunu iyileştirir",
+      "Görünümü aydınlatır",
+      "Nemlendirir ve dolgunlaştırır"
+    ],
+    "mainTarget": "Gözler",
+    "related": [
+      { "slug": "radiance-pro", "title": "RADIANCE PRO", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "BONITTO® EY+ steril çözüm flakonları; daha aydınlık, dolgun ve pürüzsüz bir cilt için göz altı dolgu etkisi benzeri sonuçlar sağlar",
+    "campaignImageAlt": "Kıvırcık saçlı bir kişi, elleriyle yüzünü çerçeveleyerek poz veriyor. Bir gözü boyunca ve yüzünün ortasından aşağı doğru uzanan turkuaz çapraz bir çizgi var; uyumlu bir far ile tamamlanmış. İfadesi sakin ve kendinden emin."
+  },
+  "gold-stem": {
+    "title": "GOLD STEM",
+    "category": "Steril flakonlar",
+    "description": "GOLD STEM, cilt yenilenmesini desteklemek ve artırmak için tasarlanmış steril bir kozmetik çözümdür. Botoks benzeri peptid olarak da bilinen Asetil Oktapeptid-3 (genellikle SNAP-8 olarak anılır), kas kasılmasına neden olan nörotransmitterlerin salınımını engelleyerek çalışır; bu da mimik çizgilerinde ve kırışıklıklarda azalma sağlar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Pentylene Glycol, Sodium Benzoate, Potassium Sorbate, Quercus Robur Root Extract Staminal Cells, Acetyl Decapeptide-3, Acetyl Octapeptide-3, Caprylyl Glycol"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Cilt yenilenmesi",
+      "İyileşmiş cilt dokusu",
+      "İnce çizgilerde ve kırışıklıklarda azalma",
+      "Artan nemlendirme",
+      "Artan cilt elastikiyeti",
+      "Genel cilt gençleşmesi"
+    ],
+    "mainTarget": "Onarıcı – Akne",
+    "related": [
+      { "slug": "cor-control", "title": "COR CONTROL", "category": "Steril flakonlar" },
+      { "slug": "mst-redox", "title": "MST REDOX", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Bonitto Gold Stem ürününün görseli. Beyaz yazılı, mavi ve yeşil kutusunun yanında küçük bir flakon durmaktadır."
+  },
+  "ha-booster-aa15": {
+    "title": "HA+ BOOSTER & AA15",
+    "category": "Steril flakonlar",
+    "description": "HA+ BOOSTER & AA15, cilt sıkılığını ve elastikiyetini iyileştirmek için tasarlanmış steril bir kozmetik çözümdür. Bu formülde yer alan amino asitler, daha genç, nemli ve sıkı bir cilt sağlayarak doku kalitesini artırır ve yaşlanma belirtilerini önler.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Thiamine HCL (Vitamin B1), Pyridoxinde HCL (Vitamin B6), Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Derinlemesine nemlendirme",
+      "Artan sıkılık",
+      "İyileşmiş elastikiyet"
+    ],
+    "mainTarget": "Cilt Nemlendirme Booster'ı",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "Steril flakonlar" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "Steril flakonlar" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "BONITTO® HA+ BOOSTER & AA15: cilt dolgusu benzeri nemlendirme, sıkılık ve elastikiyet sonuçları sağlayan çözüm flakonları.",
+    "campaignImageAlt": "Bir kişinin yüzünün sol tarafının yakın çekimi; elmacık kemiğinin üzerine çizilmiş açık mavi kavisli çizgiler gösteriliyor. Çizgiler gözün altından başlayarak çene hattına doğru dışa ve aşağı doğru kıvrılıyor ve potansiyel kozmetik tedavi alanlarını gösteriyor. Arka plan soluk gridir."
+  },
+  "hairscalp": {
+    "title": "HAIRSCALP",
+    "category": "Steril flakonlar",
+    "description": "HAIRSCALP, içeriğindeki bileşenlerin faydalı özellikleri sayesinde saç ve saç derisinin canlandırılmasını destekleyen steril bir kozmetik çözümdür. Eksozomlar, saç folikülü aktivitesini ve yenilenmesini uyaran büyüme faktörleri ve sinyal molekülleri içerir. Uyku halindeki saç foliküllerinin aktive edilmesine ve yeni saç büyümesinin teşvik edilmesine yardımcı olurlar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Copper Tripeptide-1, Citrus Reticulata Fruit Exosomes, 3-O-Ethyl Ascorbic Acid"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Yeni saç büyümesini teşvik eder",
+      "Saç derisi sağlığını iyileştirir",
+      "Saçı güçlendirir",
+      "Antioksidan koruma",
+      "Nemlendirir ve yumuşatır",
+      "Saç incelmesini azaltır"
+    ],
+    "mainTarget": "Saç",
+    "related": [
+      { "slug": "hair-ultra", "title": "HAIR ULTRA", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Görselde \"BONITTO HAIRSCALP\" etiketli bir kutu ve flakon gösterilmektedir. Kutu, gradyan tasarıma sahip, beyaz yazılı turkuaz renktedir. Küçük flakon, kutusunun rengi ve markasıyla uyumlu olarak önüne yerleştirilmiştir.",
+    "campaignImageAlt": "Kısa saçlı ve sakallı bir adam, elini çenesine dayayarak düşünceli bir ifadeyle kameraya bakıyor. Işıklandırma yüzünde hafif bir gölge oluşturarak özelliklerini sade bir zemin üzerinde öne çıkarıyor."
+  },
+  "hair-ultra": {
+    "title": "HAIR ULTRA",
+    "category": "Steril flakonlar",
+    "description": "HAIR ULTRA, saç ve saç derisinin canlandırılması için tasarlanmış steril bir kozmetik çözümdür. Formülü; saçı beslemek ve güçlendirmek, daha sağlıklı uzamayı ve iyileşmiş saç derisi durumunu desteklemek için birlikte çalışan Peptitler, Hyaluronik Asit ve doğal ekstrelerden oluşan bir karışım içerir.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Lecithin, Sh-Oligopeptide-10, Sh-Oligopeptide-2, Sh-Polypeptide-1, Sh-Polypeptide-9, Sh-Polypeptide-11, Sodium Hyaluronate, Octapeptide-2, Sh-Oligopeptide-4, Arginine, Glycerin"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Canlandırma",
+      "Güçlendirme",
+      "Nemlendirme",
+      "İyileşmiş saç derisi sağlığı",
+      "Azalan saç dökülmesi"
+    ],
+    "mainTarget": "Saç",
+    "related": [
+      { "slug": "hairscalp", "title": "HAIRSCALP", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "\"Bonitto Hair Ultra\" etiketli turkuaz bir kutu dik durmaktadır, yanında küçük bir flakon vardır. Ambalaj, açıktan koyuya geçen gradyan bir tasarıma sahiptir.",
+    "campaignImageAlt": "Açık yeşil tutamlarla vurgulanmış uzun, sarı saçlı bir kadın; gözleri kapalı ve hafif bir gülümsemeyle sakin bir ifadeyle poz veriyor. Profil görüntüsü, nötr bir zemin üzerinde pürüzsüz cildini ve yumuşak, dalgalı saçlarını öne çıkarıyor."
+  },
+  "hyavital-hl": {
+    "title": "HYAVITAL H+L",
+    "category": "Steril flakonlar",
+    "description": "HYAVITAL H+L, derinlemesine cilt nemlendirmesi için tasarlanmış steril bir kozmetik çözümdür. Sodyum Hyaluronat ve Amino Asit karışımı içerir; bu bileşenler cilt kalitesinin iyileştirilmesine, hücresel yenilenmenin desteklenmesine ve kolajen ile elastin sentezinin artırılmasına yardımcı olarak kozmetik çözüm ürünlerinde çok önemli bir rol oynar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Butylene Glycol, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Glycine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Derinlemesine nemlendirme",
+      "İyileşmiş cilt elastikiyeti",
+      "Daha pürüzsüz doku",
+      "Canlanmış cilt görünümü",
+      "Anti-aging faydaları"
+    ],
+    "mainTarget": "Cilt Nemlendirme Booster'ı",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "Steril flakonlar" },
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "Steril flakonlar" },
+      { "slug": "mevita-15-ha", "title": "MEVITA 15 + HA", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "\"BONITTO HYAVITAL H+L\" etiketli yeşil ve beyaz bir kutuyu, benzer etikete sahip küçük bir flakonla birlikte gösteren ürün görseli. Flakon kutunun önünde konumlandırılmıştır."
+  },
+  "lipo": {
+    "title": "LIPO+",
+    "category": "Steril flakonlar",
+    "description": "LIPO+, vücut hatlarını ve sıkılığını iyileştirmek için tasarlanmış steril bir kozmetik çözümdür. Karnitin, Kafein ve Sodyum Deoksikolat, yağın parçalanmasına ve metabolize edilmesine yardımcı olarak bölgesel yağ birikimlerinin azaltılmasını ve vücut hatlarının iyileştirilmesini sağlamak için sinerjik olarak çalışır.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Carnitine, Caffeine, Palmaria Palmata Extract, Propanediol, Sodium Deoxycholate"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 10 ml"
+      }
+    ],
+    "effects": [
+      "Vücut ölçülerinde azalma",
+      "İyileşmiş vücut hatları",
+      "Artan cilt sıkılığı"
+    ],
+    "mainTarget": "Bölgesel Yağlanma",
+    "related": [
+      { "slug": "pro-cells", "title": "PRO CELLS", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "BONITTO LIPO+ vücut dolgusu steril flakonları",
+    "campaignImageAlt": "BONITTO® LIPO+ vücut dolgusu; vücut hatlarını ve sıkılığı iyileştirmek için bir çözüm"
+  },
+  "lips-on": {
+    "title": "LIPS ON",
+    "category": "Steril flakonlar",
+    "description": "LIPS ON, dudakları gençleştirmek ve iyileştirmek için tasarlanmış steril bir kozmetik çözümdür. Dokuyu pürüzsüzleştirir, nemlendirmeyi iyileştirir ve yumuşaklığı artırırken renk ile hacmi güçlendirir. Bu çözüm doğal nemlendirme sağlar ve daha dolgun, daha genç bir dudak görünümü elde etmek için topikal uygulamaya yöneliktir.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Ascorbate, Troxerutin, Sodium Hyaluronate, Pseudoalteromonas Ferment Extract, Salicylic Acid, Citric Acid, Sodium Salicylate"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Gençleştirme",
+      "Dokuyu pürüzsüzleştirme",
+      "İyileşmiş nemlendirme",
+      "Renk yoğunluğunun artırılması",
+      "Artan dolgunluk",
+      "Doğal nemlendirme"
+    ],
+    "mainTarget": "Dudaklar",
+    "related": [],
+    "productImageAlt": "\"Bonitto Lips On\" etiketli bir kutu ve yanında küçük bir flakon. Ambalaj, minimalist tasarım öğelerine sahip turkuaz ve beyaz renktedir.",
+    "campaignImageAlt": "Yüzünü çevreleyen dalgalı saç tellerine sahip bir kişinin yakın çekimi. Hafif yeşil far ve üst dudakta yeşilimsi bir ton içeren doğal makyaj yapmış. Bakımlı tırnaklı bir el yanağına hafifçe dokunuyor ve düşünceli bir şekilde yana bakıyor."
+  },
+  "mevita-15-ha": {
+    "title": "MEVITA 15 + HA",
+    "category": "Steril flakonlar",
+    "description": "MEVITA 15+HA, yoğun cilt nemlendirmesi ve beslenmesi için formüle edilmiş steril bir kozmetik çözümdür. Kapsamlı cilt yenilenmesi sağlamak üzere tasarlanmış bir vitamin kompleksi içerir; yaşlanma, nemlendirme, pigmentasyon ve cilt dokusu gibi çok sayıda sorunu hedeflerken güçlü antioksidan koruma ve gelişmiş cilt canlılığı sunar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Panthenol (Vitamin B5), Folic Acid, Biotin, Inositol, Pyridoxinde HCl, Riboflavin, Thiamine HCL, 3-O-Ethyl Ascorbic Acid, Lysine, Histidine, Arginine, Aspartic Acid, Threonine, Serine, Glutamic Acid, Proline, Alanine, Valine, Isoleucine, Leucine, Tyrosine, Phenylalanine"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Artan cilt nemlendirmesi",
+      "İyileşmiş cilt dokusu ve tonu",
+      "Besleme ve onarım",
+      "Artan kolajen üretimi",
+      "Antioksidan koruma"
+    ],
+    "mainTarget": "Cilt Nemlendirme Booster'ı",
+    "related": [
+      { "slug": "dna-booster", "title": "DNA BOOSTER", "category": "Steril flakonlar" },
+      { "slug": "ha-booster-aa15", "title": "HA+ BOOSTER & AA15", "category": "Steril flakonlar" },
+      { "slug": "hyavital-hl", "title": "HYAVITAL H+L", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "\"Bonitto MEVITA 15+HA\" etiketli turkuaz ve beyaz bir kutu gösterilmektedir; solda benzer marka taşıyan küçük bir flakon yer almaktadır. Kutu, cilt bakımı veya tıbbi kullanım için tasarlanmış flakonlar içerir."
+  },
+  "mst-redox": {
+    "title": "MST REDOX",
+    "category": "Steril flakonlar",
+    "description": "MST REDOX, yoğun nemlendirme ve antioksidan koruma sağlayarak cilt yenilenmesini desteklemek üzere tasarlanmış steril bir kozmetik çözümdür. Meristemler, hücresel yenilenmeyi destekleyen bitkisel kaynaklı kök hücrelerdir. Cilt onarımını ve iyileşme süreçlerini hızlandırarak hasar ve inflamasyon sonrası hiperpigmentasyonun tedavisinde etkilidir.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Quercus Robur Root Extract, Tasmannia Lanceolata Fruit/Leaf Extract, Paeonia Lactiflora Root Extract, Allantoin"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Artan cilt yenilenmesi",
+      "Derinlemesine nemlendirme",
+      "Antioksidan koruma",
+      "Rahatlatıcı etki"
+    ],
+    "mainTarget": "Kızarıklık Karşıtı – Akne",
+    "related": [
+      { "slug": "gold-stem", "title": "GOLD STEM", "category": "Steril flakonlar" },
+      { "slug": "cor-control", "title": "COR CONTROL", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Bonitto'nun \"MST REDOX\" etiketli bir şişesi ve kutusunu gösteren ürün görseli. Kutu, turkuaz ve beyaz gradyan bir tasarıma sahiptir; şişe küçüktür, kısmen görünür ve kutunun önünde konumlandırılmıştır.",
+    "campaignImageAlt": "Bakımlı sakalı ve belirgin hatları olan bir kişinin yakın çekimi; düşünceli bir şekilde yana bakıyor. Bir eli, ince turkuaz elastik bir kayış bulunan boynuna hafifçe dokunuyor. Arka plan yumuşak bir şekilde bulanıklaştırılmış."
+  },
+  "ox": {
+    "title": "OX+",
+    "category": "Steril flakonlar",
+    "description": "OX+, yüz, boyun, dekolte, eller, karın ve çatlaklarda kullanıma uygun, cilt nemlendirme ve canlandırma için tasarlanmış steril bir kozmetik çözümdür. Hücresel enerji üretimini artıran, cilt hücrelerini canlandıran ve genel cilt canlılığını iyileştiren bir aktif bileşen kompleksi içerir.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Niacinamide (Vitamin B3), 3-O-Ethyl Ascorbic Acid (Vitamin C), Panthenol (Vitamin B5), Glycyrrhiza Glabra (Licorice) Root Extract"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Artan cilt nemlendirmesi",
+      "Cildin canlandırılması",
+      "Genç bir görünüm için yenilenme",
+      "İyileşmiş cilt elastikiyeti",
+      "İnce çizgilerin azaltılması",
+      "Çatlak görünümünün iyileştirilmesi"
+    ],
+    "mainTarget": "Canlandırıcı",
+    "related": [
+      { "slug": "ox-ultra", "title": "OX ULTRA", "category": "Steril flakonlar" },
+      { "slug": "power-oxy", "title": "POWER OXY", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Bonitto OX+ serumunun kutusu ve flakonu. Kutu, üst kısmında beyaz gradyan bulunan turkuaz renktedir. Yanındaki küçük cam flakonun gümüş kapağı vardır ve kutu tasarımıyla uyumludur. Kutu ve flakondaki metinler \"OX+\" ve \"5x5 ml\" şeklindedir.",
+    "campaignImageAlt": "Yaratıcı makyajı sergileyen bir kişinin yüzünün yakın çekimi: kaşlardan burnun üzerinden gözler boyunca uzanan turkuaz çizgiler. Cilt nemli bir görünüme sahip; kusursuz siyah eyeliner ve yumuşak pembe dudaklar var. Arka plan nötr gridir."
+  },
+  "ox-ultra": {
+    "title": "OX ULTRA",
+    "category": "Steril flakonlar",
+    "description": "OX ULTRA, cilt yenilenmesini desteklemek ve doğal cilt tonunu güçlendirmek için tasarlanmış steril bir kozmetik çözümdür. Cilt dokusunu ve nemlendirmeyi iyileştirmeye yardımcı olan Sodyum Hyaluronat ve Asetil Dekapeptid-3 dahil bir aktif bileşen karışımı içerir.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Acetyl Decapeptide-3, Hydroxyproline"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Cilt nemlendirmesini iyileştirir",
+      "Cilt yenilenmesini artırır",
+      "Cilt tonunu eşitler",
+      "Kolajen üretimini destekler",
+      "Yaşlanma belirtilerini azaltır",
+      "Cildi canlandırır"
+    ],
+    "mainTarget": "Canlandırıcı",
+    "related": [
+      { "slug": "ox", "title": "OX+", "category": "Steril flakonlar" },
+      { "slug": "power-oxy", "title": "POWER OXY", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Küçük bir flakonun yanında Bonitto OX Ultra paketini gösteren ürün görseli. Paket, marka adının altında \"A Story of Elegance\" metniyle beyaz ve turkuaz renktedir. Flakon şeffaftır, uyumlu bir etikete ve koyu renkli bir kapağa sahiptir."
+  },
+  "peel-4-0": {
+    "title": "PEEL 4.0",
+    "category": "Steril flakonlar",
+    "description": "PEEL 4.0, cildi soymak (eksfoliye etmek) ve canlandırmak için tasarlanmış steril bir kozmetik çözümdür. Yüz, boyun, dekolte ve ellerde kullanıma uygundur. Bu çözüm; cilt dokusunu iyileştirmeyi, ışıltıyı artırmayı ve yaşlanma belirtileri ile cilt kusurlarını gidermeyi amaçlar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Lactic Acid (40%)"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 10 ml"
+      }
+    ],
+    "effects": [
+      "Artan cilt parlaklığı",
+      "Daha pürüzsüz cilt dokusu",
+      "Azalan yaşlanma belirtileri",
+      "İyileşmiş cilt sıkılığı",
+      "Azalan cilt kusurları"
+    ],
+    "mainTarget": "Beyazlatma",
+    "related": [
+      { "slug": "shine-power", "title": "SHINE POWER", "category": "Steril flakonlar" },
+      { "slug": "whitening", "title": "WHITENING+", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "\"Bonitto Peel 4.0\" etiketli turkuaz ve beyaz bir kutu, uyumlu etikete sahip küçük kahverengi bir şişenin yanında durmaktadır. Kutu, üst kısmında \"A Study of Science\" metni ve gradyan bir tasarım içerir.",
+    "campaignImageAlt": "Uzun kahverengi saçlı ve mavi gözlü bir kişinin yüzünde dikey olarak aşağı doğru uzanan turkuaz bir çizgi var; çilli cildiyle çarpıcı bir kontrast oluşturuyor. Doğrudan kameraya bakıyor."
+  },
+  "peel-exo-capture-35": {
+    "title": "PEEL EXO CAPTURE 35",
+    "category": "Steril flakonlar",
+    "description": "PEEL EXO CAPTURE 35, cilt dokusunu iyileştirerek ve cilt tonunu eşitleyerek cilt görünümünü güzelleştirmek için formüle edilmiş steril bir kozmetik çözümdür. Sodyum Trikloroasetat, AHA ve BHA gibi aktifler sayesinde bu formülasyon; pigmentasyonun solmasına yardımcı olur, ölü cilt hücrelerini uzaklaştırır ve gözeneklerin tıkanıklıktan arınmasını sağlar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Trichloroacetate, Lactic Acid, Salicylic Acid, Allantoin, Proline, Lysine HCL, Glycine, Centella Asiatica Leaf Vesicles, Hydrolyzed RNA/ DNA, Pyridoxine HCL, Thiamine HCL."
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5x10ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "\"BONITTO PEEL EXO CAPTURE 35\" etiketli küçük bir flakon, aynı marka ve metni taşıyan uzun, dikdörtgen, yeşil ve beyaz bir kutunun yanında durmaktadır. Ambalaj, modern gradyan bir tasarıma sahiptir."
+  },
+  "power-oxy": {
+    "title": "POWER OXY",
+    "category": "Steril flakonlar",
+    "description": "POWER OXY, cilt onarımını destekleyerek ve serbest radikallere karşı koruma sağlayarak cilt sağlığını iyileştirmek için formüle edilmiş steril bir kozmetik çözümdür. Retinyl Palmitate, Cysteine HCL ve Glutathione gibi aktifler sayesinde bu formülasyon, zamanla ince çizgi ve kırışıklıkların görünümünü azaltır.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Sodium Hyaluronate, Taurine, Retinyl Palmitate, Proline, Cysteine HCL, Tocopheryl Acetate, Ribes Nigrum (Black Currant) Bud Extract, Glutathione"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Artan cilt onarımı",
+      "Antioksidan koruma",
+      "İyileşmiş cilt nemlendirmesi",
+      "Daha aydınlık cilt görünümü",
+      "Artan elastikiyet"
+    ],
+    "mainTarget": "Canlandırıcı",
+    "related": [
+      { "slug": "ox-ultra", "title": "OX ULTRA", "category": "Steril flakonlar" },
+      { "slug": "ox", "title": "OX+", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "\"Bonitto Power Oxy\" etiketli küçük bir flakon, aynı marka taşıyan daha büyük bir kutunun yanına yerleştirilmiştir. Kutu, \"Power Oxy\" ve \"Bonitto\" metinlerinin belirgin şekilde görüntülendiği koyudan açığa doğru yeşil bir gradyana sahiptir."
+  },
+  "pro-age": {
+    "title": "PRO AGE",
+    "category": "Steril flakonlar",
+    "description": "PRO AGE, doku yenilenmesini uyaran güçlü bir vitamin ve antioksidan karışımı olan steril bir kozmetik çözümdür; daha pürüzsüz ve daha dirençli bir cilt görünümünün korunmasına yardımcı olur.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Pyridoxine HCL (Vitamin B6), Thiamine HCL (Vitamin B1), Sodium Ascorbate (Vitamin C), Panthenol (Pro-Vitamin B5), Riboflavin (Vitamin B2), Tocopheryl Acetate (Vitamin E), Retynil Palmitate (Vitamin A), Niacinamide (Vitamin B3)"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Erken kırışıklıkların önlenmesi",
+      "İyileşmiş cilt dokusu",
+      "Genç görünüm"
+    ],
+    "mainTarget": "Anti-aging",
+    "related": [
+      { "slug": "age", "title": "AGE+", "category": "Steril flakonlar" },
+      { "slug": "collagen-ultra", "title": "COLLAGEN ULTRA", "category": "Steril flakonlar" },
+      { "slug": "exogenix", "title": "EXOGENIX", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Görselde bir ürün kutusu ve küçük bir flakon gösterilmektedir. Kutuda, gradyan yeşil zemin üzerinde beyaz yazılarla \"BONITTO\" ve \"PRO AGE\" yazmaktadır. Kutunun yanına yerleştirilen flakonda da \"BONITTO PRO AGE\" yazısı bulunmaktadır."
+  },
+  "pro-cells": {
+    "title": "PRO CELLS",
+    "category": "Steril flakonlar",
+    "description": "PRO CELLS, selülit görünümünü azaltmak ve vücut hatlarını iyileştirmek için tasarlanmış steril bir kozmetik çözümdür. Yağ dokusunun parçalanmasını aktive eder ve yeni yağ birikimlerinin oluşumunu önleyerek cilt sıkılığının ve pürüzsüzlüğünün artırılmasına yardımcı olur. Detoksifikasyonu destekleyerek daha eşit bir cilt dokusuna ve genel olarak iyileşmiş cilt sağlığına katkıda bulunur.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Caffeine, Carnitine, Ananas Sativus Fruit Extract (Pineapple), Equisetum Arvense Extract (Horsetail), Cynara Scolymus Leaf Extract (Artichoke), Palmaria Palmata Extract"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 10 ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "Selülit",
+    "related": [
+      { "slug": "lipo", "title": "LIPO+", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "\"Bonitto Pro Cells\" etiketli bir kutu ve yanında küçük bir flakon. Kutu ve flakon, yeşil ve beyaz gradyan bir tasarıma sahiptir. Kutudaki metin \"Vols. 5x10 ml\" şeklindedir."
+  },
+  "radiance-pro": {
+    "title": "RADIANCE PRO",
+    "category": "Steril flakonlar",
+    "description": "RADIANCE PRO, el sırtındaki cildi nemlendirmek ve onarmak için tasarlanmış steril bir kozmetik çözümdür. Bu bölgedeki cilt sağlığını korumak için nemlendirmeyi artırır ve onarıcı fonksiyonları uyarır.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Acetyl Decapeptide-3, Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate, Proline, Glycine, Arginine HCL, Cysteine HCL, Niacinamide (Vitamin B3)"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Nemlendirme desteği",
+      "Cilt onarımı",
+      "Genç görünüm",
+      "Koruyucu bariyer",
+      "Doku iyileştirme"
+    ],
+    "mainTarget": "Eller",
+    "related": [
+      { "slug": "ey", "title": "EY+", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Açık yeşil bir kutu ve yanında küçük bir flakonla sergilenen Bonitto Radiance Pro ürün görseli. Kutu, beyaz yazıyla marka adı ve ürün adını içeren gradyan bir tasarıma sahiptir."
+  },
+  "shine-power": {
+    "title": "SHINE POWER",
+    "category": "Steril flakonlar",
+    "description": "SHINE POWER, cilt aydınlatmaya doğal bir yaklaşım arayan kişiler için formüle edilmiş steril bir kozmetik çözümdür. Pigmentasyonu azaltmak, cilt tonunu eşitlemek ve genel cilt ışıltısını artırmak için birlikte çalışan güçlü bir bileşen karışımı içerir. Çözüm, koyu lekelerin ve renk kusurlarının görünümünü hedefleyip azaltmak üzere tasarlanmıştır; daha aydınlık ve daha homojen bir cilt görünümü sağlar.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Succinic Acid, Ascorbyl Glucoside, Glutathione"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Cilt aydınlatma",
+      "Antioksidan koruma",
+      "Cilt pürüzsüzleştirme",
+      "Nemlendirme ve yatıştırma",
+      "Anti-aging faydaları"
+    ],
+    "mainTarget": "Beyazlatma",
+    "related": [
+      { "slug": "peel-4-0", "title": "PEEL 4.0", "category": "Steril flakonlar" },
+      { "slug": "whitening", "title": "WHITENING+", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Nane yeşili ve beyaz, üzerinde \"Shine Power\" yazan bir kutu içeren Bonitto Shine Power ürünü. Kutunun yanına aynı etikete sahip küçük bir flakon yerleştirilmiştir. Genel tasarım şık ve moderndir."
+  },
+  "whitening": {
+    "title": "WHITENING+",
+    "category": "Steril flakonlar",
+    "description": "WHITENING+, ciltteki renk bozukluklarını gidermek ve genel cilt ışıltısını artırmak için tasarlanmış steril bir kozmetik çözümdür. Traneksamik Asit, melanin üretiminde rol oynayan bir enzim olan tirozinazın aktivitesini inhibe ederek hiperpigmentasyon ve melazma tedavisinde etkilidir. Koyu lekelerin açılmasına ve genel cilt tonunun iyileştirilmesine yardımcı olur.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Oligopeptide-34, Glycyrrhiza Glabra (Licorice) Root Extract, Panthenol (Pro-Vitamin B5), Glutathione, Acetyl Glycil Β-Alanine, Tranexamic Acid, Sodium Hyaluronate"
+      },
+      {
+        "label": "Hacim",
+        "value": "Flakonlar 5 x 5 ml"
+      }
+    ],
+    "effects": [
+      "Cilt tonunu aydınlatır",
+      "Renk kusurlarını azaltır",
+      "Doğal parlaklığı geri kazandırır",
+      "Cilt berraklığını iyileştirir"
+    ],
+    "mainTarget": "Beyazlatma",
+    "related": [
+      { "slug": "shine-power", "title": "SHINE POWER", "category": "Steril flakonlar" },
+      { "slug": "peel-4-0", "title": "PEEL 4.0", "category": "Steril flakonlar" }
+    ],
+    "productImageAlt": "Küçük bir şişenin yanında BONITTO Whitening+ kutusu. Kutu turkuaz renktedir ve üst kısmında beyaz marka adı bulunur. Flakon, \"BONITTO Whitening+ Master Solution\" etiketlidir ve 5x5 ml içerir."
+  },
+  "xnad": {
+    "title": "XNAD+",
+    "category": "Steril flakonlar",
+    "description": "XNAD+, yenilenmeyi teşvik ederek ve elastikiyeti iyileştirerek cildi canlandırmak için tasarlanmış steril bir kozmetik çözümdür. NAD+, amino asitler ve peptit kompleksleri ile zenginleştirilmiştir; cildin sıkılaşmasına ve daha pürüzsüz, daha genç bir görünüm için ince çizgi görünümünün kademeli olarak azaltılmasına yardımcı olur.",
+    "technicalInfo": [
+      {
+        "label": "Aktif içerikler",
+        "value": "Trehalose, Acetyl Hexapeptide-1, Arginine, Oligopeptide-4, Disodium NADH, Acetyl sh-Hexapeptide-5 Amide Acetate, Acetyl Hexapeptide-8, Centella Asiatica Leaf Vesicles."
+      },
+      {
+        "label": "Hacim",
+        "value": "5x5ml"
+      }
+    ],
+    "effects": [],
+    "mainTarget": "",
+    "related": [],
+    "productImageAlt": "Küçük bir flakon ve \"BONITTO XNAD+ Vials 5x5 ml\" etiketli turkuaz ve beyaz bir kutu gösterilmektedir. Kutu gradyan bir tasarıma sahiptir ve marka adı üst kısımda görünmektedir."
+  }
+}
