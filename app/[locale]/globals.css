@@ -1608,9 +1608,8 @@ section.block-footer {
     padding: 116px clamp(28px, 8vw, 48px) 2rem;
   }
   
-  .event-detail-scroll section.block-image,
   .event-detail-scroll section.block-video {
-    padding: 0 clamp(28px, 8vw, 48px);
+    padding: 0;
   }
 }
 
@@ -2123,7 +2122,7 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
   background: #0a0a0a;
   height: 100%;
   min-height: 100%;
-  width: min(100%, 360px);
+  width: 100%;
 }
 
 .home-product-panel,
@@ -2308,7 +2307,11 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
   }
 
   .home-video-panel {
-    padding: 0 clamp(28px, 8vw, 48px) 42px;
+    padding: 0 0 42px;
+  }
+
+  .home-video-panel > video {
+    width: 100%;
   }
 
   .home-hero-video {
@@ -2316,7 +2319,7 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
     height: auto;
     max-height: 62svh;
     object-fit: cover;
-    width: min(100%, 430px);
+    width: 100%;
   }
 
   .home-product-panel,
