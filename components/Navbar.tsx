@@ -29,7 +29,6 @@ const CloseIcon = () => (
   </svg>
 );
 
-
 const mainNav = [
   ['/about-us', 'aboutUs'],
   ['/events', 'newsEvents'],
@@ -56,7 +55,6 @@ export default function Navbar() {
           </Link>
 
           <div className="flex items-center gap-6 md:gap-10">
-
             <div className="hidden md:inline-block">
               <LanguageSwitcher />
             </div>
@@ -75,11 +73,9 @@ export default function Navbar() {
 
       <nav
         id="primary-navigation"
-        className={`primary-menu   ${menuOpen ? 'active' : ''}`}
-        style={{ transform: menuOpen ? 'translateX(-100vw)' : 'none' }}
+        className={`primary-menu ${menuOpen ? 'active' : ''}`}
       >
-        <div className="h-full overflow-y-scroll flex flex-col md:flex-row justify-end p-4 md:p-12"
-          style={{ scrollbarWidth: 'none' }}>
+        <div className="h-full overflow-y-scroll flex flex-col md:flex-row justify-end p-4 md:p-12">
           <button
             className="hidden md:inline-flex absolute right-5 top-5 md:right-12 md:top-10 z-10 h-11 w-11 items-center justify-center border border-white/60 bg-transparent text-white transition-colors duration-300 hover:bg-white hover:text-[#4AB2A8]"
             type="button"
@@ -89,7 +85,7 @@ export default function Navbar() {
             <CloseIcon />
           </button>
 
-          <div className="md:hidden absolute !p-4 inset-x-0 top-0 z-10 flex items-center justify-between p-4">
+          <div className="md:hidden absolute inset-x-0 top-0 z-10 flex items-center justify-between p-4">
             <LanguageSwitcher />
             <button
               type="button"
@@ -101,11 +97,13 @@ export default function Navbar() {
             </button>
           </div>
 
-          <div className="pb-20 md:pb-0  md:flex md:flex-col !-mt-12 md:justify-center md:h-[calc(100vh-200px)]">
-            <div className="md:flex  bg-red-400 !-mt-12  md:items-start md:gap-16">
+          <div className="pb-20 md:pb-0 md:flex md:flex-col md:justify-center md:h-[calc(100vh-200px)]">
+            <div className="md:flex md:items-start md:gap-16">
               <div className="mb-8 md:mb-0 md:w-1/2">
-                <h2 className="mb-4 font-semibold   uppercase text-4xl md:text-5xl lg:text-7xl md:leading-none"
-                  style={{ fontSize: 'clamp(40px, 5vw, 90px)', lineHeight: 'clamp(40px, 5.5vw, 105px)' }}>
+                <h2 
+                  className="mb-4 font-semibold uppercase text-4xl md:text-5xl lg:text-7xl md:leading-none"
+                  style={{ fontSize: 'clamp(40px, 5vw, 90px)', lineHeight: 'clamp(40px, 5.5vw, 105px)' }}
+                >
                   {t('megaMenu.title')}
                 </h2>
                 <ul className="list-none">
@@ -134,8 +132,9 @@ export default function Navbar() {
                     <li key={href} className="mb-2 md:mb-4">
                       <Link
                         href={href}
-                        className={`text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light transition-all duration-300 hover:italic ${pathname === href || pathname.startsWith(`${href}/`) ? 'italic' : ''
-                          }`}
+                        className={`text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light transition-all duration-300 hover:italic ${
+                          pathname === href || pathname.startsWith(`${href}/`) ? 'italic' : ''
+                        }`}
                         onClick={() => setMenuOpen(false)}
                       >
                         {t(key)}
