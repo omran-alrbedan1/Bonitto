@@ -108,14 +108,6 @@ export default function Navbar() {
       >
         <div className="primary-menu-ambient" aria-hidden="true" />
         <div className="primary-menu-scroll h-full overflow-y-auto flex flex-col justify-start">
-          <button
-            className="primary-menu-close hidden md:inline-flex"
-            type="button"
-            onClick={() => setMenuOpen(false)}
-            aria-label={t('closeNavigation')}
-          >
-            <CloseIcon />
-          </button>
 
           <div className="primary-menu-container pb-20 md:pb-0 md:flex md:flex-col md:justify-center">
             <div className="primary-menu-grid md:flex md:items-start">

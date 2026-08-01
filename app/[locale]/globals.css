@@ -1404,12 +1404,12 @@ section.block-footer {
   transform: scale(0.96);
 }
 .primary-menu-title {
-  font-size: clamp(42px, 8vw, 108px);
-  line-height: 0.92;
+  font-size: clamp(34px, 5.4vw, 72px);
+  line-height: 0.96;
   text-wrap: balance;
 }
 .primary-menu-grid {
-  gap: clamp(3rem, 9vw, 9rem);
+  gap: clamp(2.25rem, 6vw, 6.5rem);
 }
 .primary-menu-products,
 .primary-menu-pages {
@@ -1453,9 +1453,9 @@ section.block-footer {
   transition: color 260ms ease, opacity 260ms ease, transform 260ms ease;
 }
 .primary-menu-category-link {
-  padding: clamp(0.85rem, 1.55vw, 1.35rem) 0;
-  font-size: clamp(1.08rem, 2.5vw, 2.6rem);
-  line-height: 1.05;
+  padding: clamp(0.72rem, 1.1vw, 1rem) 0;
+  font-size: clamp(1rem, 1.85vw, 1.95rem);
+  line-height: 1.12;
 }
 .primary-menu-category-link::after,
 .primary-menu-page-link::after {
@@ -1484,15 +1484,15 @@ section.block-footer {
   transform-origin: left;
 }
 .primary-menu-page-list {
-  gap: clamp(0.45rem, 1vw, 0.85rem);
+  gap: clamp(0.35rem, 0.65vw, 0.65rem);
 }
 .primary-menu-page-link {
   margin-inline-start: auto;
   width: fit-content;
   max-width: 100%;
   padding-bottom: 0.35rem;
-  font-size: clamp(1.35rem, 3vw, 3.5rem);
-  line-height: 0.98;
+  font-size: clamp(1.2rem, 2.25vw, 2.65rem);
+  line-height: 1.04;
 }
 .primary-menu-page-link.active {
   font-style: italic;
@@ -1503,7 +1503,7 @@ body.nav-open {
 @media (min-width: 992px) {
   .primary-menu-scroll {
     justify-content: center;
-    padding: 6rem clamp(4rem, 7vw, 7.5rem) 4.5rem;
+    padding: 7.5rem clamp(4rem, 7vw, 7.5rem) 4rem;
   }
 
   .primary-menu-container {
@@ -1512,7 +1512,7 @@ body.nav-open {
 
   .primary-menu-grid {
     display: grid;
-    grid-template-columns: minmax(0, 1.06fr) minmax(18rem, 0.94fr);
+    grid-template-columns: minmax(0, 0.96fr) minmax(18rem, 1.04fr);
     align-items: center;
   }
 
@@ -1521,7 +1521,7 @@ body.nav-open {
   }
 
   .primary-menu::before {
-    font-size: clamp(7rem, 8.5vw, 12rem);
+    font-size: clamp(5.5rem, 6.2vw, 8.5rem);
     line-height: 0.88;
     white-space: nowrap;
   }
