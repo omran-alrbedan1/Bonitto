@@ -4,7 +4,7 @@ import { getPageMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
 import { Link } from "@/i18n/routing";
 import Footer from "@/components/Footer";
-import { events } from "@/constants/events";
+import { getLocalizedEvents } from "@/constants/events";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -15,6 +15,7 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'news' });
   const categoryLabel = t('tabs.events');
+  const events = getLocalizedEvents(locale);
 
   return (
     <div id="blocks-wrapper" className="events-page vertical-scroll">
@@ -27,7 +28,7 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
           <div className="news-list !mt-12">
             {events.map((event) => (
               <div className="news-item" key={event.slug}>
-                <Link className="post-link" href={`/events/${event.slug}`}>
+                <Link className="post-link" href={{ pathname: '/events/[slug]', params: { slug: event.slug } }}>
                   <span className="post-img-wrapper">
                     <img className="post-img" src={event.image} alt={event.alt} />
                   </span>

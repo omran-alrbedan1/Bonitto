@@ -1,10 +1,11 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { Link } from '@/i18n/routing';
+import type { Locale } from '@/lib/i18n';
 import {
-  researchArticles,
+  getLocalizedResearchArticles,
   type ResearchArticleCategory,
 } from '@/constants/researchArticles';
 
@@ -12,12 +13,14 @@ const filters: Array<'all' | ResearchArticleCategory> = ['all', 'fillers', 'skin
 
 export function ResearchArticlesArchive({ categoryLabel }: { categoryLabel: string }) {
   const t = useTranslations('news');
+  const locale = useLocale() as Locale;
   const [activeFilter, setActiveFilter] = useState<'all' | ResearchArticleCategory>('all');
+  const localizedResearchArticles = useMemo(() => getLocalizedResearchArticles(locale), [locale]);
 
   const visibleArticles = useMemo(() => {
-    if (activeFilter === 'all') return researchArticles;
-    return researchArticles.filter((article) => article.category === activeFilter);
-  }, [activeFilter]);
+    if (activeFilter === 'all') return localizedResearchArticles;
+    return localizedResearchArticles.filter((article) => article.category === activeFilter);
+  }, [activeFilter, localizedResearchArticles]);
 
   return (
     <>

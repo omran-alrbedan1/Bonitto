@@ -1,3 +1,5 @@
+import type { Locale } from '@/lib/i18n';
+
 export type ResearchArticleCategory = 'fillers' | 'skincare' | 'mesotherapy';
 
 export type ResearchArticle = {
@@ -8,6 +10,7 @@ export type ResearchArticle = {
   image: string;
   alt: string;
   contentHtml?: string;
+  translations?: Partial<Record<Locale, Partial<Pick<ResearchArticle, 'title' | 'alt' | 'contentHtml'>>>>;
 };
 
 export const researchCategoryLabels: Record<ResearchArticleCategory, string> = {
@@ -200,6 +203,158 @@ export const researchArticles: ResearchArticle[] = [
   },
 ];
 
+const researchArticleTitleTranslations: Record<string, Partial<Record<Locale, string>>> = {
+  'dermal-filler': {
+    fr: 'Comblement dermique',
+    de: 'Dermal Filler',
+    it: 'Filler dermico',
+    ru: 'Дермальный филлер',
+    tr: 'Dermal Dolgu',
+    ar: 'الفيلر الجلدي',
+    es: 'Relleno dérmico',
+    he: 'פילר דרמלי',
+  },
+  'the-relevant-acne-solutions': {
+    fr: 'Les solutions pertinentes contre l’acné',
+    de: 'Relevante Lösungen gegen Akne',
+    it: 'Le soluzioni più rilevanti per l’acne',
+    ru: 'Актуальные решения против акне',
+    tr: 'Akne için etkili çözümler',
+    ar: 'حلول فعالة لحب الشباب',
+    es: 'Soluciones relevantes para el acné',
+    he: 'הפתרונות הרלוונטיים לאקנה',
+  },
+  'l-proline-glycine-scientific-innovation-in-bdde-crosslinked-hyaluronic-acid-fillers': {
+    fr: 'L-Proline et glycine : innovation scientifique dans les fillers d’acide hyaluronique réticulés au BDDE',
+    de: 'L-Prolin und Glycin: wissenschaftliche Innovation in BDDE-vernetzten Hyaluronsäure-Fillern',
+    it: 'L-Prolina e glicina: innovazione scientifica nei filler di acido ialuronico reticolati con BDDE',
+    ru: 'L-пролин и глицин: научная инновация в филлерах гиалуроновой кислоты, сшитых BDDE',
+    tr: 'L-Prolin ve Glisin: BDDE ile çapraz bağlı hyaluronik asit dolgularında bilimsel yenilik',
+    ar: 'إل-برولين والجلايسين: ابتكار علمي في فيلرات حمض الهيالورونيك المتصالبة بـ BDDE',
+    es: 'L-prolina y glicina: innovación científica en rellenos de ácido hialurónico reticulados con BDDE',
+    he: 'L-פרולין וגליצין: חדשנות מדעית בפילרים של חומצה היאלורונית מצולבת BDDE',
+  },
+  'lightnet-cream-gentle-brightening-with-barrier-support': {
+    fr: 'Crème Lightnet : éclat doux et soutien de la barrière cutanée',
+    de: 'Lightnet Cream: sanfte Aufhellung mit Unterstützung der Hautbarriere',
+    it: 'Lightnet Cream: luminosità delicata con supporto alla barriera cutanea',
+    ru: 'Крем Lightnet: мягкое осветление и поддержка кожного барьера',
+    tr: 'Lightnet Krem: bariyer desteğiyle nazik aydınlatma',
+    ar: 'كريم Lightnet: تفتيح لطيف مع دعم حاجز البشرة',
+    es: 'Crema Lightnet: luminosidad suave con apoyo a la barrera cutánea',
+    he: 'קרם Lightnet: הבהרה עדינה עם תמיכה במחסום העור',
+  },
+  'science-behind-eye-brightening-care': {
+    fr: 'La science derrière les soins contour des yeux et éclat',
+    de: 'Die Wissenschaft hinter Augen- und Aufhellungspflege',
+    it: 'La scienza dietro la cura occhi e illuminante',
+    ru: 'Наука ухода для сияния и области вокруг глаз',
+    tr: 'Göz çevresi ve aydınlatıcı bakımın bilimi',
+    ar: 'العلم وراء عناية العين والتفتيح',
+    es: 'La ciencia detrás del cuidado de ojos e iluminación',
+    he: 'המדע שמאחורי טיפוח העיניים וההבהרה',
+  },
+  'bonittos-customized-skincare-solutions': {
+    fr: 'Les solutions skincare personnalisées de BONITTO',
+    de: 'BONITTOs personalisierte Skincare-Lösungen',
+    it: 'Le soluzioni skincare personalizzate di BONITTO',
+    ru: 'Индивидуальные решения BONITTO для ухода за кожей',
+    tr: 'BONITTO’nun kişiselleştirilmiş cilt bakım çözümleri',
+    ar: 'حلول بونيتو المخصصة للعناية بالبشرة',
+    es: 'Soluciones personalizadas de skincare de BONITTO',
+    he: 'פתרונות טיפוח העור המותאמים של BONITTO',
+  },
+  'why-skincare-kits-outshine-single-products': {
+    fr: 'Pourquoi les kits skincare surpassent les produits individuels',
+    de: 'Warum Skincare-Kits Einzelprodukte übertreffen',
+    it: 'Perché i kit skincare superano i singoli prodotti',
+    ru: 'Почему наборы ухода эффективнее отдельных продуктов',
+    tr: 'Cilt bakım kitleri neden tek ürünlerden daha güçlüdür',
+    ar: 'لماذا تتفوق مجموعات العناية بالبشرة على المنتجات الفردية',
+    es: 'Por qué los kits de skincare superan a los productos individuales',
+    he: 'מדוע ערכות טיפוח עולות על מוצרים בודדים',
+  },
+  'the-science-behind-dermal-fillers': {
+    fr: 'La science derrière les fillers dermiques',
+    de: 'Die Wissenschaft hinter Dermal Fillern',
+    it: 'La scienza dietro i filler dermici',
+    ru: 'Наука, стоящая за дермальными филлерами',
+    tr: 'Dermal dolguların arkasındaki bilim',
+    ar: 'العلم وراء الفيلرات الجلدية',
+    es: 'La ciencia detrás de los rellenos dérmicos',
+    he: 'המדע שמאחורי פילרים דרמליים',
+  },
+  'the-summer-hydration-hero': {
+    fr: 'Le héros de l’hydratation estivale',
+    de: 'Der Sommer-Hydration-Held',
+    it: 'L’eroe dell’idratazione estiva',
+    ru: 'Герой летнего увлажнения',
+    tr: 'Yazın nem kahramanı',
+    ar: 'بطل الترطيب الصيفي',
+    es: 'El héroe de la hidratación de verano',
+    he: 'גיבור הלחות של הקיץ',
+  },
+  'seasonal-skincare-switch-up': {
+    fr: 'Changer sa routine skincare avec la saison',
+    de: 'Saisonale Umstellung der Hautpflege',
+    it: 'Cambio skincare stagionale',
+    ru: 'Сезонное обновление ухода за кожей',
+    tr: 'Mevsimsel cilt bakımı değişimi',
+    ar: 'تغيير روتين العناية بالبشرة حسب الموسم',
+    es: 'Cambio estacional de skincare',
+    he: 'שינוי עונתי בטיפוח העור',
+  },
+  'natural-looking-fillers': {
+    fr: 'Fillers à l’effet naturel',
+    de: 'Natürlich wirkende Filler',
+    it: 'Filler dall’aspetto naturale',
+    ru: 'Филлеры с естественным результатом',
+    tr: 'Doğal görünümlü dolgular',
+    ar: 'فيلرات بمظهر طبيعي',
+    es: 'Rellenos de aspecto natural',
+    he: 'פילרים במראה טבעי',
+  },
+  'spring-skincare-refresh': {
+    fr: 'Rafraîchir sa skincare au printemps',
+    de: 'Spring Skincare Refresh',
+    it: 'Refresh skincare di primavera',
+    ru: 'Весеннее обновление ухода за кожей',
+    tr: 'İlkbahar cilt bakımı yenilemesi',
+    ar: 'انتعاش العناية بالبشرة في الربيع',
+    es: 'Renovación de skincare de primavera',
+    he: 'רענון טיפוח עור לאביב',
+  },
+  mesotherapy: {
+    fr: 'Mésothérapie',
+    de: 'Mesotherapie',
+    it: 'Mesoterapia',
+    ru: 'Мезотерапия',
+    tr: 'Mezoterapi',
+    ar: 'الميزوثيرابي',
+    es: 'Mesoterapia',
+    he: 'מזותרפיה',
+  },
+};
+
+export function getLocalizedResearchArticle(article: ResearchArticle, locale: Locale): ResearchArticle {
+  const articleSpecific = article.translations?.[locale];
+
+  return {
+    ...article,
+    ...articleSpecific,
+    title: articleSpecific?.title ?? researchArticleTitleTranslations[article.slug]?.[locale] ?? article.title,
+  };
+}
+
+export function getLocalizedResearchArticles(locale: Locale): ResearchArticle[] {
+  return researchArticles.map((article) => getLocalizedResearchArticle(article, locale));
+}
+
 export function getResearchArticleBySlug(slug: string) {
   return researchArticles.find((article) => article.slug === slug);
+}
+
+export function getLocalizedResearchArticleBySlug(slug: string, locale: Locale) {
+  const article = getResearchArticleBySlug(slug);
+  return article ? getLocalizedResearchArticle(article, locale) : undefined;
 }

@@ -4,8 +4,8 @@ import { getPageMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
 import { Link } from "@/i18n/routing";
 import Footer from "@/components/Footer";
-import { events } from "@/constants/events";
-import { researchArticles, type ResearchArticleCategory } from "@/constants/researchArticles";
+import { events, getLocalizedEvents } from "@/constants/events";
+import { getLocalizedResearchArticles, type ResearchArticleCategory } from "@/constants/researchArticles";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -28,36 +28,42 @@ function dateToTime(date: string): number {
   return new Date(year, month - 1, day).getTime();
 }
 
-const feed: FeedItem[] = [
-  ...events.map((event, i) => ({
-    kind: 'event' as const,
-    feedIndex: i,
-    slug: event.slug,
-    title: event.title,
-    date: event.date,
-    image: event.image,
-    alt: event.alt,
-    category: null,
-  })),
-  ...researchArticles.map((article, i) => ({
-    kind: 'article' as const,
-    feedIndex: events.length + i,
-    slug: article.slug,
-    title: article.title,
-    date: article.date,
-    image: article.image,
-    alt: article.alt,
-    category: article.category,
-  })),
-].sort((a, b) => {
-  const diff = dateToTime(a.date) - dateToTime(b.date);
-  if (diff !== 0) return diff;
-  return b.feedIndex - a.feedIndex;
-});
+function getFeed(locale: Locale): FeedItem[] {
+  const localizedEvents = getLocalizedEvents(locale);
+  const localizedResearchArticles = getLocalizedResearchArticles(locale);
+
+  return [
+    ...localizedEvents.map((event, i) => ({
+      kind: 'event' as const,
+      feedIndex: i,
+      slug: event.slug,
+      title: event.title,
+      date: event.date,
+      image: event.image,
+      alt: event.alt,
+      category: null,
+    })),
+    ...localizedResearchArticles.map((article, i) => ({
+      kind: 'article' as const,
+      feedIndex: events.length + i,
+      slug: article.slug,
+      title: article.title,
+      date: article.date,
+      image: article.image,
+      alt: article.alt,
+      category: article.category,
+    })),
+  ].sort((a, b) => {
+    const diff = dateToTime(a.date) - dateToTime(b.date);
+    if (diff !== 0) return diff;
+    return b.feedIndex - a.feedIndex;
+  });
+}
 
 export default async function NewsEventsPage({ params }: { params: Promise<{ locale: Locale }> }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'news' });
+  const feed = getFeed(locale);
 
   return (
     <div id="blocks-wrapper" className="news-events-scroll horizontal-scroll">
@@ -77,7 +83,11 @@ export default async function NewsEventsPage({ params }: { params: Promise<{ loc
               <div className="news-item" key={`${item.kind}-${item.slug}`}>
                 <Link
                   className="post-link"
-                  href={item.kind === 'event' ? `/events/${item.slug}` : `/research-articles/${item.slug}`}
+                  href={
+                    item.kind === 'event'
+                      ? { pathname: '/events/[slug]', params: { slug: item.slug } }
+                      : { pathname: '/research-articles/[id]', params: { id: item.slug } }
+                  }
                 >
                   <span className="post-img-wrapper">
                     <img className="post-img" src={item.image} alt={item.alt} />

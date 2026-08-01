@@ -1427,6 +1427,34 @@ section.block-footer {
   }
 }
 
+.expert-insights-page .block-wyswyg .wyswyg {
+  width: min(100%, 620px);
+}
+
+.expert-insights-demo-copy .wyswyg p {
+  max-width: 55ch;
+}
+
+.expert-insights-video {
+  background: transparent;
+}
+
+.expert-insights-video .video-full-height {
+  background: #000;
+  display: block;
+}
+
+@media (max-width: 991px) {
+  .expert-insights-page .block-wyswyg {
+    padding-inline: clamp(28px, 8vw, 48px);
+    padding-block: 4rem;
+  }
+
+  .expert-insights-page .block-wyswyg:first-child {
+    padding-top: 116px;
+  }
+}
+
 /* Product list - horizontal row layout */
 .product-list {
   display: flex !important;

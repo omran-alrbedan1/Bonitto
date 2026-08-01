@@ -5,7 +5,7 @@ import { getPageMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
 import { Link } from "@/i18n/routing";
 import Footer from "@/components/Footer";
-import { events, getEventBySlug } from "@/constants/events";
+import { events, getLocalizedEventBySlug } from "@/constants/events";
 
 export async function generateStaticParams() {
   return events.map((event) => ({ slug: event.slug }));
@@ -13,7 +13,7 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale; slug: string }> }): Promise<Metadata> {
   const { locale, slug } = await params;
-  const event = getEventBySlug(slug);
+  const event = getLocalizedEventBySlug(slug, locale);
 
   if (!event) {
     return getPageMetadata({ locale, page: 'news', path: '/events/[slug]' });
@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: L
 
 export default async function EventDetailPage({ params }: { params: Promise<{ locale: Locale; slug: string }> }) {
   const { locale, slug } = await params;
-  const event = getEventBySlug(slug);
+  const event = getLocalizedEventBySlug(slug, locale);
   const t = await getTranslations({ locale, namespace: 'news' });
 
   if (!event) notFound();

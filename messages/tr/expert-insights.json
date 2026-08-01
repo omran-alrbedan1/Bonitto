@@ -1,29 +1,17 @@
 {
   "metadata": {
     "title": "Uzman görüşleri ve demonstrasyonlar",
-    "description": "Bonitto demonstrasyonlarını ve klinik tedavi içgörülerini izleyin.",
+    "description": "Bonitto uzman demonstrasyonlarını ve klinik tedavi içgörülerini izleyin.",
     "keywords": "Bonitto uzman görüşleri, Babyface Filler demonstrasyonu, estetik tedavi videosu"
   },
   "hero": {
     "tag": "Uzman görüşleri ve demonstrasyonlar",
-    "title": "Uzman görüşleri ve demonstrasyonlar",
-    "description": "Bonitto profesyonel dünyasından klinik bakış, ürün tekniği ve görsel demonstrasyonlara odaklanan bir alan."
+    "title": "Uzman görüşleri ve demonstrasyonlar"
   },
   "demo": {
-    "eyebrow": "Klinik demonstrasyon",
-    "title": "Babyface Filler önce ve sonra",
-    "description": "Babyface Filler sonuçlarına profesyonel bir bakış; dikkatli tedavi planlamasının taze, dengeli ve doğal görünen bir yüz iyileştirmesini nasıl desteklediğini gösterir.",
-    "videoLabel": "Babyface Filler önce ve sonra",
-    "bullets": [
-      "Tedavi odaklı görsel demonstrasyon",
-      "Önce ve sonra sonuç sunumu",
-      "Estetik profesyoneller için klinik bakış"
-    ],
-    "videoFallback": "Your browser does not support the video tag."
-  },
-  "closing": {
-    "title": "Daha fazla ürün bilgisine mi ihtiyacınız var?",
-    "description": "Profesyonel destek, distribütörlük detayları ve ürün rehberliği için Bonitto ekibiyle iletişime geçin.",
-    "cta": "Bize ulaşın"
+    "title": "Babyface Filler Öncesi ve Sonrası | Klinik Teknik Demonstrasyonu",
+    "description": "Bonitto Babyface Filler ile adım adım tedavi demonstrasyonunu keşfedin. Bu video uzman enjeksiyon tekniklerini, yüz anatomisine ilişkin değerlendirmeleri ve doğal hacim restorasyonunun arkasındaki estetik ilkeleri öne çıkarır. Dengeli, rafine ve doğal görünümlü sonuçlar elde etmek için pratik içgörüler arayan medikal estetik profesyonelleri için idealdir.",
+    "videoLabel": "Babyface Filler öncesi ve sonrası klinik teknik demonstrasyonu",
+    "videoFallback": "Tarayıcınız video etiketini desteklemiyor."
   }
 }

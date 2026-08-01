@@ -1,29 +1,17 @@
 {
   "metadata": {
     "title": "Avis d'experts et démonstrations",
-    "description": "Regardez les démonstrations Bonitto et les analyses cliniques sur les traitements.",
+    "description": "Regardez les démonstrations d'experts Bonitto et les perspectives cliniques sur les traitements.",
     "keywords": "avis d'experts Bonitto, démonstration Babyface Filler, vidéo de traitement esthétique"
   },
   "hero": {
     "tag": "Avis d'experts et démonstrations",
-    "title": "Avis d'experts et démonstrations",
-    "description": "Un espace consacré aux perspectives cliniques, aux techniques produit et aux démonstrations visuelles de l'univers professionnel Bonitto."
+    "title": "Avis d'experts et démonstrations"
   },
   "demo": {
-    "eyebrow": "Démonstration clinique",
-    "title": "Babyface Filler avant et après",
-    "description": "Un regard professionnel sur les résultats de Babyface Filler, montrant comment une planification précise du traitement favorise un rendu frais, équilibré et naturel.",
-    "videoLabel": "Babyface Filler avant et après",
-    "bullets": [
-      "Démonstration visuelle centrée sur le traitement",
-      "Présentation des résultats avant et après",
-      "Perspective clinique pour les professionnels de l'esthétique"
-    ],
-    "videoFallback": "Your browser does not support the video tag."
-  },
-  "closing": {
-    "title": "Besoin de plus d'informations produit ?",
-    "description": "Contactez l'équipe Bonitto pour un accompagnement professionnel, les détails de distribution et les conseils produit.",
-    "cta": "Contactez-nous"
+    "title": "Babyface Filler avant et après | Démonstration de technique clinique",
+    "description": "Découvrez une démonstration de traitement étape par étape avec Bonitto Babyface Filler. Cette vidéo met en avant des techniques d'injection expertes, les considérations liées à l'anatomie faciale et les principes esthétiques qui soutiennent une restauration naturelle des volumes. Elle est idéale pour les professionnels de la médecine esthétique recherchant des informations pratiques pour obtenir des résultats équilibrés, raffinés et naturels.",
+    "videoLabel": "Démonstration de technique clinique Babyface Filler avant et après",
+    "videoFallback": "Votre navigateur ne prend pas en charge la balise vidéo."
   }
 }

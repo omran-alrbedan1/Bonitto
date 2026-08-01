@@ -6,13 +6,13 @@ import { Link } from "@/i18n/routing";
 import { type Locale } from "@/lib/i18n";
 import { getPageMetadata } from "@/lib/seo";
 import {
-  getResearchArticleBySlug,
+  getLocalizedResearchArticleBySlug,
   researchArticles,
 } from "@/constants/researchArticles";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale; id: string }> }): Promise<Metadata> {
   const { locale, id } = await params;
-  const article = getResearchArticleBySlug(id);
+  const article = getLocalizedResearchArticleBySlug(id, locale);
 
   if (!article) {
     return getPageMetadata({ locale, page: 'news', path: '/research-articles/[id]' });
@@ -31,7 +31,7 @@ export function generateStaticParams() {
 export default async function ResearchArticleDetailPage({ params }: { params: Promise<{ locale: Locale; id: string }> }) {
   const { locale, id } = await params;
   const t = await getTranslations({ locale, namespace: 'news' });
-  const article = getResearchArticleBySlug(id);
+  const article = getLocalizedResearchArticleBySlug(id, locale);
 
   if (!article) notFound();
 
