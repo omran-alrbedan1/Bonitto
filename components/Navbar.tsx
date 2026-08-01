@@ -49,7 +49,7 @@ export default function Navbar() {
   return (
     <>
       <header className="site-header fixed inset-x-0 top-0 z-10 px-4 py-6 md:px-12 md:py-9">
-        <div className="site-header-inner flex items-center justify-between">
+        <div className="site-header-inner  flex items-center justify-between">
           <Link href="/" className="inline-flex shrink-0 items-center" aria-label="Bonitto Aesthetic home">
             <BonittoLogo />
           </Link>
@@ -75,7 +75,7 @@ export default function Navbar() {
         id="primary-navigation"
         className={`primary-menu ${menuOpen ? 'active' : ''}`}
       >
-        <div className="h-full overflow-y-auto flex flex-col justify-start p-4 pt-24 md:flex-row md:justify-end md:p-12">
+        <div className="h-full  overflow-y-auto flex flex-col justify-start p-4 pt-24 md:flex-row md:justify-end md:p-12">
           <button
             className="hidden md:inline-flex absolute right-5 top-5 md:right-12 md:top-10 z-10 h-11 w-11 items-center justify-center border border-white/60 bg-transparent text-white transition-colors duration-300 hover:bg-white hover:text-[#4AB2A8]"
             type="button"
@@ -85,7 +85,7 @@ export default function Navbar() {
             <CloseIcon />
           </button>
 
-          <div className="md:hidden absolute inset-x-0 top-0 z-10 flex items-center justify-between p-4">
+          <div className="md:hidden absolute inset-x-0 top-0 z-10 flex items-center justify-between !p-4">
             <LanguageSwitcher />
             <button
               type="button"
