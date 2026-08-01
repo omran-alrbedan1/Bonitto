@@ -1,7 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { usePathname, Link } from '@/i18n/routing';
 import LanguageSwitcher from './LanguageSwitcher';
 
@@ -60,9 +60,24 @@ export default function Navbar() {
 
   const categories = t.raw('megaMenu.categories') as Array<{ number: string; label: string }>;
 
+  useEffect(() => {
+    document.body.classList.toggle('nav-open', menuOpen);
+
+    const handleEscape = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') setMenuOpen(false);
+    };
+
+    document.addEventListener('keydown', handleEscape);
+
+    return () => {
+      document.body.classList.remove('nav-open');
+      document.removeEventListener('keydown', handleEscape);
+    };
+  }, [menuOpen]);
+
   return (
     <>
-      <header className={`site-header fixed inset-x-0 top-0 px-4 py-6 md:px-12 md:py-9 ${menuOpen ? 'z-30 md:z-10' : 'z-10'}`}>
+      <header className={`site-header fixed inset-x-0 top-0 px-4 py-6 md:px-12 md:py-9 ${menuOpen ? 'nav-is-open z-30' : 'z-10'}`}>
         <div className="site-header-inner flex items-center justify-between">
           <Link href="/" className="inline-flex shrink-0 items-center" aria-label="Bonitto Aesthetic home">
             <BonittoLogo />
@@ -74,14 +89,14 @@ export default function Navbar() {
             </div>
 
             <button
-              className="nav-menu-button"
+              className="nav-menu-button group"
               onClick={() => setMenuOpen(!menuOpen)}
               aria-expanded={menuOpen}
               aria-controls="primary-navigation"
               aria-label={menuOpen ? t('closeNavigation') : t('menu')}
             >
-              <span className="md:hidden">{menuOpen ? <CloseIcon /> : <MenuIcon />}</span>
-              <span className="hidden md:inline">{menuOpen ? t('close') : t('menu')}</span>
+              <span className="nav-menu-button-icon md:hidden">{menuOpen ? <CloseIcon /> : <MenuIcon />}</span>
+              <span className="nav-menu-button-label hidden md:inline">{menuOpen ? t('close') : t('menu')}</span>
             </button>
           </div>
         </div>
@@ -91,9 +106,10 @@ export default function Navbar() {
         id="primary-navigation"
         className={`primary-menu ${menuOpen ? 'active' : ''}`}
       >
-        <div className="h-full overflow-y-auto flex flex-col justify-start p-4 pt-24 md:flex-row md:justify-end md:p-12">
+        <div className="primary-menu-ambient" aria-hidden="true" />
+        <div className="primary-menu-scroll h-full overflow-y-auto flex flex-col justify-start">
           <button
-            className="hidden md:inline-flex absolute right-5 top-5 md:right-12 md:top-10 z-10 h-11 w-11 items-center justify-center border border-white/60 bg-transparent text-white transition-colors duration-300 hover:bg-white hover:text-[#4AB2A8]"
+            className="primary-menu-close hidden md:inline-flex"
             type="button"
             onClick={() => setMenuOpen(false)}
             aria-label={t('closeNavigation')}
@@ -101,26 +117,24 @@ export default function Navbar() {
             <CloseIcon />
           </button>
 
-          <div className="pb-20 !mt-8 md:pb-0 md:flex md:flex-col md:justify-center md:h-[calc(100vh-200px)]">
-            <div className="md:flex md:items-start md:gap-16">
-              <div className="mb-8 md:mb-0 md:w-1/2">
+          <div className="primary-menu-container pb-20 md:pb-0 md:flex md:flex-col md:justify-center">
+            <div className="primary-menu-grid md:flex md:items-start">
+              <div className="primary-menu-products mb-10 md:mb-0">
                 <h2 
-                  className="mb-4 font-semibold uppercase text-4xl md:text-5xl lg:text-7xl md:leading-none"
-                  style={{ fontSize: 'clamp(40px, 5vw, 90px)', lineHeight: 'clamp(40px, 5.5vw, 105px)' }}
+                  className="primary-menu-title mb-6 font-semibold uppercase"
                 >
                   {t('megaMenu.title')}
                 </h2>
-                <ul className="list-none">
+                <ul className="primary-menu-category-list list-none">
                   {categories?.map((cat) => (
-                    <li key={cat.number} className="flex flex-wrap mb-4 md:mb-8">
-                      <span className="w-8 md:w-12 font-normal">
+                    <li key={cat.number} className="primary-menu-category-item">
+                      <span className="primary-menu-number">
                         {cat.number.padStart(2, '0')}.
                       </span>
                       <Link
                         // @ts-expect-error Dynamic category routes are generated from localized menu data.
                         href={`/product-category/${cat.number}`}
-                        className="text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light hover:italic transition-all duration-500"
-                        style={{ width: 'calc(100% - 32px)' }}
+                        className="primary-menu-category-link"
                         onClick={() => setMenuOpen(false)}
                       >
                         {cat.label}
@@ -130,14 +144,14 @@ export default function Navbar() {
                 </ul>
               </div>
 
-              <div className="md:w-1/2 md:text-right self-center">
-                <ul className="list-none">
+              <div className="primary-menu-pages !mt-4 self-center md:text-right">
+                <ul className="primary-menu-page-list list-none">
                   {mainNav.map(([href, key]) => (
-                    <li key={href} className="mb-2 md:mb-4">
+                    <li key={href}>
                       <Link
                         href={href}
-                        className={`text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light transition-all duration-300 hover:italic ${
-                          pathname === href || pathname.startsWith(`${href}/`) ? 'italic' : ''
+                        className={`primary-menu-page-link ${
+                          pathname === href || pathname.startsWith(`${href}/`) ? 'active' : ''
                         }`}
                         onClick={() => setMenuOpen(false)}
                       >
