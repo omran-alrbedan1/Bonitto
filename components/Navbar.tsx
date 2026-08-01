@@ -29,6 +29,20 @@ const CloseIcon = () => (
   </svg>
 );
 
+const MenuIcon = () => (
+  <svg
+    aria-hidden="true"
+    className="h-6 w-6"
+    fill="none"
+    viewBox="0 0 24 24"
+    stroke="currentColor"
+    strokeLinecap="round"
+    strokeWidth={1.5}
+  >
+    <path d="M4 7h16M4 12h16M4 17h16" />
+  </svg>
+);
+
 const mainNav = [
   ['/about-us', 'aboutUs'],
   ['/events', 'newsEvents'],
@@ -48,14 +62,14 @@ export default function Navbar() {
 
   return (
     <>
-      <header className="site-header fixed inset-x-0 top-0 z-10 px-4 py-6 md:px-12 md:py-9">
-        <div className="site-header-inner  flex items-center justify-between">
+      <header className={`site-header fixed inset-x-0 top-0 px-4 py-6 md:px-12 md:py-9 ${menuOpen ? 'z-30 md:z-10' : 'z-10'}`}>
+        <div className="site-header-inner flex items-center justify-between">
           <Link href="/" className="inline-flex shrink-0 items-center" aria-label="Bonitto Aesthetic home">
             <BonittoLogo />
           </Link>
 
-          <div className="flex items-center gap-6 md:gap-10">
-            <div className="hidden md:inline-block">
+          <div className="flex items-center gap-4 md:gap-10">
+            <div className="inline-block">
               <LanguageSwitcher />
             </div>
 
@@ -64,8 +78,10 @@ export default function Navbar() {
               onClick={() => setMenuOpen(!menuOpen)}
               aria-expanded={menuOpen}
               aria-controls="primary-navigation"
+              aria-label={menuOpen ? t('closeNavigation') : t('menu')}
             >
-              {menuOpen ? t('close') : t('menu')}
+              <span className="md:hidden">{menuOpen ? <CloseIcon /> : <MenuIcon />}</span>
+              <span className="hidden md:inline">{menuOpen ? t('close') : t('menu')}</span>
             </button>
           </div>
         </div>
@@ -75,7 +91,7 @@ export default function Navbar() {
         id="primary-navigation"
         className={`primary-menu ${menuOpen ? 'active' : ''}`}
       >
-        <div className="h-full  overflow-y-auto flex flex-col justify-start p-4 pt-24 md:flex-row md:justify-end md:p-12">
+        <div className="h-full overflow-y-auto flex flex-col justify-start p-4 pt-24 md:flex-row md:justify-end md:p-12">
           <button
             className="hidden md:inline-flex absolute right-5 top-5 md:right-12 md:top-10 z-10 h-11 w-11 items-center justify-center border border-white/60 bg-transparent text-white transition-colors duration-300 hover:bg-white hover:text-[#4AB2A8]"
             type="button"
@@ -84,18 +100,6 @@ export default function Navbar() {
           >
             <CloseIcon />
           </button>
-
-          <div className="md:hidden absolute inset-x-0 top-0 z-10 flex items-center justify-between !p-4">
-            <LanguageSwitcher />
-            <button
-              type="button"
-              onClick={() => setMenuOpen(false)}
-              aria-label={t('closeNavigation')}
-              className="inline-flex h-11 w-11 items-center justify-center border border-white/60 bg-transparent text-white"
-            >
-              <CloseIcon />
-            </button>
-          </div>
 
           <div className="pb-20 !mt-8 md:pb-0 md:flex md:flex-col md:justify-center md:h-[calc(100vh-200px)]">
             <div className="md:flex md:items-start md:gap-16">

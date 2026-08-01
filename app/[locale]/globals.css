@@ -2029,7 +2029,7 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
   pointer-events: auto;
 }
 
-.site-header svg {
+.site-header-inner > a svg {
   filter: drop-shadow(0 8px 18px rgba(0, 0, 0, 0.12));
 }
 
@@ -2044,6 +2044,29 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
   padding: 10px 0;
   text-transform: uppercase;
   transition: opacity 240ms ease, transform 240ms ease;
+}
+
+@media (max-width: 991px) {
+  .site-header-inner {
+    gap: 12px;
+  }
+
+  .site-header-inner > a {
+    min-width: 0;
+  }
+
+  .site-header-inner > div {
+    flex-shrink: 0;
+  }
+
+  .nav-menu-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+  }
 }
 
 .nav-menu-button:hover {
@@ -2279,11 +2302,11 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
 
   .site-header {
     min-height: 82px;
-    padding: 24px 20px;
+    padding: 20px 16px;
   }
 
-  .site-header svg {
-    width: clamp(176px, 54vw, 235px);
+  .site-header-inner > a svg {
+    width: clamp(132px, 40vw, 176px);
   }
 
   .home-section {
