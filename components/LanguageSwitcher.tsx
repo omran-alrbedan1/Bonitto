@@ -50,7 +50,7 @@ export default function LanguageSwitcher() {
   }, []);
 
   return (
-    <div ref={ref} className="relative inline-block">
+    <div ref={ref} className="relative inline-block ">
       <button
         onClick={() => setOpen(!open)}
         className="m-0 p-0 border-none bg-transparent text-white font-light uppercase text-xs md:text-sm cursor-pointer flex items-center gap-1.5"
@@ -69,7 +69,7 @@ export default function LanguageSwitcher() {
       </button>
 
       <div
-        className="language-switcher-panel absolute top-[calc(100%+12px)] z-50 min-w-[200px]"
+        className="language-switcher-panel rtl:!mr-12 rtl:md:!mr-0 !ml-12 absolute top-[calc(100%+12px)] z-50 min-w-[200px]"
         style={{
           opacity: open ? 1 : 0,
           transform: `translateY(${open ? 0 : -8}px)`,

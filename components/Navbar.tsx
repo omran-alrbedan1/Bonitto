@@ -36,7 +36,7 @@ const mainNav = [
   ['/research-articles', 'researchArticles'],
   ['/expert-insights-demonstrations', 'expertInsights'],
   ['/face-body', 'faceBody'],
-  ['/contact-us', 'contactUs'], 
+  ['/contact-us', 'contactUs'],
   ['/distributors', 'distributors'],
 ] as const;
 
@@ -58,7 +58,7 @@ export default function Navbar() {
 
           <div className="flex items-center gap-8 !mx-16">
 
-            <div className="hidden md:inline-block mr-2 md:mr-12">  
+            <div className="hidden md:inline-block mr-2 md:mr-12">
               <LanguageSwitcher />
             </div>
 
@@ -82,7 +82,7 @@ export default function Navbar() {
         <div className="h-full overflow-y-scroll flex flex-col md:flex-row justify-end p-4 md:p-12"
           style={{ scrollbarWidth: 'none' }}>
           <button
-            className="absolute right-5 top-5 md:right-12 md:top-10 z-10 inline-flex h-11 w-11 items-center justify-center border border-white/60 bg-transparent text-white transition-colors duration-300 hover:bg-white hover:text-[#4AB2A8]"
+            className="hidden md:inline-flex absolute right-5 top-5 md:right-12 md:top-10 z-10 h-11 w-11 items-center justify-center border border-white/60 bg-transparent text-white transition-colors duration-300 hover:bg-white hover:text-[#4AB2A8]"
             type="button"
             onClick={() => setMenuOpen(false)}
             aria-label={t('closeNavigation')}
@@ -90,52 +90,63 @@ export default function Navbar() {
             <CloseIcon />
           </button>
 
-        <div className="pb-20 md:pb-0 md:flex md:flex-col md:justify-center md:h-[calc(100vh-200px)]">
-  <div className="md:flex md:items-start md:gap-16">
-    <div className="mb-8 md:mb-0 md:w-1/2">
-      <h2 className="mb-4 font-semibold uppercase text-4xl md:text-5xl lg:text-7xl md:leading-none"
-        style={{ fontSize: 'clamp(40px, 5vw, 90px)', lineHeight: 'clamp(40px, 5.5vw, 105px)' }}>
-        {t('megaMenu.title')}
-      </h2>
-      <ul className="list-none">
-        {categories?.map((cat) => (
-          <li key={cat.number} className="flex flex-wrap mb-4 md:mb-8">
-            <span className="w-8 md:w-12 font-normal">
-              {cat.number.padStart(2, '0')}.
-            </span>
-            <Link
-              //@ts-ignore
-              href={`/product-category/${cat.number}`}
-              className="text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light hover:italic transition-all duration-500"
-              style={{ width: 'calc(100% - 32px)' }}
+          <div className="md:hidden absolute !p-4 inset-x-0 top-0 z-10 flex items-center justify-between p-4">
+            <LanguageSwitcher />
+            <button
+              type="button"
               onClick={() => setMenuOpen(false)}
+              aria-label={t('closeNavigation')}
+              className="inline-flex h-11 w-11 items-center justify-center border border-white/60 bg-transparent text-white"
             >
-              {cat.label}
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </div>
+              <CloseIcon />
+            </button>
+          </div>
 
-    <div className="md:w-1/2 md:text-right self-center">
-      <ul className="list-none">
-        {mainNav.map(([href, key]) => (
-          <li key={href} className="mb-2 md:mb-4">
-            <Link
-              href={href}
-              className={`text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light transition-all duration-300 hover:italic ${
-                pathname === href || pathname.startsWith(`${href}/`) ? 'italic' : ''
-              }`}
-              onClick={() => setMenuOpen(false)}
-            >
-              {t(key)}
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </div>
-  </div>
-</div>
+          <div className="pb-20 md:pb-0  md:flex md:flex-col md:justify-center md:h-[calc(100vh-200px)]">
+            <div className="md:flex mt-32 md:items-start md:gap-16">
+              <div className="mb-8 md:mb-0 md:w-1/2">
+                <h2 className="mb-4 font-semibold   uppercase text-4xl md:text-5xl lg:text-7xl md:leading-none"
+                  style={{ fontSize: 'clamp(40px, 5vw, 90px)', lineHeight: 'clamp(40px, 5.5vw, 105px)' }}>
+                  {t('megaMenu.title')}
+                </h2>
+                <ul className="list-none">
+                  {categories?.map((cat) => (
+                    <li key={cat.number} className="flex flex-wrap mb-4 md:mb-8">
+                      <span className="w-8 md:w-12 font-normal">
+                        {cat.number.padStart(2, '0')}.
+                      </span>
+                      <Link
+                        //@ts-ignore
+                        href={`/product-category/${cat.number}`}
+                        className="text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light hover:italic transition-all duration-500"
+                        style={{ width: 'calc(100% - 32px)' }}
+                        onClick={() => setMenuOpen(false)}
+                      >
+                        {cat.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+
+              <div className="md:w-1/2 md:text-right self-center">
+                <ul className="list-none">
+                  {mainNav.map(([href, key]) => (
+                    <li key={href} className="mb-2 md:mb-4">
+                      <Link
+                        href={href}
+                        className={`text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light transition-all duration-300 hover:italic ${pathname === href || pathname.startsWith(`${href}/`) ? 'italic' : ''
+                          }`}
+                        onClick={() => setMenuOpen(false)}
+                      >
+                        {t(key)}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
       </nav>
     </>

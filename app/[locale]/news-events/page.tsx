@@ -1,65 +1,108 @@
 import type { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
 import { getPageMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
-import { getTranslations } from "next-intl/server";
-import Link from "next/link";
+import { Link } from "@/i18n/routing";
+import Footer from "@/components/Footer";
+import { events } from "@/constants/events";
+import { researchArticles, type ResearchArticleCategory } from "@/constants/researchArticles";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale }> }): Promise<Metadata> {
   const { locale } = await params;
   return getPageMetadata({ locale, page: 'news', path: '/news-events' });
 }
 
-const mockArticles = [
-  { id: '1', title: 'Advances in HA Filler Technology', date: '2026-01-15', categoryKey: 'researchArticles' },
-  { id: '2', title: 'Bonitto at Aesthetic Medicine Expo 2026', date: '2026-02-20', categoryKey: 'events' },
-  { id: '3', title: 'Skincare Innovation: New PLLA Formulation', date: '2026-03-10', categoryKey: 'researchArticles' },
-  { id: '4', title: 'International Distributor Conference 2026', date: '2026-04-05', categoryKey: 'events' },
-  { id: '5', title: 'Clinical Results: Poly-L-Lactic Acid Studies', date: '2026-05-12', categoryKey: 'researchArticles' },
-  { id: '6', title: 'MEDEF Congress Paris', date: '2026-06-18', categoryKey: 'events' },
-];
+type FeedItem = {
+  kind: 'event' | 'article';
+  feedIndex: number;
+  slug: string;
+  title: string;
+  date: string;
+  image: string;
+  alt: string;
+  category: ResearchArticleCategory | null;
+};
+
+function dateToTime(date: string): number {
+  const [day, month, year] = date.split('/').map(Number);
+  return new Date(year, month - 1, day).getTime();
+}
+
+const feed: FeedItem[] = [
+  ...events.map((event, i) => ({
+    kind: 'event' as const,
+    feedIndex: i,
+    slug: event.slug,
+    title: event.title,
+    date: event.date,
+    image: event.image,
+    alt: event.alt,
+    category: null,
+  })),
+  ...researchArticles.map((article, i) => ({
+    kind: 'article' as const,
+    feedIndex: events.length + i,
+    slug: article.slug,
+    title: article.title,
+    date: article.date,
+    image: article.image,
+    alt: article.alt,
+    category: article.category,
+  })),
+].sort((a, b) => {
+  const diff = dateToTime(a.date) - dateToTime(b.date);
+  if (diff !== 0) return diff;
+  return b.feedIndex - a.feedIndex;
+});
 
 export default async function NewsEventsPage({ params }: { params: Promise<{ locale: Locale }> }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'news' });
 
   return (
-    <main>
-      <section className="pt-32 pb-16 sm:pt-40 bg-brand-bg-warm">
-        <div className="mx-auto w-[min(1200px,calc(100%-48px))]">
-          <span className="inline-block rounded-full bg-brand-teal/8 px-4 py-1.5 text-xs font-bold uppercase tracking-wider text-brand-teal mb-4">
-            {t('hero.tag')}
-          </span>
-          <h1 className="text-3xl font-bold tracking-tight text-brand-ink sm:text-4xl">{t('hero.title')}</h1>
-          <p className="mt-3 text-brand-muted max-w-[500px]">{t('hero.description')}</p>
-          <div className="mt-6 flex gap-2">
-            <span className="rounded-full bg-brand-teal px-4 py-2 text-xs font-bold text-white">{t('tabs.all')}</span>
-            <span className="rounded-full border border-brand-line bg-white px-4 py-2 text-xs font-bold text-brand-ink">{t('tabs.events')}</span>
-            <span className="rounded-full border border-brand-line bg-white px-4 py-2 text-xs font-bold text-brand-ink">{t('tabs.researchArticles')}</span>
+    <div id="blocks-wrapper" className="news-events-scroll horizontal-scroll">
+      <section className="block-wyswyg section-md" id="block-1">
+        <div className="container-fluid g-lg-0">
+          <div className="wyswyg">
+            <h1>{t('hero.title')}</h1>
+            <p>{t('hero.description')}</p>
           </div>
         </div>
       </section>
 
-      <section className="py-16">
-        <div className="mx-auto w-[min(1200px,calc(100%-48px))]">
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-            {mockArticles.map((article) => (
-              <Link key={article.id} href={`/news-events/${article.id}`}
-                className="group rounded-2xl border border-brand-line bg-white overflow-hidden transition hover:shadow-md">
-                <div className="aspect-[16/10] bg-brand-teal/5 flex items-center justify-center">
-                  <span className="text-sm text-brand-muted">{t('image')}</span>
-                </div>
-                <div className="p-6">
-                  <div className="flex items-center gap-2 mb-2">
-                    <span className="rounded-full bg-brand-teal/8 px-3 py-0.5 text-xs font-bold text-brand-teal">{t(`categories.${article.categoryKey}.label`)}</span>
-                    <span className="text-xs text-brand-muted">{article.date}</span>
-                  </div>
-                  <h3 className="text-lg font-bold text-brand-ink group-hover:text-brand-teal transition">{article.title}</h3>
-                </div>
-              </Link>
+      <section className="news">
+        <div className="container-fluid g-lg-0">
+          <div className="news-list">
+            {feed.map((item) => (
+              <div className="news-item" key={`${item.kind}-${item.slug}`}>
+                <Link
+                  className="post-link"
+                  href={item.kind === 'event' ? `/events/${item.slug}` : `/research-articles/${item.slug}`}
+                >
+                  <span className="post-img-wrapper">
+                    <img className="post-img" src={item.image} alt={item.alt} />
+                  </span>
+                  <span className="post-text-wrapper">
+                    <span className="post-text-date">{item.date}</span>
+                    {item.kind === 'event' ? (
+                      <span className="cat-link">{t('tabs.events')}</span>
+                    ) : (
+                      <>
+                        <span className="cat-link">{t('tabs.researchArticles')}</span>
+                        <span className="cat-link"> | </span>
+                        <span className="cat-link">{t(`research.categories.${item.category}`)}</span>
+                      </>
+                    )}
+                    <h3>{item.title}</h3>
+                  </span>
+                </Link>
+              </div>
             ))}
           </div>
         </div>
       </section>
-    </main>
+
+      <Footer />
+    </div>
   );
 }

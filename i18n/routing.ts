@@ -13,6 +13,7 @@ export const routing = defineRouting({
     '/events': '/events',
     '/events/[slug]': '/events/[slug]',
     '/news-events': '/news-events',
+    '/news-events/[slug]': '/news-events/[slug]',
     '/research-articles': '/research-articles',
     '/research-articles/[id]': '/research-articles/[id]',
     '/expert-insights-demonstrations': '/expert-insights-demonstrations',

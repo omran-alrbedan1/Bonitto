@@ -1,11 +1,12 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import Link from 'next/link';
+import { Link } from '@/i18n/routing';
 
 const articles = [
   {
     slug: 'imcas-paris-2026',
+    type: 'event' as const,
     titleKey: 'imcasTitle',
     date: '03/02/2026',
     categoryKeys: ['events'],
@@ -14,6 +15,7 @@ const articles = [
   },
   {
     slug: 'dermal-filler',
+    type: 'article' as const,
     titleKey: 'dermalFillerTitle',
     date: '01/01/2026',
     categoryKeys: ['researchArticles', 'fillers'],
@@ -22,6 +24,7 @@ const articles = [
   },
   {
     slug: 'the-relevant-acne-solutions',
+    type: 'article' as const,
     titleKey: 'acneSolutionsTitle',
     date: '10/12/2025',
     categoryKeys: ['researchArticles', 'mesotherapy'],
@@ -54,7 +57,7 @@ export function HomeNews() {
           {articles.map((article) => (
             <Link
               key={article.slug}
-              href={`/news-events/${article.slug}`}
+              href={article.type === 'event' ? `/events/${article.slug}` : `/research-articles/${article.slug}`}
               className="post-link"
             >
               <span className="block">
