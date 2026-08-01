@@ -84,7 +84,7 @@ export default function Navbar() {
           </Link>
 
           <div className="flex items-center gap-4 md:gap-10">
-            <div className="inline-block">
+            <div className="inline-block ">
               <LanguageSwitcher />
             </div>
 

@@ -69,7 +69,7 @@ export default function LanguageSwitcher() {
       </button>
 
       <div
-        className="language-switcher-panel rtl:!mr-12 rtl:md:!mr-0 !ml-12 absolute top-[calc(100%+12px)] z-50 min-w-[200px]"
+        className="language-switcher-panel rtl:!-mr-8 rtl:md:!mr-0 !ml-12 absolute top-[calc(100%+12px)] z-50 min-w-[200px]"
         style={{
           opacity: open ? 1 : 0,
           transform: `translateY(${open ? 0 : -8}px)`,
