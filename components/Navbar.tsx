@@ -97,7 +97,7 @@ export default function Navbar() {
             </button>
           </div>
 
-          <div className="pb-20 md:pb-0 md:flex md:flex-col md:justify-center md:h-[calc(100vh-200px)]">
+          <div className="pb-20 !-mt-8 md:pb-0 md:flex md:flex-col md:justify-center md:h-[calc(100vh-200px)]">
             <div className="md:flex md:items-start md:gap-16">
               <div className="mb-8 md:mb-0 md:w-1/2">
                 <h2 
