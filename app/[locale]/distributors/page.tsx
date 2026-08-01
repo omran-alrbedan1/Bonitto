@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { getPageMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
-import { getTranslations } from "next-intl/server";
 import Footer from "@/components/Footer";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale }> }): Promise<Metadata> {
@@ -9,51 +8,70 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: L
   return getPageMetadata({ locale, page: 'distributors', path: '/distributors' });
 }
 
-const distributorPins = [
-  { country: 'Egypt', left: '58%', top: '40%' },
-  { country: 'Libya', left: '54%', top: '40%' },
-  { country: 'United Arab Emirates', left: '65%', top: '40%' },
-  { country: 'Iraq', left: '61%', top: '33%' },
-  { country: 'Romania', left: '55%', top: '25%' },
-  { country: 'Morocco', left: '40%', top: '40%' },
-  { country: 'Lebanon', left: '58%', top: '33%' },
-  { country: 'Kuwait', left: '58%', top: '33%' },
-  { country: 'Lithuania', left: '40%', top: '20%' },
-  { country: 'Armenia', left: '50%', top: '30%' },
-  { country: 'Azerbaijan', left: '51%', top: '30%' },
-];
+const distributorContent: Record<Locale, { title: string  ; countries: string[] }> = {
+  en: {
+    title: 'presence\nworldwide',
+    countries: ['Egypt', 'Libya', 'United Arab Emirates', 'Iraq', 'Romania', 'Morocco', 'Lebanon', 'Kuwait', 'Lithuania', 'Armenia', 'Azerbaijan'],
+  },
+  fr: {
+    title: 'présence\nmondiale',
+    countries: ['Égypte', 'Libye', 'Émirats arabes unis', 'Irak', 'Roumanie', 'Maroc', 'Liban', 'Koweït', 'Lituanie', 'Arménie', 'Azerbaïdjan'],
+  },
+  de: {
+    title: 'weltweite\npräsenz',
+    countries: ['Ägypten', 'Libyen', 'Vereinigte Arabische Emirate', 'Irak', 'Rumänien', 'Marokko', 'Libanon', 'Kuwait', 'Litauen', 'Armenien', 'Aserbaidschan'],
+  },
+  it: {
+    title: 'presenza\nmondiale',
+    countries: ['Egitto', 'Libia', 'Emirati Arabi Uniti', 'Iraq', 'Romania', 'Marocco', 'Libano', 'Kuwait', 'Lituania', 'Armenia', 'Azerbaigian'],
+  },
+  ru: {
+    title: 'присутствие\nпо всему миру',
+    countries: ['Египет', 'Ливия', 'Объединенные Арабские Эмираты', 'Ирак', 'Румыния', 'Марокко', 'Ливан', 'Кувейт', 'Литва', 'Армения', 'Азербайджан'],
+  },
+  tr: {
+    title: 'dünya çapında\nvarlık',
+    countries: ['Mısır', 'Libya', 'Birleşik Arap Emirlikleri', 'Irak', 'Romanya', 'Fas', 'Lübnan', 'Kuveyt', 'Litvanya', 'Ermenistan', 'Azerbaycan'],
+  },
+  ar: {
+    title: 'حضور\nعالمي',
+    countries: ['مصر', 'ليبيا', 'الإمارات العربية المتحدة', 'العراق', 'رومانيا', 'المغرب', 'لبنان', 'الكويت', 'ليتوانيا', 'أرمينيا', 'أذربيجان'],
+  },
+  es: {
+    title: 'presencia\nmundial',
+    countries: ['Egipto', 'Libia', 'Emiratos Árabes Unidos', 'Irak', 'Rumanía', 'Marruecos', 'Líbano', 'Kuwait', 'Lituania', 'Armenia', 'Azerbaiyán'],
+  },
+  he: {
+    title: 'נוכחות\nעולמית',
+    countries: ['מצרים', 'לוב', 'איחוד האמירויות הערביות', 'עיראק', 'רומניה', 'מרוקו', 'לבנון', 'כווית', 'ליטא', 'ארמניה', 'אזרבייג׳ן'],
+  },
+};
 
 export default async function DistributorsPage({ params }: { params: Promise<{ locale: Locale }> }) {
   const { locale } = await params;
-  const t = await getTranslations({ locale, namespace: 'distributors' });
+  const content = distributorContent[locale] ?? distributorContent.en;
 
   return (
     <div id="blocks-wrapper" className="horizontal-scroll">
       <section className="block-wyswyg section-sm distributors-title-panel">
         <div className="container-fluid g-lg-0">
           <div className="wyswyg">
-            <h1>{t('hero.title')}</h1>
+            <h1>
+              {content.title.split('\n').map((line, index) => (
+                <span key={line}>
+                  {index > 0 && <br />}
+                  {line}
+                </span>
+              ))}
+            </h1>
           </div>
         </div>
       </section>
-
-      <section className="block-map">
+      <section className="block-map distributors-map-panel" aria-label="Bonitto distributor presence map">
         <div className="block-map-inner">
           <div className="block-map-svg-wrapper">
-            <img src="/distributors-map.svg" alt={t('map.alt')} />
+            <img src="/distributors-map.svg" alt="World map showing Bonitto distributor presence worldwide" />
           </div>
-          {distributorPins.map((pin) => (
-            <div
-              className="block-map-pin"
-              data-country={pin.country}
-              key={`${pin.country}-${pin.left}-${pin.top}`}
-              style={{ left: pin.left, top: pin.top }}
-            >
-              <div className="block-map-pin-text">
-                <div className="block-map-pin-title">{pin.country}</div>
-              </div>
-            </div>
-          ))}
         </div>
       </section>
 

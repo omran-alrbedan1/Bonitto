@@ -1,15 +1,6 @@
 
 ---
 
-## 11. Expert Insights & Demonstrations (`/en/expert-insights-demonstrations`)
-
-- [ ] Intro section (eyebrow, title, description) renders.
-- [ ] The demo video loads and plays with native controls.
-- [ ] Bullet list renders.
-- [ ] Closing section has title, description and a "Contact us" button that opens the contact page in the same language.
-
----
-
 ## 12. Contact Us (`/en/contact-us`)
 
 > Note: the form currently shows a success message without sending an email to a real inbox. Confirm with the client whether this is acceptable for this milestone.
