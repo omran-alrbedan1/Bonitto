@@ -2234,7 +2234,6 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
   justify-content: center;
   min-height: 40px;
   min-width: 74px;
-  border: 1px solid rgba(255, 255, 255, 0.44);
   background: rgba(255, 255, 255, 0.08);
   color: #fff;
   backdrop-filter: blur(18px);
