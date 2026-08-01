@@ -75,7 +75,7 @@ export default function Navbar() {
         id="primary-navigation"
         className={`primary-menu ${menuOpen ? 'active' : ''}`}
       >
-        <div className="h-full overflow-y-scroll flex flex-col md:flex-row justify-end p-4 md:p-12">
+        <div className="h-full overflow-y-auto flex flex-col justify-start p-4 pt-24 md:flex-row md:justify-end md:p-12">
           <button
             className="hidden md:inline-flex absolute right-5 top-5 md:right-12 md:top-10 z-10 h-11 w-11 items-center justify-center border border-white/60 bg-transparent text-white transition-colors duration-300 hover:bg-white hover:text-[#4AB2A8]"
             type="button"
@@ -113,7 +113,7 @@ export default function Navbar() {
                         {cat.number.padStart(2, '0')}.
                       </span>
                       <Link
-                        //@ts-ignore
+                        // @ts-expect-error Dynamic category routes are generated from localized menu data.
                         href={`/product-category/${cat.number}`}
                         className="text-white no-underline uppercase text-lg md:text-3xl lg:text-4xl font-light hover:italic transition-all duration-500"
                         style={{ width: 'calc(100% - 32px)' }}
