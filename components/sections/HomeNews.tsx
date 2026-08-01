@@ -37,13 +37,13 @@ export function HomeNews() {
   const t = useTranslations('home');
 
   return (
-    <section className="home-section home-news-section w-full grid grid-cols-1 md:grid-cols-[1fr_3fr]">
-      <div className="home-section-copy w-full flex items-center md:px-16 lg:px-20 py-12 md:py-0">
-        <div className="max-w-[600px] w-full">
+    <section className="home-section home-news-section">
+      <div className="home-section-copy">
+        <div className="home-copy-inner home-news-copy">
           <h2 className="mb-4">
             {t('news.title')}
           </h2>
-          <p className="mb-8">
+          <p className="home-body-copy mb-8">
             {t('news.description')}
           </p>
           <Link href="/news-events" className="btn btn-white-outline">
@@ -52,8 +52,8 @@ export function HomeNews() {
         </div>
       </div>
 
-      <div className="home-news-list flex items-center md:px-16 lg:px-20 py-12 md:py-0 overflow-hidden">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full">
+      <div className="home-news-list">
+        <div className="home-news-grid">
           {articles.map((article) => (
             <Link
               key={article.slug}
