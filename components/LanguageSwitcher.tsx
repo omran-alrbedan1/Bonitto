@@ -17,6 +17,7 @@ const localeNames: Record<string, { native: string; short: string; country: stri
 };
 
 const SUPPORTED_LOCALES = ['en', 'fr', 'de', 'it', 'ru', 'tr', 'ar', 'es', 'he'];
+const MENU_LOCALES = ['he', 'en'] as const;
 
 export default function LanguageSwitcher() {
   const locale = useLocale();
@@ -87,7 +88,8 @@ export default function LanguageSwitcher() {
           }}
         >
           <div className="py-1">
-            {Object.entries(localeNames).map(([code, { native, short }]) => {
+            {MENU_LOCALES.map((code) => {
+              const { native } = localeNames[code];
               const isActive = locale === code;
               return (
                 <button
