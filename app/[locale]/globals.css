@@ -379,7 +379,7 @@ h3 {
   .home-hero-video {
     width: 100%;
     height: auto;
-    max-height: 58svh;
+    max-height: none;
     aspect-ratio: 9 / 16;
     object-fit: cover;
   }
@@ -2055,6 +2055,9 @@ html[dir="rtl"] .primary-menu-page-link.active::after {
   display: flex;
   flex-shrink: 0;
   flex: 0 0 auto;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
 }
 @media (min-width: 992px) and (max-height: 840px) {
   .tech-info-wrapper {
@@ -2068,6 +2071,7 @@ html[dir="rtl"] .primary-menu-page-link.active::after {
 }
 .tech-info-wrapper .tech-info-logo-wrapper {
   width: 46px;
+  flex-shrink: 0;
 }
 .tech-info-wrapper .tech-info-logo-wrapper .tech-info-logo {
   height: 35px;
@@ -2076,6 +2080,8 @@ html[dir="rtl"] .primary-menu-page-link.active::after {
 }
 .tech-info-wrapper .tech-info-text-wrapper {
   width: calc(100% - 46px);
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 .tech-info-wrapper .text-info-label {
   text-transform: uppercase;
@@ -2380,7 +2386,7 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
 .home-hero-video {
   background: #0a0a0a;
   height: 100%;
-  min-height: 100%;
+  min-height: 0;
   width: 100%;
 }
 
@@ -2575,7 +2581,7 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
   .home-hero-video {
     aspect-ratio: 9 / 16;
     height: auto;
-    max-height: 62svh;
+    max-height: none;
     object-fit: cover;
     width: 100%;
   }
