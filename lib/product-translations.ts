@@ -47,6 +47,9 @@ export type ProductTranslation = {
   description?: string;
   technicalInfo?: Array<{ label: string; value: string }>;
   effects?: string[];
+  recommendedIndications?: string[];
+  composition?: string;
+  howToUse?: string[];
   mainTarget?: string;
   related?: Array<{ slug: string; title: string; category: string }>;
   productImageAlt?: string;
@@ -78,7 +81,10 @@ export function getLocalizedProduct(id: string, locale: Locale): BonittoProduct 
       value: tr.technicalInfo?.[i]?.value ?? item.value,
     })),
     effects: tr.effects && tr.effects.length ? tr.effects : base.effects,
-    mainTarget: tr.mainTarget || base.mainTarget,
+    recommendedIndications: tr.recommendedIndications ?? base.recommendedIndications,
+    composition: tr.composition ?? base.composition,
+    howToUse: tr.howToUse ?? base.howToUse,
+    mainTarget: base.mainTarget ? (tr.mainTarget ?? base.mainTarget) : '',
     related: base.related.map((r) => {
       const rt = relatedBySlug.get(r.slug);
       return rt ? { ...r, title: rt.title, category: rt.category } : r;
@@ -93,6 +99,7 @@ export function getLocalizedProduct(id: string, locale: Locale): BonittoProduct 
 }
 
 export function getLocalizedProducts(categorySlug: string, locale: Locale): BonittoProduct[] {
+  categorySlug = normalizeCategorySlug(categorySlug);
   return bonittoProducts
     .filter((product) => (product.categorySlug ?? '03') === categorySlug)
     .map((product) => getLocalizedProduct(product.id, locale))
@@ -100,6 +107,7 @@ export function getLocalizedProducts(categorySlug: string, locale: Locale): Boni
 }
 
 export function getLocalizedCategoryDescription(slug: string, locale: Locale) {
+  slug = normalizeCategorySlug(slug);
   const base = categoryDescriptionsEn[slug as keyof typeof categoryDescriptionsEn];
   if (!base) return undefined;
   if (locale === 'en') return base;
@@ -111,4 +119,17 @@ export function getLocalizedCategoryDescription(slug: string, locale: Locale) {
     title: tr.title ?? base.title,
     body: tr.body ?? base.body,
   };
+}
+
+function normalizeCategorySlug(slug: string): string {
+  const aliases: Record<string, string> = {
+    'hyaluronic-acid-fillers-ha-technology': '01',
+    'mdr-approved-hyaluronic-acid-and-amino-acid-fillers': '02',
+    'professional-cosmetic-in-vials': '03',
+    'professional-cosmetic-in-syringes': '04',
+    'topicals': '05',
+    'poly-l-lactic-acid-plla-line': '05',
+    'skincare': '06',
+  };
+  return aliases[slug] ?? slug;
 }

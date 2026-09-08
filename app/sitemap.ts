@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
-import { products } from '@/i18n/products';
+import { bonittoProducts } from '@/lib/bonitto-products';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://bonitto-rose.vercel.app';
@@ -22,7 +22,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const productCategories = ['01', '02', '03', '04', '05', '06'];
   const categoryPaths = productCategories.map(slug => `/product-category/${slug}`);
   
-  const productPaths = products.map(product => `/product/${product.slug}`);
+  const productPaths = bonittoProducts.map(product => `/product/${product.slug}`);
 
   const allPaths = [...staticPaths, ...categoryPaths, ...productPaths];
 

@@ -1,8 +1,28 @@
 import productData from '@/data/bonitto-products.json';
 
-export type BonittoProduct = (typeof productData.products)[number];
+export type BonittoProduct = {
+  id: string;
+  slug: string;
+  sourceUrl: string;
+  title: string;
+  category: string;
+  categorySlug: string;
+  description: string;
+  cardImage: string;
+  productImage: { desktop: string; mobile: string; alt: string } | null;
+  campaignImage: { desktop: string; mobile: string; alt: string } | null;
+  technicalInfo: Array<{ icon: string; label: string; value: string }>;
+  effects: string[];
+  mainTarget: string;
+  related: Array<{ slug: string; title: string; category: string; image: string }>;
+  recommendedIndications?: string[];
+  certificationImage?: string;
+  certificationAlt?: string;
+  composition?: string;
+  howToUse?: string[];
+};
 
-export const bonittoProducts = productData.products;
+export const bonittoProducts: BonittoProduct[] = productData.products;
 
 export function getBonittoProduct(id: string) {
   return bonittoProducts.find((product) => product.id === id);

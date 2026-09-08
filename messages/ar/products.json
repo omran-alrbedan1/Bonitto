@@ -41,7 +41,9 @@
     "home": "الرئيسية",
     "discoverMore": "اكتشف المزيد",
     "noProducts": "لا توجد منتجات في هذه الفئة.",
-    "treatmentAlt": "علاج {title}"
+    "treatmentAlt": "علاج {title}",
+    "composition": "التركيب",
+    "howToUse": "طريقة الاستخدام"
   },
   "categoriesPrefix": "الفئة"
 }

@@ -8,8 +8,8 @@ export const PRODUCT_CATEGORIES = [
 ] as const;
 
 export const SOCIAL_LINKS = [
-  { href: 'https://facebook.com/bonittoaesthetic', label: 'Facebook' },
+  { href: 'https://www.facebook.com/profile.php?id=61591763210416', label: 'Facebook' },
   { href: 'https://linkedin.com/company/bonittoaesthetic', label: 'LinkedIn' },
-  { href: 'https://instagram.com/bonittoaesthetic', label: 'Instagram' },
+  { href: 'https://www.instagram.com/bonitto_israel', label: 'Instagram' },
   { href: 'https://youtube.com/@bonittoaesthetic', label: 'YouTube' },
 ] as const;

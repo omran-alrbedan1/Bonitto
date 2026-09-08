@@ -16,9 +16,9 @@ const organization = {
     areaServed: 'Worldwide',
   },
   sameAs: [
-    'https://facebook.com/bonittoaesthetic',
+    'https://www.facebook.com/profile.php?id=61591763210416',
     'https://linkedin.com/company/bonittoaesthetic',
-    'https://instagram.com/bonittoaesthetic',
+    'https://www.instagram.com/bonitto_israel',
     'https://youtube.com/@bonittoaesthetic',
   ],
 };

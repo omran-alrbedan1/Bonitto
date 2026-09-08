@@ -22,8 +22,8 @@
       "description": "Precision-delivered cosmetic treatments for professional use."
     },
     "plla": {
-      "name": "Poly-L-Lactic Acid (PLLA) Line",
-      "description": "Biostimulatory treatments for long-lasting collagen stimulation."
+      "name": "Topicals",
+      "description": "Topical formulations with PLLA and CaHA for visibly smoother, more refined skin."
     },
     "skincare": {
       "name": "Skincare",
@@ -32,7 +32,7 @@
   },
   "detail": {
     "specifications": "Specifications",
-    "indications": "Indications",
+    "indications": "Recommended indications",
     "effects": "Effects",
     "target": "Main Target",
     "relatedProducts": "Related Products",
@@ -41,7 +41,9 @@
     "home": "Home",
     "discoverMore": "Discover more",
     "noProducts": "No products found in this category.",
-    "treatmentAlt": "{title} treatment"
+    "treatmentAlt": "{title} treatment",
+    "composition": "Composition",
+    "howToUse": "How to use"
   },
   "categoriesPrefix": "Category"
 }

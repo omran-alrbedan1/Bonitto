@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { getPageMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
 import { getTranslations } from "next-intl/server";
-import Link from "next/link";
+import { Link } from "@/i18n/routing";
 import Footer from "@/components/Footer";
 import { getLocalizedCategoryDescription, getLocalizedProducts } from "@/lib/product-translations";
 
@@ -47,7 +47,7 @@ export default async function ProductCategoryPage({ params }: { params: Promise<
               <div className="product-list">
                 {products.map((product) => (
                   <div className="product-item" key={product.id}>
-                    <Link href={`/product/${product.slug}`}>
+                    <Link href={{ pathname: '/product/[slug]', params: { slug: product.slug } }}>
                       <span className="product-img-overlay">
                         <span className="product-img-discover">{discoverMore}</span>
                       </span>

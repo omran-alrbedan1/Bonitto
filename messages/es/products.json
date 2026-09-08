@@ -41,7 +41,9 @@
     "home": "Inicio",
     "discoverMore": "Descubre más",
     "noProducts": "No se encontraron productos en esta categoría.",
-    "treatmentAlt": "Tratamiento {title}"
+    "treatmentAlt": "Tratamiento {title}",
+    "composition": "Composición",
+    "howToUse": "Modo de uso"
   },
   "categoriesPrefix": "Categoría"
 }

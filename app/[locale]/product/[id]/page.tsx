@@ -64,6 +64,15 @@ export default async function ProductDetailPage({ params }: { params: ProductPag
                 </div>
               ))}
             </div>
+            {product.certificationImage && (
+              <img
+                src={product.certificationImage}
+                alt={product.certificationAlt || 'CE'}
+                width={459}
+                height={179}
+                className="mt-6 h-auto w-[92px]"
+              />
+            )}
           </div>
         </section>
 
@@ -84,11 +93,31 @@ export default async function ProductDetailPage({ params }: { params: ProductPag
           </section>
         )}
 
-        {(product.effects.length > 0 || product.mainTarget) && (
+        {(!!product.recommendedIndications?.length || product.effects.length > 0 || product.mainTarget || product.composition || !!product.howToUse?.length) && (
           <section className="section-sm block-wyswyg product-detail-results">
             <div className="container-fluid g-lg-0">
               <div className="col-12 col-lg-8">
                 <div className="wyswyg">
+                  {!!product.recommendedIndications?.length && (
+                    <>
+                      <h2>{t('detail.indications')}</h2>
+                      <ul>
+                        {product.recommendedIndications.map((indication) => <li key={indication}>{indication}</li>)}
+                      </ul>
+                    </>
+                  )}
+                  {product.composition && (
+                    <div className="product-detail-target">
+                      <h3>{t('detail.composition')}</h3>
+                      <p>{product.composition}</p>
+                    </div>
+                  )}
+                  {!!product.howToUse?.length && (
+                    <>
+                      <h2>{t('detail.howToUse')}</h2>
+                      {product.howToUse.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+                    </>
+                  )}
                   {product.effects.length > 0 && (
                     <>
                       <h2>{t('detail.effects')}</h2>
@@ -133,7 +162,7 @@ export default async function ProductDetailPage({ params }: { params: ProductPag
               <div className="product-list rows-1">
                 {product.related.map((related) => (
                   <div className="product-item" key={related.slug}>
-                    <Link href={`/product/${related.slug}`}>
+                    <Link href={{ pathname: '/product/[slug]', params: { slug: related.slug } }}>
                       <span className="product-img-overlay">
                         <span className="product-img-discover">{discoverMore}</span>
                       </span>

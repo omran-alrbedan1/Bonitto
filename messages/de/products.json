@@ -41,7 +41,9 @@
     "home": "Startseite",
     "discoverMore": "Mehr erfahren",
     "noProducts": "Keine Produkte in dieser Kategorie gefunden.",
-    "treatmentAlt": "{title} Behandlung"
+    "treatmentAlt": "{title} Behandlung",
+    "composition": "Zusammensetzung",
+    "howToUse": "Anwendung"
   },
   "categoriesPrefix": "Kategorie"
 }

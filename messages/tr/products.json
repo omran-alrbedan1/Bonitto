@@ -41,7 +41,9 @@
     "home": "Ana Sayfa",
     "discoverMore": "Daha fazlası",
     "noProducts": "Bu kategoride ürün bulunamadı.",
-    "treatmentAlt": "{title} uygulaması"
+    "treatmentAlt": "{title} uygulaması",
+    "composition": "Bileşim",
+    "howToUse": "Kullanım şekli"
   },
   "categoriesPrefix": "Kategori"
 }

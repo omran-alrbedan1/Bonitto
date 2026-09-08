@@ -41,7 +41,9 @@
     "home": "Главная",
     "discoverMore": "Узнать больше",
     "noProducts": "В этой категории товары не найдены.",
-    "treatmentAlt": "Процедура {title}"
+    "treatmentAlt": "Процедура {title}",
+    "composition": "Состав",
+    "howToUse": "Способ применения"
   },
   "categoriesPrefix": "Категория"
 }

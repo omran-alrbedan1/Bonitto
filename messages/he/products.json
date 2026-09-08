@@ -22,8 +22,8 @@
       "description": "טיפולים קוסמטיים במתן מדויק לשימוש מקצועי."
     },
     "plla": {
-      "name": "קו פולילקטיק אسيد (PLLA)",
-      "description": "טיפולים ביוסטימולטוריים לגירוי קולגן לטווח ארוך."
+      "name": "תכשירים לשימוש חיצוני",
+      "description": "תכשירים לשימוש חיצוני עם PLLA ו-CaHA למראה עור חלק ומעודן יותר."
     },
     "skincare": {
       "name": "טיפוח עור",
@@ -32,7 +32,7 @@
   },
   "detail": {
     "specifications": "מפרט",
-    "indications": "אינדיקציות",
+    "indications": "התוויות מומלצות",
     "effects": "השפעות",
     "target": "מטרה עיקרית",
     "relatedProducts": "מוצרים קשורים",
@@ -41,7 +41,9 @@
     "home": "דף הבית",
     "discoverMore": "גלה עוד",
     "noProducts": "לא נמצאו מוצרים בקטגוריה זו.",
-    "treatmentAlt": "טיפול {title}"
+    "treatmentAlt": "טיפול {title}",
+    "composition": "הרכב",
+    "howToUse": "אופן השימוש"
   },
   "categoriesPrefix": "קטגוריה"
 }

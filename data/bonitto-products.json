@@ -1,14 +1,15 @@
 {
-  "fetchedAt": "2026-07-31T07:47:14.757Z",
+  "fetchedAt": "2026-09-08T07:52:56.726Z",
   "products": [
     {
       "id": "n-01-bonitto-pro-age-fine",
       "slug": "n-01-bonitto-pro-age-fine",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/n-01-bonitto-pro-age-fine/",
+      "categorySlug": "01",
+      "cardImage": "/images/products/FILLERS-01-3.webp",
       "title": "01 PRO AGE FINE",
       "category": "Fillers",
       "description": "BONITTO® 01 PRO AGE FINE is an ultra-plastic gel of cross-linked hyaluronic acid designed for treating shallow wrinkles and moderate skin defects. It is specifically intended for correcting areas such as the glabella, wrinkles around the mouth and eyes, neck, hands, and tear troughs. The gel provides natural volumetric correction by enhancing tissue volume, achieving a refined and rejuvenated appearance.",
-      "cardImage": "/images/products/FILLERS-01-2-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/FILLERS-01-2.webp",
         "mobile": "/images/products/FILLERS-01-2-745x1024.webp",
@@ -64,16 +65,29 @@
           "image": "/images/products/FILLERS-SB-05-745x1024.webp"
         }
       ],
-      "categorySlug": "01"
+      "recommendedIndications": [
+        "Smoothing fine wrinkles and shallow lines",
+        "Rejuvenating the eye area",
+        "Levelling glabella wrinkles",
+        "Laugh line",
+        "Barcodes",
+        "Periocular wrinkles",
+        "Scar sequelae (acne, chicken pox)"
+      ],
+      "composition": "",
+      "howToUse": [],
+      "certificationImage": "/images/products/CE0373_White.png",
+      "certificationAlt": "CE 0373"
     },
     {
       "id": "n-02-bonitto-lips-plum",
       "slug": "n-02-bonitto-lips-plum",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/n-02-bonitto-lips-plum/",
+      "categorySlug": "01",
+      "cardImage": "/images/products/FILLERS-02-3.webp",
       "title": "02 LIPS PLUMP",
       "category": "Fillers",
       "description": "BONITTO® 02 LIPS PLUMP is an ultra-smooth gel of cross-linked hyaluronic acid designed to increase the volume of soft tissues and correct medium to deep wrinkles. It is specifically formulated for contouring and volumizing the lips, as well as addressing soft tissue defects around the mouth, puppet lines, and drooping corners.",
-      "cardImage": "/images/products/FILLERS-02-2-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/FILLERS-02-2.webp",
         "mobile": "/images/products/FILLERS-02-2-745x1024.webp",
@@ -129,16 +143,27 @@
           "image": "/images/products/FILLERS-SB-05-745x1024.webp"
         }
       ],
-      "categorySlug": "01"
+      "recommendedIndications": [
+        "Lip contouring and volume enhancement",
+        "Lifting the corners of the mouth",
+        "Correcting medium and deep wrinkles",
+        "Filling nasolabial folds",
+        "Smoothing puppet lines"
+      ],
+      "composition": "",
+      "howToUse": [],
+      "certificationImage": "/images/products/CE0373_White.png",
+      "certificationAlt": "CE 0373"
     },
     {
       "id": "n-03-bonitto-age-solution",
       "slug": "n-03-bonitto-age-solution",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/n-03-bonitto-age-solution/",
+      "categorySlug": "01",
+      "cardImage": "/images/products/FILLERS-03.webp",
       "title": "03 AGE SOLUTION",
       "category": "Fillers",
       "description": "BONITTO® 03 AGE SOLUTION is an ultra-smooth gel of cross-linked hyaluronic acid designed for restoring or increasing the volume of soft tissues and correcting deep wrinkles and skin grooves. It is also formulated for contouring the facial shape in areas such as bridge of the nose, chin, nasolabial folds, and puppet lines. The gel provides visible volumetric correction by enhancing tissue volume, achieving a more defined and rejuvenated appearance.",
-      "cardImage": "/images/products/FILLERS-03-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/FILLERS-03-1.webp",
         "mobile": "/images/products/FILLERS-03-1-745x1024.webp",
@@ -194,16 +219,29 @@
           "image": "/images/products/FILLERS-SB-05-745x1024.webp"
         }
       ],
-      "categorySlug": "01"
+      "recommendedIndications": [
+        "Correction of deep wrinkles and nasolabial folds",
+        "Puppet lines",
+        "Correction of the nose shape",
+        "Correction of deep wrinkles",
+        "Temples",
+        "Lip volume-enhancing",
+        "Deep perioral wrinkles"
+      ],
+      "composition": "",
+      "howToUse": [],
+      "certificationImage": "/images/products/CE0373_White.png",
+      "certificationAlt": "CE 0373"
     },
     {
       "id": "n-04-bonitto-face-sculpt",
       "slug": "n-04-bonitto-face-sculpt",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/n-04-bonitto-face-sculpt/",
+      "categorySlug": "01",
+      "cardImage": "/images/products/FILLERS-04.webp",
       "title": "04 FACE SCULPT",
       "category": "Fillers",
       "description": "BONITTO® 04 FACE SCULPT is a powerful, highly concentrated cross-linked hyaluronic acid gel specifically formulated to increase soft tissue volume and facial contours. It is designed to sculpt and define facial features, including the jaw line, chin and cheek areas.",
-      "cardImage": "/images/products/FILLERS-04-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/FILLERS-04-1.webp",
         "mobile": "/images/products/FILLERS-04-1-745x1024.webp",
@@ -259,16 +297,27 @@
           "image": "/images/products/FILLERS-SB-05-745x1024.webp"
         }
       ],
-      "categorySlug": "01"
+      "recommendedIndications": [
+        "Increased cheek volume",
+        "Facial modeling and contouring",
+        "Contouring the jaw line",
+        "Chin volumetry",
+        "Cheekbone region"
+      ],
+      "composition": "",
+      "howToUse": [],
+      "certificationImage": "/images/products/CE0373_White.png",
+      "certificationAlt": "CE 0373"
     },
     {
       "id": "n-05-bonitto-volume",
       "slug": "n-05-bonitto-volume",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/n-05-bonitto-volume/",
+      "categorySlug": "01",
+      "cardImage": "/images/products/FILLERS-SB-05.webp",
       "title": "05 VOLUME",
       "category": "Fillers",
       "description": "BONITTO® 05 VOLUME is a gel of cross-linked, highly concentrated hyaluronic acid designed for restoring or increasing the volume of soft tissues and contouring the body surface. It is ideal for addressing extensive atrophies, irregularities resulting from liposuction treatments, and volumetric body treatments. This product is particularly effective for contouring areas such as the buttocks, calves, and hands. It provides visible volumetric correction through a significant increase in tissue volume, enhancing the treated area to the desired shape. The visibility and durability of the effect depend on the depth of application and the original condition of the skin.",
-      "cardImage": "/images/products/FILLERS-SB-05-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/FILLERS-SB-05-1.webp",
         "mobile": "/images/products/FILLERS-SB-05-1-745x1024.webp",
@@ -319,16 +368,26 @@
           "image": "/images/products/FILLERS-04-745x1024.webp"
         }
       ],
-      "categorySlug": "01"
+      "recommendedIndications": [
+        "Giving volume to flabby skin",
+        "Body shaping and contouring",
+        "Buttocks enlargement",
+        "Calf shape correction"
+      ],
+      "composition": "",
+      "howToUse": [],
+      "certificationImage": "/images/products/CE0373_White.png",
+      "certificationAlt": "CE 0373"
     },
     {
       "id": "01-lush-bloom",
       "slug": "01-lush-bloom",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/01-lush-bloom/",
+      "categorySlug": "02",
+      "cardImage": "/images/products/lush-bloom-1.webp",
       "title": "01 LUSH BLOOM",
       "category": "Cross-linked Hyaluronic Acid",
       "description": "BONITTO® 01 LUSH BLOOM 22 mg/ml is a biodegradable crosslinked hyaluronic acid hydrogel resorbed over time, intended to be injected in the lip submucosa or superficial dermis to restore lost volume of the soft tissue. BDDE-crosslinked hyaluronic acid hydrogel 22 mg/ml when injected in the lip submucosa or superficial dermis, adds temporarily volume to thinned soft tissues of the face.",
-      "cardImage": "/images/products/lush-bloom-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/lush-bloom.webp",
         "mobile": "/images/products/lush-bloom-745x1024.webp",
@@ -355,16 +414,23 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "02"
+      "recommendedIndications": [
+        "For enhancing lip volume and contours"
+      ],
+      "composition": "Sodium Hyaluronate with Glycine and L-Proline, Phosphate buffer solution",
+      "howToUse": [],
+      "certificationImage": "/images/products/CE0476_White.png",
+      "certificationAlt": "CE 0476"
     },
     {
       "id": "02-lover-touch",
       "slug": "02-lover-touch",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/02-lover-touch/",
+      "categorySlug": "02",
+      "cardImage": "/images/products/lover-touch-1-1.webp",
       "title": "02 LOVER TOUCH",
       "category": "Cross-linked Hyaluronic Acid",
       "description": "BONITTO® 02 LOVER TOUCH 24 mg/ml is a biodegradable crosslinked hyaluronic acid hydrogel resorbed over time, intended to be injected in the mid to deep dermis to restore lost volume of the soft tissue. BDDE-crosslinked hyaluronic acid hydrogel 24 mg/ml when injected in the mid to deep dermis, adds temporarily volume to thinned soft tissues of the face.",
-      "cardImage": "/images/products/lover-touch-2-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/lover-touch-2.webp",
         "mobile": "/images/products/lover-touch-2-745x1024.webp",
@@ -391,16 +457,23 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "02"
+      "recommendedIndications": [
+        "For smoothing fine to moderate lines and wrinkles"
+      ],
+      "composition": "Sodium Hyaluronate with Glycine and L-Proline, Phosphate buffer solution",
+      "howToUse": [],
+      "certificationImage": "/images/products/CE0476_White.png",
+      "certificationAlt": "CE 0476"
     },
     {
       "id": "03-lift-up",
       "slug": "03-lift-up",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/03-lift-up/",
+      "categorySlug": "02",
+      "cardImage": "/images/products/lift-up-1-1.webp",
       "title": "03 LIFT UP",
       "category": "Cross-linked Hyaluronic Acid",
       "description": "BONITTO® 03 LIFT UP 26 mg/ml is a biodegradable crosslinked hyaluronic acid hydrogel resorbed over time, intended to be injected in deep dermis or subcutaneous tissue to restore lost volume of the soft tissue. BDDE-crosslinked hyaluronic acid hydrogel 26 mg/ml when injected in deep dermis or subcutaneous tissue, adds temporarily volume to thinned soft tissues of the face.",
-      "cardImage": "/images/products/lift-up-2-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/lift-up-2.webp",
         "mobile": "/images/products/lift-up-2-745x1024.webp",
@@ -427,16 +500,23 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "02"
+      "recommendedIndications": [
+        "For replenishing deep wrinkles and folds"
+      ],
+      "composition": "Sodium Hyaluronate with Glycine and L-Proline, Phosphate buffer solution",
+      "howToUse": [],
+      "certificationImage": "/images/products/CE0476_White.png",
+      "certificationAlt": "CE 0476"
     },
     {
       "id": "04-level-max",
       "slug": "04-level-max",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/04-level-max/",
+      "categorySlug": "02",
+      "cardImage": "/images/products/level-max-1-1.webp",
       "title": "04 LEVEL MAX",
       "category": "Cross-linked Hyaluronic Acid",
       "description": "BONITTO® 04 LEVEL MAX 28 mg/ml is a biodegradable crosslinked hyaluronic acid hydrogel resorbed over time, intended to be injected in the subcutaneous tissue to restore lost volume of the soft tissue. BDDE-crosslinked hyaluronic acid hydrogel 28 mg/ml when injected in the subcutaneous tissue, adds temporarily volume to thinned soft tissues of the face.",
-      "cardImage": "/images/products/level-max-2-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/level-max-2.webp",
         "mobile": "/images/products/level-max-2-745x1024.webp",
@@ -463,16 +543,23 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "02"
+      "recommendedIndications": [
+        "For resting facial volume and contours"
+      ],
+      "composition": "Sodium Hyaluronate with Glycine and L-Proline, Phosphate buffer solution",
+      "howToUse": [],
+      "certificationImage": "/images/products/CE0476_White.png",
+      "certificationAlt": "CE 0476"
     },
     {
       "id": "age",
       "slug": "age",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/age/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/AGE.webp",
       "title": "AGE+",
       "category": "Sterile vials",
       "description": "AGE+ is a sterile cosmetic solution designed to rejuvenate and revitalize the skin by reducing signs of aging. It works to minimize fine lines and wrinkles, enhance skin smoothness, and prevent further aging through its unique blend of active ingredients. By providing essential nutrients and deep hydration, it promotes overall skin health, ensuring a youthful and radiant appearance.",
-      "cardImage": "/images/products/AGE-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/AGE-1.webp",
         "mobile": "/images/products/AGE-1-745x1024.webp",
@@ -519,59 +606,19 @@
           "image": "/images/products/EXOGENIX-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
-    },
-    {
-      "id": "btx",
-      "slug": "btx",
-      "sourceUrl": "https://www.bonittoaesthetic.com/product/btx/",
-      "title": "BTX+",
-      "category": "Sterile vials",
-      "description": "BTX+ is a sterile cosmetic solution designed to help prevent and reduce visible signs of aging, specifically targeting mimic wrinkles. DMAE is well-known for its skin-lightening effects. It works by stabilizing cell membranes and improving muscle tone, which leads to a firmer and more lifted appearance of the skin.",
-      "cardImage": "/images/products/BTX-PLUS-1-745x1024.webp",
-      "productImage": {
-        "desktop": "/images/products/BTX-PLUS-1.webp",
-        "mobile": "/images/products/BTX-PLUS-1-745x1024.webp",
-        "alt": "Image of a Bonitto BTX+ product set against a white background. The set includes a small vial and a box, both in a gradient of blue and green shades, with the brand name \"Bonitto\" and product label \"BTX+\" visible."
-      },
-      "campaignImage": null,
-      "technicalInfo": [
-        {
-          "icon": "/images/products/active-ingredients.svg",
-          "label": "Active ingredients",
-          "value": "Acetyl Hexapeptide-8 (Argireline), Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate"
-        },
-        {
-          "icon": "/images/products/volume-1.svg",
-          "label": "Volume",
-          "value": "Vials 5 x 5 ml"
-        }
-      ],
-      "effects": [
-        "Reduces wrinkles",
-        "Softens fine lines",
-        "Improves skin texture",
-        "Enhances youthful appearance"
-      ],
-      "mainTarget": "Lifting",
-      "related": [
-        {
-          "slug": "btx-2-0",
-          "title": "BTX 2.0",
-          "category": "Sterile vials",
-          "image": "/images/products/BTX-20-745x1024.webp"
-        }
-      ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "btx-2-0",
       "slug": "btx-2-0",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/btx-2-0/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/BTX-20.webp",
       "title": "BTX 2.0",
       "category": "Sterile vials",
       "description": "BTX 2.0 is a sterile cosmetic solution indicated for the reduction of signs of aging, including the prevention of wrinkles and other aging-related skin concerns. This sterile cosmetic solution contains a powerful ageless complex offering a comprehensive approach to reducing wrinkles, enhancing collagen production, improving skin hydration, resulting in smoother, firmer, and more youthful-looking skin.",
-      "cardImage": "/images/products/BTX-20-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/BTX-20-1.webp",
         "mobile": "/images/products/BTX-20-1-745x1024.webp",
@@ -607,16 +654,65 @@
           "image": "/images/products/BTX-PLUS-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
+    },
+    {
+      "id": "btx",
+      "slug": "btx",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/btx/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/BTX-PLUS.webp",
+      "title": "BTX+",
+      "category": "Sterile vials",
+      "description": "BTX+ is a sterile cosmetic solution designed to help prevent and reduce visible signs of aging, specifically targeting mimic wrinkles. DMAE is well-known for its skin-lightening effects. It works by stabilizing cell membranes and improving muscle tone, which leads to a firmer and more lifted appearance of the skin.",
+      "productImage": {
+        "desktop": "/images/products/BTX-PLUS-1.webp",
+        "mobile": "/images/products/BTX-PLUS-1-745x1024.webp",
+        "alt": "Image of a Bonitto BTX+ product set against a white background. The set includes a small vial and a box, both in a gradient of blue and green shades, with the brand name \"Bonitto\" and product label \"BTX+\" visible."
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Active ingredients",
+          "value": "Acetyl Hexapeptide-8 (Argireline), Dimethylaminoethanol Tartrate (DMAE), Sodium Hyaluronate"
+        },
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "Vials 5 x 5 ml"
+        }
+      ],
+      "effects": [
+        "Reduces wrinkles",
+        "Softens fine lines",
+        "Improves skin texture",
+        "Enhances youthful appearance"
+      ],
+      "mainTarget": "Lifting",
+      "related": [
+        {
+          "slug": "btx-2-0",
+          "title": "BTX 2.0",
+          "category": "Sterile vials",
+          "image": "/images/products/BTX-20-745x1024.webp"
+        }
+      ],
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "collagen-ultra",
       "slug": "collagen-ultra",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/collagen-ultra/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/COLLAGEN-ULTRA.webp",
       "title": "COLLAGEN ULTRA",
       "category": "Sterile vials",
       "description": "COLLAGEN ULTRA is a sterile cosmetic solution designed for skin regeneration, effectively targeting signs of aging and damage. Collagen is a key structural protein that maintains skin’s firmness and elasticity. As we age, natural collagen production declines, leading to wrinkles, sagging, and loss of skin tone. Collagen in this formula stimulate natural collagen synthesis, restoring skin’s elasticity and smoothness.",
-      "cardImage": "/images/products/COLLAGEN-ULTRA-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/COLLAGEN-ULTRA-1.webp",
         "mobile": "/images/products/COLLAGEN-ULTRA-1-745x1024.webp",
@@ -661,16 +757,19 @@
           "image": "/images/products/EXOGENIX-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "cor-control",
       "slug": "cor-control",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/cor-control/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/COR-CONTROL.webp",
       "title": "COR CONTROL",
       "category": "Sterile vials",
       "description": "COR CONTROL is a sterile cosmetic solution, designed to calm irritated and redness-prone skin. Cordyceps Sinensis Extract offers a range of benefits including antioxidant protection. Anti-inflammatory effects, skin rejuvenation, hydration, anti-aging, and improved skin tone. Ideal for sensitive skin, it promotes a balanced, calm, and resilient complexion with regular use.",
-      "cardImage": "/images/products/COR-CONTROL-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/COR-CONTROL-1.webp",
         "mobile": "/images/products/COR-CONTROL-1-745x1024.webp",
@@ -711,16 +810,19 @@
           "image": "/images/products/MST-REDOX-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "dna-booster",
       "slug": "dna-booster",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/dna-booster/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/DNA-BOOSTER.webp",
       "title": "DNA BOOSTER",
       "category": "Sterile vials",
       "description": "DNA BOOSTER is a sterile cosmetic solution, indicated for the revitalization of the skin and improvement of skin density. It is intended to support the skin’s natural revitalization processes, leading to a healthier and more youthful appearance. Hydrolyzed RNA provides essential nucleotides and nucleic acids that support cellular repair and regeneration. It helps improve cell function and simulate skin rejuvenation.",
-      "cardImage": "/images/products/DNA-BOOSTER-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/DNA-BOOSTER-1.webp",
         "mobile": "/images/products/DNA-BOOSTER-1-745x1024.webp",
@@ -768,16 +870,19 @@
           "image": "/images/products/MEVITA-15HA-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "exogenix",
       "slug": "exogenix",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/exogenix/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/EXOGENIX.webp",
       "title": "EXOGENIX",
       "category": "Sterile vials",
       "description": "EXOGENIX is a sterile cosmetic solution that enhances skin regeneration, improves elasticity, and reduces fine lines. Exosomes are emerging as a powerful ingredient in skin care products due to their regenerative and restorative properties.",
-      "cardImage": "/images/products/EXOGENIX-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/EXOGENIX-1.webp",
         "mobile": "/images/products/EXOGENIX-1-745x1024.webp",
@@ -824,16 +929,19 @@
           "image": "/images/products/COLLAGEN-ULTRA-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "ey",
       "slug": "ey",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/ey/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/EY-PLUS.webp",
       "title": "EY+",
       "category": "Sterile vials",
       "description": "EY+ is a sterile cosmetic solution specifically formulated to revitalize and address signs of aging around the eyes. This formula brightens the under-eye area, reducing dark circles and hyperpigmentation and keeps the skin around the eyes smooth and plump.",
-      "cardImage": "/images/products/EY-PLUS-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/EY-PLUS-1.webp",
         "mobile": "/images/products/EY-PLUS-1-745x1024.webp",
@@ -871,16 +979,19 @@
           "image": "/images/products/RADIANCE-PRO-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "gold-stem",
       "slug": "gold-stem",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/gold-stem/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/GOLD-STEM.webp",
       "title": "GOLD STEM",
       "category": "Sterile vials",
       "description": "GOLD STEM is a sterile cosmetic solution, intended to support and enhance skin regeneration. Also known as a botos-like peptide, Acetyl Octapeptide-3 (often referred to as SNAP-8) works by inhibiting the release of neurotransmitters that cause muscle contraction, leading to a reduction in expression lines and wrinkles.",
-      "cardImage": "/images/products/GOLD-STEM-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/GOLD-STEM-1.webp",
         "mobile": "/images/products/GOLD-STEM-1-745x1024.webp",
@@ -922,16 +1033,19 @@
           "image": "/images/products/MST-REDOX-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "ha-booster-aa15",
       "slug": "ha-booster-aa15",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/ha-booster-aa15/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/HA-BOOSTER.webp",
       "title": "HA+ BOOSTER & AA15",
       "category": "Sterile vials",
       "description": "HA+ BOOSTER & AA15 is a sterile cosmetic solution to improve skin firmness and elasticity. Amino acids included in this formulation promote younger, hydrated, and firmer skin, enhancing tissue quality, and preventing the signs of aging.",
-      "cardImage": "/images/products/HA-BOOSTER-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/HA-BOOSTER-1.webp",
         "mobile": "/images/products/HA-BOOSTER-1-745x1024.webp",
@@ -980,16 +1094,70 @@
           "image": "/images/products/MEVITA-15HA-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
+    },
+    {
+      "id": "hair-ultra",
+      "slug": "hair-ultra",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/hair-ultra/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/HAIR-ULTRA.webp",
+      "title": "HAIR ULTRA",
+      "category": "Sterile vials",
+      "description": "HAIR ULTRA is a sterile cosmetic solution designed for the revitalization of hair and scalp. Its formula contains a blend of Peptides, Hyaluronic Acid, and natural extracts that work together to nourish and strengthen hair, promoting healthier growth and improved scalp condition.",
+      "productImage": {
+        "desktop": "/images/products/HAIR-ULTRA-1.webp",
+        "mobile": "/images/products/HAIR-ULTRA-1-745x1024.webp",
+        "alt": "A turquoise box labeled \"Bonitto Hair Ultra\" stands upright, with a small vial beside it. The packaging features a gradient design, transitioning from light to dark."
+      },
+      "campaignImage": {
+        "desktop": "/images/products/12HairUltra.webp",
+        "mobile": "/images/products/12HairUltra-710x1024.webp",
+        "alt": "A woman with long, blonde hair, accentuated by light green streaks, poses with a serene expression, her eyes closed and a slight smile. The side profile highlights her smooth skin and soft, wavy hair against a neutral background."
+      },
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Active ingredients",
+          "value": "Sodium Hyaluronate, Lecithin, Sh-Oligopeptide-10, Sh-Oligopeptide-2, Sh-Polypeptide-1, Sh-Polypeptide-9, Sh-Polypeptide-11, Sodium Hyaluronate, Octapeptide-2, Sh-Oligopeptide-4, Arginine, Glycerin"
+        },
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "Vials 5 x 5 ml"
+        }
+      ],
+      "effects": [
+        "Revitalization",
+        "Strengthening",
+        "Hydration",
+        "Improved scalp health",
+        "Reduced hair loss"
+      ],
+      "mainTarget": "Hair",
+      "related": [
+        {
+          "slug": "hairscalp",
+          "title": "HAIRSCALP",
+          "category": "Sterile vials",
+          "image": "/images/products/HAIRSCALP-745x1024.webp"
+        }
+      ],
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "hairscalp",
       "slug": "hairscalp",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/hairscalp/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/HAIRSCALP.webp",
       "title": "HAIRSCALP",
       "category": "Sterile vials",
-      "description": "HAIRSCALP is a sterile cosmetic solution that supports the revitalization of hair and scalp through the beneficial properties of its ingredients. Exosomes, which contain growth factors and signaling molecules that stimulate hair follicle activity and regeneration. They help activate dormant hair follicle and promote new hair growth .",
-      "cardImage": "/images/products/HAIRSCALP-1-745x1024.webp",
+      "description": "HAIRSCALP is a sterile cosmetic solution that supports the revitalization of hair and scalp through the beneficial properties of its ingredients. Exosomes, which contain growth factors and signaling molecules that stimulate hair follicle activity and regeneration. They help activate dormant hair follicle and promote new hair growth.",
       "productImage": {
         "desktop": "/images/products/HAIRSCALP-1.webp",
         "mobile": "/images/products/HAIRSCALP-1-745x1024.webp",
@@ -1029,64 +1197,19 @@
           "image": "/images/products/HAIR-ULTRA-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
-    },
-    {
-      "id": "hair-ultra",
-      "slug": "hair-ultra",
-      "sourceUrl": "https://www.bonittoaesthetic.com/product/hair-ultra/",
-      "title": "HAIR ULTRA",
-      "category": "Sterile vials",
-      "description": "HAIR ULTRA is a sterile cosmetic solution designed for the revitalization of hair and scalp. Its formula contains a blend of Peptides, Hyaluronic Acid, and natural extracts that work together to nourish and strengthen hair, promoting healthier growth and improved scalp condition.",
-      "cardImage": "/images/products/HAIR-ULTRA-1-745x1024.webp",
-      "productImage": {
-        "desktop": "/images/products/HAIR-ULTRA-1.webp",
-        "mobile": "/images/products/HAIR-ULTRA-1-745x1024.webp",
-        "alt": "A turquoise box labeled \"Bonitto Hair Ultra\" stands upright, with a small vial beside it. The packaging features a gradient design, transitioning from light to dark."
-      },
-      "campaignImage": {
-        "desktop": "/images/products/12HairUltra.webp",
-        "mobile": "/images/products/12HairUltra-710x1024.webp",
-        "alt": "A woman with long, blonde hair, accentuated by light green streaks, poses with a serene expression, her eyes closed and a slight smile. The side profile highlights her smooth skin and soft, wavy hair against a neutral background."
-      },
-      "technicalInfo": [
-        {
-          "icon": "/images/products/active-ingredients.svg",
-          "label": "Active ingredients",
-          "value": "Sodium Hyaluronate, Lecithin, Sh-Oligopeptide-10, Sh-Oligopeptide-2, Sh-Polypeptide-1, Sh-Polypeptide-9, Sh-Polypeptide-11, Sodium Hyaluronate, Octapeptide-2, Sh-Oligopeptide-4, Arginine, Glycerin"
-        },
-        {
-          "icon": "/images/products/volume-1.svg",
-          "label": "Volume",
-          "value": "Vials 5 x 5 ml"
-        }
-      ],
-      "effects": [
-        "Revitalization",
-        "Strengthening",
-        "Hydration",
-        "Improved scalp health",
-        "Reduced hair loss"
-      ],
-      "mainTarget": "Hair",
-      "related": [
-        {
-          "slug": "hairscalp",
-          "title": "HAIRSCALP",
-          "category": "Sterile vials",
-          "image": "/images/products/HAIRSCALP-745x1024.webp"
-        }
-      ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "hyavital-hl",
       "slug": "hyavital-hl",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/hyavital-hl/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/HYAVITAL-HL.webp",
       "title": "HYAVITAL H+L",
       "category": "Sterile vials",
       "description": "HYAVITAL H+L is a sterile cosmetic solution designed for deep skin hydration. It contains a blend of Sodium Hyaluronate and Amino Acids which play a crucial role in cosmetic solution products, as they help improve skin quality, promote cellular regeneration, and enhance the synthesis of collagen and elastin.",
-      "cardImage": "/images/products/HYAVITAL-HL-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/HYAVITAL-HL-1.webp",
         "mobile": "/images/products/HYAVITAL-HL-1-745x1024.webp",
@@ -1133,16 +1256,19 @@
           "image": "/images/products/MEVITA-15HA-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "lipo",
       "slug": "lipo",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/lipo/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/LIPO-PLUS.webp",
       "title": "LIPO+",
       "category": "Sterile vials",
       "description": "LIPO+ is a sterile cosmetic solution designed to enhance body contours and firmness. Carnitine, Caffeine, and Sodium Deoxycholate work synergistically to break down and metallize fat, helping to reduce localized fat deposits and improve body contours.",
-      "cardImage": "/images/products/LIPO-PLUS-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/LIPO-PLUS-1.webp",
         "mobile": "/images/products/LIPO-PLUS-1-745x1024.webp",
@@ -1179,16 +1305,19 @@
           "image": "/images/products/PRO-CELLS-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "lips-on",
       "slug": "lips-on",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/lips-on/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/LIPS-ON.webp",
       "title": "LIPS ON",
       "category": "Sterile vials",
       "description": "LIPS ON is a sterile cosmetic solution designed to rejuvenate and enhance the lips. It smooths the texture, improves moisturization, and boosts softness while enhancing color and volume. This solution provides natural hydration and is intended for topical application to achieve a fuller, more youthful lip appearance.",
-      "cardImage": "/images/products/LIPS-ON-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/LIPS-ON-1.webp",
         "mobile": "/images/products/LIPS-ON-1-745x1024.webp",
@@ -1221,16 +1350,19 @@
       ],
       "mainTarget": "Lips",
       "related": [],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "mevita-15-ha",
       "slug": "mevita-15-ha",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/mevita-15-ha/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/MEVITA-15HA.webp",
       "title": "MEVITA 15 + HA",
       "category": "Sterile vials",
       "description": "MEVITA 15+HA is a sterile cosmetic solution formulated for intensive skin hydration and nourishment. It contains a complex of vitamins, which are designed to provide comprehensive skin rejuvenation, addressing multiple concerns like aging, hydration, pigmentation, and skin texture, while offering strong antioxidant protection and improved skin vitality.",
-      "cardImage": "/images/products/MEVITA-15HA-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/MEVITA-15HA-1.webp",
         "mobile": "/images/products/MEVITA-15HA-1-745x1024.webp",
@@ -1277,16 +1409,19 @@
           "image": "/images/products/HYAVITAL-HL-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "mst-redox",
       "slug": "mst-redox",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/mst-redox/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/MST-REDOX.webp",
       "title": "MST REDOX",
       "category": "Sterile vials",
       "description": "MST REDOX is a sterile cosmetic solution, designed to support skin regeneration by offering intense hydration and antioxidant protection. Meristems are stem cells derived from plant sources that support cellular regeneration. They accelerate skin repair and healing processes, making them effective for treating damage, and post-inflammatory hyperpigmentation.",
-      "cardImage": "/images/products/MST-REDOX-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/MST-REDOX-1.webp",
         "mobile": "/images/products/MST-REDOX-1-745x1024.webp",
@@ -1330,16 +1465,73 @@
           "image": "/images/products/COR-CONTROL-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
+    },
+    {
+      "id": "ox-ultra",
+      "slug": "ox-ultra",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/ox-ultra/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/OX-ULTRA.webp",
+      "title": "OX ULTRA",
+      "category": "Sterile vials",
+      "description": "OX ULTRA is a sterile cosmetic solution designed to promote skin regeneration and enhance natural skin tone. It contains a blend of active ingredients, including Sodium Hyaluronate and Acetyl Decapeptide-3, which help improve skin texture and hydration.",
+      "productImage": {
+        "desktop": "/images/products/OX-ULTRA-1.webp",
+        "mobile": "/images/products/OX-ULTRA-1-745x1024.webp",
+        "alt": "Product image showing a Bonitto OX Ultra package alongside a small vial. The package is white and teal with the text \"A Story of Elegance\" beneath the brand name. The vial is clear with a matching label and a dark cap."
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Active ingredients",
+          "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Acetyl Decapeptide-3, Hydroxyproline"
+        },
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "Vials 5 x 5 ml"
+        }
+      ],
+      "effects": [
+        "Improves skin hydration",
+        "Enhances skin regeneration",
+        "Evens skin tone",
+        "Supports collagen production",
+        "Reduces signs of aging",
+        "Revitalizes skin"
+      ],
+      "mainTarget": "Revitalizer",
+      "related": [
+        {
+          "slug": "ox",
+          "title": "OX+",
+          "category": "Sterile vials",
+          "image": "/images/products/OX-PLUS-745x1024.webp"
+        },
+        {
+          "slug": "power-oxy",
+          "title": "POWER OXY",
+          "category": "Sterile vials",
+          "image": "/images/products/POWER-OXY-745x1024.webp"
+        }
+      ],
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "ox",
       "slug": "ox",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/ox/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/OX-PLUS.webp",
       "title": "OX+",
       "category": "Sterile vials",
       "description": "OX+ is a sterile cosmetic solution designed for skin hydration and revitalization, suitable for use on the face, neck, cleavage, hands, belly, stretch marks. It contains a complex of active ingredients that enhance cellular energy production, revitalizing skin cells and improving overall skin vitality.",
-      "cardImage": "/images/products/OX-PLUS-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/OX-PLUS-1.webp",
         "mobile": "/images/products/OX-PLUS-1-745x1024.webp",
@@ -1385,67 +1577,19 @@
           "image": "/images/products/POWER-OXY-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
-    },
-    {
-      "id": "ox-ultra",
-      "slug": "ox-ultra",
-      "sourceUrl": "https://www.bonittoaesthetic.com/product/ox-ultra/",
-      "title": "OX ULTRA",
-      "category": "Sterile vials",
-      "description": "OX ULTRA is a sterile cosmetic solution designed to promote skin regeneration and enhance natural skin tone. It contains a blend of active ingredients, including Sodium Hyaluronate and Acetyl Decapeptide-3, which help improve skin texture and hydration.",
-      "cardImage": "/images/products/OX-ULTRA-1-745x1024.webp",
-      "productImage": {
-        "desktop": "/images/products/OX-ULTRA-1.webp",
-        "mobile": "/images/products/OX-ULTRA-1-745x1024.webp",
-        "alt": "Product image showing a Bonitto OX Ultra package alongside a small vial. The package is white and teal with the text \"A Story of Elegance\" beneath the brand name. The vial is clear with a matching label and a dark cap."
-      },
-      "campaignImage": null,
-      "technicalInfo": [
-        {
-          "icon": "/images/products/active-ingredients.svg",
-          "label": "Active ingredients",
-          "value": "Sodium Hyaluronate, Succinic Acid, Glycine, Proline, Acetyl Decapeptide-3, Hydroxyproline"
-        },
-        {
-          "icon": "/images/products/volume-1.svg",
-          "label": "Volume",
-          "value": "Vials 5 x 5 ml"
-        }
-      ],
-      "effects": [
-        "Improves skin hydration",
-        "Enhances skin regeneration",
-        "Evens skin tone",
-        "Supports collagen production",
-        "Reduces signs of aging",
-        "Revitalizes skin"
-      ],
-      "mainTarget": "Revitalizer",
-      "related": [
-        {
-          "slug": "ox",
-          "title": "OX+",
-          "category": "Sterile vials",
-          "image": "/images/products/OX-PLUS-745x1024.webp"
-        },
-        {
-          "slug": "power-oxy",
-          "title": "POWER OXY",
-          "category": "Sterile vials",
-          "image": "/images/products/POWER-OXY-745x1024.webp"
-        }
-      ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "peel-4-0",
       "slug": "peel-4-0",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/peel-4-0/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/PEEL-4.0.webp",
       "title": "PEEL 4.0",
       "category": "Sterile vials",
       "description": "PEEL 4.0 is a sterile cosmetic solution designed for exfoliating and revitalizing the skin. It is suitable for use on the face, neck, cleavage, and hands. This solution aims to improve skin texture, enhance luminosity, and address signs of aging and imperfections.",
-      "cardImage": "/images/products/PEEL-4.0-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/PEEL-4.0-1.webp",
         "mobile": "/images/products/PEEL-4.0-1-745x1024.webp",
@@ -1490,16 +1634,19 @@
           "image": "/images/products/WHITENING-PLUS-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "peel-exo-capture-35",
       "slug": "peel-exo-capture-35",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/peel-exo-capture-35/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/PEEL-EXO-CAPTURE-35-2.webp",
       "title": "PEEL EXO CAPTURE 35",
       "category": "Sterile vials",
       "description": "PEEL EXO CAPTURE 35 is a sterile cosmetic solution formulated to enhance skin appearance by improving skin texture and evening out skin tone. Thanks to actives like Sodium Trichloroacetate, AHA and BHA this formulation helps fading pigmentation, removes dead skin cells and unclogs pores.",
-      "cardImage": "/images/products/PEEL-EXO-CAPTURE-35-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/PEEL-EXO-CAPTURE-35-1.webp",
         "mobile": "/images/products/PEEL-EXO-CAPTURE-35-1-745x1024.webp",
@@ -1518,19 +1665,27 @@
           "value": "Vials 5x10ml"
         }
       ],
-      "effects": [],
-      "mainTarget": "",
+      "effects": [
+        "Brighter complexion",
+        "Smoother skin",
+        "Improved skin tone",
+        "Stimulates collagenosis"
+      ],
+      "mainTarget": "Whitening",
       "related": [],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "power-oxy",
       "slug": "power-oxy",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/power-oxy/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/POWER-OXY.webp",
       "title": "POWER OXY",
       "category": "Sterile vials",
       "description": "POWER OXY is a sterile cosmetic solution formulated to enhance skin health by supporting skin repair and protecting against free radicals. Thanks to actives like Retinyl Plamitate, Cysteine HCL and Gluthatione, this formulation reduces the appearance of fine lines and wrinkles over time.",
-      "cardImage": "/images/products/POWER-OXY-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/POWER-OXY-1.webp",
         "mobile": "/images/products/POWER-OXY-1-745x1024.webp",
@@ -1571,16 +1726,19 @@
           "image": "/images/products/OX-PLUS-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "pro-age",
       "slug": "pro-age",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/pro-age/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/PRO-AGE.webp",
       "title": "PRO AGE",
       "category": "Sterile vials",
       "description": "PRO AGE is a sterile cosmetic solution and a powerful cocktail of vitamin and antioxidants that stimulates tissue renewal, helping to maintain a smoother and more resilient complexion.",
-      "cardImage": "/images/products/PRO-AGE-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/PRO-AGE-1.webp",
         "mobile": "/images/products/PRO-AGE-1-745x1024.webp",
@@ -1625,16 +1783,19 @@
           "image": "/images/products/EXOGENIX-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "pro-cells",
       "slug": "pro-cells",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/pro-cells/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/PRO-CELLS.webp",
       "title": "PRO CELLS",
       "category": "Sterile vials",
       "description": "PRO CELLS is a sterile cosmetic solution designed to reduce the appearance of cellulite and improve body contour. It activates the breakdown of fat tissue and prevents the accumulation of new fat deposits, helping to enhance skin firmness and smoothness. By promoting detoxification, it contributes to a more even skin texture and overall improved skin health.",
-      "cardImage": "/images/products/PRO-CELLS-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/PRO-CELLS-1.webp",
         "mobile": "/images/products/PRO-CELLS-1-745x1024.webp",
@@ -1653,7 +1814,13 @@
           "value": "Vials 5 x 10 ml"
         }
       ],
-      "effects": [],
+      "effects": [
+        "Reduction of cellulite",
+        "Improved skin firmness",
+        "Body contouring",
+        "Smoother skin texture",
+        "Detoxification support"
+      ],
       "mainTarget": "Cellulite",
       "related": [
         {
@@ -1663,16 +1830,19 @@
           "image": "/images/products/LIPO-PLUS-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "radiance-pro",
       "slug": "radiance-pro",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/radiance-pro/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/RADIANCE-PRO.webp",
       "title": "RADIANCE PRO",
       "category": "Sterile vials",
       "description": "RADIANCE PRO is as a sterile cosmetic solution designed for moisturizing and repairing the skin on the back of the hands. It boosts hydration and stimulates restorative functions to maintain skin health in this area.",
-      "cardImage": "/images/products/RADIANCE-PRO-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/RADIANCE-PRO-1.webp",
         "mobile": "/images/products/RADIANCE-PRO-1-745x1024.webp",
@@ -1707,16 +1877,19 @@
           "image": "/images/products/EY-PLUS-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "shine-power",
       "slug": "shine-power",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/shine-power/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/SHINE-POWER.webp",
       "title": "SHINE POWER",
       "category": "Sterile vials",
       "description": "SHINE POWER is a sterile cosmetic solution, formulated for individuals seeking a natural approach to skin lightening. potent blend of ingredients that work together to reduce pigmentation, even out skin tone, and enhance overall skin radiance. The solution is designed to target and diminish the appearance of dark spots and discoloration, promoting a brighter, more uniform complexion.",
-      "cardImage": "/images/products/SHINE-POWER-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/SHINE-POWER-1.webp",
         "mobile": "/images/products/SHINE-POWER-1-745x1024.webp",
@@ -1757,16 +1930,19 @@
           "image": "/images/products/WHITENING-PLUS-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "whitening",
       "slug": "whitening",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/whitening/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/WHITENING-PLUS.webp",
       "title": "WHITENING+",
       "category": "Sterile vials",
       "description": "WHITENING+ is a sterile cosmetic solution designed to address skin discoloration and enhance overall skin radiance. Tranexamic Acid is effective in treating hyperpigmentation and melasma by inhibiting the activity of tyrosinase, an enzyme involved in melanin production. It helps lighten dark spots and improve overall skin tone.",
-      "cardImage": "/images/products/WHITENING-PLUS-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/WHITENING-PLUS-1.webp",
         "mobile": "/images/products/WHITENING-PLUS-1-745x1024.webp",
@@ -1806,16 +1982,19 @@
           "image": "/images/products/PEEL-4.0-745x1024.webp"
         }
       ],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "xnad",
       "slug": "xnad",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/xnad/",
+      "categorySlug": "03",
+      "cardImage": "/images/products/XNAD1.webp",
       "title": "XNAD+",
       "category": "Sterile vials",
       "description": "XNAD+ is a sterile cosmetic solution designed to revitalize the skin by promoting renewal and improving elasticity. Enriched with NAD+, amino acids, and peptide complexes, it helps firm the skin and gradually reduce the appearance of fine lines for a smoother, more youthful look.",
-      "cardImage": "/images/products/XNAD-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/XNAD.webp",
         "mobile": "/images/products/XNAD-745x1024.webp",
@@ -1834,19 +2013,28 @@
           "value": "5x5ml"
         }
       ],
-      "effects": [],
-      "mainTarget": "",
+      "effects": [
+        "Enhances skin renewal",
+        "Improves elasticity and Collagenosis",
+        "Improves skin hydration and Moisture",
+        "Reduces inflammation",
+        "Increases tone"
+      ],
+      "mainTarget": "Anti-age",
       "related": [],
-      "categorySlug": "03"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "drinxha",
       "slug": "drinxha",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/drinxha/",
+      "categorySlug": "04",
+      "cardImage": "/images/products/DRINX-HA.webp",
       "title": "DrinxHa",
       "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
       "description": "The kit contains 1 syringe of Hyaluronic Acid and 1 syringe of Tranexamic Acid, Alpha-Arbutin and Glutathione. The combination offers a dual benefit, hyaluronic acid provides deep hydration and plumping, while Alpha-Arbutin, Glutathione, and Tranexamic acid deliver powerful brightening effects, pigmentation reduction, and antioxidant protection Ingredients like Alpha-Arbutin, Tranexamic Acid, and Glutathione help reduce hyperpigmentation. Alpha-Arbutin inhibits melanin production and is 10 times more effective than Beta-Arbutin. Tranexamic Acid reduces dark spots by blocking UV-induced pigmentation and tyrosinase activity. Glutathione protects skin from sun damage, dehydration, and aging by neutralizing free radicals and promoting collagen production.",
-      "cardImage": "/images/products/DRINX-HA-1-796x1024.webp",
       "productImage": {
         "desktop": "/images/products/DRINX-HA-1.webp",
         "mobile": "/images/products/DRINX-HA-1-796x1024.webp",
@@ -1882,16 +2070,21 @@
           "image": "/images/products/VITAL-HA-796x1024.webp"
         }
       ],
-      "categorySlug": "04"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Open the two syringes and connect them. Instantly mix them and apply on the skin with the applicator"
+      ]
     },
     {
       "id": "giha",
       "slug": "giha",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/giha/",
+      "categorySlug": "04",
+      "cardImage": "/images/products/GIHA.webp",
       "title": "GiHa",
       "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
       "description": "The kit includes one syringe of hyaluronic acid and one syringe containing vitamin C, vitamin PP, and PDRN. These ingredients deliver powerful illumination and lightening effects with antioxidant benefits for the skin. Sonicated hyaluronic acid, with its low, medium, and high molecular weights, provides multiple benefits, including stimulation and increased elasticity. Vitamin C offers antioxidant and anti-aging properties, helping to brighten and even out the complexion. Vitamin PP is a potent vitamin that strengthens the skin barrier, aids in hydration, and helps normalize the skin. PDRN supports tissue repair and regeneration. This product can be applied immediately after treatment to achieve a strong illuminating effect.",
-      "cardImage": "/images/products/GIHA-1-796x1024.webp",
       "productImage": {
         "desktop": "/images/products/GIHA-1.webp",
         "mobile": "/images/products/GIHA-1-796x1024.webp",
@@ -1927,16 +2120,21 @@
           "image": "/images/products/DRINX-HA-796x1024.webp"
         }
       ],
-      "categorySlug": "04"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Open the two syringes and connect them. Instantly mix them and apply on the skin with the applicator"
+      ]
     },
     {
       "id": "hadefined",
       "slug": "hadefined",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/hadefined/",
+      "categorySlug": "04",
+      "cardImage": "/images/products/HADEFINED.webp",
       "title": "HaDefined",
       "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
       "description": "The kit includes one syringe of hyaluronic acid and another containing peptides, B vitamins, gamma-aminobutyric acid (GABA), and PDRN. These ingredients provide strong anti-aging benefits while supporting skin repair and hydration. The use of sonicated hyaluronic acid, with low, medium, and high molecular weights, delivers multiple effects, such as deep hydration and enhanced elasticity. B vitamins are essential for healthy, resilient skin, promoting moisture retention and the repair of damaged tissue. GABA helps reduce the appearance of wrinkles and smooth fine lines, while PDRN supports tissue regeneration. This product can be applied after aesthetic treatments to assist in skin recovery or used independently for skin rejuvenation.",
-      "cardImage": "/images/products/HADEFINED-1-796x1024.webp",
       "productImage": {
         "desktop": "/images/products/HADEFINED-1.webp",
         "mobile": "/images/products/HADEFINED-1-796x1024.webp",
@@ -1972,16 +2170,21 @@
           "image": "/images/products/VITAL-HA-796x1024.webp"
         }
       ],
-      "categorySlug": "04"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Open the two syringes and connect them. Instantly mix them and apply on the skin with the applicator"
+      ]
     },
     {
       "id": "vitalha",
       "slug": "vitalha",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/vitalha/",
+      "categorySlug": "04",
+      "cardImage": "/images/products/VITAL-HA.webp",
       "title": "VitalHa",
       "category": "1 HA Syringe of 1,5 ml - 1 Concentrate Syringe of 0,5 ml",
       "description": "The kit includes one syringe of hyaluronic acid and one syringe containing perfluorodecalin, panthenol, bisabolol, and glycogen. These components offer recovery and hydration benefits, aiding in the repair of post-procedure redness while providing soothing and calming effects. Sonicated hyaluronic acid delivers a smoothing and revitalizing action. Perfluorodecalin is notable for its capacity to dissolve up to 49% of its volume in oxygen, which boosts oxygen levels and supports faster wound healing. Bisabolol helps hydrate the skin and alleviate burning and itching, while panthenol provides significant moisture and soothes redness. This product is suitable for use immediately after treatment to address skin redness and deliver intense hydration.",
-      "cardImage": "/images/products/VITAL-HA-1-796x1024.webp",
       "productImage": {
         "desktop": "/images/products/VITAL-HA-1.webp",
         "mobile": "/images/products/VITAL-HA-1-796x1024.webp",
@@ -2017,16 +2220,62 @@
           "image": "/images/products/GIHA-796x1024.webp"
         }
       ],
-      "categorySlug": "04"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Open the two syringes and connect them. Instantly mix them and apply on the skin with the applicator"
+      ]
+    },
+    {
+      "id": "bonitto-celeste-aminocaha",
+      "slug": "bonitto-celeste-aminocaha",
+      "sourceUrl": "https://www.bonittoaesthetic.com/product/bonitto-celeste-aminocaha/",
+      "categorySlug": "05",
+      "cardImage": "/images/products/Celeste-Amino-CaHA.webp",
+      "title": "Bonitto Celestè AminoCaHA",
+      "category": "Sterile vials",
+      "description": "Balanced Hydration. Refined Radiance. Hydrates the skin, helps maintain skin hydration, helps improve the skin’s feeling of elasticity and comfort. A new generation of multi-component cosmetic formulation. Calcium Hydroxylapatite (CaHa) serum that improving skin firmness and definition. Hyaluronic Acid (HA) serum helps retain moisture for hydrated, smoother looking skin. Glycine + Proline + Lysine+ Leucine – serum designed to healthy-looking appearance.",
+      "productImage": {
+        "desktop": "/images/products/Celeste-Amino-CaHA.webp",
+        "mobile": "/images/products/Celeste-Amino-CaHA-796x1024.webp",
+        "alt": "A teal Bonitto Celeste Amino CAHA box with a small glass vial in front, labeled for face and body use, containing 5 ml. Box text highlights 3 vials of 5 ml each. Clean, minimalist product presentation."
+      },
+      "campaignImage": null,
+      "technicalInfo": [
+        {
+          "icon": "/images/products/active-ingredients.svg",
+          "label": "Active ingredients",
+          "value": "Sodium Hyaluronate, Glycine, Proline, Lysine HCl, Leucine, Calcium Hydroxyapatite (CaHA)"
+        },
+        {
+          "icon": "/images/products/volume-1.svg",
+          "label": "Volume",
+          "value": "3x5ml"
+        }
+      ],
+      "effects": [
+        "Hydration",
+        "Smoothness",
+        "Softness",
+        "Suppleness",
+        "Refined texture",
+        "Radiance"
+      ],
+      "mainTarget": "",
+      "related": [],
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "bonitto-celeste-forte-pl",
       "slug": "bonitto-celeste-forte-pl",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/bonitto-celeste-forte-pl/",
+      "categorySlug": "05",
+      "cardImage": "/images/products/Celeste-Forte-PL.webp",
       "title": "Bonitto Celestè Forte PL",
       "category": "Sterile vials",
-      "description": "Bonitto Celestè Forte PL formula combines PLLA , CaHa, Collagen type III, and Dual HA to deliver a powerful multi-layered collagen-boosting effect. PLLA works as a biostimulator that gradually activates fibroblasts, encouraging long-term production of collagen for natural skin tightening and volume restoration. CaHa provides immediate structural support while also stimulating collagen and improving skin firmness and definition. Collagen type III supports early-stage skin repair. It is one of the first collagens produced during tissue healing, so it plays a role in skin regeneration and renewal. Dual HA delivers instant hydration and subtle plumping, improving skin smoothness and elasticity from the first treatment.",
-      "cardImage": "/images/products/Celeste-Forte-PL-796x1024.webp",
+      "description": "Bonitto Celestè Forte PL serum that has Advanced Skin-Rejuvenating Complex for a Smooth, Radiant Appearance.",
       "productImage": {
         "desktop": "/images/products/Celeste-Forte-PL.webp",
         "mobile": "/images/products/Celeste-Forte-PL-796x1024.webp",
@@ -2051,18 +2300,21 @@
         "Elasticity refines",
         "Firmness stabilizes"
       ],
-      "mainTarget": "Collagen stimulation",
+      "mainTarget": "",
       "related": [],
-      "categorySlug": "05"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "bonitto-celeste-pl",
       "slug": "bonitto-celeste-pl",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/bonitto-celeste-pl/",
+      "categorySlug": "05",
+      "cardImage": "/images/products/Celeste-PL.webp",
       "title": "Bonitto Celestè PL",
       "category": "Sterile vials",
-      "description": "Bonitto Celestè PL is a ready-to-use liquid formulation combining Hyaluronic Acid and Polylactic Acid. It is designed to deeply hydrate the skin, restore lost volume, and stimulate cellular regeneration by activating fibroblasts. The formula delivers an immediate volumizing effect while helping to improve overall skin quality. This dual-action solution effectively addresses common skin concerns such as wrinkles and volume loss. In addition to smoothing and plumping, it supports and enhances the skin’s natural regenerative processes, promoting renewed cell activity and longer-term rejuvenation.",
-      "cardImage": "/images/products/Celeste-PL-796x1024.webp",
+      "description": "Bonitto Celestè PL serum that provides advanced hydration & renewal complex for smooth, glowing skin.",
       "productImage": {
         "desktop": "/images/products/Celeste-PL.webp",
         "mobile": "/images/products/Celeste-PL-796x1024.webp",
@@ -2088,18 +2340,21 @@
         "Elegant precision stability",
         "Balance in formulation creates balance in appearance"
       ],
-      "mainTarget": "Collagen stimulation",
+      "mainTarget": "",
       "related": [],
-      "categorySlug": "05"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "bonitto-celeste-ultra-pn",
       "slug": "bonitto-celeste-ultra-pn",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/bonitto-celeste-ultra-pn/",
+      "categorySlug": "05",
+      "cardImage": "/images/products/Celeste-Ultra-PN.webp",
       "title": "Bonitto Celestè Ultra PN",
       "category": "Sterile vials",
-      "description": "Bonitto Celestè Ultra PN formula combines PLLA , CaHa, Collagen type III, Arginine, Hexapeptide-40, Sh-Polypeptide-76, and Dual HA to deliver a powerful multi-layered collagen-boosting effect. PLLA works as a biostimulator that gradually activates fibroblasts, encouraging long-term production of collagen for natural skin tightening and volume restoration. CaHa provides immediate structural support while also stimulating collagen and improving skin firmness and definition. Arginine helps improve skin circulation, boost collagen production, and support repair, resulting in firmer, healthier, and more radiant skin. Hexapeptide-40 helps boost collagen, improve skin texture, and support regeneration for smoother, firmer, and more youthful-looking skin. sh-Polypeptide-76 supports skin regeneration, boosts collagen, and improves texture for firmer, smoother, and more radiant skin. Collagen type III supports early-stage skin repair. It is one of the first collagens produced during tissue healing, so it plays a role in skin regeneration and renewal. Dual HA delivers instant hydration and subtle plumping, improving skin smoothness and elasticity from the first treatment.",
-      "cardImage": "/images/products/Celeste-Ultra-PN-796x1024.webp",
+      "description": "Bonitto Celestè Ultra PN serum that combines PLLA , CaHa, Collagen type III, Arginine, Hexapeptide-40, Sh-Polypeptide-76, and Dual HA – 6D Dimensional Skin Revitalization Platform Multi-dimensional approach to visible skin refinement and architectural enhancement.",
       "productImage": {
         "desktop": "/images/products/Celeste-Ultra-PN.webp",
         "mobile": "/images/products/Celeste-Ultra-PN-796x1024.webp",
@@ -2119,23 +2374,25 @@
         }
       ],
       "effects": [
-        "Deep collagen stimulation",
         "Long-lasting anti-aging results",
         "Enhanced hydration and glow",
         "Improved firmness and lifting"
       ],
-      "mainTarget": "Collagen stimulation",
+      "mainTarget": "",
       "related": [],
-      "categorySlug": "05"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": []
     },
     {
       "id": "babyskin",
       "slug": "babyskin",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/babyskin/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/baby-skin.webp",
       "title": "BabySkin",
       "category": "Micellar Milk Cleanser",
       "description": "This gentle yet effective cleanser thoroughly removes impurities, excess oils, and makeup without stripping the skin’s essential moisture barrier. Unlike traditional cleansers that can cause dryness and irritation, this formula cleanses deeply while preserving the skin’s natural hydration, preventing that tight, dry feeling after use. It is ideal for all skin types, including sensitive skin, as it helps balance moisture levels for a healthy, hydrated complexion. Infused with nourishing ingredients, this cleanser supports long-term skin health by protecting the skin’s natural oils and barrier. Regular use ensures smooth, refreshed skin that feels comfortable and well-hydrated, free from dryness or irritation. It is an essential step in your routine, keeping your skin clean, nourished, and protected from environmental stressors.",
-      "cardImage": "/images/products/Baby-Skin-2025-756x1024.webp",
       "productImage": {
         "desktop": "/images/products/Baby-Skin-2025.webp",
         "mobile": "/images/products/Baby-Skin-2025-756x1024.webp",
@@ -2161,16 +2418,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Massage a small amount over the face, rinse with water or remove with cotton pads."
+      ]
     },
     {
       "id": "balancecontrol",
       "slug": "balancecontrol",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/balancecontrol/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/balance-control-1.webp",
       "title": "BalanceControl",
       "category": "Brightening Serum",
       "description": "This advanced formula regulates sebum production, helping to balance oily and dry skin. It addresses imbalances that can cause acne, clogged pores, and dryness by reducing shine and preventing excess oil, especially in breakout-prone areas. At the same time, it maintains the necessary moisture balance to avoid irritation and dryness, making it ideal for combination or oily skin. In addition to normalizing sebum levels, this formula protects the skin’s natural barrier, keeping it resilient against environmental stressors. With regular use, it promotes a clearer, smoother, and more even complexion without tightness or dryness, offering a gentle yet effective solution for healthier, balanced skin.",
-      "cardImage": "/images/products/BALANCE-CONTROL-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/BALANCE-CONTROL.webp",
         "mobile": "/images/products/BALANCE-CONTROL-745x1024.webp",
@@ -2192,16 +2454,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply a few drops of the serum on the skin and massage thoroughly, Follow with moisturizer"
+      ]
     },
     {
       "id": "bloomingmind",
       "slug": "bloomingmind",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/bloomingmind/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/blooming-mind.webp",
       "title": "BloomingMind",
       "category": "Revitalizing Glow Cream",
       "description": "This hydrating face cream, enriched with PDRN, patented hyaluronic acid, glycogen, ceramides, and gamma tocopherol, leaves the skin feeling moisturized and firm. The sonicated hyaluronic acid provides deep hydration and improves elasticity, while PDRN aids in tissue regeneration. Glycogen visibly improves and restores skin texture and color issues while smoothing the skin. It enhances skin feel by softening the surface and providing immediate and prolonged hydration. Ceramides offer hydration, diminish the appearance of wrinkles and fine lines, and enhance skin texture. Gamma tocopherol, a unique form of vitamin E, provides antioxidant benefits.",
-      "cardImage": "/images/products/BLOOMING-MIND-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/BLOOMING-MIND-1.webp",
         "mobile": "/images/products/BLOOMING-MIND-1-745x1024.webp",
@@ -2242,16 +2509,21 @@
           "image": "/images/products/light-net-745x1024.webp"
         }
       ],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Spread a small amount of the product on the skin and massage thoroughly. Apply morning and evening."
+      ]
     },
     {
       "id": "c-glow-serum",
       "slug": "c-glow-serum",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/c-glow-serum/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/c-glow.webp",
       "title": "C-Glow Serum",
       "category": "Rejuvenating Serum",
       "description": "This serum contains Vitamin C in the form of 3-ethyl ascorbic acid, a stable and gentle variant that provides powerful antioxidant protection. It neutralizes free radicals from UV radiation, pollution, and stress, brightens dark spots, and reduces hyperpigmentation. Additionally, it stimulates collagen production, improving skin elasticity and texture. The serum also offers photoprotection and aids in repairing damaged cells, contributing to a youthful, radiant glow. Its stable formula makes it suitable for sensitive skin, addressing the common instability and irritation issues associated with L-ascorbic acid.",
-      "cardImage": "/images/products/C-GLOW-2025-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/C-GLOW-2025.webp",
         "mobile": "/images/products/C-GLOW-2025-745x1024.webp",
@@ -2273,16 +2545,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply a few drops of the serum on the skin and massage thoroughly, Follow with moisturizer"
+      ]
     },
     {
       "id": "focusy",
       "slug": "focusy",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/focusy/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/focus-y.webp",
       "title": "FocusY",
       "category": "Eye Contour Cream",
       "description": "This eye contour treatment cream contains PDRN, patented hyaluronic acid, Vitamin K2, peptides, and an Escin complex, targeting wrinkles, dark circles, and bags. Vitamin K2 supports a smoother, youthful appearance, provides antioxidant benefits, and helps reduce under-eye darkness. Escin revitalizes and regenerates the skin, while PDRN aids in tissue repair. The patented sonicated hyaluronic acid, with low, medium, and high molecular weights, delivers multiple benefits, including deep hydration, improved elasticity, and a plumping, smoothing effect that works from the outside for a filler-like result.",
-      "cardImage": "/images/products/FOCUSY-2025-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/FOCUSY-2025.webp",
         "mobile": "/images/products/FOCUSY-2025-745x1024.webp",
@@ -2323,16 +2600,21 @@
           "image": "/images/products/light-net-745x1024.webp"
         }
       ],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply morning and evening, massaging gently around the eye contour"
+      ]
     },
     {
       "id": "freshspirit",
       "slug": "freshspirit",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/freshspirit/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/fresh-spirit.webp",
       "title": "FreshSpirit",
       "category": "Cream Hydra Booster",
       "description": "This nourishing cream, formulated with PDRN, patented hyaluronic acid, glucan, ceramides, and growth factor mimics, offers a rich cocoon-like texture for deeply nourished and supple skin. PDRN supports tissue repair and regeneration, while glucan soothes the skin with antioxidant and moisturizing benefits. Ceramides help hydrate the skin, reduce the appearance of wrinkles and fine lines, and improve texture. Growth factors are active proteins that promote cell renewal, reduce signs of aging, and support skin repair and regeneration. Patented sonicated hyaluronic acid, with low, medium, and high molecular weights, provides deep hydration, elasticity, and a revitalizing effect.",
-      "cardImage": "/images/products/FRESH-SPIRIT-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/FRESH-SPIRIT-1.webp",
         "mobile": "/images/products/FRESH-SPIRIT-1-745x1024.webp",
@@ -2373,16 +2655,21 @@
           "image": "/images/products/blooming-mind-745x1024.webp"
         }
       ],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply FreshSpirit cream on face and neck and massage thoroughly."
+      ]
     },
     {
       "id": "glowbooster",
       "slug": "glowbooster",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/glowbooster/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/glow-booster.webp",
       "title": "GlowBooster",
       "category": "Antioxidant Serum",
       "description": "This lightweight serum is designed to hydrate and replenish the skin, providing a surge of moisture to keep it feeling soft and smooth. Its advanced formula helps to restore the skin’s natural moisture balance, addressing dryness and dehydration that can lead to discomfort and dullness. By deeply moisturizing, it promotes a healthier, more supple complexion. In addition to intense hydration, this serum supports the skin’s barrier function, helping it stay resilient against environmental stressors. Regular use enhances the skin’s texture, leaving it feeling nourished and rejuvenated. Perfect for all skin types, it delivers lasting moisture and improves overall skin health, ensuring a radiant and refreshed appearance",
-      "cardImage": "/images/products/GLOW-BOOSTER-2025-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/GLOW-BOOSTER-2025.webp",
         "mobile": "/images/products/GLOW-BOOSTER-2025-745x1024.webp",
@@ -2404,16 +2691,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply a few drops of the serum on the skin and massage thoroughly, Follow with moisturizer"
+      ]
     },
     {
       "id": "hyperskin",
       "slug": "hyperskin",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/hyperskin/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/hyper-skin.webp",
       "title": "HyperSkin",
       "category": "Vitamin C Radiance Cream",
       "description": "Hyperskin is formulated to enhance skin radiance and reduce visible signs of aging, restoring a youthful, glowing complexion. Environmental stressors, UV exposure, and natural aging can cause the skin to lose brightness and firmness, leading to dullness and fine lines. This product revitalizes the skin, promoting a more luminous complexion while evening out skin tone and reducing dark spots. In addition to boosting radiance, Hyperskin helps protect against the visible effects of aging. It supports collagen production and strengthens the skin’s barrier, preventing the formation of fine lines and wrinkles. With regular use, it leaves the skin smoother, firmer, and more youthful, providing a refreshed, glowing appearance and defending against factors that accelerate aging.",
-      "cardImage": "/images/products/Hyper-Skin-2025-645x1024.webp",
       "productImage": {
         "desktop": "/images/products/Hyper-Skin-2025.webp",
         "mobile": "/images/products/Hyper-Skin-2025-645x1024.webp",
@@ -2435,16 +2727,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Spread a small amount of the product on the skin and massage thoroughly."
+      ]
     },
     {
       "id": "infinite-youth",
       "slug": "infinite-youth",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/infinite-youth/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/infinite-youth-1.webp",
       "title": "Infinite Youth",
       "category": "Intimate Plumping Gel",
       "description": "This specialized formula provides immediate hydration, soothing, and relief for irritation in the intimate area, offering comfort through carefully selected active ingredients. The intimate area is sensitive and prone to dryness, irritation, and discomfort due to factors like hormonal changes, personal hygiene products, or external stressors. This product restores balance by delivering instant moisture and calming relief, promoting a sense of well-being. Infused with gentle yet effective active ingredients, it quickly replenishes hydration, soothes irritation, and reduces redness or sensitivity. The formula supports the delicate skin of the intimate area, protecting it from further discomfort while ensuring long-lasting relief. Ideal for those experiencing dryness or irritation, it helps keep the area comfortable, nourished, and refreshed with regular use, making it essential for daily care of sensitive skin.",
-      "cardImage": "/images/products/INFINITE-YOUTH-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/INFINITE-YOUTH.webp",
         "mobile": "/images/products/INFINITE-YOUTH-745x1024.webp",
@@ -2466,16 +2763,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply 1-2 pups of gel to the cleansed intimate area, as needed"
+      ]
     },
     {
       "id": "lightnet",
       "slug": "lightnet",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/lightnet/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/light-net.webp",
       "title": "LightNet",
       "category": "Brightening Global Cream",
       "description": "This brightening cream contains PDRN, patented hyaluronic acid, niacinamide, butyl resorcinol, and alpha arbutin, offering smoothing and moisturizing benefits for a radiant complexion. Niacinamide, a well-researched vitamin, enhances skin resilience and supports a flawless, glowing appearance. It strengthens the skin barrier, promotes hydration, and helps normalize skin. Butyl resorcinol, a powerful skin-lightening agent, evens out skin tone for a more balanced appearance. Alpha arbutin, known for its gentle yet effective lightening properties, brightens the complexion and refines skin texture, all while providing antioxidant protection. Sonicated hyaluronic acid deeply moisturizes, boosting skin elasticity and suppleness. Lastly, PDRN promotes tissue regeneration, contributing to a healthier, more youthful look.",
-      "cardImage": "/images/products/LIGHT-NET-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/LIGHT-NET-1.webp",
         "mobile": "/images/products/LIGHT-NET-1-745x1024.webp",
@@ -2516,16 +2818,21 @@
           "image": "/images/products/blooming-mind-745x1024.webp"
         }
       ],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Spread a small amount of the product on the skin and massage thoroughly. Apply night and day, always with a Sunshield."
+      ]
     },
     {
       "id": "lushlips",
       "slug": "lushlips",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/lushlips/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/lush-lips.webp",
       "title": "LushLips",
       "category": "3D Hyaluronic Acid Volumatrix",
       "description": "This luxurious lip treatment is designed to define, enhance, and rejuvenate the lips, giving them a plumper, softer, and more youthful appearance. It restores natural fullness and smoothness, addressing issues like dehydration, aging, and environmental stress. The formula works to enhance the lips’ contours, leaving them fuller, smoother, and beautifully defined. Infused with nourishing ingredients, the treatment deeply hydrates, locks in moisture, and smooths fine lines, creating a supple, soft texture. Its lightweight, non-greasy formula absorbs quickly, providing long-lasting hydration throughout the day. Regular use restores volume and elasticity, leaving the lips looking naturally enhanced, defined, and rejuvenated. Perfect for those wanting to revitalize their lips, this treatment improves texture while enhancing their overall appearance.",
-      "cardImage": "/images/products/Lush-Lips-2025-724x1024.webp",
       "productImage": {
         "desktop": "/images/products/Lush-Lips-2025.webp",
         "mobile": "/images/products/Lush-Lips-2025-724x1024.webp",
@@ -2551,16 +2858,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply as needed"
+      ]
     },
     {
       "id": "ohmygoodnessrich",
       "slug": "ohmygoodnessrich",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/ohmygoodnessrich/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/oh-my-goodness-rich-1.webp",
       "title": "OhMyGoodnessRich",
       "category": "Ultra Nourishing Cream",
       "description": "This nourishing cream features a rich, cocoon-like texture that deeply hydrates and rejuvenates the skin, leaving it soft, supple, and comfortable. Designed to restore the skin’s natural moisture balance, it combats dryness and provides long-lasting hydration, creating a smooth and nourished feel. The indulgent formula is packed with nourishing ingredients that penetrate deeply, delivering essential moisture and nutrients to where they’re needed most. Ideal for dry or stressed skin, this cream enhances elasticity and resilience, making the skin visibly plump and more vibrant. Its velvety texture provides a protective layer, shielding the skin from external stressors while reducing tightness and leaving a subtle glow. Absorbing quickly without feeling greasy, it’s perfect for use both day and night, offering ultimate hydration and comfort to restore natural softness and vitality.",
-      "cardImage": "/images/products/OH-MY-GODNESS-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/OH-MY-GODNESS.webp",
         "mobile": "/images/products/OH-MY-GODNESS-745x1024.webp",
@@ -2582,16 +2894,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Spread a small amount of the product on the skin and massage thoroughly. Apply day and night."
+      ]
     },
     {
       "id": "protime",
       "slug": "protime",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/protime/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/PRO-TIME-2.webp",
       "title": "ProTime",
       "category": "Anti-Age Power Serum",
       "description": "This face serum features a blend of three retinoids, patented hyaluronic acid, and PDRN, designed to enhance skin brightness and youthfulness while offering full anti-aging and antioxidant protection. Retinol improves skin texture, alleviates dryness, and smooths fine lines, resulting in a firmer, more toned look. Retinaldehyde increases dermal thickness, reduces the appearance of wrinkles and fine lines, and helps diminish skin hyperpigmentation. PDRN aids in tissue repair, while the patented sonicated hyaluronic acid delivers a smoothing and revitalizing effect.",
-      "cardImage": "/images/products/PRO-TIME-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/PRO-TIME-1.webp",
         "mobile": "/images/products/PRO-TIME-1-745x1024.webp",
@@ -2620,16 +2937,21 @@
           "image": "/images/products/VITAMIN-STRONG-2-745x1024.webp"
         }
       ],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply AM and PM a few drops of serum on the skin and massage thoroughly. After a few days of application, a slight exfoliation is expected, and it is normal."
+      ]
     },
     {
       "id": "sun-age-defense-50",
       "slug": "sun-age-defense-50",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/sun-age-defense-50/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/sun-age-defense-1.webp",
       "title": "SUNAGEDEFENSE",
       "category": "Skin Defense SPF 50 Cream",
       "description": "Sun Age Defense SPF 50 is a high-protection sunscreen cream designed to shield the skin from harmful UVA and UVB rays while preventing premature aging. Enriched with peptides and antioxidant complexes, it helps improve skin firmness, elasticity, and resilience, leaving the skin hydrated, smooth, and protected against environmental stressors. Ideal for daily use on all skin types for comprehensive sun defense and anti-aging benefits.",
-      "cardImage": "/images/products/SUN-AGE-DEFENSE-BOX-new-copia-645x1024.webp",
       "productImage": {
         "desktop": "/images/products/SUN-AGE-DEFENSE-BOX-new-copia.webp",
         "mobile": "/images/products/SUN-AGE-DEFENSE-BOX-new-copia-645x1024.webp",
@@ -2651,16 +2973,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply before exposure to the sun and reapply frequently to maintain protection, especially after perspiring or after getting wet or dry."
+      ]
     },
     {
       "id": "sunagedefense",
       "slug": "sunagedefense",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/sunagedefense/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/sun-age-defense.webp",
       "title": "SunAgeDefense",
       "category": "Skin Defense SPF 30+ Cream",
       "description": "This high-quality sunscreen provides broad-spectrum protection with SPF 30+, shielding the skin from UVA and UVB rays that cause photoaging, fine lines, wrinkles, and dark spots. Its lightweight, non-greasy formula absorbs quickly, leaving the skin soft, velvety, and hydrated without a heavy residue. Suitable for all skin types, including sensitive skin, it helps maintain moisture balance while preventing sun damage. Regular use defends against UV rays, improves skin texture, and helps maintain a youthful, radiant appearance.",
-      "cardImage": "/images/products/SUN-AGE-DEFENSE-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/SUN-AGE-DEFENSE.webp",
         "mobile": "/images/products/SUN-AGE-DEFENSE-745x1024.webp",
@@ -2686,16 +3013,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply 2-3 pumps 20 minutes before sun exposure. Perfect for application before makeup or to be mixed with foundation."
+      ]
     },
     {
       "id": "supermelabooster",
       "slug": "supermelabooster",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/supermelabooster/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/super-mela-booster.webp",
       "title": "SuperMelaBooster",
       "category": "Anti Spot Serum",
       "description": "Supermelabooster is designed to lighten dark spots and restore a youthful radiance to the skin. It effectively targets dark spots, hyperpigmentation, and uneven skin tone caused by factors like sun exposure, aging, and environmental stressors. The formula works by inhibiting melanin production and fading existing discoloration, leaving the skin more even, bright, and revitalized over time. Enriched with powerful ingredients, this product promotes a healthy, youthful glow by stimulating cell turnover and improving skin texture. With regular use, it enhances the skin’s natural radiance, making it appear smoother, luminous, and rejuvenated. Ideal for those looking to combat the effects of aging and environmental factors, Supermelabooster helps achieve a balanced, vibrant complexion.",
-      "cardImage": "/images/products/SUPER-MELA-BOOSTER-2025-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/SUPER-MELA-BOOSTER-2025.webp",
         "mobile": "/images/products/SUPER-MELA-BOOSTER-2025-745x1024.webp",
@@ -2721,16 +3053,21 @@
       "effects": [],
       "mainTarget": "",
       "related": [],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply a few drops of the serum on the skin and massage thoroughly, Follow with moisturizer."
+      ]
     },
     {
       "id": "vitaminstrong",
       "slug": "vitaminstrong",
       "sourceUrl": "https://www.bonittoaesthetic.com/product/vitaminstrong/",
+      "categorySlug": "06",
+      "cardImage": "/images/products/VITAMIN-STRONG-2.webp",
       "title": "VitaminStrong",
       "category": "Serum Hydra Booster",
       "description": "This face serum combines PDRN, patented hyaluronic acid, vitamin B5, and vitamin C, offering soothing and revivifying benefits. 3-0-ethyl ascorbic acid (vitamin C) provides antioxidant and anti-aging effects, brightening and evening out the complexion. PDRN supports tissue regeneration, while vitamin B5 moisturizes, rejuvenates, and soothes the skin, reinforcing the skin barrier and enhancing hydration. The sonicated hyaluronic acid delivers deep moisture and improves skin elasticity.",
-      "cardImage": "/images/products/VITAMIN-STRONG-1-745x1024.webp",
       "productImage": {
         "desktop": "/images/products/VITAMIN-STRONG-1.webp",
         "mobile": "/images/products/VITAMIN-STRONG-1-745x1024.webp",
@@ -2759,7 +3096,11 @@
           "image": "/images/products/PRO-TIME-2-745x1024.webp"
         }
       ],
-      "categorySlug": "06"
+      "recommendedIndications": [],
+      "composition": "",
+      "howToUse": [
+        "Apply a few drops of serum on the skin and massage thoroughly"
+      ]
     }
   ]
 }
