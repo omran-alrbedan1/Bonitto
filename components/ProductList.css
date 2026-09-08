@@ -33,4 +33,15 @@
     max-height: 240px;
     object-fit: contain;
   }
+
+  .product-list .product-item a {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .product-list .product-item .product-img-discover {
+    min-width: 0;
+    max-width: 100%;
+    padding-inline: 8px;
+  }
 }
