@@ -2327,11 +2327,6 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
   outline-offset: 5px;
 }
 
-#blocks-wrapper.horizontal-scroll {
-  background:
-    radial-gradient(90vw 95vh at 58% 48%, rgba(91, 190, 181, 0.96) 0%, rgba(74, 178, 168, 0.88) 21%, rgba(20, 64, 60, 0.72) 55%, #020202 100%);
-}
-
 .home-section {
   color: #fff;
   display: grid;
@@ -2532,11 +2527,6 @@ html[dir="rtl"] .product-detail-scroll section.plp h2 {
 }
 
 @media (max-width: 991px) {
-  #blocks-wrapper.horizontal-scroll {
-    background:
-      radial-gradient(110vw 72vh at 60% 18%, rgba(74, 178, 168, 0.94) 0%, rgba(44, 118, 111, 0.86) 42%, #020202 100%);
-  }
-
   #blocks-wrapper > section.home-section:first-child {
     padding-top: 112px;
   }
