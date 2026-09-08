@@ -4,6 +4,7 @@ import { type Locale } from "@/lib/i18n";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/routing";
 import Footer from "@/components/Footer";
+import '@/components/ProductList.css';
 import { getLocalizedCategoryDescription, getLocalizedProducts } from "@/lib/product-translations";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale; slug: string }> }): Promise<Metadata> {

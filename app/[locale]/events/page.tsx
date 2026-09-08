@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { getPageMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
-import { Link } from "@/i18n/routing";
+import { NewsCard } from '@/components/NewsCard';
 import Footer from "@/components/Footer";
 import { getLocalizedEvents } from "@/constants/events";
 
@@ -28,16 +28,15 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
           <div className="news-list !mt-12">
             {events.map((event) => (
               <div className="news-item" key={event.slug}>
-                <Link className="post-link" href={{ pathname: '/events/[slug]', params: { slug: event.slug } }}>
-                  <span className="post-img-wrapper">
-                    <img className="post-img" src={event.image} alt={event.alt} />
-                  </span>
-                  <span className="post-text-wrapper">
-                    <span className="post-text-date">{event.date}</span>
-                    <span className="cat-link">{categoryLabel}</span>
-                    <h3>{event.title}</h3>
-                  </span>
-                </Link>
+                <NewsCard
+                  href={{ pathname: '/events/[slug]', params: { slug: event.slug } }}
+                  image={event.image}
+                  alt={event.alt}
+                  title={event.title}
+                  date={event.date}
+                  category={categoryLabel}
+                  label={categoryLabel}
+                />
               </div>
             ))}
           </div>

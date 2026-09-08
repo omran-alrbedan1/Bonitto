@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getTranslations } from 'next-intl/server';
 import Footer from '@/components/Footer';
+import '@/components/ProductList.css';
 import { Link } from '@/i18n/routing';
 import { bonittoProducts } from '@/lib/bonitto-products';
 import { getLocalizedProduct } from '@/lib/product-translations';

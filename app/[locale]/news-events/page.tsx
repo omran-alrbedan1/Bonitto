@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { getPageMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
-import { Link } from "@/i18n/routing";
+import { NewsCard } from '@/components/NewsCard';
 import Footer from "@/components/Footer";
 import { events, getLocalizedEvents } from "@/constants/events";
 import { getLocalizedResearchArticles, type ResearchArticleCategory } from "@/constants/researchArticles";
@@ -81,31 +81,17 @@ export default async function NewsEventsPage({ params }: { params: Promise<{ loc
           <div className="news-list">
             {feed.map((item) => (
               <div className="news-item" key={`${item.kind}-${item.slug}`}>
-                <Link
-                  className="post-link"
-                  href={
-                    item.kind === 'event'
-                      ? { pathname: '/events/[slug]', params: { slug: item.slug } }
-                      : { pathname: '/research-articles/[id]', params: { id: item.slug } }
-                  }
-                >
-                  <span className="post-img-wrapper">
-                    <img className="post-img" src={item.image} alt={item.alt} />
-                  </span>
-                  <span className="post-text-wrapper">
-                    <span className="post-text-date">{item.date}</span>
-                    {item.kind === 'event' ? (
-                      <span className="cat-link">{t('tabs.events')}</span>
-                    ) : (
-                      <>
-                        <span className="cat-link">{t('tabs.researchArticles')}</span>
-                        <span className="cat-link"> | </span>
-                        <span className="cat-link">{t(`research.categories.${item.category}`)}</span>
-                      </>
-                    )}
-                    <h3>{item.title}</h3>
-                  </span>
-                </Link>
+                <NewsCard
+                  href={item.kind === 'event'
+                    ? { pathname: '/events/[slug]', params: { slug: item.slug } }
+                    : { pathname: '/research-articles/[id]', params: { id: item.slug } }}
+                  image={item.image}
+                  alt={item.alt}
+                  title={item.title}
+                  date={item.date}
+                  category={t(item.kind === 'event' ? 'tabs.events' : 'tabs.researchArticles')}
+                  label={item.kind === 'event' ? t('tabs.events') : t(`research.categories.${item.category}`)}
+                />
               </div>
             ))}
           </div>

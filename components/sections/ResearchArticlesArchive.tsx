@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from 'react';
 import { useLocale, useTranslations } from 'next-intl';
-import { Link } from '@/i18n/routing';
+import { NewsCard } from '@/components/NewsCard';
 import type { Locale } from '@/lib/i18n';
 import {
   getLocalizedResearchArticles,
@@ -40,21 +40,15 @@ export function ResearchArticlesArchive({ categoryLabel }: { categoryLabel: stri
       <div className="news-list research-list mt-5">
         {visibleArticles.map((article) => (
           <div className="news-item publication-block-wrapper" data-cat={article.category} key={article.slug}>
-            <Link className="post-link" 
-            //@ts-ignore
-            href={`/research-articles/${article.slug}`}>
-              <span className="post-img-wrapper">
-                <span className="subcat-link">
-                  <span className="subcat-link-text">{t(`research.categories.${article.category}`)}</span>
-                </span>
-                <img className="post-img" src={article.image} alt={article.alt} loading="lazy" />
-              </span>
-              <span className="post-text-wrapper">
-                <span className="post-text-date">{article.date}</span>
-                <span className="cat-link">{categoryLabel}</span>
-                <h3>{article.title}</h3>
-              </span>
-            </Link>
+            <NewsCard
+              href={{ pathname: '/research-articles/[id]', params: { id: article.slug } }}
+              image={article.image}
+              alt={article.alt}
+              title={article.title}
+              date={article.date}
+              category={categoryLabel}
+              label={t(`research.categories.${article.category}`)}
+            />
           </div>
         ))}
       </div>

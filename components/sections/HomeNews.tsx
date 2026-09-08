@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/routing';
+import { NewsCard } from '@/components/NewsCard';
 
 const articles = [
   {
@@ -55,30 +56,18 @@ export function HomeNews() {
       <div className="home-news-list">
         <div className="home-news-grid">
           {articles.map((article) => (
-            <Link
+            <NewsCard
               key={article.slug}
-              href={article.type === 'event' ? `/events/${article.slug}` : `/research-articles/${article.slug}`}
-              className="post-link"
-            >
-              <span className="block">
-                <img
-                  src={article.image}
-                  alt={article.alt}
-                  className="post-img"
-                  loading="lazy"
-                />
-              </span>
-              <span className="post-text-wrapper">
-                <span className="post-text-date">{article.date}</span>
-                {article.categoryKeys.map((catKey, i) => (
-                  <span key={catKey}>
-                    {i > 0 && <span> | </span>}
-                    <span>{t(`news.categories.${catKey}`)}</span>
-                  </span>
-                ))}
-                <h3>{t(`news.${article.titleKey}`)}</h3>
-              </span>
-            </Link>
+              href={article.type === 'event'
+                ? { pathname: '/events/[slug]', params: { slug: article.slug } }
+                : { pathname: '/research-articles/[id]', params: { id: article.slug } }}
+              image={article.image}
+              alt={article.alt}
+              title={t(`news.${article.titleKey}`)}
+              date={article.date}
+              category={t(`news.categories.${article.categoryKeys[0]}`)}
+              label={t(`news.categories.${article.categoryKeys[1] || article.categoryKeys[0]}`)}
+            />
           ))}
         </div>
       </div>

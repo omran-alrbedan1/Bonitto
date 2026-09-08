@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'Bonitto News';
+  src: url('/fonts/HurmeGeometricSans1-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-display: swap;
+}
+
+.bonitto-news-card {
+  display: block;
+  min-width: 0;
+  width: 100%;
+  color: #fff;
+  text-decoration: none;
+  font-family: 'Bonitto News', var(--font-body);
+  font-weight: 300;
+}
+.bonitto-news-card-image {
+  position: relative;
+  display: block;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+.bonitto-news-card-image > img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.bonitto-news-card-strip {
+  position: absolute;
+  inset-block: 0;
+  inset-inline-start: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  width: 44px;
+  padding-block: 24px;
+  background: #4ab2a8;
+}
+.bonitto-news-card-strip > span {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  font-size: 14px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+.bonitto-news-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  margin-top: 14px;
+  font-size: 10px;
+  line-height: 14px;
+}
+.bonitto-news-card > h3 {
+  margin-top: 14px;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.bonitto-news-card:focus-visible {
+  outline: 1px solid #fff;
+  outline-offset: 5px;
+}
+@media (max-width: 991px) {
+  .home-news-list { padding-inline: 12px; }
+  .home-news-grid { row-gap: 48px; }
+}
