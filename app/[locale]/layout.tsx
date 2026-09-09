@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import Navbar from '@/components/Navbar';
+import { CookieConsentBanner } from '@/components/CookieConsentBanner';
 import { getRootLayoutMetadata } from "@/lib/seo";
 import { type Locale } from "@/lib/i18n";
 import { routing } from "@/i18n/routing";
@@ -40,6 +41,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Navbar />
           {children}
+          <CookieConsentBanner />
         </NextIntlClientProvider>
       </body>
     </html>
